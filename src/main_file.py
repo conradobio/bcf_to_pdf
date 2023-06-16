@@ -86,10 +86,10 @@ def get_xml_topic_element(xml_doc):
                                 }
     return topic_dict
 
-def get_xml_images_element(xml_doc, file_path, BCF_FILE_NAME):
+def get_xml_images_element(xml_doc, file_path, BCF_FILE_NAME, DIRECTORY_PATH):
     images = xml_doc.getElementsByTagName('Viewpoints')
 
-    root_path = f'{os.getcwd()}/{BCF_FILE_NAME.split(".")[0]}/bcf/'
+    root_path = f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/bcf/'
     st.write(root_path)
     #root_path = f'C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/{BCF_FILE_NAME.split(".")[0]}/bcf/'
     foto_path_1 = file_path.split('\\')[1]

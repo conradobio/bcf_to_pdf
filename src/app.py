@@ -42,7 +42,7 @@ if uploaded_file is not None:
     for file_path in stqdm(file_paths):
         xml_doc = xml.dom.minidom.parse(file_path)
         topic_dict = get_xml_topic_element(xml_doc)
-        image_dict = get_xml_images_element(xml_doc, file_path, new_name)
+        image_dict = get_xml_images_element(xml_doc, file_path, new_name, DIRECTORY_PATH)
         comment_dict = get_xml_comments_element(xml_doc)
         topic_dict.update({'comentarios':comment_dict})
         topic_dict.update({'images':image_dict})
@@ -53,6 +53,8 @@ if uploaded_file is not None:
             os.mkdir(json_path)
         with open(f'{json_path}{json_file}.json', 'w') as f:
             json.dump(topic_dict, f, indent=4)
+            
+    st.info('Arquivos json salvos')
 
     templateLoader = jinja2.FileSystemLoader(searchpath="./")
     templateEnv = jinja2.Environment(loader=templateLoader)
