@@ -73,10 +73,7 @@ if uploaded_file is not None:
     st.info('Salvando arquivos em pdf...')
     for json_path in stqdm(json_paths):
         data = open_json(json_path)
-        st.write(json_paths)
         json_file = json_path.split('/')[6]#json_path.split('\\')[1].split('.')[0]
-        st.write(json_file)
-
         sourceHtml = template.render(json_data=data) 
         outputFilename = f"{pdf_path}/ocorrencias_report_{json_file}.pdf"
         convertHtmlToPdf(sourceHtml, outputFilename)
@@ -94,7 +91,13 @@ if uploaded_file is not None:
     st.write(len(pdf_files))
 
     merger.write(f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/result.pdf')
+    st.write(f'Arquivo Salvo - {DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/result.pdf')
     st.success('Arquivo Montado com Sucesso')
 
     with open(f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/result.pdf') as f:
-        st.download_button('Download PDF Ocorrências', f)
+            btn=st.download_button(
+                label="click me to download pdf",
+                data=f,
+                file_name="dowloaded.pdf",
+                mime="application/octet-stream"
+            )

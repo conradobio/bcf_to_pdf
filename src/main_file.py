@@ -100,7 +100,6 @@ def get_xml_images_element(xml_doc, file_path, BCF_FILE_NAME, DIRECTORY_PATH):
         foto = image.getElementsByTagName('Snapshot')[0].childNodes[0].data
         #image_dict[f'im_{i}'] = {'guid': guid,'foto': foto}
         image_dict.append(dict(guid=guid, foto=f'{foto_path}/{foto}'))
-
     return image_dict
 
 def get_xml_comments_element(xml_doc):
@@ -126,30 +125,29 @@ def get_xml_comments_element(xml_doc):
                     novo_autor=autor,  realizado_por= modautor))
     return comment_dict
 
-if __name__ == "__main__":
-    logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
-    logging.info('Início Script')
-    replace_bcf_extension(DIRECTORY_PATH)
+# if __name__ == "__main__":
+#     logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
+#     logging.info('Início Script')
+#     replace_bcf_extension(DIRECTORY_PATH)
 
-    logging.info('Início extração de arquivos.')
-    create_directory_extract_files(DIRECTORY_PATH, BCF_FILE_NAME)
-    logging.info('Extração de arquivos finalizado.')
+#     logging.info('Início extração de arquivos.')
+#     create_directory_extract_files(DIRECTORY_PATH, BCF_FILE_NAME)
+#     logging.info('Extração de arquivos finalizado.')
 
-    file_paths = read_extracted_files(DIRECTORY_PATH, BCF_FILE_NAME)
-    logging.info(f'Total arquivos bcf - {len(file_paths)}')
+#     file_paths = read_extracted_files(DIRECTORY_PATH, BCF_FILE_NAME)
+#     logging.info(f'Total arquivos bcf - {len(file_paths)}')
 
-    for file_path in tqdm(file_paths):
-        xml_doc = xml.dom.minidom.parse(file_path)
-        topic_dict = get_xml_topic_element(xml_doc)
-        image_dict = get_xml_images_element(xml_doc, file_path, BCF_FILE_NAME)
-        comment_dict = get_xml_comments_element(xml_doc)
-        topic_dict.update({'comentarios':comment_dict})
-        topic_dict.update({'images':image_dict})
+#     for file_path in tqdm(file_paths):
+#         xml_doc = xml.dom.minidom.parse(file_path)
+#         topic_dict = get_xml_topic_element(xml_doc)
+#         image_dict = get_xml_images_element(xml_doc, file_path, BCF_FILE_NAME)
+#         comment_dict = get_xml_comments_element(xml_doc)
+#         topic_dict.update({'comentarios':comment_dict})
+#         topic_dict.update({'images':image_dict})
 
-        json_path = f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/json/'
-        json_file = file_path.split('\\')[1]
-        if not os.path.isdir(json_path):
-            os.mkdir(json_path)
-        with open(f'{json_path}{json_file}.json', 'w') as f:
-            json.dump(topic_dict, f, indent=4)
-    
+#         json_path = f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/json/'
+#         json_file = file_path.split('\\')[1]
+#         if not os.path.isdir(json_path):
+#             os.mkdir(json_path)
+#         with open(f'{json_path}{json_file}.json', 'w') as f:
+#             json.dump(topic_dict, f, indent=4)
