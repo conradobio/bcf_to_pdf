@@ -12,14 +12,14 @@ from generate_pdf import open_json, read_json_files, convertHtmlToPdf
 
 st.title('Gerador de Mapa de Ocorrências')
 
-DIRECTORY_PATH = './data/tempDir/'
+DIRECTORY_PATH = './app/tempDir/'
 
 uploaded_file  = st.file_uploader('Selecione o arquivo com extensão .bcf')
 if uploaded_file is not None:
     BCF_FILE_NAME = uploaded_file.name
-    st.write(BCF_FILE_NAME)
     st.write(os.getcwd())
 
+    os.makedirs(f'{DIRECTORY_PATH}', exist_ok=True)
     list_files = BCF_FILE_NAME.split('.')
     if len(list_files) > 1:
         if 'bcf' not in BCF_FILE_NAME.split('.')[1]:
