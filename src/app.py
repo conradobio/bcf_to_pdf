@@ -12,7 +12,7 @@ from generate_pdf import open_json, read_json_files, convertHtmlToPdf
 
 st.title('Gerador de Mapa de Ocorrências')
 
-DIRECTORY_PATH = './app/tempDir/'
+DIRECTORY_PATH = './app/bcf_to_pdf/tempDir/'
 
 uploaded_file  = st.file_uploader('Selecione o arquivo com extensão .bcf')
 if uploaded_file is not None:
@@ -30,6 +30,7 @@ if uploaded_file is not None:
             with open(os.path.join(DIRECTORY_PATH, BCF_FILE_NAME),"wb") as f:
                 f.write(uploaded_file.getbuffer())
             os.rename(f"{DIRECTORY_PATH}{BCF_FILE_NAME}", f"{DIRECTORY_PATH}{new_name}") 
+            st.write(f"{DIRECTORY_PATH}{new_name}")
             st.success("Saved File")
     
     create_directory_extract_files(DIRECTORY_PATH, new_name)
@@ -53,7 +54,7 @@ if uploaded_file is not None:
             os.mkdir(json_path)
         with open(f'{json_path}{json_file}.json', 'w') as f:
             json.dump(topic_dict, f, indent=4)
-            
+
     st.info('Arquivos json salvos')
 
     templateLoader = jinja2.FileSystemLoader(searchpath="./")
