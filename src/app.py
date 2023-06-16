@@ -41,7 +41,6 @@ if uploaded_file is not None:
 
     st.info('Salvando arquivos com o resumo das informações em json')
     for file_path in stqdm(file_paths):
-        st.write(file_path)
         xml_doc = xml.dom.minidom.parse(file_path)
         topic_dict = get_xml_topic_element(xml_doc)
         image_dict = get_xml_images_element(xml_doc, file_path, new_name, DIRECTORY_PATH)
@@ -74,7 +73,9 @@ if uploaded_file is not None:
     st.info('Salvando arquivos em pdf...')
     for json_path in stqdm(json_paths):
         data = open_json(json_path)
-        json_file = json_path.split('\\')[1].split('.')[0]
+        st.write(json_paths)
+        json_file = json_path.split('/')[6]#json_path.split('\\')[1].split('.')[0]
+        st.write(json_file)
 
         sourceHtml = template.render(json_data=data) 
         outputFilename = f"{pdf_path}/ocorrencias_report_{json_file}.pdf"

@@ -90,11 +90,9 @@ def get_xml_images_element(xml_doc, file_path, BCF_FILE_NAME, DIRECTORY_PATH):
     images = xml_doc.getElementsByTagName('Viewpoints')
 
     root_path = f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/bcf/'
-    st.write(root_path)
     #root_path = f'C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/{BCF_FILE_NAME.split(".")[0]}/bcf/'
     foto_path_1 = file_path.split('/')[6]
     foto_path = f'{root_path}{foto_path_1}/{foto_path_1}/'
-    st.write(foto_path)
 
     image_dict = []
     for i, image in enumerate(images):
