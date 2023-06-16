@@ -50,7 +50,7 @@ if uploaded_file is not None:
         topic_dict.update({'images':image_dict})
 
         json_path = f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/json/'
-        json_file = file_path.split('\\')[1]
+        json_file = file_path.split('/')[6]
         if not os.path.isdir(json_path):
             os.mkdir(json_path)
         with open(f'{json_path}{json_file}.json', 'w') as f:
