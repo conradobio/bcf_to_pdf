@@ -1,0 +1,39 @@
+{
+    "codigo": "a0614f15-8f88-4445-b072-66a74b9f2df3",
+    "titulo": "Banheiro PNE lazer A",
+    "status": "Closed",
+    "descricao": "Por gentileza, reveja modelo de bacia sanit\u00e1ria e seu dimensionamento conforme NBR 9050",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-20T20:52:05+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-26T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "00510d0a-37e7-4ec1-ae5a-7a9a9f60f3d3",
+            "descricao": "altura da bacia sanit\u00e1ria ajustada conforme NBR 9050",
+            "data_acao": "2021-10-04T15:04:08+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "0908aca4-a374-4465-91df-4553ad13c548",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-20T20:52:05+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6a3d9459-6e34-4060-9ec6-9db27532da9e",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a0614f15-8f88-4445-b072-66a74b9f2df3/a0614f15-8f88-4445-b072-66a74b9f2df3//snapshot.png"
+        }
+    ]
+}

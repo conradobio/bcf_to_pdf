@@ -1,0 +1,50 @@
+{
+    "codigo": "85eebc1b-6154-4265-900b-2e6e60da4d2a",
+    "titulo": "Fachada lazer E",
+    "status": "Closed",
+    "descricao": "Modelar as camadas de parede da fachada do lazer C at\u00e9 o topo da laje, por gentileza",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T18:35:50+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "e05f72cd-05a4-49b8-9716-0e9e7c845c9d",
+            "descricao": "Visto na 01 que as camadas de paredes foram modeladas",
+            "data_acao": "2021-10-28T18:29:35+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "4a4a7d8b-351c-4960-ad2a-fb109328794e",
+            "descricao": "Camadas da parede de fachada modeladas at\u00e9 o topo",
+            "data_acao": "2021-10-13T20:07:24+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "d4e7d0e3-74a5-4a73-9965-40f0a149ccf5",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T18:35:50+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "b8aef647-a55e-4d30-a9f5-19a416b36c00",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/85eebc1b-6154-4265-900b-2e6e60da4d2a/85eebc1b-6154-4265-900b-2e6e60da4d2a//b8aef647-a55e-4d30-a9f5-19a416b36c00_snapshot.png"
+        },
+        {
+            "guid": "dc118cbf-c167-42c8-97db-2698d4a6b7cb",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/85eebc1b-6154-4265-900b-2e6e60da4d2a/85eebc1b-6154-4265-900b-2e6e60da4d2a//snapshot.png"
+        }
+    ]
+}

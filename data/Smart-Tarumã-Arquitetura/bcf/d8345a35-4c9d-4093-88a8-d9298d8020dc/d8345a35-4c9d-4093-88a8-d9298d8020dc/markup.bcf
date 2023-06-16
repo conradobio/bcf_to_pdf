@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d8345a35-4c9d-4093-88a8-d9298d8020dc" TopicType="Solicitação" TopicStatus="Resolved">
+		<Title>Ajuste na medida do vão interno da leixeira</Title>
+		<Priority>Alta</Priority>
+		<Index>270</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T14:32:53+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:14+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar o vão interno da lixeira para uma modulação múltipla de 20 para evitar corte dos blocos.</Description>
+	</Topic>
+	<Comment Guid="0025d6d9-f76b-4323-927d-a197b8a3a90a">
+		<Date>2021-10-15T14:20:03+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>A largura foi aumentada em 5 cm e o comprimento foi diminuído em 5 cm</Comment>
+		<Viewpoint Guid="86aa224d-524c-455d-a705-662725fa8ddc" />
+		<ModifiedDate>2021-10-15T14:20:03+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="de666e27-0c33-46fb-b6a2-b71c4efb618a">
+		<Date>2021-10-13T14:32:53+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7dccdcec-dd93-417c-b20a-f5f7653f547b" />
+		<ModifiedDate>2021-10-13T14:32:53+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="6c73fe31-c932-4d37-9835-c7c7ab2ea09e">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="7dccdcec-dd93-417c-b20a-f5f7653f547b">
+		<Viewpoint>7dccdcec-dd93-417c-b20a-f5f7653f547b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>7dccdcec-dd93-417c-b20a-f5f7653f547b_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="86aa224d-524c-455d-a705-662725fa8ddc">
+		<Viewpoint>86aa224d-524c-455d-a705-662725fa8ddc_viewpoint.bcfv</Viewpoint>
+		<Snapshot>86aa224d-524c-455d-a705-662725fa8ddc_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

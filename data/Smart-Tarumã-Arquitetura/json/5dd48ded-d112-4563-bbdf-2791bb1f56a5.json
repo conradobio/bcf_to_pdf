@@ -1,0 +1,32 @@
+{
+    "codigo": "5dd48ded-d112-4563-bbdf-2791bb1f56a5",
+    "titulo": "Master chef",
+    "status": "Active",
+    "descricao": "Faltando a camada de ceramica em cima da pia no masterchef conforme projeto legal",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T15:39:55+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "0656668a-2e96-40b5-849d-85199c667be4",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T15:39:55+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "a71ac8d8-6e86-481d-ad20-743f8a9f5654",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/5dd48ded-d112-4563-bbdf-2791bb1f56a5/5dd48ded-d112-4563-bbdf-2791bb1f56a5//snapshot.png"
+        }
+    ]
+}

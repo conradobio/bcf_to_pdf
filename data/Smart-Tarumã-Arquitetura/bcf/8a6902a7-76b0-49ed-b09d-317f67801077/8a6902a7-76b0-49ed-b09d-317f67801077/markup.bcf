@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="8a6902a7-76b0-49ed-b09d-317f67801077" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Impermeabilização de áreas molhadas</Title>
+		<Priority>Alta</Priority>
+		<Index>152</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T20:30:58+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:42+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Inserir camada de impermeabilização das áreas molhadas conforme BEP</Description>
+	</Topic>
+	<Comment Guid="10bd715f-de22-4efd-a6e9-cf5bd5bf1f7d">
+		<Date>2021-10-29T17:48:47+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R01</Comment>
+		<Viewpoint Guid="9f4fdcf3-7919-4446-9404-38f10dd4bd7f" />
+		<ModifiedDate>2021-10-29T17:48:47+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="5d4c41bd-9963-4cff-95b5-182e09803099">
+		<Date>2021-10-01T17:34:50+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Impermeabilização adicionada conforme BEP</Comment>
+		<Viewpoint Guid="9f4fdcf3-7919-4446-9404-38f10dd4bd7f" />
+		<ModifiedDate>2021-10-01T17:34:50+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="5abbefa1-3aed-491f-8414-81b676a5ca1a">
+		<Date>2021-09-20T20:30:58+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="9f4fdcf3-7919-4446-9404-38f10dd4bd7f" />
+		<ModifiedDate>2021-09-20T20:30:58+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="9f4fdcf3-7919-4446-9404-38f10dd4bd7f">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

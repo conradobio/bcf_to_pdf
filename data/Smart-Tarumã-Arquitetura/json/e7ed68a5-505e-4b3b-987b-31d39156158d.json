@@ -1,0 +1,32 @@
+{
+    "codigo": "e7ed68a5-505e-4b3b-987b-31d39156158d",
+    "titulo": "Chapim",
+    "status": "Active",
+    "descricao": "Asjustar chapim na platibanda, por favor",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T16:06:27+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "802f32f8-f06e-46b3-bc3c-59d11a2d387a",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T16:06:27+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "dd580b70-c3fc-45d2-a18e-fb2023bc53a1",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e7ed68a5-505e-4b3b-987b-31d39156158d/e7ed68a5-505e-4b3b-987b-31d39156158d//snapshot.png"
+        }
+    ]
+}

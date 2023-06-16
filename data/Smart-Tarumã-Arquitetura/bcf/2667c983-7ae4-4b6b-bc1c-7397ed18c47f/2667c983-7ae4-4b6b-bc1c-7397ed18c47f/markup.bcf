@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="2667c983-7ae4-4b6b-bc1c-7397ed18c47f" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>M02</Title>
+		<Priority>Baixa</Priority>
+		<Index>94</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-25T22:01:47+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:31+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-01T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>M02 se repete na tabela, por gentileza, ajustar</Description>
+	</Topic>
+	<Comment Guid="10ad49ba-0aee-4231-9998-2445052c0339">
+		<Date>2021-09-15T21:08:50+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>ajustado na r01</Comment>
+		<Viewpoint Guid="177d86a7-662e-4e9f-8b7f-b53b4e28ab0b" />
+		<ModifiedDate>2021-09-15T21:08:50+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a86478b7-dd76-40eb-8f9e-046f05de831c">
+		<Date>2021-08-25T22:01:47+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="4e294f4d-0aa8-4b39-ae3d-f7e3690d2be5" />
+		<ModifiedDate>2021-08-25T22:01:47+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="177d86a7-662e-4e9f-8b7f-b53b4e28ab0b">
+		<Viewpoint>177d86a7-662e-4e9f-8b7f-b53b4e28ab0b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>177d86a7-662e-4e9f-8b7f-b53b4e28ab0b_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="4e294f4d-0aa8-4b39-ae3d-f7e3690d2be5">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,50 @@
+{
+    "codigo": "a7a1b829-3fb1-446b-a564-68bee35a7410",
+    "titulo": "Prancha sem imagem",
+    "status": "Closed",
+    "descricao": "Prancha sem imagem",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-27T14:09:37+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-30T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "538fc2bf-1e21-4068-bfe1-45fb560a0fd5",
+            "descricao": "Visto na R01 que foi resolvido",
+            "data_acao": "2021-10-28T18:17:50+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "8866a093-75ee-4dfe-947e-6fb45cf28715",
+            "descricao": "Foram gerados novos arquivos DWG correspondentes a R01 no qual foram inclu\u00eddas as imagens na prancha",
+            "data_acao": "2021-10-14T18:26:43+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "dbbbec7b-c957-4834-a49a-0d18d29da784",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-27T14:09:37+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "890de9bd-46b0-4ccd-ae58-c5c47ebab6eb",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a7a1b829-3fb1-446b-a564-68bee35a7410/a7a1b829-3fb1-446b-a564-68bee35a7410//snapshot.png"
+        },
+        {
+            "guid": "a46e4e9f-6f8a-4c72-9d77-99cc966822b0",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a7a1b829-3fb1-446b-a564-68bee35a7410/a7a1b829-3fb1-446b-a564-68bee35a7410//a46e4e9f-6f8a-4c72-9d77-99cc966822b0_snapshot.png"
+        }
+    ]
+}

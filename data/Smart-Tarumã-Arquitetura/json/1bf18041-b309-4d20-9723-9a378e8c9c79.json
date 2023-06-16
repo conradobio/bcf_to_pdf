@@ -1,0 +1,32 @@
+{
+    "codigo": "1bf18041-b309-4d20-9723-9a378e8c9c79",
+    "titulo": "Camadas de parede lazer D",
+    "status": "Active",
+    "descricao": "Por gentileza, modelar as camadas da parede at\u00e9 o teto, verificar a ocorrencia em todo o lazer D",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T13:38:19+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "coordenacao@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "a700853e-0a0a-45aa-b234-55270e0ffb49",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T13:38:19+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "053f9ba4-ce70-4cde-adb6-d142b0329321",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/1bf18041-b309-4d20-9723-9a378e8c9c79/1bf18041-b309-4d20-9723-9a378e8c9c79//snapshot.png"
+        }
+    ]
+}

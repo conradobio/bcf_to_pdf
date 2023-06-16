@@ -1,0 +1,54 @@
+{
+    "codigo": "a43be622-5322-4ec9-af3e-095cee484f47",
+    "titulo": "Porta lazer C conflitando com rodap\u00e9",
+    "status": "Closed",
+    "descricao": "Rodap\u00e9 conflitando com porta no master chef do lazer C, verificar e ajustar, por gentileza",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T18:54:23+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "b880de14-c809-4079-95e0-a23b0fbf148c",
+            "descricao": "Atendido na R01",
+            "data_acao": "2021-10-29T14:55:16+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "90377e3d-230a-4c1c-a466-dc3c9de4f733",
+            "descricao": "Resolvido",
+            "data_acao": "2021-10-06T15:53:41+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "c2fe9cbd-c9bc-4bfc-929e-03e5db8830e8",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T18:54:23+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "3d7eced2-d713-4877-aa47-86d161bf9268",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a43be622-5322-4ec9-af3e-095cee484f47/a43be622-5322-4ec9-af3e-095cee484f47//3d7eced2-d713-4877-aa47-86d161bf9268_snapshot.png"
+        },
+        {
+            "guid": "dd33d860-2c7d-4f49-adfd-034ab27e0d53",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a43be622-5322-4ec9-af3e-095cee484f47/a43be622-5322-4ec9-af3e-095cee484f47//snapshot.png"
+        },
+        {
+            "guid": "eb112a73-cad0-4078-9b61-0a45af68bd2a",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a43be622-5322-4ec9-af3e-095cee484f47/a43be622-5322-4ec9-af3e-095cee484f47//eb112a73-cad0-4078-9b61-0a45af68bd2a_snapshot.png"
+        }
+    ]
+}

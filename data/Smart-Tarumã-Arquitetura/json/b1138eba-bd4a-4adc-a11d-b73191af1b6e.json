@@ -1,0 +1,50 @@
+{
+    "codigo": "b1138eba-bd4a-4adc-a11d-b73191af1b6e",
+    "titulo": "Parede espa\u00e7o master chef lazer E",
+    "status": "Closed",
+    "descricao": "Parede do espa\u00e7o masterchef modelada apenas na massa acrilica, por gentileza, modelar as demais camadas conforme BEP",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T15:11:36+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "8a046447-9f17-4eab-b806-58b5c07c8ae8",
+            "descricao": "Camadas das paredes modeladas na R01",
+            "data_acao": "2021-10-28T19:51:14+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "5f32f8e3-fce7-4a2d-be2c-d367e889d74b",
+            "descricao": "camadas das paredes ajustadas conforme BEP",
+            "data_acao": "2021-10-11T13:11:13+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "056566ae-f989-4921-8eb6-9a68b1acdb9d",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T15:11:36+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "43ce895d-bb34-44a8-9f22-6ccdf888603b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b1138eba-bd4a-4adc-a11d-b73191af1b6e/b1138eba-bd4a-4adc-a11d-b73191af1b6e//snapshot.png"
+        },
+        {
+            "guid": "dac2bcda-e215-4fc3-ac43-f25452f5f9b2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b1138eba-bd4a-4adc-a11d-b73191af1b6e/b1138eba-bd4a-4adc-a11d-b73191af1b6e//dac2bcda-e215-4fc3-ac43-f25452f5f9b2_snapshot.png"
+        }
+    ]
+}

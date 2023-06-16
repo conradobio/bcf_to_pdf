@@ -1,0 +1,43 @@
+{
+    "codigo": "6ea92a13-f525-4076-9334-b9db6a7866f5",
+    "titulo": "Talude invadindo o per\u00edmetro do terreno",
+    "status": "Closed",
+    "descricao": "Talude invadindo o per\u00edmetro do terreno nas laterais. Favor verificar se h\u00e1 algum problema desse talude est\u00e1 passando do limite do terreno do condominio.",
+    "tipo": "Consulta de Informa\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-07-30T15:45:05+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-08-13T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "rafaelavilela@construtoracapital.com.br",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "182f7497-e2d6-4e0b-86cd-7936b94bb7f6",
+            "descricao": "AJUSTADO NA R02",
+            "data_acao": "2021-08-28T19:47:19+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "7ed2cdb1-b812-4695-8175-e604a535ff34",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-07-30T15:45:05+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "8caf56ad-d72d-463f-8db8-e3ba16c0202c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/6ea92a13-f525-4076-9334-b9db6a7866f5/6ea92a13-f525-4076-9334-b9db6a7866f5//8caf56ad-d72d-463f-8db8-e3ba16c0202c_snapshot.png"
+        },
+        {
+            "guid": "99678836-2980-40af-b5c4-744e34254d60",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/6ea92a13-f525-4076-9334-b9db6a7866f5/6ea92a13-f525-4076-9334-b9db6a7866f5//snapshot.png"
+        }
+    ]
+}

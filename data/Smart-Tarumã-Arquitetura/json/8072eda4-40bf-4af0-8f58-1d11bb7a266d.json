@@ -1,0 +1,61 @@
+{
+    "codigo": "8072eda4-40bf-4af0-8f58-1d11bb7a266d",
+    "titulo": "Piscina lazer E",
+    "status": "Closed",
+    "descricao": "Alinhar borda de granito da piscina menor no lazer E, por favor",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T15:55:25+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "c635e8e5-81ed-4ad8-8a6f-943822f94e01",
+            "descricao": "Visto na R01 que a borda foi alinhada",
+            "data_acao": "2021-10-28T19:13:15+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "2b4b1fd3-c742-4648-98b5-94b00a0f91a1",
+            "descricao": "Borda de granito ajustada",
+            "data_acao": "2021-10-13T18:54:05+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "cdb4a7a8-4330-4f65-9264-a2825c0c39a2",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T16:12:11+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "302a90a5-37a2-4f5e-9e8a-aaa1963881f4",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T15:55:25+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0fa51e99-fe3e-4118-866a-5e24a3ea5d3f",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/8072eda4-40bf-4af0-8f58-1d11bb7a266d/8072eda4-40bf-4af0-8f58-1d11bb7a266d//0fa51e99-fe3e-4118-866a-5e24a3ea5d3f_snapshot.png"
+        },
+        {
+            "guid": "d1795a30-2e36-4e40-b9a7-cef15df4e5b6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/8072eda4-40bf-4af0-8f58-1d11bb7a266d/8072eda4-40bf-4af0-8f58-1d11bb7a266d//d1795a30-2e36-4e40-b9a7-cef15df4e5b6_snapshot.png"
+        },
+        {
+            "guid": "eb466c26-6def-4fa7-a1d5-3fb8edb52fff",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/8072eda4-40bf-4af0-8f58-1d11bb7a266d/8072eda4-40bf-4af0-8f58-1d11bb7a266d//snapshot.png"
+        }
+    ]
+}

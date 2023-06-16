@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="71642278-745e-45ec-9edc-2312903d8b85" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>AL04 cozinha</Title>
+		<Priority>Crítica</Priority>
+		<Index>142</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-17T15:00:15+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:39+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Em conferência no modelo rvt, identificamos divergências com o projeto de fôrma metálica na esquadria AL04 da cozinha</Description>
+	</Topic>
+	<Comment Guid="c0b9e1d1-b2b4-4fdc-8964-2726b51e2e33">
+		<Date>2021-10-21T21:01:19+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R02</Comment>
+		<Viewpoint Guid="bd0f214a-3f53-4247-99e5-4a0fe8f7c301" />
+		<ModifiedDate>2021-10-21T21:01:19+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="150f3af9-e04f-41ad-a00f-905d810168b3">
+		<Date>2021-09-30T21:13:00+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não ajustado, verificar em todas as torres</Comment>
+		<Viewpoint Guid="7f911fc4-bd72-4472-80b8-8302aedf6368" />
+		<ModifiedDate>2021-09-30T21:13:00+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="60f6bfbd-8b2c-4f24-9b98-b722b37c5b5c">
+		<Date>2021-09-17T15:12:03+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c3a76a61-693f-4377-b728-47485ac13a14" />
+		<ModifiedDate>2021-09-17T15:12:03+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="f8e1371d-7fc8-437c-a20e-0b5cccae8489">
+		<Date>2021-09-17T15:00:15+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="72de854b-fd81-4b82-9c33-3ba320604878" />
+		<ModifiedDate>2021-09-17T15:00:15+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="72de854b-fd81-4b82-9c33-3ba320604878">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="7f911fc4-bd72-4472-80b8-8302aedf6368">
+		<Viewpoint>7f911fc4-bd72-4472-80b8-8302aedf6368_viewpoint.bcfv</Viewpoint>
+		<Snapshot>7f911fc4-bd72-4472-80b8-8302aedf6368_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="bd0f214a-3f53-4247-99e5-4a0fe8f7c301">
+		<Viewpoint>bd0f214a-3f53-4247-99e5-4a0fe8f7c301_viewpoint.bcfv</Viewpoint>
+		<Snapshot>bd0f214a-3f53-4247-99e5-4a0fe8f7c301_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="c3a76a61-693f-4377-b728-47485ac13a14">
+		<Viewpoint>c3a76a61-693f-4377-b728-47485ac13a14_viewpoint.bcfv</Viewpoint>
+		<Snapshot>c3a76a61-693f-4377-b728-47485ac13a14_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

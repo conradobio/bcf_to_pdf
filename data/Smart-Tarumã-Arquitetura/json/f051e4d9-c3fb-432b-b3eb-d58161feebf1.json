@@ -1,0 +1,32 @@
+{
+    "codigo": "f051e4d9-c3fb-432b-b3eb-d58161feebf1",
+    "titulo": "Camada de parede sobrepondo camada de revestimento da ducha",
+    "status": "Active",
+    "descricao": "Por favor ajusar as camadas",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-28T19:45:55+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "cfcfee0d-a998-4002-95ba-0f69a99edde8",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T19:45:55+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "2c53f338-387e-43f2-bc5d-6b23a1e53a18",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/f051e4d9-c3fb-432b-b3eb-d58161feebf1/f051e4d9-c3fb-432b-b3eb-d58161feebf1//snapshot.png"
+        }
+    ]
+}

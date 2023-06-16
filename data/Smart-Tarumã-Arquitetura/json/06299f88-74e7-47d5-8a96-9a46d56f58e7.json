@@ -1,0 +1,53 @@
+{
+    "codigo": "06299f88-74e7-47d5-8a96-9a46d56f58e7",
+    "titulo": "Centro de medi\u00e7\u00e3o",
+    "status": "Closed",
+    "descricao": "Torre n\u00e3o tem abrigo para centro de medi\u00e7\u00e3o, por favor, verificar e ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-08-26T14:40:18+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-08T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4e273640-7e2f-402e-9a21-e9b37eadfff7",
+            "descricao": "resolvido",
+            "data_acao": "2021-10-01T15:14:48+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "e241148a-700c-478c-b7f4-395087122908",
+            "descricao": "n\u00e3o atendido",
+            "data_acao": "2021-10-01T13:13:40+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "a18d7bd1-416a-4c00-929e-7d5535d9872b",
+            "descricao": "N\u00e3o atendido na R01",
+            "data_acao": "2021-09-15T21:25:19+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "89affe00-c424-4d7d-86b3-e10ce94d0744",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-26T14:40:18+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "236b92af-789e-432d-9bd2-1a5048ebe5e9",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/06299f88-74e7-47d5-8a96-9a46d56f58e7/06299f88-74e7-47d5-8a96-9a46d56f58e7//snapshot.png"
+        }
+    ]
+}

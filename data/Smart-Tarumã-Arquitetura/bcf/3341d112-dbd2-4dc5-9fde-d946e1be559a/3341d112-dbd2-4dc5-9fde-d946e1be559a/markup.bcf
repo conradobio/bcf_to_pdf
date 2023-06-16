@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="3341d112-dbd2-4dc5-9fde-d946e1be559a" TopicType="Solicitação" TopicStatus="Active">
+		<Title>C00rdenada compartilhada</Title>
+		<Priority>Alta</Priority>
+		<Index>339</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-11-03T13:37:09+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:30+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-09T13:00:00+00:00</DueDate>
+		<AssignedTo>stephanie@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelo não esta em coordenada compartilhada, por favor ajustar</Description>
+	</Topic>
+	<Comment Guid="668a02d0-2882-41bd-bd8c-1aa272e3c08c">
+		<Date>2021-11-03T13:37:09+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="ff829fbd-e389-4df2-8a3f-507073d8a7cb" />
+		<ModifiedDate>2021-11-03T13:37:09+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="ff829fbd-e389-4df2-8a3f-507073d8a7cb">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

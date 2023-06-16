@@ -1,0 +1,32 @@
+{
+    "codigo": "fe98a4fc-9ad0-4098-99d8-028903fcd286",
+    "titulo": "Acessibilidade na Academia",
+    "status": "Active",
+    "descricao": "ACADEMIA E PLAY CT 40,15 ou CT TORRE 29 . CHECAR ACESSIBILIDADE",
+    "tipo": "Consulta de Informa\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-29T22:00:56+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-05T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "d4d7d34a-5524-4b0c-a50a-3d56fc4e14ec",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T22:00:56+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "a4c0aea5-ecea-420f-b38e-61a187a7744d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/fe98a4fc-9ad0-4098-99d8-028903fcd286/fe98a4fc-9ad0-4098-99d8-028903fcd286//snapshot.png"
+        }
+    ]
+}

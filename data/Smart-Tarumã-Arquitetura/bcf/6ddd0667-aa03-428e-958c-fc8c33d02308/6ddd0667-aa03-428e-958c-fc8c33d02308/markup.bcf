@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="6ddd0667-aa03-428e-958c-fc8c33d02308" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Conflito do rodapé lazer D</Title>
+		<Priority>Alta</Priority>
+		<Index>170</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T13:51:58+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:47+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Rodapé conflitando com as outras camadas de piso, por gentileza ajustar</Description>
+	</Topic>
+	<Comment Guid="414ab897-d1ab-4469-9a26-07c888125c22">
+		<Date>2021-10-28T20:49:53+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que o rodapé foi ajustado</Comment>
+		<Viewpoint Guid="78d824d8-2cfc-4a0b-aa4b-9c8238ca504e" />
+		<ModifiedDate>2021-10-28T20:49:53+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="c68e6c91-4dff-4af1-8af2-dac9df00b847">
+		<Date>2021-10-07T15:31:14+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Posição dos rodapés ajustada</Comment>
+		<Viewpoint Guid="15424460-8824-4a46-b4c0-806a511eff01" />
+		<ModifiedDate>2021-10-07T15:31:14+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="2bf551b0-76c3-44e6-9f9d-c5a422271e34">
+		<Date>2021-09-21T13:51:58+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="15424460-8824-4a46-b4c0-806a511eff01" />
+		<ModifiedDate>2021-09-21T13:51:58+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="15424460-8824-4a46-b4c0-806a511eff01">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="78d824d8-2cfc-4a0b-aa4b-9c8238ca504e">
+		<Viewpoint>78d824d8-2cfc-4a0b-aa4b-9c8238ca504e_viewpoint.bcfv</Viewpoint>
+		<Snapshot>78d824d8-2cfc-4a0b-aa4b-9c8238ca504e_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

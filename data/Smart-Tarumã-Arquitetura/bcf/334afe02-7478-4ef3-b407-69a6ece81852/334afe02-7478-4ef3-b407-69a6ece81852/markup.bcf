@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="334afe02-7478-4ef3-b407-69a6ece81852" TopicType="Problema" TopicStatus="Active">
+		<Title>Afastamento das torres para os taludes</Title>
+		<Priority>Crítica</Priority>
+		<Index>226</Index>
+		<Labels>Arquitetura</Labels>
+		<Labels>Terraplanagem</Labels>
+		<CreationDate>2021-09-29T15:53:11+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:05+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-05T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Vamos ter q rever essas torres e essa frente, elas ficaram enterradas, o problema é que na torre 7 o desnível chega a 5m e não temos afastamento suficiente do pé do talude. Se angulo do talude for &lt; 45 graus, o afastamento deve ser de 2,5m. Pelas minhas contas deu 34 graus. as torres precisam ser afastadas 1m, vão ficar coladas na calçada.</Description>
+	</Topic>
+	<Comment Guid="30b9a1c5-a5b1-41f8-8c45-eb6ec6bca79f">
+		<Date>2021-09-29T15:54:50+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resposta Morar: Como falamos temos casos que infelizmente não é possível desenterrar a torre por completo como esse exemplo, logo precisamos foca no ajuste do acesso e atender ao mínimo exigido pela CEF em relação ao afastamento do talude. Avaliar com Jesus se o cálculo estaria certo e vamos afastar</Comment>
+		<Viewpoint Guid="c51346b9-4aeb-48f5-9bb0-94599a7bae8a" />
+		<ModifiedDate>2021-09-29T15:54:50+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="743b752a-b4a8-4731-b5ec-b2165d1bc56d">
+		<Date>2021-09-29T15:53:11+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c51346b9-4aeb-48f5-9bb0-94599a7bae8a" />
+		<ModifiedDate>2021-09-29T15:53:11+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="c51346b9-4aeb-48f5-9bb0-94599a7bae8a">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

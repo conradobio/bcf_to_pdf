@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="ca87d49b-46aa-49a6-8d0f-d4290177997e" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Parede lazer C</Title>
+		<Priority>Alta</Priority>
+		<Index>159</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T21:53:00+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:44+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camadas de pintura na parede indicada, no lazer C, a parede está modelada apenas até massa acrilica, por gentleza</Description>
+	</Topic>
+	<Comment Guid="b33c45c3-3a57-4138-a9df-d441bc866c28">
+		<Date>2021-10-29T14:55:20+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Atendido na r01</Comment>
+		<Viewpoint Guid="46b4ce6f-c888-481b-8aea-b742ce245ebb" />
+		<ModifiedDate>2021-10-29T14:55:20+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="14ea28dc-5960-46cc-91ee-c200e2ee6cef">
+		<Date>2021-10-06T14:51:33+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="46b4ce6f-c888-481b-8aea-b742ce245ebb" />
+		<ModifiedDate>2021-10-06T14:51:33+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="81bde370-8809-4f7d-952c-5f5ab244232e">
+		<Date>2021-09-20T21:53:00+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="20ea45de-317a-4000-9d21-2710a7a25a22" />
+		<ModifiedDate>2021-09-20T21:53:00+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="20ea45de-317a-4000-9d21-2710a7a25a22">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="46b4ce6f-c888-481b-8aea-b742ce245ebb">
+		<Viewpoint>46b4ce6f-c888-481b-8aea-b742ce245ebb_viewpoint.bcfv</Viewpoint>
+		<Snapshot>46b4ce6f-c888-481b-8aea-b742ce245ebb_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

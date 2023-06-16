@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="7aed7d14-44e1-46dd-8b2f-3103fdc449a4" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Platibanda</Title>
+		<Priority>Crítica</Priority>
+		<Index>90</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-25T19:59:53+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:29+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-28T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, ajustar altura da platibanda conforme BEP</Description>
+	</Topic>
+	<Comment Guid="5ba6f3e7-d8d7-4dee-b713-9dff5c8d6201">
+		<Date>2021-10-21T21:15:49+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="f53bc012-8dee-4cd1-8001-6c322ea09c26" />
+		<ModifiedDate>2021-10-21T21:15:49+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="3dc0bb64-43f3-4f20-945f-588b5d600963">
+		<Date>2021-10-21T21:15:41+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não ajustado</Comment>
+		<Viewpoint Guid="357c69c0-db8e-4272-b469-6a7adda13b9a" />
+		<ModifiedDate>2021-10-21T21:15:41+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="3e5f2a81-2e07-47c5-9b16-cd3c41ea903b">
+		<Date>2021-10-01T13:41:43+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não ajustado, verificar e ajustar em todas as torres</Comment>
+		<Viewpoint Guid="2aff1b53-74d9-4508-ad6a-cdcdf52f5b91" />
+		<ModifiedDate>2021-10-01T13:41:43+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="d9928d7f-f830-4c4e-b35f-2101ddd4616c">
+		<Date>2021-09-15T20:57:46+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não ajustado, por gentileza verificar e ajustar a ocorrência nas demais torres</Comment>
+		<Viewpoint Guid="8b9c6514-bc45-4133-815a-1bbaef7f85ae" />
+		<ModifiedDate>2021-09-15T20:57:46+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="b984f9bd-063d-44af-b93d-86dd78523485">
+		<Date>2021-08-25T19:59:53+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="0c6670d3-ccdb-459c-93f1-da3289cca93b" />
+		<ModifiedDate>2021-08-25T19:59:53+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0c6670d3-ccdb-459c-93f1-da3289cca93b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="2aff1b53-74d9-4508-ad6a-cdcdf52f5b91">
+		<Viewpoint>2aff1b53-74d9-4508-ad6a-cdcdf52f5b91_viewpoint.bcfv</Viewpoint>
+		<Snapshot>2aff1b53-74d9-4508-ad6a-cdcdf52f5b91_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="357c69c0-db8e-4272-b469-6a7adda13b9a">
+		<Viewpoint>357c69c0-db8e-4272-b469-6a7adda13b9a_viewpoint.bcfv</Viewpoint>
+		<Snapshot>357c69c0-db8e-4272-b469-6a7adda13b9a_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="8b9c6514-bc45-4133-815a-1bbaef7f85ae">
+		<Viewpoint>8b9c6514-bc45-4133-815a-1bbaef7f85ae_viewpoint.bcfv</Viewpoint>
+		<Snapshot>8b9c6514-bc45-4133-815a-1bbaef7f85ae_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="f53bc012-8dee-4cd1-8001-6c322ea09c26">
+		<Viewpoint>f53bc012-8dee-4cd1-8001-6c322ea09c26_viewpoint.bcfv</Viewpoint>
+		<Snapshot>f53bc012-8dee-4cd1-8001-6c322ea09c26_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

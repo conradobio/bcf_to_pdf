@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="433523aa-980f-49a4-ac08-5fb3f39db3e7" TopicType="Falha" TopicStatus="Closed">
+		<Title>Correção da Fase do Projeto nas pranchas de Arquitetura</Title>
+		<Priority>Alta</Priority>
+		<Index>98</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-26T14:05:20+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:31+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-08-30T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Corrigir a fase do projeto de Legal para Executivo nas pranchas de Arquitetura</Description>
+	</Topic>
+	<Comment Guid="7cf4e974-8908-44ac-8937-fc321a4e0ee3">
+		<Date>2021-09-15T21:21:18+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>atendido na R01</Comment>
+		<Viewpoint Guid="b84b92d6-fdfc-4025-bf90-8b48afcbc887" />
+		<ModifiedDate>2021-09-15T21:21:18+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ebc040fb-d8b6-4b8a-8154-b7d7a0c95f0b">
+		<Date>2021-08-26T14:05:20+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="4d91a852-6822-4439-ba08-90d0e904c12e" />
+		<ModifiedDate>2021-08-26T14:05:20+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="4d91a852-6822-4439-ba08-90d0e904c12e">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="b84b92d6-fdfc-4025-bf90-8b48afcbc887">
+		<Viewpoint>b84b92d6-fdfc-4025-bf90-8b48afcbc887_viewpoint.bcfv</Viewpoint>
+		<Snapshot>b84b92d6-fdfc-4025-bf90-8b48afcbc887_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

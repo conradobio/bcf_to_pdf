@@ -1,0 +1,39 @@
+{
+    "codigo": "2e75deac-6892-4016-a7fa-9aab630a170d",
+    "titulo": "Cota da Piscina",
+    "status": "Active",
+    "descricao": "Piscina 2,45m enterrada, n\u00e3o fica muito legal, mas para desenterra-la ter\u00edamos que escalonar com o sal\u00e3o de festas.",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-09-29T20:09:21+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-05T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "a7ba35e5-2348-41cb-b09e-ab6ae5166b2f",
+            "descricao": "Resposta Morar: N\u00e3o entendi, em rela\u00e7\u00e3o ao externo sim, mas infelizmente isso \u00e9 algo que n\u00e3o conseguiremos resolver. Neste caso acredito que temos que pensar em rela\u00e7\u00e3o ao interno, n\u00e3o podemos deixar toda em \u00e1rea em cotas aproximadas apenas com diferen\u00e7as entre ambientes internos e externos? Focar na elimina\u00e7\u00e3o da conten\u00e7\u00e3o em L do Sal\u00e3o completamente desnecess\u00e1ria.",
+            "data_acao": "2021-09-29T20:10:05+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "ef731918-4a53-48ee-b231-277e78943397",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T20:09:21+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "c888a37f-e9f6-4430-bf28-cf96c81d2dc2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2e75deac-6892-4016-a7fa-9aab630a170d/2e75deac-6892-4016-a7fa-9aab630a170d//snapshot.png"
+        }
+    ]
+}

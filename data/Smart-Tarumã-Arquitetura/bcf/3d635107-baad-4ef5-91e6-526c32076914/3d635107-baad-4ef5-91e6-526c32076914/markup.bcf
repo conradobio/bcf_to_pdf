@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="3d635107-baad-4ef5-91e6-526c32076914" TopicType="Problema" TopicStatus="Closed">
+		<Title>Quantidade total de unidades habitacionais no empreendimento está incorreta no memorial descritivo</Title>
+		<Priority>Alta</Priority>
+		<Index>41</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-03-31T12:47:43+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:24+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-08T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Número total de unidades habitacionais é 840, porém no memorial descritivo está 400. Por gentileza, ajustar.</Description>
+	</Topic>
+	<Comment Guid="fd5c8294-2cc6-4bcb-8481-6d105e1fdccb">
+		<Date>2021-04-02T20:10:28+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>Corrigido Memorial R01.</Comment>
+		<Viewpoint Guid="30750146-b20d-467b-b053-e1ad51bab76c" />
+		<ModifiedDate>2021-04-02T20:10:28+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="b4ce618d-c5d0-4857-91c9-8ad0385d798d">
+		<Date>2021-03-31T12:47:43+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="30750146-b20d-467b-b053-e1ad51bab76c" />
+		<ModifiedDate>2021-03-31T12:47:43+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="30750146-b20d-467b-b053-e1ad51bab76c">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,32 @@
+{
+    "codigo": "a8dcdc72-2b7c-4598-98f9-b420bf6aa58f",
+    "titulo": "Janelas",
+    "status": "Active",
+    "descricao": "Janelas conflitando com pingadeira, por favor, verificar todas as janelas ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T19:37:56+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "dcac0009-5860-4654-86fc-e0db385d7956",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T19:37:56+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "ccb272d2-281d-462e-be42-864309a9595c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a8dcdc72-2b7c-4598-98f9-b420bf6aa58f/a8dcdc72-2b7c-4598-98f9-b420bf6aa58f//snapshot.png"
+        }
+    ]
+}

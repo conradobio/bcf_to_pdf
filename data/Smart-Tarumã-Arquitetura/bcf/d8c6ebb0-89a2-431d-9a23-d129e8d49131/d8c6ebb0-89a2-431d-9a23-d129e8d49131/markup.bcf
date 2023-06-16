@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d8c6ebb0-89a2-431d-9a23-d129e8d49131" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Documentação lazer</Title>
+		<Priority>Alta</Priority>
+		<Index>215</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-24T19:49:18+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:00+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>todos os lazer vieram somente com documentação, por favor, verificar e enviar a documentação que faltam</Description>
+	</Topic>
+	<Comment Guid="f23be9ef-5b84-4617-8ff8-597bee118a4d">
+		<Date>2021-10-29T16:24:00+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Documentos enviados na r01</Comment>
+		<Viewpoint Guid="4d9e95bf-2e54-4754-b6ed-d625e4b26aca" />
+		<ModifiedDate>2021-10-29T16:24:00+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="43052341-d8e4-4421-a6ba-e88ab887e4b8">
+		<Date>2021-10-06T13:50:43+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>A documentação e os modelos já foram upados corretamente.</Comment>
+		<Viewpoint Guid="4d9e95bf-2e54-4754-b6ed-d625e4b26aca" />
+		<ModifiedDate>2021-10-06T13:50:43+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="aa8fbfec-a43d-4514-8fde-a635912a85ea">
+		<Date>2021-09-24T19:49:18+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="4d9e95bf-2e54-4754-b6ed-d625e4b26aca" />
+		<ModifiedDate>2021-09-24T19:49:18+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="4d9e95bf-2e54-4754-b6ed-d625e4b26aca">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

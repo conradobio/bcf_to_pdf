@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="4f7f3012-f465-4783-8cd5-20727aaade4d" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Alinhar o rodapé no espaço masterchef</Title>
+		<Priority>Baixa</Priority>
+		<Index>294</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T19:15:55+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:21+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+	</Topic>
+	<Comment Guid="6e38e3ef-dac8-4cca-8d08-24142b2798e4">
+		<Date>2021-10-28T19:15:55+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="09111d67-442c-46ca-a600-363e212ca540" />
+		<ModifiedDate>2021-10-28T19:15:55+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="09111d67-442c-46ca-a600-363e212ca540">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

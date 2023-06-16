@@ -1,0 +1,50 @@
+{
+    "codigo": "0e523c23-2521-47c3-8bf7-b85bce9ed712",
+    "titulo": "Lavat\u00f3rio Banheiro Lazer",
+    "status": "Closed",
+    "descricao": "O lavat\u00f3rio ser\u00e1 de bancada ou coluna? Verificar para outros banheiros do lazer tamb\u00e9m.",
+    "tipo": "Consulta de Informa\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-27T14:05:34+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-30T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "2462c700-1795-4e49-91d0-4d9c0e575e88",
+            "descricao": "Realmente no Legal somente o banheiro PCR que n\u00e3oter\u00e1 bancada",
+            "data_acao": "2021-10-28T20:17:06+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "3ec606e7-704b-45ed-8ca8-481cda369401",
+            "descricao": "Foi verificado nos arquivos DWG do Projeto Legal a exist\u00eancia de lavat\u00f3rio de coluna nas demais \u00e1rea de lazer, assim, apenas na \u00e1rea de Lazer D consta lavat\u00f3rio de bancada.",
+            "data_acao": "2021-10-08T12:56:59+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "f7952a08-3646-4d1d-91ae-0d3ed3934589",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-27T14:05:34+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "22d80f65-7e6a-44e8-bb3e-2299f083772b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/0e523c23-2521-47c3-8bf7-b85bce9ed712/0e523c23-2521-47c3-8bf7-b85bce9ed712//snapshot.png"
+        },
+        {
+            "guid": "8c99725f-81d3-4ca9-8257-c1d3c2b30a6b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/0e523c23-2521-47c3-8bf7-b85bce9ed712/0e523c23-2521-47c3-8bf7-b85bce9ed712//8c99725f-81d3-4ca9-8257-c1d3c2b30a6b_snapshot.png"
+        }
+    ]
+}

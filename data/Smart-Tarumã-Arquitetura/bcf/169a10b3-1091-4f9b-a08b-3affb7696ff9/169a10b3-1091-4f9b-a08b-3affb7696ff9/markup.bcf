@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="169a10b3-1091-4f9b-a08b-3affb7696ff9" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Contrapiso área molhada</Title>
+		<Priority>Alta</Priority>
+		<Index>92</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-25T20:47:05+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:30+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-28T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>De acordo com o BEP, contrapiso da cozinha deveia ter 4 cm, por favor, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="11a44c75-0c8a-40a9-8e00-9c3200c0210a">
+		<Date>2021-10-21T20:38:32+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não ajustado</Comment>
+		<Viewpoint Guid="0b4fd5d8-e2a9-40d8-b70e-2a986c4510a7" />
+		<ModifiedDate>2021-10-21T20:38:32+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="69315f93-f607-4967-a7e1-eda176e7f32a">
+		<Date>2021-09-30T21:07:44+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não ajustado</Comment>
+		<Viewpoint Guid="9c8bf6e8-de50-49e4-9723-f45951a06da7" />
+		<ModifiedDate>2021-09-30T21:07:44+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="9cc045fc-b188-46e5-8e4b-a1e646353f6b">
+		<Date>2021-09-15T21:04:01+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="9c8bf6e8-de50-49e4-9723-f45951a06da7" />
+		<ModifiedDate>2021-09-15T21:04:01+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="cd09ffd1-5e63-40a1-b6aa-5965d79df2be">
+		<Date>2021-09-15T21:03:51+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ainda não ajustado na R01, verificar e ajustar por favor</Comment>
+		<Viewpoint Guid="6cab5244-57f0-4ec2-9762-45797dad482c" />
+		<ModifiedDate>2021-09-15T21:03:51+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="e8e60e76-b76d-4531-bd73-f747913febd5">
+		<Date>2021-08-25T20:47:05+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="5a275a45-c6f5-4b6a-b39a-d6c3038ca809" />
+		<ModifiedDate>2021-08-25T20:47:05+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0b4fd5d8-e2a9-40d8-b70e-2a986c4510a7">
+		<Viewpoint>0b4fd5d8-e2a9-40d8-b70e-2a986c4510a7_viewpoint.bcfv</Viewpoint>
+		<Snapshot>0b4fd5d8-e2a9-40d8-b70e-2a986c4510a7_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="5a275a45-c6f5-4b6a-b39a-d6c3038ca809">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="6cab5244-57f0-4ec2-9762-45797dad482c">
+		<Viewpoint>6cab5244-57f0-4ec2-9762-45797dad482c_viewpoint.bcfv</Viewpoint>
+		<Snapshot>6cab5244-57f0-4ec2-9762-45797dad482c_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="9c8bf6e8-de50-49e4-9723-f45951a06da7">
+		<Viewpoint>9c8bf6e8-de50-49e4-9723-f45951a06da7_viewpoint.bcfv</Viewpoint>
+		<Snapshot>9c8bf6e8-de50-49e4-9723-f45951a06da7_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

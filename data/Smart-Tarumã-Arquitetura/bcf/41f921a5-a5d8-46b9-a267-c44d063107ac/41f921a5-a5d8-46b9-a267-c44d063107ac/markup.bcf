@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="41f921a5-a5d8-46b9-a267-c44d063107ac" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Solicitação da incorporadora para acesso ao coreto na rotatória</Title>
+		<Priority>Baixa</Priority>
+		<Index>3</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2020-07-23T18:49:53+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:20+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2020-08-06T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Adicionar a faixa de pedestre solicitada pela incorporação, indicada na figura.</Description>
+	</Topic>
+	<Comment Guid="d5689bad-41cd-4a44-9ef7-0ac75f27f56f">
+		<Date>2021-01-25T20:00:18+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="f9046b20-e58f-4f50-9e78-54f969f0b751" />
+		<ModifiedDate>2021-01-25T20:00:18+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="439c723f-ce81-4b07-99d7-0bbb38a4d8bc">
+		<Date>2020-07-23T18:49:53+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="5f030f99-32b7-4043-8864-4fc8136a9d27" />
+		<ModifiedDate>2020-07-23T18:49:53+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="5f030f99-32b7-4043-8864-4fc8136a9d27">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="f9046b20-e58f-4f50-9e78-54f969f0b751">
+		<Viewpoint>f9046b20-e58f-4f50-9e78-54f969f0b751_viewpoint.bcfv</Viewpoint>
+		<Snapshot>f9046b20-e58f-4f50-9e78-54f969f0b751_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

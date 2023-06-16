@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="a6ec8fa3-8e31-485b-9099-3814f46489c5" TopicType="Conflito" TopicStatus="Active">
+		<Title>Modulação blocos de concreto lazer B</Title>
+		<Priority>Alta</Priority>
+		<Index>205</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T19:36:03+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:00+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>rafaelavilela@construtoracapital.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Seguir regra sde modulação dos blocos de croncreto, evitando o maximo de cortes</Description>
+	</Topic>
+	<Comment Guid="4386d263-e93a-4466-b0d0-53fce8ad637d">
+		<Date>2021-09-21T19:36:03+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="34ca6a20-b830-48e5-ba46-e623a296f905" />
+		<ModifiedDate>2021-09-21T19:36:03+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="34ca6a20-b830-48e5-ba46-e623a296f905">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

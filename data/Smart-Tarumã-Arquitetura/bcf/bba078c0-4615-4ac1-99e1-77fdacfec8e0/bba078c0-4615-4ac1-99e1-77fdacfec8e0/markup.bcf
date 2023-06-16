@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="bba078c0-4615-4ac1-99e1-77fdacfec8e0" TopicType="Problema" TopicStatus="Active">
+		<Title>Faltando rodapé no salão de festas</Title>
+		<Priority>Alta</Priority>
+		<Index>304</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T20:47:18+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:24+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor modelar o rodapé conforme BEP e Projeto Legal</Description>
+	</Topic>
+	<Comment Guid="9b19f76a-6e22-4aab-8968-454db5d2074f">
+		<Date>2021-10-28T20:47:18+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="812acdd5-3af1-491b-a0cd-dd7e20caeb5b" />
+		<ModifiedDate>2021-10-28T20:47:18+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="812acdd5-3af1-491b-a0cd-dd7e20caeb5b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,39 @@
+{
+    "codigo": "368ce809-8144-4e19-8bb3-b083c170b869",
+    "titulo": "N\u00edvel da torre 2",
+    "status": "Closed",
+    "descricao": "Podemos diminuir 20cm o patamar dessa torre.",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-09-29T15:58:51+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-05T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "rafaelavilela@construtoracapital.com.br",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "17a82183-48ad-4b68-8048-74a6f47b50a0",
+            "descricao": "Resposta Morar: De acordo",
+            "data_acao": "2021-09-29T15:59:31+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "ceb6c72e-5b69-4edc-9e3c-e52b8bc158d1",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T15:58:51+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "fe40dc25-3f94-4ed3-b027-ab6af00bf08c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/368ce809-8144-4e19-8bb3-b083c170b869/368ce809-8144-4e19-8bb3-b083c170b869//snapshot.png"
+        }
+    ]
+}

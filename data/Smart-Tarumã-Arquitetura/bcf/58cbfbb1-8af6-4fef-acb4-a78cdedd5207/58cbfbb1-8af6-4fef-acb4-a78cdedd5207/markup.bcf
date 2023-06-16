@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="58cbfbb1-8af6-4fef-acb4-a78cdedd5207" TopicType="Problema" TopicStatus="Closed">
+		<Title>Padronizar termos para apartamentos adaptáveis para PCR</Title>
+		<Priority>Baixa</Priority>
+		<Index>45</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-03-31T14:24:31+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:25+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Nas pranchas foram encontrados mais de um termo para se referir a apartamentos para PCR, Por gentileza, padronizar denominação.</Description>
+	</Topic>
+	<Comment Guid="169244d7-4d8d-48c6-a3ce-e5c1c003682b">
+		<Date>2021-03-31T14:24:31+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="5c135a40-147b-4441-8525-7490b2bfebc8" />
+		<ModifiedDate>2021-03-31T14:24:31+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="5c135a40-147b-4441-8525-7490b2bfebc8">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

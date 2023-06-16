@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="b9a8cdd2-026f-43d6-b0e4-38301374af0f" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Rodapé</Title>
+		<Priority>Alta</Priority>
+		<Index>312</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T16:06:22+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:25+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Alguns ambientes faltando rodapé, por gentileza, verificar no projeto legal</Description>
+	</Topic>
+	<Comment Guid="be653efb-0477-4793-8b1e-f4d85bd9ae68">
+		<Date>2021-10-29T16:06:23+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7300ded8-e7b5-4c18-9840-3f0ebf966f42" />
+		<ModifiedDate>2021-10-29T16:06:23+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="7300ded8-e7b5-4c18-9840-3f0ebf966f42">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

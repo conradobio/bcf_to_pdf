@@ -1,0 +1,54 @@
+{
+    "codigo": "55e26d8c-374f-40f9-aebf-1e394710a5bb",
+    "titulo": "Chuveiro lazer B",
+    "status": "Active",
+    "descricao": "Modelar revestimento da \u00e1rea do chuveiro do lazer B",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-09-21T19:35:57+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "89504497-0732-4345-82cb-b77fea4731f4",
+            "descricao": "por favor, seguir projeto legal para essa \u00e1rea",
+            "data_acao": "2021-10-29T16:23:58+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "d50860ef-6d2b-43eb-8583-bdb84f0d5a23",
+            "descricao": "Resolvido",
+            "data_acao": "2021-10-05T19:00:25+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "939454a1-979d-4f67-ab91-4422f4045307",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T19:35:57+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "1495990c-f40b-4503-82af-ef311127a601",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/55e26d8c-374f-40f9-aebf-1e394710a5bb/55e26d8c-374f-40f9-aebf-1e394710a5bb//1495990c-f40b-4503-82af-ef311127a601_snapshot.png"
+        },
+        {
+            "guid": "bddd68a3-00c8-4d78-b159-a79ceb834c5b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/55e26d8c-374f-40f9-aebf-1e394710a5bb/55e26d8c-374f-40f9-aebf-1e394710a5bb//bddd68a3-00c8-4d78-b159-a79ceb834c5b_snapshot.png"
+        },
+        {
+            "guid": "c5c18871-a93d-4fe8-b986-13d67b3d815c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/55e26d8c-374f-40f9-aebf-1e394710a5bb/55e26d8c-374f-40f9-aebf-1e394710a5bb//snapshot.png"
+        }
+    ]
+}

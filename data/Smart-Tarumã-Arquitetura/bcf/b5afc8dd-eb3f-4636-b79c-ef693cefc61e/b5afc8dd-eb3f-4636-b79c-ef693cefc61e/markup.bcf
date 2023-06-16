@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="b5afc8dd-eb3f-4636-b79c-ef693cefc61e" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Faltando entrega da guarita</Title>
+		<Priority>Alta</Priority>
+		<Index>137</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-17T13:18:06+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-10-11T19:25:09+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+		<DueDate>2021-09-27T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 2</Stage>
+		<Description>Conforme verificação não foram entregues modelo e documentação referente a guarita. Favor checar e fazer a entrega dos arquivos no Autodoc.</Description>
+	</Topic>
+	<Comment Guid="0e3da511-a627-4c10-ba36-80a747e15cd5">
+		<Date>2021-10-11T19:25:09+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Modelo Entregue</Comment>
+		<ModifiedDate>2021-10-11T19:25:09+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+</Markup>

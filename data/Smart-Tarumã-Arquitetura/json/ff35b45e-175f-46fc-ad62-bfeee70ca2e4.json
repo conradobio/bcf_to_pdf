@@ -1,0 +1,43 @@
+{
+    "codigo": "ff35b45e-175f-46fc-ad62-bfeee70ca2e4",
+    "titulo": "Fachada",
+    "status": "Closed",
+    "descricao": "Parede conflitando com aberturas de ar condicionado e duto na cozinha, por favor, ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-30T20:55:52+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-06T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "da2906af-6879-4134-842c-107c6657f785",
+            "descricao": "Ajustado na R02",
+            "data_acao": "2021-10-21T21:02:41+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "a5375e62-efd2-4f26-ba6b-765db342455c",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-30T20:55:53+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0f9003b2-42a3-477f-ac04-2738ef95dc38",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ff35b45e-175f-46fc-ad62-bfeee70ca2e4/ff35b45e-175f-46fc-ad62-bfeee70ca2e4//0f9003b2-42a3-477f-ac04-2738ef95dc38_snapshot.png"
+        },
+        {
+            "guid": "abb9a9ae-d64d-4bb4-b114-a3f565e5f398",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ff35b45e-175f-46fc-ad62-bfeee70ca2e4/ff35b45e-175f-46fc-ad62-bfeee70ca2e4//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "codigo": "330bcf13-680a-4628-9d1d-a4621dafb661",
+    "titulo": "Fachada lazer D",
+    "status": "Closed",
+    "descricao": "Por gentileza, modelar as camadas de parede at\u00e9 o topo da platibanda, verificar todas as ocorrencias",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T13:46:36+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "385e7a3b-2268-4c9c-ac0a-8dab6736cad1",
+            "descricao": "Visto na R01 que as camadas foram ajustadas",
+            "data_acao": "2021-10-28T20:47:16+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "f0c0128b-aa50-489b-b664-09e00962abba",
+            "descricao": "camadas da parede modeladas na at\u00e9 o topo da platibanda",
+            "data_acao": "2021-10-07T15:26:41+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "44177a5e-ee95-465d-9929-1fe230be7fde",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T13:46:36+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0ac7f82a-ee79-4a7f-8280-62182fc40e1e",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/330bcf13-680a-4628-9d1d-a4621dafb661/330bcf13-680a-4628-9d1d-a4621dafb661//snapshot.png"
+        },
+        {
+            "guid": "f9280af6-48c1-47f2-b474-1a778522c452",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/330bcf13-680a-4628-9d1d-a4621dafb661/330bcf13-680a-4628-9d1d-a4621dafb661//f9280af6-48c1-47f2-b474-1a778522c452_snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "codigo": "bf984de6-8f52-401d-8526-5ff122743746",
+    "titulo": "Ar condicionado",
+    "status": "Closed",
+    "descricao": "De acordo com o BEP, os ar condicionados v\u00e3o ser do tipo split, por gentileza, verificar e ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-08-26T14:51:09+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-01T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "369f155b-23d0-48bf-8e01-c706e768f15e",
+            "descricao": "AJUSTADO NA R01",
+            "data_acao": "2021-09-15T21:11:22+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "0026826d-79cb-40a9-b3ae-928b9bb0afc1",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-26T14:51:09+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "31ec2319-21b8-4f6a-9bf0-ae0cd50b3b2f",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/bf984de6-8f52-401d-8526-5ff122743746/bf984de6-8f52-401d-8526-5ff122743746//snapshot.png"
+        },
+        {
+            "guid": "c90e1cba-d378-453d-9c35-8f8c2ff8102e",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/bf984de6-8f52-401d-8526-5ff122743746/bf984de6-8f52-401d-8526-5ff122743746//c90e1cba-d378-453d-9c35-8f8c2ff8102e_snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "codigo": "8da82eb2-ce4e-4888-a447-23edcfdea3e1",
+    "titulo": "Ajustar posicionamento de cotas",
+    "status": "Closed",
+    "descricao": "Algumas cotas est\u00e3o com a visibilidade prejudicada devido a sua posi\u00e7\u00e3o. Por gentileza, ajustar posicionamento de cotas para melhor visualiza\u00e7\u00e3o das informa\u00e7\u00f5es no projeto.",
+    "tipo": "Problema",
+    "fase": "Projeto Legal",
+    "prioridade": "Baixa",
+    "abertura": "2021-03-31T15:55:58+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-04-07T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "022c2a70-57b4-4620-a649-7d1ce02cc144",
+            "descricao": "Ajustado.",
+            "data_acao": "2021-04-02T22:09:44+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "b60ee67c-ff0f-4855-af6a-5b0044ba5717",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-03-31T15:55:58+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "8a938f7c-57d2-4efb-aa39-92855ec92df0",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/8da82eb2-ce4e-4888-a447-23edcfdea3e1/8da82eb2-ce4e-4888-a447-23edcfdea3e1//snapshot.png"
+        }
+    ]
+}

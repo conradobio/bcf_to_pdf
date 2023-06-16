@@ -1,0 +1,32 @@
+{
+    "codigo": "b3aacd10-e637-47d2-8390-5393f032ca67",
+    "titulo": "Lavat\u00f3rios",
+    "status": "Active",
+    "descricao": "Modelar camada de revestimento acima do lavat\u00f3rio conforme projeto legal",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T19:16:21+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "rafaelavilela@construtoracapital.com.br",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "613f4e6c-d9f5-423c-b3ed-5faa700679ee",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T19:16:21+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "26f5f14f-f82d-412a-b340-cc7ae1106c86",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b3aacd10-e637-47d2-8390-5393f032ca67/b3aacd10-e637-47d2-8390-5393f032ca67//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="997aa07a-8c6b-4796-bbc4-32b54c068cb9" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Afastamento de Torres - Resumo</Title>
+		<Priority>Crítica</Priority>
+		<Index>26</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-01-29T18:17:10+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:24+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-02-12T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Segue resumo geral dos acréscimos de afastamentos a serem analisados das torres para atendimento da diretriz da construtora e normativa da Caixa</Description>
+	</Topic>
+	<Comment Guid="f9be2c05-9944-427a-9915-b71eaf472bc9">
+		<Date>2021-01-29T18:17:11+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="71a8af76-1657-442b-93cd-7063326cf123" />
+		<ModifiedDate>2021-01-29T18:17:11+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="71a8af76-1657-442b-93cd-7063326cf123">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

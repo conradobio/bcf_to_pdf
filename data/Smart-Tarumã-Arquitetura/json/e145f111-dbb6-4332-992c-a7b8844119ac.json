@@ -1,0 +1,32 @@
+{
+    "codigo": "e145f111-dbb6-4332-992c-a7b8844119ac",
+    "titulo": "Contrapiso",
+    "status": "Active",
+    "descricao": "Espessura contrapiso n\u00e3o seguindo BEP, Por gentileza, verificar se espessura atende",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-29T16:11:30+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "e2dc00d3-c3fd-4dac-a5ac-0803f27def72",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T16:11:30+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "9c772a43-bc41-4cc4-a483-e805c63e76b1",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e145f111-dbb6-4332-992c-a7b8844119ac/e145f111-dbb6-4332-992c-a7b8844119ac//snapshot.png"
+        }
+    ]
+}

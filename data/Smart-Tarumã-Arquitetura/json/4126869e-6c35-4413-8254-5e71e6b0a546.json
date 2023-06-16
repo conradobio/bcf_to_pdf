@@ -1,0 +1,54 @@
+{
+    "codigo": "4126869e-6c35-4413-8254-5e71e6b0a546",
+    "titulo": "Espessuras paredes lixeira",
+    "status": "Resolved",
+    "descricao": "Por que as espessuras das paredes s\u00e3o diferentes? Norte e Leste ser\u00e3o de conten\u00e7\u00e3o?",
+    "tipo": "Consulta de Informa\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-15T13:24:30+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-22T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "80d5ca1a-16c9-44dd-a6a6-2c576735e49a",
+            "descricao": "Conforme o projeto legal, as duas paredes externas devem ter 19 cm. Por\u00e9m conforme explicado pela coordena\u00e7\u00e3o, os muros de divisa tem 9 cm e as paredes dos anexos tem 14 cm. Logo, a lixeira ser\u00e1 modelada em 14 cm.",
+            "data_acao": "2021-10-26T14:07:40+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "2b25acc8-4e35-4c01-aa9c-7e26cc7d6d62",
+            "descricao": "As paredes j\u00e1 foram ajustadas, elas devem ter 14 cm conforme o BEP",
+            "data_acao": "2021-10-18T12:22:41+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "50b54b5a-e7d1-4153-a9aa-ca538d7f2a8f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-15T13:24:30+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "058b4999-90c8-4dd6-ac6e-5e880bced7ef",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/4126869e-6c35-4413-8254-5e71e6b0a546/4126869e-6c35-4413-8254-5e71e6b0a546//snapshot.png"
+        },
+        {
+            "guid": "4dfeff2d-5c07-4248-9cbe-6e9be8c22453",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/4126869e-6c35-4413-8254-5e71e6b0a546/4126869e-6c35-4413-8254-5e71e6b0a546//4dfeff2d-5c07-4248-9cbe-6e9be8c22453_snapshot.png"
+        },
+        {
+            "guid": "b246010b-5dda-4598-90e2-536e363e76f2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/4126869e-6c35-4413-8254-5e71e6b0a546/4126869e-6c35-4413-8254-5e71e6b0a546//b246010b-5dda-4598-90e2-536e363e76f2_snapshot.png"
+        }
+    ]
+}

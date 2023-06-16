@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="8072eda4-40bf-4af0-8f58-1d11bb7a266d" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Piscina lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>188</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T15:55:25+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:54+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Alinhar borda de granito da piscina menor no lazer E, por favor</Description>
+	</Topic>
+	<Comment Guid="c635e8e5-81ed-4ad8-8a6f-943822f94e01">
+		<Date>2021-10-28T19:13:15+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que a borda foi alinhada</Comment>
+		<Viewpoint Guid="0fa51e99-fe3e-4118-866a-5e24a3ea5d3f" />
+		<ModifiedDate>2021-10-28T19:13:15+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="2b4b1fd3-c742-4648-98b5-94b00a0f91a1">
+		<Date>2021-10-13T18:54:05+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Borda de granito ajustada</Comment>
+		<Viewpoint Guid="d1795a30-2e36-4e40-b9a7-cef15df4e5b6" />
+		<ModifiedDate>2021-10-13T18:54:05+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="cdb4a7a8-4330-4f65-9264-a2825c0c39a2">
+		<Date>2021-09-21T16:12:11+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d1795a30-2e36-4e40-b9a7-cef15df4e5b6" />
+		<ModifiedDate>2021-09-21T16:12:11+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="302a90a5-37a2-4f5e-9e8a-aaa1963881f4">
+		<Date>2021-09-21T15:55:25+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="eb466c26-6def-4fa7-a1d5-3fb8edb52fff" />
+		<ModifiedDate>2021-09-21T15:55:25+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0fa51e99-fe3e-4118-866a-5e24a3ea5d3f">
+		<Viewpoint>0fa51e99-fe3e-4118-866a-5e24a3ea5d3f_viewpoint.bcfv</Viewpoint>
+		<Snapshot>0fa51e99-fe3e-4118-866a-5e24a3ea5d3f_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d1795a30-2e36-4e40-b9a7-cef15df4e5b6">
+		<Viewpoint>d1795a30-2e36-4e40-b9a7-cef15df4e5b6_viewpoint.bcfv</Viewpoint>
+		<Snapshot>d1795a30-2e36-4e40-b9a7-cef15df4e5b6_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="eb466c26-6def-4fa7-a1d5-3fb8edb52fff">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

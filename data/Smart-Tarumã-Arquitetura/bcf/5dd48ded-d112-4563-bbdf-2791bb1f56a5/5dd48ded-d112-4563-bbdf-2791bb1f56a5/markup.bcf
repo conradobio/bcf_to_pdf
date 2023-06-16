@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="5dd48ded-d112-4563-bbdf-2791bb1f56a5" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Master chef</Title>
+		<Priority>Alta</Priority>
+		<Index>309</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T15:39:55+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:25+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Faltando a camada de ceramica em cima da pia no masterchef conforme projeto legal</Description>
+	</Topic>
+	<Comment Guid="0656668a-2e96-40b5-849d-85199c667be4">
+		<Date>2021-10-29T15:39:55+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="a71ac8d8-6e86-481d-ad20-743f8a9f5654" />
+		<ModifiedDate>2021-10-29T15:39:55+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="a71ac8d8-6e86-481d-ad20-743f8a9f5654">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

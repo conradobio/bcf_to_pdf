@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="f1d0dbe5-d1f1-49ec-a2b8-5023eb3d0154" TopicType="Problema" TopicStatus="Closed">
+		<Title>Folha sem título e nomenclatura diferente do BEP</Title>
+		<Priority>Baixa</Priority>
+		<Index>46</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-03-31T14:34:21+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:25+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Folha 02/17 encontra-se sem título, Além disso, algumas folhas apresentam na sua nomenclatura disciplina e fase do projeto em ordem invertida do padrão estabelecido no BEP. Por gentileza, ajustar.</Description>
+	</Topic>
+	<Comment Guid="568ec0f5-b291-4ff6-97d7-c25fbbe6665b">
+		<Date>2021-04-02T20:40:36+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>a prancha 02 está ajustada. o restante das pranchas serão corrigidas também.</Comment>
+		<Viewpoint Guid="65718db3-d4d4-4c52-a6c4-a3d33eb6ed84" />
+		<ModifiedDate>2021-04-02T20:40:36+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="b4718359-88a8-4535-a812-dbb49aa899c0">
+		<Date>2021-03-31T15:13:56+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="65718db3-d4d4-4c52-a6c4-a3d33eb6ed84" />
+		<ModifiedDate>2021-03-31T15:13:56+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="1debaf6b-dd66-4adf-b041-5cd727be7999">
+		<Date>2021-03-31T14:34:21+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7f01d68c-4d57-4540-afa1-6e9a665947e3" />
+		<ModifiedDate>2021-03-31T14:34:21+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="65718db3-d4d4-4c52-a6c4-a3d33eb6ed84">
+		<Viewpoint>65718db3-d4d4-4c52-a6c4-a3d33eb6ed84_viewpoint.bcfv</Viewpoint>
+		<Snapshot>65718db3-d4d4-4c52-a6c4-a3d33eb6ed84_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="7f01d68c-4d57-4540-afa1-6e9a665947e3">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

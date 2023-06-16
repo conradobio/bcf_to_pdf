@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="8da82eb2-ce4e-4888-a447-23edcfdea3e1" TopicType="Problema" TopicStatus="Closed">
+		<Title>Ajustar posicionamento de cotas</Title>
+		<Priority>Baixa</Priority>
+		<Index>49</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-03-31T15:55:58+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:26+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Algumas cotas estão com a visibilidade prejudicada devido a sua posição. Por gentileza, ajustar posicionamento de cotas para melhor visualização das informações no projeto.</Description>
+	</Topic>
+	<Comment Guid="022c2a70-57b4-4620-a649-7d1ce02cc144">
+		<Date>2021-04-02T22:09:44+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>Ajustado.</Comment>
+		<Viewpoint Guid="8a938f7c-57d2-4efb-aa39-92855ec92df0" />
+		<ModifiedDate>2021-04-02T22:09:44+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="b60ee67c-ff0f-4855-af6a-5b0044ba5717">
+		<Date>2021-03-31T15:55:58+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="8a938f7c-57d2-4efb-aa39-92855ec92df0" />
+		<ModifiedDate>2021-03-31T15:55:58+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="8a938f7c-57d2-4efb-aa39-92855ec92df0">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

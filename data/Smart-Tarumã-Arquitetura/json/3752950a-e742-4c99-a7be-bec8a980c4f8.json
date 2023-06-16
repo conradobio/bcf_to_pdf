@@ -1,0 +1,39 @@
+{
+    "codigo": "3752950a-e742-4c99-a7be-bec8a980c4f8",
+    "titulo": "Abertura dos dutos",
+    "status": "Closed",
+    "descricao": "Modelar abertura de entrada dos dutos de ar condicionado conforme projeto de forma metalica",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-17T18:51:23+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-08T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "05c98618-b7e8-4289-809c-ad35695cb107",
+            "descricao": "n\u00e3o ajustado, verificar em todas as torres",
+            "data_acao": "2021-10-01T13:37:28+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "598c39bd-b0e7-412e-9a9b-d7d73447cc3b",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-17T18:51:23+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "60315d85-3757-4f34-b8d0-9f8d1c74f184",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/3752950a-e742-4c99-a7be-bec8a980c4f8/3752950a-e742-4c99-a7be-bec8a980c4f8//snapshot.png"
+        }
+    ]
+}

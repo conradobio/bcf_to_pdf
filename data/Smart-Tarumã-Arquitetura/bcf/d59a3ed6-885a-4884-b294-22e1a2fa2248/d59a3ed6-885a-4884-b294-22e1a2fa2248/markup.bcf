@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d59a3ed6-885a-4884-b294-22e1a2fa2248" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Camadas das paredes da guarita</Title>
+		<Priority>Alta</Priority>
+		<Index>272</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T15:06:35+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:15+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-16T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor modelar as paredes conforme as camadas especificadas no BEP</Description>
+	</Topic>
+	<Comment Guid="6095ba2a-66ec-4c27-84c2-51a66851d7ed">
+		<Date>2021-11-10T18:48:02+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Faltam camadas nas paredes externas, favor revisar conforme BEP</Comment>
+		<Viewpoint Guid="49252233-556e-47f6-bdc5-31d4779339c2" />
+		<ModifiedDate>2021-11-10T18:48:02+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a42e8efd-a6cc-475c-92c4-3adaeb718dc0">
+		<Date>2021-10-25T12:39:01+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido. As paredes foram modeladas conforme o BEP.</Comment>
+		<Viewpoint Guid="49252233-556e-47f6-bdc5-31d4779339c2" />
+		<ModifiedDate>2021-10-25T12:39:01+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="79567666-e649-4e7f-bc08-c51e4181c0dd">
+		<Date>2021-10-13T15:06:38+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="49252233-556e-47f6-bdc5-31d4779339c2" />
+		<ModifiedDate>2021-10-13T15:06:38+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="4b20b128-3697-445c-b420-0fc62d7e4dcb">
+		<Date>2021-10-13T15:06:35+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7727b14e-237c-4fab-90e1-774a18d2f47f" />
+		<ModifiedDate>2021-10-13T15:06:35+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="49252233-556e-47f6-bdc5-31d4779339c2">
+		<Viewpoint>49252233-556e-47f6-bdc5-31d4779339c2_viewpoint.bcfv</Viewpoint>
+		<Snapshot>49252233-556e-47f6-bdc5-31d4779339c2_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="7727b14e-237c-4fab-90e1-774a18d2f47f">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

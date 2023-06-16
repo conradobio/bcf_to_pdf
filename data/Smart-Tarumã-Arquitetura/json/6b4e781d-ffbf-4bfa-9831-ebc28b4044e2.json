@@ -1,0 +1,32 @@
+{
+    "codigo": "6b4e781d-ffbf-4bfa-9831-ebc28b4044e2",
+    "titulo": "Torneiras da bancada da copa",
+    "status": "Active",
+    "descricao": "Favor verificar e ajustar o conflito dessas 3 torneiras na copa",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-28T20:38:28+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "6bffdc1e-2bf6-4faa-94fa-4e334c83d17f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T20:38:28+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "c6dfca43-3e8a-4cd5-89f7-f04a3c659d3b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/6b4e781d-ffbf-4bfa-9831-ebc28b4044e2/6b4e781d-ffbf-4bfa-9831-ebc28b4044e2//snapshot.png"
+        }
+    ]
+}

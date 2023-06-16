@@ -1,0 +1,43 @@
+{
+    "codigo": "f41aa1c1-a76e-4323-a0af-6165d9791367",
+    "titulo": "Ajustar a espessura das camadas do piso da lixeira",
+    "status": "Resolved",
+    "descricao": "Radier 15 cm e Argamassa + cer\u00e2mica 2 cm",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-11T20:34:43+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-17T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "0ee44a66-47b7-4bf0-a6fa-643720ad6358",
+            "descricao": "Resolvido",
+            "data_acao": "2021-10-14T18:29:08+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "be6d3714-48df-4f4a-af6a-182abfcc120a",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-11T20:34:43+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "3d894a13-db10-4aeb-8889-8b3f612b7cb7",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/f41aa1c1-a76e-4323-a0af-6165d9791367/f41aa1c1-a76e-4323-a0af-6165d9791367//snapshot.png"
+        },
+        {
+            "guid": "70dfe391-4c0f-4f8d-90ac-b7e83173b7d2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/f41aa1c1-a76e-4323-a0af-6165d9791367/f41aa1c1-a76e-4323-a0af-6165d9791367//70dfe391-4c0f-4f8d-90ac-b7e83173b7d2_snapshot.png"
+        }
+    ]
+}

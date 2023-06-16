@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="dea13d8d-2833-49e2-93b8-4f0a6e6f6b7c" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Piscina lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>178</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T15:17:13+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:50+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camada de parede conforme BEP na piscina do lazer E</Description>
+	</Topic>
+	<Comment Guid="51c32b75-cf2f-4c38-a7f2-d421d783b8b1">
+		<Date>2021-10-28T19:45:51+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Camadas modeladas na R01</Comment>
+		<Viewpoint Guid="57fe4a7e-9063-4200-801b-a2747d45a821" />
+		<ModifiedDate>2021-10-28T19:45:51+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="5e09ad1e-ac49-4043-841c-1b9b0cf7e90a">
+		<Date>2021-10-11T14:26:30+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>camada da parede na área da piscina modelada conforme BEP</Comment>
+		<Viewpoint Guid="2322701f-01e8-4f60-9e81-0f44cfa16b17" />
+		<ModifiedDate>2021-10-11T14:26:30+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="c036dbf8-e463-4620-b3d4-1aeee46cd573">
+		<Date>2021-09-21T15:17:13+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="2322701f-01e8-4f60-9e81-0f44cfa16b17" />
+		<ModifiedDate>2021-09-21T15:17:13+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="2322701f-01e8-4f60-9e81-0f44cfa16b17">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="57fe4a7e-9063-4200-801b-a2747d45a821">
+		<Viewpoint>57fe4a7e-9063-4200-801b-a2747d45a821_viewpoint.bcfv</Viewpoint>
+		<Snapshot>57fe4a7e-9063-4200-801b-a2747d45a821_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

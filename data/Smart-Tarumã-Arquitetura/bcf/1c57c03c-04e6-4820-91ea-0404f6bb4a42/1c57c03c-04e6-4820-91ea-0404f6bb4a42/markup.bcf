@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="1c57c03c-04e6-4820-91ea-0404f6bb4a42" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Porta dos quartos</Title>
+		<Priority>Alta</Priority>
+		<Index>256</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-01T15:58:08+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:11+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Porta de entrada dos quartos não alinhada com estrutura, verificar e ajustar em todas as torres por favor</Description>
+	</Topic>
+	<Comment Guid="8ea92d60-fb4f-4789-a80b-adff95c44260">
+		<Date>2021-10-21T21:11:56+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="cc27fc66-436e-45f6-8a28-270b44109b1f" />
+		<ModifiedDate>2021-10-21T21:11:56+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="601cc751-893c-43c3-87be-fa50e7ceb2e7">
+		<Date>2021-10-21T21:11:50+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R02</Comment>
+		<Viewpoint Guid="9017547c-28c3-49f4-8eaf-d7240a319ce3" />
+		<ModifiedDate>2021-10-21T21:11:50+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="8a039c0f-3feb-4617-92ec-1dcde0f80f60">
+		<Date>2021-10-01T15:58:08+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="327c8e85-c120-4aaf-809e-2cc381b8157b" />
+		<ModifiedDate>2021-10-01T15:58:08+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="327c8e85-c120-4aaf-809e-2cc381b8157b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="9017547c-28c3-49f4-8eaf-d7240a319ce3">
+		<Viewpoint>9017547c-28c3-49f4-8eaf-d7240a319ce3_viewpoint.bcfv</Viewpoint>
+		<Snapshot>9017547c-28c3-49f4-8eaf-d7240a319ce3_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="cc27fc66-436e-45f6-8a28-270b44109b1f">
+		<Viewpoint>cc27fc66-436e-45f6-8a28-270b44109b1f_viewpoint.bcfv</Viewpoint>
+		<Snapshot>cc27fc66-436e-45f6-8a28-270b44109b1f_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

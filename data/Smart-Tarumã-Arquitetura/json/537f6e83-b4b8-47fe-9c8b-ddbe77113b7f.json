@@ -1,0 +1,50 @@
+{
+    "codigo": "537f6e83-b4b8-47fe-9c8b-ddbe77113b7f",
+    "titulo": "Bancada master chef lazer c",
+    "status": "Closed",
+    "descricao": "Bancada do master chef do lazer C conflitando com parede, por favor, verificar e ajustar",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T18:54:22+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "73b2bcf7-e22d-4aa4-8f5e-5fd5c6ce2ba1",
+            "descricao": "Ajustado na r01",
+            "data_acao": "2021-10-29T14:55:12+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "cf78d55b-b3f4-470a-8c93-912b71286ab2",
+            "descricao": "Resolvido",
+            "data_acao": "2021-10-06T15:52:13+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "83a237b6-78b8-44ca-9132-ba3a7bfe93e5",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T18:54:22+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6aac3bfe-c2dd-429c-913f-f0efe895869b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/537f6e83-b4b8-47fe-9c8b-ddbe77113b7f/537f6e83-b4b8-47fe-9c8b-ddbe77113b7f//6aac3bfe-c2dd-429c-913f-f0efe895869b_snapshot.png"
+        },
+        {
+            "guid": "eed72c31-300c-4f8a-a7cd-1d411a795611",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/537f6e83-b4b8-47fe-9c8b-ddbe77113b7f/537f6e83-b4b8-47fe-9c8b-ddbe77113b7f//snapshot.png"
+        }
+    ]
+}

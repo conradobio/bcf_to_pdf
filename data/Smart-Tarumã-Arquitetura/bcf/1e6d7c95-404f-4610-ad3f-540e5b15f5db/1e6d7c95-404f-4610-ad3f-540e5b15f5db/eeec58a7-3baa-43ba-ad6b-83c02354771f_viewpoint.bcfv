@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualizationInfo Guid="eeec58a7-3baa-43ba-ad6b-83c02354771f">
+	<Components>
+		<ViewSetupHints SpacesVisible="false" SpaceBoundariesVisible="false" OpeningsVisible="false" />
+	</Components>
+	<OrthogonalCamera>
+		<CameraViewPoint>
+			<X>826844.43575022439</X>
+			<Y>9666509.5208946597</Y>
+			<Z>-1</Z>
+		</CameraViewPoint>
+		<CameraDirection>
+			<X>0</X>
+			<Y>0</Y>
+			<Z>-1</Z>
+		</CameraDirection>
+		<CameraUpVector>
+			<X>0</X>
+			<Y>1</Y>
+			<Z>0</Z>
+		</CameraUpVector>
+		<ViewToWorldScale>72.302876906579726</ViewToWorldScale>
+	</OrthogonalCamera>
+</VisualizationInfo>

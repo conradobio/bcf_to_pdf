@@ -1,0 +1,50 @@
+{
+    "codigo": "5f992fd0-c851-4a66-b3cb-8ddc437a1002",
+    "titulo": "Faltando muro no acesso externo a lixeira",
+    "status": "Resolved",
+    "descricao": "Modelar o muro conforme o projeto legal",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-13T12:30:00+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-19T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "d0e76791-c72d-48cf-bda8-933807c6ada5",
+            "descricao": "Conforme o projeto legal, as duas paredes externas devem ter 19 cm. Por\u00e9m conforme explicado pela coordena\u00e7\u00e3o, os muros de divisa tem 9 cm e as paredes dos anexos tem 14 cm. Logo, a lixeira ser\u00e1 modelada em 14 cm. Quanto ao muro, n\u00e3o poder\u00e1 ser modelado, pois j\u00e1 foi modelado na implanta\u00e7\u00e3o.",
+            "data_acao": "2021-10-26T14:10:44+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "aa8eccda-4d99-486f-8115-52aee85bb267",
+            "descricao": "Foi modelado conforme o projeto legal, com 19 cm, mas o BEP diz que as paredes devem ter 14 cm.",
+            "data_acao": "2021-10-18T13:05:59+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "92e8feac-a64d-401e-808c-510e8eddc9f2",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-13T12:30:00+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "556dc91e-f510-4c5d-82b5-e1f2f889b659",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/5f992fd0-c851-4a66-b3cb-8ddc437a1002/5f992fd0-c851-4a66-b3cb-8ddc437a1002//556dc91e-f510-4c5d-82b5-e1f2f889b659_snapshot.png"
+        },
+        {
+            "guid": "d0e95d84-30e1-43df-ad09-0bad6c94ebb1",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/5f992fd0-c851-4a66-b3cb-8ddc437a1002/5f992fd0-c851-4a66-b3cb-8ddc437a1002//snapshot.png"
+        }
+    ]
+}

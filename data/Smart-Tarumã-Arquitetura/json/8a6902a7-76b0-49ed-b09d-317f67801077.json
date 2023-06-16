@@ -1,0 +1,46 @@
+{
+    "codigo": "8a6902a7-76b0-49ed-b09d-317f67801077",
+    "titulo": "Impermeabiliza\u00e7\u00e3o de \u00e1reas molhadas",
+    "status": "Closed",
+    "descricao": "Inserir camada de impermeabiliza\u00e7\u00e3o das \u00e1reas molhadas conforme BEP",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-20T20:30:58+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-26T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "10bd715f-de22-4efd-a6e9-cf5bd5bf1f7d",
+            "descricao": "Ajustado na R01",
+            "data_acao": "2021-10-29T17:48:47+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "5d4c41bd-9963-4cff-95b5-182e09803099",
+            "descricao": "Impermeabiliza\u00e7\u00e3o adicionada conforme BEP",
+            "data_acao": "2021-10-01T17:34:50+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "5abbefa1-3aed-491f-8414-81b676a5ca1a",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-20T20:30:58+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "9f4fdcf3-7919-4446-9404-38f10dd4bd7f",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/8a6902a7-76b0-49ed-b09d-317f67801077/8a6902a7-76b0-49ed-b09d-317f67801077//snapshot.png"
+        }
+    ]
+}

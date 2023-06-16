@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="f6ee1142-cc60-4be8-b92f-15381f8752ab" TopicType="Solicitação" TopicStatus="Resolved">
+		<Title>Camadas da platibanda e chapim</Title>
+		<Priority>Alta</Priority>
+		<Index>274</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T16:28:06+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:15+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor ajustar as camadas da platibanda e a geometria do chapim conforme o BEP</Description>
+	</Topic>
+	<Comment Guid="1452e8a8-ec5e-4d19-a93a-83c24c3464cd">
+		<Date>2021-10-18T13:14:19+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foram modeladas as camadas da platibanda, conforme BEP. E, o chapim já estava modelado no modelo.</Comment>
+		<Viewpoint Guid="56381e73-7508-41d4-9c6c-924169704568" />
+		<ModifiedDate>2021-10-18T13:14:19+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="28f87479-5386-4e43-893a-7b7fb9144615">
+		<Date>2021-10-13T16:28:06+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="56381e73-7508-41d4-9c6c-924169704568" />
+		<ModifiedDate>2021-10-13T16:28:06+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="56381e73-7508-41d4-9c6c-924169704568">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

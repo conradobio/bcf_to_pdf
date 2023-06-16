@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="c8af4bfd-a44e-41a8-887d-986adeb7b10f" TopicType="Problema" TopicStatus="Closed">
+		<Title>Identificar área de app na planta de implantação</Title>
+		<Priority>Baixa</Priority>
+		<Index>52</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-04-01T14:10:59+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:27+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Área de APP consta no quadro de áreas, mas não é identificada também no desenho, Poderia ajustar?</Description>
+	</Topic>
+	<Comment Guid="b87471e9-6f18-4d6d-b994-437b0e5e6a39">
+		<Date>2021-04-02T20:07:51+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>Incluído na planta de permeabilidade onde constam as áreas.</Comment>
+		<Viewpoint Guid="2e3bbeb3-3a71-490b-a935-9d9fd57aca55" />
+		<ModifiedDate>2021-04-02T20:07:51+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="7ca070a8-f02c-41f1-b457-2b135f45db00">
+		<Date>2021-04-01T14:10:59+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="2e3bbeb3-3a71-490b-a935-9d9fd57aca55" />
+		<ModifiedDate>2021-04-01T14:10:59+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="2e3bbeb3-3a71-490b-a935-9d9fd57aca55">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

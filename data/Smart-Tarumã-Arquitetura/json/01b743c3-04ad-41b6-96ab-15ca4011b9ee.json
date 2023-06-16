@@ -1,0 +1,32 @@
+{
+    "codigo": "01b743c3-04ad-41b6-96ab-15ca4011b9ee",
+    "titulo": "Tabeira",
+    "status": "Active",
+    "descricao": "Tabeira conflitando com piso, deveria ser assim mesmo??",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T20:14:57+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "christianmelo@vemmorarmais.com.br",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4d066cad-0c6c-467a-a2b0-ed20c7291b2d",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T20:14:57+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "19cdab71-4b7e-48e8-a25f-497619d39c16",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/01b743c3-04ad-41b6-96ab-15ca4011b9ee/01b743c3-04ad-41b6-96ab-15ca4011b9ee//snapshot.png"
+        }
+    ]
+}

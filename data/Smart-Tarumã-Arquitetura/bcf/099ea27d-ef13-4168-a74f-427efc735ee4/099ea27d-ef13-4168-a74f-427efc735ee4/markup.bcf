@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="099ea27d-ef13-4168-a74f-427efc735ee4" TopicType="Problema" TopicStatus="Closed">
+		<Title>Rodapé Banheiro</Title>
+		<Priority>Alta</Priority>
+		<Index>219</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-27T14:01:36+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:02+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-30T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar rodapé na entrada do banheiro</Description>
+	</Topic>
+	<Comment Guid="614f487b-27a7-4c7d-a579-ab57800daef0">
+		<Date>2021-10-29T15:09:22+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r01</Comment>
+		<Viewpoint Guid="3ab9e426-c263-49fc-b2b2-d8f64afc787b" />
+		<ModifiedDate>2021-10-29T15:09:22+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="da97ac88-f076-46a6-8be9-9763bbc05125">
+		<Date>2021-10-07T16:56:08+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="c982788d-e316-4b9c-9273-caa79d573816" />
+		<ModifiedDate>2021-10-07T16:56:08+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ae87bad3-b59a-4d3b-9d66-c71862e681a8">
+		<Date>2021-09-27T14:01:36+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c982788d-e316-4b9c-9273-caa79d573816" />
+		<ModifiedDate>2021-09-27T14:01:36+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="3ab9e426-c263-49fc-b2b2-d8f64afc787b">
+		<Viewpoint>3ab9e426-c263-49fc-b2b2-d8f64afc787b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>3ab9e426-c263-49fc-b2b2-d8f64afc787b_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="c982788d-e316-4b9c-9273-caa79d573816">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

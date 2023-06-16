@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="1a0cbfd9-7d3e-4878-a0c5-c90dfa3a65e6" TopicType="Problema" TopicStatus="Closed">
+		<Title>Rodapé Masterchef</Title>
+		<Priority>Alta</Priority>
+		<Index>220</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-27T14:02:48+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:02+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-30T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar rodapé do Masterchef</Description>
+	</Topic>
+	<Comment Guid="fb23493d-c497-438a-9c85-c0fa81a8b566">
+		<Date>2021-10-29T15:09:26+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>resilviso na r01</Comment>
+		<Viewpoint Guid="d24416b0-9abb-4552-8883-e255f1a17d71" />
+		<ModifiedDate>2021-10-29T15:09:26+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="bee834d3-f747-4231-84f0-b156911cdadc">
+		<Date>2021-10-07T17:00:24+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Ajustado</Comment>
+		<Viewpoint Guid="cad955c3-a171-42bf-8414-a2e5cf519e0a" />
+		<ModifiedDate>2021-10-07T17:00:24+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="3179fe11-6a6e-4fd0-8ee0-db5c4089c3a7">
+		<Date>2021-09-27T14:02:48+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="76a67946-ccf7-462b-9a13-f3afe3fb1244" />
+		<ModifiedDate>2021-09-27T14:02:48+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="76a67946-ccf7-462b-9a13-f3afe3fb1244">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="cad955c3-a171-42bf-8414-a2e5cf519e0a">
+		<Viewpoint>cad955c3-a171-42bf-8414-a2e5cf519e0a_viewpoint.bcfv</Viewpoint>
+		<Snapshot>cad955c3-a171-42bf-8414-a2e5cf519e0a_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d24416b0-9abb-4552-8883-e255f1a17d71">
+		<Viewpoint>d24416b0-9abb-4552-8883-e255f1a17d71_viewpoint.bcfv</Viewpoint>
+		<Snapshot>d24416b0-9abb-4552-8883-e255f1a17d71_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

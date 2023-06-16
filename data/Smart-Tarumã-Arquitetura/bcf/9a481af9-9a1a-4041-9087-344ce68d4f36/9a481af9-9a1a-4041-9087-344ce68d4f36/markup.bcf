@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="9a481af9-9a1a-4041-9087-344ce68d4f36" TopicType="Problema" TopicStatus="Closed">
+		<Title>Duplicação da Pista X Canteiro</Title>
+		<Priority>Alta</Priority>
+		<Index>7</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2020-09-21T19:15:52+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:21+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2020-09-28T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Duplicação da pista passando por dentro do muro de divisa e por cima do canteiro. Favor estudar a possibilidade de ajustes.</Description>
+	</Topic>
+	<Comment Guid="ff6389f9-50da-40e0-b0a6-17d5df2ff758">
+		<Date>2020-09-22T13:14:19+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>Essa é a parte do talude e não da Via.</Comment>
+		<Viewpoint Guid="7613c461-9cc5-4db3-a5be-5e5fa270e5b1" />
+		<ModifiedDate>2020-09-22T13:14:19+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="cd2be21c-2135-486f-9959-7405dfd29113">
+		<Date>2020-09-21T19:15:52+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7613c461-9cc5-4db3-a5be-5e5fa270e5b1" />
+		<ModifiedDate>2020-09-21T19:15:52+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="7613c461-9cc5-4db3-a5be-5e5fa270e5b1">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

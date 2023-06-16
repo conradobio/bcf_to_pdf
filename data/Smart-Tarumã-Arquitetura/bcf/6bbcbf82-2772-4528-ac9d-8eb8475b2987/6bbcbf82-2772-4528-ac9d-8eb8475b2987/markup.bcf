@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="6bbcbf82-2772-4528-ac9d-8eb8475b2987" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Porta lazer C</Title>
+		<Priority>Alta</Priority>
+		<Index>194</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T18:23:48+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:57+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Portas da fachada do lazer C fora de nivel, verificar todas as ocorrencias, ajustar por favor</Description>
+	</Topic>
+	<Comment Guid="e505a9bb-855e-4c90-8198-25eb3a90e80e">
+		<Date>2021-10-29T14:55:12+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não ajustado na r01</Comment>
+		<Viewpoint Guid="620edc3c-0697-476e-95cb-9e2d89d77718" />
+		<ModifiedDate>2021-10-29T14:55:12+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="bacd8d80-24e5-42e4-a70b-e81c245d4d3c">
+		<Date>2021-10-06T15:12:07+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Ajustado</Comment>
+		<Viewpoint Guid="a3d1bfce-0f2b-4bfe-83c2-94acb9082d2e" />
+		<ModifiedDate>2021-10-06T15:12:07+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="e2062253-fb6e-406b-a5fb-1881600b7bcc">
+		<Date>2021-09-21T18:23:48+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="a3d1bfce-0f2b-4bfe-83c2-94acb9082d2e" />
+		<ModifiedDate>2021-09-21T18:23:48+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="620edc3c-0697-476e-95cb-9e2d89d77718">
+		<Viewpoint>620edc3c-0697-476e-95cb-9e2d89d77718_viewpoint.bcfv</Viewpoint>
+		<Snapshot>620edc3c-0697-476e-95cb-9e2d89d77718_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="a3d1bfce-0f2b-4bfe-83c2-94acb9082d2e">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

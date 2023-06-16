@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="670dff70-3a0f-4c31-992d-841a91e21e78" TopicType="Problema" TopicStatus="Closed">
+		<Title>Prancha sem imagem</Title>
+		<Priority>Alta</Priority>
+		<Index>217</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-27T13:52:39+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:01+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-30T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Prancha do Lazer sem imagem</Description>
+	</Topic>
+	<Comment Guid="42184e75-83fd-4b2e-926b-f58c9ae5bf88">
+		<Date>2021-10-29T16:24:03+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R01</Comment>
+		<Viewpoint Guid="427f77e6-67af-4f06-a032-4b9befcf4c3f" />
+		<ModifiedDate>2021-10-29T16:24:03+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="55a52317-813e-4d37-8e78-326d7f2a8c33">
+		<Date>2021-10-04T16:25:46+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foi verificado que as imagens estão nas pranchas, em ambos arquivos RVT e DWG, tanto no Drive quanto no Autodoc.</Comment>
+		<Viewpoint Guid="26ba9e0b-ebc4-4203-8586-5466eb582f06" />
+		<ModifiedDate>2021-10-04T16:25:46+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="9007e02c-44d3-4653-94af-19726619dfdb">
+		<Date>2021-09-27T13:52:39+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="63923f71-c08d-4ace-ae72-931b869f8ca9" />
+		<ModifiedDate>2021-09-27T13:52:39+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="26ba9e0b-ebc4-4203-8586-5466eb582f06">
+		<Viewpoint>26ba9e0b-ebc4-4203-8586-5466eb582f06_viewpoint.bcfv</Viewpoint>
+		<Snapshot>26ba9e0b-ebc4-4203-8586-5466eb582f06_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="427f77e6-67af-4f06-a032-4b9befcf4c3f">
+		<Viewpoint>427f77e6-67af-4f06-a032-4b9befcf4c3f_viewpoint.bcfv</Viewpoint>
+		<Snapshot>427f77e6-67af-4f06-a032-4b9befcf4c3f_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="63923f71-c08d-4ace-ae72-931b869f8ca9">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

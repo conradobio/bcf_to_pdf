@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="c544d64c-e90b-48f0-83ab-83e4b8f879e0" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Afastamento Longitudinal entre Torres</Title>
+		<Priority>Crítica</Priority>
+		<Index>13</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-01-12T20:12:00+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:22+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-01-26T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Em todos os afastamentos entre torres no sentido longitudinal do terreno manter a cota mínima que atenda a seguinte proporção. 1,5m parede-crista talude / 1m (talude 1/1) / 1,5m pé talude-parede. Isso para desnível de até 1m. Se for maior, acrescentar na largura do talude respeitando o limite 1/1. Com isso evitaremos muitos arrimos e enterrar as torres como ocorreu no VS2.</Description>
+	</Topic>
+	<Comment Guid="08bf6934-9f92-4e1e-80a3-2902a90347bb">
+		<Date>2021-01-26T17:49:12+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Após análise do arquivo de terraplanagem recebido em 25-01, identificamos que os afastamentos satisfazem a diretriz passada pela Engenharia.</Comment>
+		<Viewpoint Guid="8e69a191-09d7-4d7f-b793-3380e423ecf2" />
+		<ModifiedDate>2021-01-26T17:49:12+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="837e4649-c531-4b8b-aaec-dabcaea6d15e">
+		<Date>2021-01-14T11:51:16+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>Os afastamentos foram ajustados ao máximo que permitia para cada conjunto de Torres. Esses afastamentos impactam no nº total de UH e no arranjo das calçadas. Novo estudo de massa encaminhado dia 14/01/21.</Comment>
+		<Viewpoint Guid="8e69a191-09d7-4d7f-b793-3380e423ecf2" />
+		<ModifiedDate>2021-01-14T11:51:16+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="7aeff661-9449-41b4-85f1-2946a8deb914">
+		<Date>2021-01-12T20:12:00+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="8e69a191-09d7-4d7f-b793-3380e423ecf2" />
+		<ModifiedDate>2021-01-12T20:12:00+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="8e69a191-09d7-4d7f-b793-3380e423ecf2">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

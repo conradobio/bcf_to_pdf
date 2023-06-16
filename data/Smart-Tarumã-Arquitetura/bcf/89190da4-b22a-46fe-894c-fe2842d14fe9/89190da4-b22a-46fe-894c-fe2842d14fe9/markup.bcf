@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="89190da4-b22a-46fe-894c-fe2842d14fe9" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Portas</Title>
+		<Priority>Alta</Priority>
+		<Index>308</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T15:39:52+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:25+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>No lazer C deveria ter soleira nas portas dividindo os ambientes? por gentileza, rever alguma solução para que essas áreas não fiquem desniveladas</Description>
+	</Topic>
+	<Comment Guid="99e199fd-af53-49a3-bc3d-2e09e4f7e20b">
+		<Date>2021-10-29T15:39:52+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="e4a6d181-ed2b-495b-9dbf-423a2188fd7d" />
+		<ModifiedDate>2021-10-29T15:39:52+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="e4a6d181-ed2b-495b-9dbf-423a2188fd7d">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,43 @@
+{
+    "codigo": "7e5f9c85-21a3-47f0-b6fc-274d8ef6b9dd",
+    "titulo": "Tabela de esquadrias",
+    "status": "Active",
+    "descricao": "Ajustar tabela de esquadrias, utilizando tr\u00eas casas decimais, para que medidas possam coincidir com projeto de forma met\u00e1lica por favor",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-21T23:59:35+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-28T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "coordenacao@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "3914e70d-f163-4b32-b3d9-8466d46b0cc5",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-22T16:15:16+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "a574635b-551c-432d-9053-c83feadfd331",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-21T23:59:35+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "07c7b807-7f46-49bd-853e-f43333509509",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/7e5f9c85-21a3-47f0-b6fc-274d8ef6b9dd/7e5f9c85-21a3-47f0-b6fc-274d8ef6b9dd//07c7b807-7f46-49bd-853e-f43333509509_snapshot.png"
+        },
+        {
+            "guid": "38d6ca57-a82f-40cc-8397-50c8c1e744bb",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/7e5f9c85-21a3-47f0-b6fc-274d8ef6b9dd/7e5f9c85-21a3-47f0-b6fc-274d8ef6b9dd//snapshot.png"
+        }
+    ]
+}

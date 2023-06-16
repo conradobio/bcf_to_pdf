@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="537f6e83-b4b8-47fe-9c8b-ddbe77113b7f" TopicType="Conflito" TopicStatus="Closed">
+		<Title>Bancada master chef lazer c</Title>
+		<Priority>Alta</Priority>
+		<Index>198</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T18:54:22+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:58+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Bancada do master chef do lazer C conflitando com parede, por favor, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="73b2bcf7-e22d-4aa4-8f5e-5fd5c6ce2ba1">
+		<Date>2021-10-29T14:55:12+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r01</Comment>
+		<Viewpoint Guid="6aac3bfe-c2dd-429c-913f-f0efe895869b" />
+		<ModifiedDate>2021-10-29T14:55:12+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="cf78d55b-b3f4-470a-8c93-912b71286ab2">
+		<Date>2021-10-06T15:52:13+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="6aac3bfe-c2dd-429c-913f-f0efe895869b" />
+		<ModifiedDate>2021-10-06T15:52:13+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="83a237b6-78b8-44ca-9132-ba3a7bfe93e5">
+		<Date>2021-09-21T18:54:22+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="eed72c31-300c-4f8a-a7cd-1d411a795611" />
+		<ModifiedDate>2021-09-21T18:54:22+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="6aac3bfe-c2dd-429c-913f-f0efe895869b">
+		<Viewpoint>6aac3bfe-c2dd-429c-913f-f0efe895869b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>6aac3bfe-c2dd-429c-913f-f0efe895869b_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="eed72c31-300c-4f8a-a7cd-1d411a795611">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

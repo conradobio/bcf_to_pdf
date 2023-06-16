@@ -1,0 +1,32 @@
+{
+    "codigo": "9b304ee5-d2f1-4c69-aa33-e899f0552b2e",
+    "titulo": "Inserir camada de impermeabiliza\u00e7\u00e3o da laje",
+    "status": "Active",
+    "descricao": "Favor modelar camada de impermealiza\u00e7\u00e3o conforme o BEP",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-28T19:57:02+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "f912b9f0-efc4-44e1-8f9a-5bbfb4645068",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T19:57:02+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "29823190-f2fd-4c46-a42b-6eae77d92f06",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/9b304ee5-d2f1-4c69-aa33-e899f0552b2e/9b304ee5-d2f1-4c69-aa33-e899f0552b2e//snapshot.png"
+        }
+    ]
+}

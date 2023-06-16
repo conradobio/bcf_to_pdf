@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="1d9f27ae-3730-42ba-8b95-5e159e958f0e" TopicType="Falha" TopicStatus="Closed">
+		<Title>Área mínima permeável não sinalizada no projeto</Title>
+		<Priority>Alta</Priority>
+		<Index>44</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-03-31T14:09:20+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:25+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>De acordo com o BEP, é necessário indicar no projeto o valor mínimo de área permeável previsto por Lei Municipal. Poderia adicionar essa informação?</Description>
+	</Topic>
+	<Comment Guid="f633fd93-134f-451f-bc4d-2c70da33258a">
+		<Date>2021-04-09T16:57:15+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="648e6dee-5d51-4fb6-9fef-d6ae3f8818bb" />
+		<ModifiedDate>2021-04-09T16:57:15+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="f2953e0c-eb62-42ce-b0f2-85cb5fa98ca3">
+		<Date>2021-04-02T20:28:38+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>Indicado no quadro de áreas.</Comment>
+		<Viewpoint Guid="648e6dee-5d51-4fb6-9fef-d6ae3f8818bb" />
+		<ModifiedDate>2021-04-02T20:28:38+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="b770165c-cbdf-4b25-9d8a-ebb51f066fe9">
+		<Date>2021-03-31T14:09:20+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="648e6dee-5d51-4fb6-9fef-d6ae3f8818bb" />
+		<ModifiedDate>2021-03-31T14:09:20+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="648e6dee-5d51-4fb6-9fef-d6ae3f8818bb">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

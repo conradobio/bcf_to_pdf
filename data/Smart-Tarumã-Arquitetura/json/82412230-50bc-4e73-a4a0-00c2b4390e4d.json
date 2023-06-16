@@ -1,0 +1,43 @@
+{
+    "codigo": "82412230-50bc-4e73-a4a0-00c2b4390e4d",
+    "titulo": "Estrutura do banheiro",
+    "status": "Closed",
+    "descricao": "Dimens\u00f5es do banheiro n\u00e3o ta seguindo estrutura (estrutura com linhas verdes, arquitetura em rosa) por favor ajustar em todas as torres",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-01T15:05:14+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-07T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "d8ccf9c0-7572-441f-951e-500c2ff6203e",
+            "descricao": "Ajustado na R02",
+            "data_acao": "2021-10-21T21:10:14+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "4d79bac7-fa3f-42ec-a54b-056089d351a3",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-01T15:05:14+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "5e07f796-713f-40d6-a86d-b83ea10352ef",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/82412230-50bc-4e73-a4a0-00c2b4390e4d/82412230-50bc-4e73-a4a0-00c2b4390e4d//5e07f796-713f-40d6-a86d-b83ea10352ef_snapshot.png"
+        },
+        {
+            "guid": "dcef67f2-5cf7-4032-8517-18de432f38bd",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/82412230-50bc-4e73-a4a0-00c2b4390e4d/82412230-50bc-4e73-a4a0-00c2b4390e4d//snapshot.png"
+        }
+    ]
+}

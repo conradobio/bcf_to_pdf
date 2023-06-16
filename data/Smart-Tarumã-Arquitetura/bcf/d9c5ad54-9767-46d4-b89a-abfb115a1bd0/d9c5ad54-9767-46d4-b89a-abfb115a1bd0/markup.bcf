@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d9c5ad54-9767-46d4-b89a-abfb115a1bd0" TopicType="Falha" TopicStatus="Closed">
+		<Title>Prancha sem imagem</Title>
+		<Priority>Alta</Priority>
+		<Index>218</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-27T14:00:27+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:02+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-30T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Prancha sem imagem</Description>
+	</Topic>
+	<Comment Guid="bd2f8db1-1e6f-4718-a78a-82039a929c09">
+		<Date>2021-10-29T14:55:09+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resolvido na R01</Comment>
+		<Viewpoint Guid="1cc61dbc-1b53-4d13-92fb-0cf06c11c735" />
+		<ModifiedDate>2021-10-29T14:55:09+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="97eb89ec-7d0d-4301-a4ad-59168b9d9152">
+		<Date>2021-10-18T21:31:57+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>resolvido</Comment>
+		<Viewpoint Guid="65afe616-0398-45ab-92c1-a5b396945cd9" />
+		<ModifiedDate>2021-10-18T21:31:57+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="90aaaa45-236c-41b9-b5ca-8ff6811d8f3c">
+		<Date>2021-09-27T14:00:27+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="65afe616-0398-45ab-92c1-a5b396945cd9" />
+		<ModifiedDate>2021-09-27T14:00:27+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="1cc61dbc-1b53-4d13-92fb-0cf06c11c735">
+		<Viewpoint>1cc61dbc-1b53-4d13-92fb-0cf06c11c735_viewpoint.bcfv</Viewpoint>
+		<Snapshot>1cc61dbc-1b53-4d13-92fb-0cf06c11c735_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="65afe616-0398-45ab-92c1-a5b396945cd9">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

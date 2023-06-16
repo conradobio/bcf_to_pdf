@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="0d05c46c-59bd-4805-8f5a-d0504523aba4" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Modulação bloco de concreto lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>190</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T16:04:40+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:55+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, seguir regra de modulação de blocos de concreto no lazer E, evitando o minimo possivel de cortes nos blocos</Description>
+	</Topic>
+	<Comment Guid="d75a6168-7b72-445e-b7e4-c4a93f148c3b">
+		<Date>2021-10-28T19:03:33+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Modulação adotada na R01</Comment>
+		<Viewpoint Guid="1d5078a1-5d70-467c-b6cc-6e1a7999715c" />
+		<ModifiedDate>2021-10-28T19:03:33+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="cb25289f-4f2d-4e89-bbde-df2874e96624">
+		<Date>2021-10-08T16:20:00+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Dimensões adaptadas a fim de reduzir ao máximo recortes com o mínimo impacto no arquitetônico</Comment>
+		<Viewpoint Guid="42c79082-e4bd-4adb-acfb-2d7b1b8a0651" />
+		<ModifiedDate>2021-10-08T16:20:00+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="5cf75a22-2963-492e-9fa4-775529aa2377">
+		<Date>2021-09-21T16:04:40+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="42c79082-e4bd-4adb-acfb-2d7b1b8a0651" />
+		<ModifiedDate>2021-09-21T16:04:40+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="1d5078a1-5d70-467c-b6cc-6e1a7999715c">
+		<Viewpoint>1d5078a1-5d70-467c-b6cc-6e1a7999715c_viewpoint.bcfv</Viewpoint>
+		<Snapshot>1d5078a1-5d70-467c-b6cc-6e1a7999715c_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="42c79082-e4bd-4adb-acfb-2d7b1b8a0651">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

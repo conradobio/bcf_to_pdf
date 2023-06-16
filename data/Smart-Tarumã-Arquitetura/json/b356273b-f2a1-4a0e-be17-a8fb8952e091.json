@@ -1,0 +1,50 @@
+{
+    "codigo": "b356273b-f2a1-4a0e-be17-a8fb8952e091",
+    "titulo": "Prancha sem imagem",
+    "status": "Closed",
+    "descricao": "Pranchas do Lazer vieram sem desenho",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-27T13:51:40+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-30T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "f679246d-a8ea-4af3-9db1-4999f4aa2daa",
+            "descricao": "Ajustado na r01",
+            "data_acao": "2021-10-29T17:48:56+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "ca2c1b6d-9962-4a70-b5fb-0c9e088ecb9a",
+            "descricao": "Foram verificados os arquivos do Autodoc e os desenhos aparecem normalmente",
+            "data_acao": "2021-10-04T16:08:03+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "aeb5ff34-b0ff-45dd-9805-63f119c35f30",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-27T13:51:40+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "63c97bfd-6213-497f-85ca-2ab476795c6e",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b356273b-f2a1-4a0e-be17-a8fb8952e091/b356273b-f2a1-4a0e-be17-a8fb8952e091//snapshot.png"
+        },
+        {
+            "guid": "cbcd48d3-185e-4595-a663-d19174134d8c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b356273b-f2a1-4a0e-be17-a8fb8952e091/b356273b-f2a1-4a0e-be17-a8fb8952e091//cbcd48d3-185e-4595-a663-d19174134d8c_snapshot.png"
+        }
+    ]
+}

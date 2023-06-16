@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="38a9c013-abc5-4e30-b152-5e0029299440" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Ajustes na Guarita e A. Serviço</Title>
+		<Priority>Alta</Priority>
+		<Index>279</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T17:35:36+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:18+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>A altura do nível até o pórtico tem uma diferença de 2 cm de acordo com o Legal.</Description>
+	</Topic>
+	<Comment Guid="b89a9a6f-3b36-4d14-b082-3ef619d56412">
+		<Date>2021-11-10T18:43:41+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resolvido na revisão R01.</Comment>
+		<Viewpoint Guid="edac5a71-b8c8-4f9b-ba82-0c081afbd8cd" />
+		<ModifiedDate>2021-11-10T18:43:41+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="76fd39cc-4afe-4297-8803-b11dd8fd1518">
+		<Date>2021-10-21T20:24:56+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>O modelo está correto de acordo com o projeto legal</Comment>
+		<Viewpoint Guid="edac5a71-b8c8-4f9b-ba82-0c081afbd8cd" />
+		<ModifiedDate>2021-10-21T20:24:56+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="07544247-dd9d-48fd-8feb-22b43823f39d">
+		<Date>2021-10-13T17:35:39+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="b84677eb-c620-4ddf-b772-c74968b98f2a" />
+		<ModifiedDate>2021-10-13T17:35:39+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a85264f1-b5b3-4378-bbed-db896aac7a37">
+		<Date>2021-10-13T17:35:36+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="6b51d9b4-3941-4d6b-9d78-3c7b9da410f6" />
+		<ModifiedDate>2021-10-13T17:35:36+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="6b51d9b4-3941-4d6b-9d78-3c7b9da410f6">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="b84677eb-c620-4ddf-b772-c74968b98f2a">
+		<Viewpoint>b84677eb-c620-4ddf-b772-c74968b98f2a_viewpoint.bcfv</Viewpoint>
+		<Snapshot>b84677eb-c620-4ddf-b772-c74968b98f2a_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="edac5a71-b8c8-4f9b-ba82-0c081afbd8cd">
+		<Viewpoint>edac5a71-b8c8-4f9b-ba82-0c081afbd8cd_viewpoint.bcfv</Viewpoint>
+		<Snapshot>edac5a71-b8c8-4f9b-ba82-0c081afbd8cd_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

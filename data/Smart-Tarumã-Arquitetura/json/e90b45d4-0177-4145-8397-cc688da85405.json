@@ -1,0 +1,43 @@
+{
+    "codigo": "e90b45d4-0177-4145-8397-cc688da85405",
+    "titulo": "\u00c1rea de pavimenta\u00e7\u00e3o no memorial difere do total no modelo",
+    "status": "Closed",
+    "descricao": "\u00c1rea a pavimentar presente no memorial representa apenas uma parte da \u00e1rea no modelo. Por gentileza, verificar e ajustar.",
+    "tipo": "Problema",
+    "fase": "Projeto Legal",
+    "prioridade": "Alta",
+    "abertura": "2021-03-31T15:36:24+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-04-07T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "c6255031-d30a-4ccb-950e-83292c57e164",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-03-31T15:36:36+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "fac3754a-1e6b-4ec2-b78f-7d4c69d5833b",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-03-31T15:36:24+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "033cdb39-7ea5-4cb4-9a13-61f3c7230045",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e90b45d4-0177-4145-8397-cc688da85405/e90b45d4-0177-4145-8397-cc688da85405//033cdb39-7ea5-4cb4-9a13-61f3c7230045_snapshot.png"
+        },
+        {
+            "guid": "ca84da67-c370-41a5-8226-faebfb5b9612",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e90b45d4-0177-4145-8397-cc688da85405/e90b45d4-0177-4145-8397-cc688da85405//snapshot.png"
+        }
+    ]
+}

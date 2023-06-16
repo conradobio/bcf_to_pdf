@@ -1,0 +1,32 @@
+{
+    "codigo": "bba078c0-4615-4ac1-99e1-77fdacfec8e0",
+    "titulo": "Faltando rodap\u00e9 no sal\u00e3o de festas",
+    "status": "Active",
+    "descricao": "Favor modelar o rodap\u00e9 conforme BEP e Projeto Legal",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-28T20:47:18+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "9b19f76a-6e22-4aab-8968-454db5d2074f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T20:47:18+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "812acdd5-3af1-491b-a0cd-dd7e20caeb5b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/bba078c0-4615-4ac1-99e1-77fdacfec8e0/bba078c0-4615-4ac1-99e1-77fdacfec8e0//snapshot.png"
+        }
+    ]
+}

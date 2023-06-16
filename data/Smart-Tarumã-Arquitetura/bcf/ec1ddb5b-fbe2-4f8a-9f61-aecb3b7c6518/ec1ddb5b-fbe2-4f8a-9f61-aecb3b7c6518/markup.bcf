@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="ec1ddb5b-fbe2-4f8a-9f61-aecb3b7c6518" TopicType="Conflito" TopicStatus="Active">
+		<Title>Banheiros</Title>
+		<Priority>Baixa</Priority>
+		<Index>324</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T18:44:01+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:28+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camada de revestimento acima do lavatórios nos banheiros conforme projeto legal</Description>
+	</Topic>
+	<Comment Guid="4aeb03d6-22d8-448e-a54f-d0edf3c329d3">
+		<Date>2021-10-29T18:44:01+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="a1dc18eb-4836-4476-afd4-a5c42a299465" />
+		<ModifiedDate>2021-10-29T18:44:01+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="a1dc18eb-4836-4476-afd4-a5c42a299465">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

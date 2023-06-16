@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="18f7b6a6-06eb-4b3d-8a43-9f9266165932" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Argamassa colante lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>180</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T15:24:56+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:51+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar argamassa colante conforme extensão do rodapé, por favor, ajustar e verificar todas as ocorrencias</Description>
+	</Topic>
+	<Comment Guid="905e5bc9-3d87-4400-aba4-218e5da14b7b">
+		<Date>2021-10-28T19:38:03+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que foi ajustado</Comment>
+		<Viewpoint Guid="a23f56fb-70be-44bb-860a-5fbc9bea67db" />
+		<ModifiedDate>2021-10-28T19:38:03+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="cde17742-d265-4e5f-8e7a-ca81f343f3a2">
+		<Date>2021-10-11T13:46:35+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Extensão da argamassa colante ajustada conforme a extensão do rodapé</Comment>
+		<Viewpoint Guid="34d597c3-a92c-4bb0-b3ea-8da7941241fa" />
+		<ModifiedDate>2021-10-11T13:46:35+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="accebda5-7bf5-48b3-ae0e-cfcd860fcfec">
+		<Date>2021-09-21T15:24:56+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="34d597c3-a92c-4bb0-b3ea-8da7941241fa" />
+		<ModifiedDate>2021-09-21T15:24:56+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="34d597c3-a92c-4bb0-b3ea-8da7941241fa">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="a23f56fb-70be-44bb-860a-5fbc9bea67db">
+		<Viewpoint>a23f56fb-70be-44bb-860a-5fbc9bea67db_viewpoint.bcfv</Viewpoint>
+		<Snapshot>a23f56fb-70be-44bb-860a-5fbc9bea67db_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

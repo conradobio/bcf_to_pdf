@@ -1,0 +1,43 @@
+{
+    "codigo": "41f921a5-a5d8-46b9-a267-c44d063107ac",
+    "titulo": "Solicita\u00e7\u00e3o da incorporadora para acesso ao coreto na rotat\u00f3ria",
+    "status": "Closed",
+    "descricao": "Adicionar a faixa de pedestre solicitada pela incorpora\u00e7\u00e3o, indicada na figura.",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2020-07-23T18:49:53+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2020-08-06T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "d5689bad-41cd-4a44-9ef7-0ac75f27f56f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-01-25T20:00:18+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "439c723f-ce81-4b07-99d7-0bbb38a4d8bc",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2020-07-23T18:49:53+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "5f030f99-32b7-4043-8864-4fc8136a9d27",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/41f921a5-a5d8-46b9-a267-c44d063107ac/41f921a5-a5d8-46b9-a267-c44d063107ac//snapshot.png"
+        },
+        {
+            "guid": "f9046b20-e58f-4f50-9e78-54f969f0b751",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/41f921a5-a5d8-46b9-a267-c44d063107ac/41f921a5-a5d8-46b9-a267-c44d063107ac//f9046b20-e58f-4f50-9e78-54f969f0b751_snapshot.png"
+        }
+    ]
+}

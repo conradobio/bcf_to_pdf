@@ -1,0 +1,54 @@
+{
+    "codigo": "c5fe58ed-5ae4-4f37-9d35-6bc0dc7bd8b3",
+    "titulo": "Porta dos banheiros",
+    "status": "Closed",
+    "descricao": "Em confer\u00eancia no modelo rvt, identificamos diverg\u00eancias com o projeto de f\u00f4rma met\u00e1lica na por ta dos banheiros, verificar e ajustar em todas as torres",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-01T14:20:15+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-07T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "8d7ee606-135a-4965-8b8c-6ffa404de53c",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-21T21:09:19+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "e14c95f8-8e2d-4639-ae29-153e0919948b",
+            "descricao": "Ajustado na R02",
+            "data_acao": "2021-10-21T21:09:14+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "7d61ddf3-51d3-4d9f-a0dd-220ea220cd33",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-01T14:20:15+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "47f9358d-110b-433e-9670-d9ef5f74c3b7",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c5fe58ed-5ae4-4f37-9d35-6bc0dc7bd8b3/c5fe58ed-5ae4-4f37-9d35-6bc0dc7bd8b3//47f9358d-110b-433e-9670-d9ef5f74c3b7_snapshot.png"
+        },
+        {
+            "guid": "c3e2a638-842d-41c0-844f-c99b209a65b4",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c5fe58ed-5ae4-4f37-9d35-6bc0dc7bd8b3/c5fe58ed-5ae4-4f37-9d35-6bc0dc7bd8b3//snapshot.png"
+        },
+        {
+            "guid": "f2eeff55-935b-4193-9bfc-244d5d1f3d8c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c5fe58ed-5ae4-4f37-9d35-6bc0dc7bd8b3/c5fe58ed-5ae4-4f37-9d35-6bc0dc7bd8b3//f2eeff55-935b-4193-9bfc-244d5d1f3d8c_snapshot.png"
+        }
+    ]
+}

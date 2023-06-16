@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="7d4d491c-da2b-484d-abfb-370d3b3c1199" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Fachada lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>189</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T16:04:35+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:55+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Portas fora de nivel na fachada do lazer E, por gentileza, verificar todas e ajustar</Description>
+	</Topic>
+	<Comment Guid="a4dbf3de-a97d-4475-ac54-a18e2ea785fa">
+		<Date>2021-10-28T19:03:34+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Corrigido na R01</Comment>
+		<Viewpoint Guid="144dacfe-a2a2-457f-a6ab-9b1cfe6972d0" />
+		<ModifiedDate>2021-10-28T19:03:34+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="0708fd62-50a8-4a32-a4ea-27b4296b4534">
+		<Date>2021-10-13T19:05:42+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Altura das portas ajustada</Comment>
+		<Viewpoint Guid="c78435b9-0cd8-4fb0-ac01-fea6b7613063" />
+		<ModifiedDate>2021-10-13T19:05:42+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="88591cb8-3798-4ed7-9143-261a16436d6a">
+		<Date>2021-09-21T16:04:35+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c78435b9-0cd8-4fb0-ac01-fea6b7613063" />
+		<ModifiedDate>2021-09-21T16:04:35+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="144dacfe-a2a2-457f-a6ab-9b1cfe6972d0">
+		<Viewpoint>144dacfe-a2a2-457f-a6ab-9b1cfe6972d0_viewpoint.bcfv</Viewpoint>
+		<Snapshot>144dacfe-a2a2-457f-a6ab-9b1cfe6972d0_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="c78435b9-0cd8-4fb0-ac01-fea6b7613063">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

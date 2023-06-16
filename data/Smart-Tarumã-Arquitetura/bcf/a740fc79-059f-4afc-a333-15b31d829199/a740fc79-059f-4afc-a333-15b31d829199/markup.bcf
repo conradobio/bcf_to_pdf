@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="a740fc79-059f-4afc-a333-15b31d829199" TopicType="Problema" TopicStatus="Closed">
+		<Title>Taludes Entrando na área de segurança da APP</Title>
+		<Priority>Crítica</Priority>
+		<Index>225</Index>
+		<Labels>Arquitetura</Labels>
+		<Labels>Terraplanagem</Labels>
+		<CreationDate>2021-09-29T15:40:27+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:04+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-05T14:00:00+00:00</DueDate>
+		<AssignedTo>christianmelo@vemmorarmais.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>O talude está entrando na área de segurança definida pela construtora pra não invadir a app, vamos ter q diminuir esses platôs ou o talude, se quisermos manter essa distância.</Description>
+	</Topic>
+	<Comment Guid="869bf75f-abbf-4f6b-968e-f2c00270cbad">
+		<Date>2021-09-29T15:46:37+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>O mesmo princípio para o castelo indicado e talude das torres indicadas.</Comment>
+		<Viewpoint Guid="e8bff244-45af-4dfa-92c3-67c58e8ad71c" />
+		<ModifiedDate>2021-09-29T15:46:37+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="82a42aa2-759c-4e8d-8e2a-9fc0c0f38901">
+		<Date>2021-09-29T15:44:38+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>O mesmo princípio para o platô e tanque de retenção.</Comment>
+		<Viewpoint Guid="0d617993-f3b4-48e6-a5f8-039c4b4bafef" />
+		<ModifiedDate>2021-09-29T15:44:38+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="44c7e062-f9ed-4d73-8d35-c1ef83ea3166">
+		<Date>2021-09-29T15:41:15+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resposta Morar:  Rebaixar cota do platô de serviço e implantar escada para acesso.</Comment>
+		<Viewpoint Guid="2371d3b0-b765-4f1f-97bc-bd2e9ea5202d" />
+		<ModifiedDate>2021-09-29T15:41:15+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ba013319-8134-4bfe-86b4-5619399de0e2">
+		<Date>2021-09-29T15:40:27+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="2371d3b0-b765-4f1f-97bc-bd2e9ea5202d" />
+		<ModifiedDate>2021-09-29T15:40:27+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0d617993-f3b4-48e6-a5f8-039c4b4bafef">
+		<Viewpoint>0d617993-f3b4-48e6-a5f8-039c4b4bafef_viewpoint.bcfv</Viewpoint>
+		<Snapshot>0d617993-f3b4-48e6-a5f8-039c4b4bafef_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="2371d3b0-b765-4f1f-97bc-bd2e9ea5202d">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="e8bff244-45af-4dfa-92c3-67c58e8ad71c">
+		<Viewpoint>e8bff244-45af-4dfa-92c3-67c58e8ad71c_viewpoint.bcfv</Viewpoint>
+		<Snapshot>e8bff244-45af-4dfa-92c3-67c58e8ad71c_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

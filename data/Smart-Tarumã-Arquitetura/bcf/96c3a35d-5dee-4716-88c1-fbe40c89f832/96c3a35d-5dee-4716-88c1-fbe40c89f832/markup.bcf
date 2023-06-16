@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="96c3a35d-5dee-4716-88c1-fbe40c89f832" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Documentação</Title>
+		<Priority>Alta</Priority>
+		<Index>323</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T18:22:29+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:28+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-12-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Faltando entregar PDF</Description>
+	</Topic>
+	<Comment Guid="b1ed74b4-4f29-4cfd-9935-3571dadc3b65">
+		<Date>2021-10-29T18:22:29+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="447f91e0-632c-440a-9c4c-1747fb9a5683" />
+		<ModifiedDate>2021-10-29T18:22:29+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="447f91e0-632c-440a-9c4c-1747fb9a5683">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

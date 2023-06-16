@@ -1,0 +1,50 @@
+{
+    "codigo": "c16174c9-4931-4c23-9a92-bc715ad75011",
+    "titulo": "Hall",
+    "status": "Active",
+    "descricao": "Modelar camada de pintura no hall conforme BEP",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-16T17:52:07+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-28T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "d69d1e67-280d-42d8-884b-b41b3b3b6db2",
+            "descricao": "N\u00e3o ajustado",
+            "data_acao": "2021-10-21T20:28:41+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "acf47f58-feb8-40ff-9290-5fadc5cb0d4f",
+            "descricao": "n\u00e3o resolvido, verificar todas as ocorrencias",
+            "data_acao": "2021-09-30T21:24:27+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "4150db6f-4bbb-4831-a513-0a3d0114f17d",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-16T17:52:07+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "20933ddc-af46-4810-b8c0-0f00a764f61c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c16174c9-4931-4c23-9a92-bc715ad75011/c16174c9-4931-4c23-9a92-bc715ad75011//20933ddc-af46-4810-b8c0-0f00a764f61c_snapshot.png"
+        },
+        {
+            "guid": "96d58813-08af-4f89-99cc-95c2aa11a436",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c16174c9-4931-4c23-9a92-bc715ad75011/c16174c9-4931-4c23-9a92-bc715ad75011//snapshot.png"
+        }
+    ]
+}

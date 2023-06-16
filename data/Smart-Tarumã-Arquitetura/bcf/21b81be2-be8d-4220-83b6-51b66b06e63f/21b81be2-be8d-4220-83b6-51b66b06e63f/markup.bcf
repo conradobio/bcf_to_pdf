@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="21b81be2-be8d-4220-83b6-51b66b06e63f" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Camadas de piso lazer C</Title>
+		<Priority>Alta</Priority>
+		<Index>160</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T21:59:35+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:44+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camada de piso conforme BEP</Description>
+	</Topic>
+	<Comment Guid="2d6b94b8-1332-424c-9f7b-d67eec00ab9f">
+		<Date>2021-10-29T14:55:06+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Modelo ainda se encontra com algumas falhas no piso na área dos banheiros, verificar todas as ocorrencias por favor</Comment>
+		<Viewpoint Guid="e0517488-680a-4f05-b9f1-c700bfc22640" />
+		<ModifiedDate>2021-10-29T14:55:06+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a9f41ce6-dbb8-405e-abff-ed2cedea01d0">
+		<Date>2021-10-11T13:57:40+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="e4d53ebb-2cad-4cc7-abaf-a6b0779a7f82" />
+		<ModifiedDate>2021-10-11T13:57:40+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="8098ac38-7aa3-4872-8231-b1500bcdc90c">
+		<Date>2021-09-20T21:59:35+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="e4d53ebb-2cad-4cc7-abaf-a6b0779a7f82" />
+		<ModifiedDate>2021-09-20T21:59:35+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="e0517488-680a-4f05-b9f1-c700bfc22640">
+		<Viewpoint>e0517488-680a-4f05-b9f1-c700bfc22640_viewpoint.bcfv</Viewpoint>
+		<Snapshot>e0517488-680a-4f05-b9f1-c700bfc22640_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="e4d53ebb-2cad-4cc7-abaf-a6b0779a7f82">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

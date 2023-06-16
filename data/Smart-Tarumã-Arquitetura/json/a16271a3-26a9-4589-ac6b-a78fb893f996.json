@@ -1,0 +1,32 @@
+{
+    "codigo": "a16271a3-26a9-4589-ac6b-a78fb893f996",
+    "titulo": "Conflito",
+    "status": "Active",
+    "descricao": "Pia comflitando com parede por favor, ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T20:31:21+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "a3361143-b9e7-41b2-bbba-2e5a24acc671",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T20:31:21+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0b310d23-ab21-432c-a231-be2d478d2421",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a16271a3-26a9-4589-ac6b-a78fb893f996/a16271a3-26a9-4589-ac6b-a78fb893f996//snapshot.png"
+        }
+    ]
+}

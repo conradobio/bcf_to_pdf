@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="bf1f44c8-7fcb-48d5-ac51-17c35bce44b7" TopicType="Conflito" TopicStatus="Closed">
+		<Title>Guarda corpo</Title>
+		<Priority>Alta</Priority>
+		<Index>250</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-30T20:56:15+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:10+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-06T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Faltando guarda corpo no ultimo pavimento</Description>
+	</Topic>
+	<Comment Guid="bbe1aec0-9d56-4708-97c4-a9ff1c0ac538">
+		<Date>2021-10-21T20:36:20+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="029da3a8-a2dc-40b4-bf84-a634b88ef9a8" />
+		<ModifiedDate>2021-10-21T20:36:20+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ddc53fb8-2848-4e96-a58b-ba6527839072">
+		<Date>2021-10-21T20:36:14+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r02</Comment>
+		<Viewpoint Guid="4c64d731-ebea-429d-b85f-1d83b25c0fef" />
+		<ModifiedDate>2021-10-21T20:36:14+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="cb3d8edd-9f3c-46fd-9f4f-d8730f17fdda">
+		<Date>2021-09-30T20:56:15+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="85f6f629-d219-4413-834c-e24ba3ebab1a" />
+		<ModifiedDate>2021-09-30T20:56:15+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="029da3a8-a2dc-40b4-bf84-a634b88ef9a8">
+		<Viewpoint>029da3a8-a2dc-40b4-bf84-a634b88ef9a8_viewpoint.bcfv</Viewpoint>
+		<Snapshot>029da3a8-a2dc-40b4-bf84-a634b88ef9a8_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="4c64d731-ebea-429d-b85f-1d83b25c0fef">
+		<Viewpoint>4c64d731-ebea-429d-b85f-1d83b25c0fef_viewpoint.bcfv</Viewpoint>
+		<Snapshot>4c64d731-ebea-429d-b85f-1d83b25c0fef_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="85f6f629-d219-4413-834c-e24ba3ebab1a">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

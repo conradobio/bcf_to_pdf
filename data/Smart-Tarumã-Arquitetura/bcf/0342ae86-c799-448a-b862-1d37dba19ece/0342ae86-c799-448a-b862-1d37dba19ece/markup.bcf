@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="0342ae86-c799-448a-b862-1d37dba19ece" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Banheiros</Title>
+		<Priority>Alta</Priority>
+		<Index>319</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T18:06:33+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:27+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camada de revestimento ceramico acima do lavatório conforme projeto legal</Description>
+	</Topic>
+	<Comment Guid="916b006c-f729-4000-bf61-552b359c5cb9">
+		<Date>2021-10-29T18:06:33+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="85abc007-26d2-451c-a572-7eb9b2b542f4" />
+		<ModifiedDate>2021-10-29T18:06:33+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="85abc007-26d2-451c-a572-7eb9b2b542f4">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

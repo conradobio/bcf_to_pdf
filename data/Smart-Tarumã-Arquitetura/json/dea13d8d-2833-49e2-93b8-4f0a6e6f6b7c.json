@@ -1,0 +1,50 @@
+{
+    "codigo": "dea13d8d-2833-49e2-93b8-4f0a6e6f6b7c",
+    "titulo": "Piscina lazer E",
+    "status": "Closed",
+    "descricao": "Modelar camada de parede conforme BEP na piscina do lazer E",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T15:17:13+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "51c32b75-cf2f-4c38-a7f2-d421d783b8b1",
+            "descricao": "Camadas modeladas na R01",
+            "data_acao": "2021-10-28T19:45:51+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "5e09ad1e-ac49-4043-841c-1b9b0cf7e90a",
+            "descricao": "camada da parede na \u00e1rea da piscina modelada conforme BEP",
+            "data_acao": "2021-10-11T14:26:30+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "c036dbf8-e463-4620-b3d4-1aeee46cd573",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T15:17:13+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "2322701f-01e8-4f60-9e81-0f44cfa16b17",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/dea13d8d-2833-49e2-93b8-4f0a6e6f6b7c/dea13d8d-2833-49e2-93b8-4f0a6e6f6b7c//snapshot.png"
+        },
+        {
+            "guid": "57fe4a7e-9063-4200-801b-a2747d45a821",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/dea13d8d-2833-49e2-93b8-4f0a6e6f6b7c/dea13d8d-2833-49e2-93b8-4f0a6e6f6b7c//57fe4a7e-9063-4200-801b-a2747d45a821_snapshot.png"
+        }
+    ]
+}

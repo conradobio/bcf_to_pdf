@@ -1,0 +1,50 @@
+{
+    "codigo": "a4b2102f-18bd-46b5-bb7f-e50929d46467",
+    "titulo": "Piso lazer A",
+    "status": "Closed",
+    "descricao": "Inserir camada de revestimento do piso conforme BEP, Por favor",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-20T18:59:18+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-26T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "c16630d2-03d4-4508-b958-d3141f8cc667",
+            "descricao": "Ajustado na R01",
+            "data_acao": "2021-10-29T17:48:46+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "6dd4eca4-7cf4-4650-be7d-1fc2f858d351",
+            "descricao": "Revestimento do piso alterado conforme BEP, ou seja, piso cer\u00e2mico nos ambientes de lazer. No entanto, destaca-se que no projeto legal a indica\u00e7\u00e3o \u00e9 de piso emborrachado na brinquedoteca",
+            "data_acao": "2021-10-05T14:11:24+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "eeb33b70-7801-4d32-98c9-c2486bbab7d4",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-20T18:59:19+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "08da2da8-6d08-4dd3-9942-e615a05f6b1d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a4b2102f-18bd-46b5-bb7f-e50929d46467/a4b2102f-18bd-46b5-bb7f-e50929d46467//snapshot.png"
+        },
+        {
+            "guid": "38b590df-5580-4883-ae5b-c832c22aa46f",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a4b2102f-18bd-46b5-bb7f-e50929d46467/a4b2102f-18bd-46b5-bb7f-e50929d46467//38b590df-5580-4883-ae5b-c832c22aa46f_snapshot.png"
+        }
+    ]
+}

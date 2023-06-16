@@ -1,0 +1,43 @@
+{
+    "codigo": "1e6d7c95-404f-4610-ad3f-540e5b15f5db",
+    "titulo": "Muro de Divisa",
+    "status": "Active",
+    "descricao": "ESSE TRECHO N\u00c1O EST\u00c1 APRESENTADO NA SURFACE? ARQUITETURA ANALISAR E SUGERIR COMO FICAR\u00c1 O MURO DE DIVISA NESTE PONTO",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-29T20:39:10+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-05T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "95c587a7-9d7c-486d-9236-a1b309fdd4c1",
+            "descricao": "Verificar como ser\u00e1 o muro de divisa nessa \u00e1rea tamb\u00e9m.",
+            "data_acao": "2021-09-29T21:49:34+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "697fb649-c4aa-4a6f-b144-930d0313a3bf",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T20:39:10+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "7be03725-477e-439a-8118-c68cacff60c9",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/1e6d7c95-404f-4610-ad3f-540e5b15f5db/1e6d7c95-404f-4610-ad3f-540e5b15f5db//snapshot.png"
+        },
+        {
+            "guid": "eeec58a7-3baa-43ba-ad6b-83c02354771f",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/1e6d7c95-404f-4610-ad3f-540e5b15f5db/1e6d7c95-404f-4610-ad3f-540e5b15f5db//eeec58a7-3baa-43ba-ad6b-83c02354771f_snapshot.png"
+        }
+    ]
+}

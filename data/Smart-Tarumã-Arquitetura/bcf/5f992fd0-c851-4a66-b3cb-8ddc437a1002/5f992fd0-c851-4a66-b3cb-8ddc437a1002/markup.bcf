@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="5f992fd0-c851-4a66-b3cb-8ddc437a1002" TopicType="Solicitação" TopicStatus="Resolved">
+		<Title>Faltando muro no acesso externo a lixeira</Title>
+		<Priority>Alta</Priority>
+		<Index>269</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T12:30:00+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:13+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar o muro conforme o projeto legal</Description>
+	</Topic>
+	<Comment Guid="d0e76791-c72d-48cf-bda8-933807c6ada5">
+		<Date>2021-10-26T14:10:44+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Conforme o projeto legal, as duas paredes externas devem ter 19 cm. Porém conforme explicado pela coordenação, os muros de divisa tem 9 cm e as paredes dos anexos tem 14 cm. Logo, a lixeira será modelada em 14 cm. Quanto ao muro, não poderá ser modelado, pois já foi modelado na implantação.</Comment>
+		<Viewpoint Guid="556dc91e-f510-4c5d-82b5-e1f2f889b659" />
+		<ModifiedDate>2021-10-26T14:10:44+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="aa8eccda-4d99-486f-8115-52aee85bb267">
+		<Date>2021-10-18T13:05:59+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foi modelado conforme o projeto legal, com 19 cm, mas o BEP diz que as paredes devem ter 14 cm.</Comment>
+		<Viewpoint Guid="556dc91e-f510-4c5d-82b5-e1f2f889b659" />
+		<ModifiedDate>2021-10-18T13:05:59+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="92e8feac-a64d-401e-808c-510e8eddc9f2">
+		<Date>2021-10-13T12:30:00+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d0e95d84-30e1-43df-ad09-0bad6c94ebb1" />
+		<ModifiedDate>2021-10-13T12:30:00+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="556dc91e-f510-4c5d-82b5-e1f2f889b659">
+		<Viewpoint>556dc91e-f510-4c5d-82b5-e1f2f889b659_viewpoint.bcfv</Viewpoint>
+		<Snapshot>556dc91e-f510-4c5d-82b5-e1f2f889b659_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d0e95d84-30e1-43df-ad09-0bad6c94ebb1">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

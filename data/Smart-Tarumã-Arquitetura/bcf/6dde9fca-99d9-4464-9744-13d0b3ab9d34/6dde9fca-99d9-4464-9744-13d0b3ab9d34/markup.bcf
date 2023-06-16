@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="6dde9fca-99d9-4464-9744-13d0b3ab9d34" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Caixa de Retardo</Title>
+		<Priority>Alta</Priority>
+		<Index>15</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-01-12T20:15:07+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:23+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-01-26T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Identificar local previsto para a Caixa de Retardo</Description>
+	</Topic>
+	<Comment Guid="4089e6fd-63fb-49fd-8c5c-7e75e5c88c6d">
+		<Date>2021-01-25T19:35:16+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Atendido na R00.4</Comment>
+		<Viewpoint Guid="5cece988-b8cf-4aa8-9bd6-42a0d5c8d498" />
+		<ModifiedDate>2021-01-25T19:35:16+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="5cece988-b8cf-4aa8-9bd6-42a0d5c8d498">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

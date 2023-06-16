@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="6c17c7aa-64ec-4727-a88a-a5fe06c82db1" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Solicitação para identificar as janelas nas áreas de lazer</Title>
+		<Priority>Baixa</Priority>
+		<Index>9</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2020-09-24T14:35:03+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:21+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2020-10-01T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Solicitação da incorporação de identificar as janelas das áreas de lazer na Implantaçao</Description>
+	</Topic>
+	<Comment Guid="466fddac-6f32-43e6-9b36-b3cf77e82ef1">
+		<Date>2020-09-24T18:24:47+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>NÃO É NECESSÁRIO IDENTIFICAR POIS O PROJETO ESPECÍFICO DA ÁREA DE LAZER JÁ TEM ESSE REGISTRO. O QUE A INCORPORAÇÃO SOLICITOU FOI A IDENTIFICAÇÃO NO DESENHO POIS TINHAM AMBIENTES QUE ESTAVAM SEM A JANELA (ACADEMIA, MASTER CHEF)</Comment>
+		<Viewpoint Guid="64bcd2d2-ddc8-48fb-a7f6-5c3a9264a2d9" />
+		<ModifiedDate>2020-09-24T18:24:47+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="670ebee4-ccde-4d99-90aa-439dc55e7c76">
+		<Date>2020-09-24T14:35:03+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="64bcd2d2-ddc8-48fb-a7f6-5c3a9264a2d9" />
+		<ModifiedDate>2020-09-24T14:35:03+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="64bcd2d2-ddc8-48fb-a7f6-5c3a9264a2d9">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

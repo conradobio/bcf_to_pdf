@@ -1,0 +1,61 @@
+{
+    "codigo": "a740fc79-059f-4afc-a333-15b31d829199",
+    "titulo": "Taludes Entrando na \u00e1rea de seguran\u00e7a da APP",
+    "status": "Closed",
+    "descricao": "O talude est\u00e1 entrando na \u00e1rea de seguran\u00e7a definida pela construtora pra n\u00e3o invadir a app, vamos ter q diminuir esses plat\u00f4s ou o talude, se quisermos manter essa dist\u00e2ncia.",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-09-29T15:40:27+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-05T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "christianmelo@vemmorarmais.com.br",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "869bf75f-abbf-4f6b-968e-f2c00270cbad",
+            "descricao": "O mesmo princ\u00edpio para o castelo indicado e talude das torres indicadas.",
+            "data_acao": "2021-09-29T15:46:37+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "82a42aa2-759c-4e8d-8e2a-9fc0c0f38901",
+            "descricao": "O mesmo princ\u00edpio para o plat\u00f4 e tanque de reten\u00e7\u00e3o.",
+            "data_acao": "2021-09-29T15:44:38+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "44c7e062-f9ed-4d73-8d35-c1ef83ea3166",
+            "descricao": "Resposta Morar:  Rebaixar cota do plat\u00f4 de servi\u00e7o e implantar escada para acesso.",
+            "data_acao": "2021-09-29T15:41:15+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "ba013319-8134-4bfe-86b4-5619399de0e2",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T15:40:27+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0d617993-f3b4-48e6-a5f8-039c4b4bafef",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a740fc79-059f-4afc-a333-15b31d829199/a740fc79-059f-4afc-a333-15b31d829199//0d617993-f3b4-48e6-a5f8-039c4b4bafef_snapshot.png"
+        },
+        {
+            "guid": "2371d3b0-b765-4f1f-97bc-bd2e9ea5202d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a740fc79-059f-4afc-a333-15b31d829199/a740fc79-059f-4afc-a333-15b31d829199//snapshot.png"
+        },
+        {
+            "guid": "e8bff244-45af-4dfa-92c3-67c58e8ad71c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a740fc79-059f-4afc-a333-15b31d829199/a740fc79-059f-4afc-a333-15b31d829199//e8bff244-45af-4dfa-92c3-67c58e8ad71c_snapshot.png"
+        }
+    ]
+}

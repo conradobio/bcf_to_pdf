@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d7a4a44d-d97f-4011-96e5-f523c54a3a0e" TopicType="Consulta de Informação" TopicStatus="Closed">
+		<Title>Cotas diferem na prancha e do projeto de terraplanagem</Title>
+		<Priority>Alta</Priority>
+		<Index>43</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-03-31T13:48:04+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:24+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Divergência entre cotas na prancha e do projeto de terraplanagem. No caso da imagem anexa, a diferença na Torre 30 está em 17cm, Por gentileza, verificar essa e outras ocorrências ao longo da prancha.</Description>
+	</Topic>
+	<Comment Guid="f1a0a969-23ec-4f53-9439-a8c57f5554a9">
+		<Date>2021-04-09T16:57:42+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="21d3488d-c212-4970-889d-5a7995cefdbf" />
+		<ModifiedDate>2021-04-09T16:57:42+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="7f01a217-5d78-4c59-9f2d-2113aca35b6f">
+		<Date>2021-04-02T20:20:16+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>A divergência estava na cota do piso acabado. A cota do platô estava de acordo. Ajustado!</Comment>
+		<Viewpoint Guid="21d3488d-c212-4970-889d-5a7995cefdbf" />
+		<ModifiedDate>2021-04-02T20:20:16+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="0954c12e-2a09-4028-b66b-3d9849ab74f3">
+		<Date>2021-03-31T13:48:06+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="21d3488d-c212-4970-889d-5a7995cefdbf" />
+		<ModifiedDate>2021-03-31T13:48:06+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="21d3488d-c212-4970-889d-5a7995cefdbf">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

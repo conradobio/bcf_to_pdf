@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="b5ad3241-bc95-46ce-bfdf-d7bb47e2fe13" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Revestimento ceramico</Title>
+		<Priority>Alta</Priority>
+		<Index>310</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T15:39:57+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:25+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>coordenacao@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Acrescentar revestimento ceramico no lavatório conforme projeto legal</Description>
+	</Topic>
+	<Comment Guid="cdb78e71-e676-495d-b10d-e54d0b2fc8c2">
+		<Date>2021-10-29T15:39:57+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="adcba499-9448-417f-b645-a6b5415e3900" />
+		<ModifiedDate>2021-10-29T15:39:57+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="adcba499-9448-417f-b645-a6b5415e3900">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

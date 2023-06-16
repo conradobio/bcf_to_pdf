@@ -1,0 +1,32 @@
+{
+    "codigo": "2f9e0e42-fc9c-44ea-bd17-4e42f3f57c21",
+    "titulo": "Arquitetura n\u00e3o est\u00e1 georreferenciada",
+    "status": "Closed",
+    "descricao": "Arquitetura n\u00e3o est\u00e1 georreferenciada conforme terraplanagem e topografia. Por gentileza, ajustar.",
+    "tipo": "Problema",
+    "fase": "Projeto Legal",
+    "prioridade": "Alta",
+    "abertura": "2021-03-31T13:04:40+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-04-07T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "d5689e7d-1908-4490-97f5-876c812d6a4a",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-03-31T13:04:40+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "89d1d003-7c62-4c55-8c5d-ae7dcd3d5cc8",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2f9e0e42-fc9c-44ea-bd17-4e42f3f57c21/2f9e0e42-fc9c-44ea-bd17-4e42f3f57c21//snapshot.png"
+        }
+    ]
+}

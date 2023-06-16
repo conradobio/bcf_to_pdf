@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="c4888423-3b9d-4448-872c-60251ee180a1" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Ajuste equipamentos dos vestiários</Title>
+		<Priority>Alta</Priority>
+		<Index>280</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T17:46:24+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:18+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>A pia e o vaso não estão alinhados no nível do piso, favor ajustar</Description>
+	</Topic>
+	<Comment Guid="75d68c73-4c15-4b5f-ba50-52dd554e0c2c">
+		<Date>2021-11-10T18:30:37+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resolvido na revisão R01.</Comment>
+		<Viewpoint Guid="26a63ff6-b22a-46c4-bfbe-e3cf42060dbc" />
+		<ModifiedDate>2021-11-10T18:30:37+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="d1fa3d34-2c6a-4fc5-a1fd-cc1a4374b160">
+		<Date>2021-10-20T13:02:38+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="fa301160-88a9-4911-a5ca-38d81d857b74" />
+		<ModifiedDate>2021-10-20T13:02:38+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="c1d0afcd-d747-470e-8141-59a126b959ac">
+		<Date>2021-10-13T17:46:24+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d4bdb1fb-f2e5-479b-b92d-1faf052f1b04" />
+		<ModifiedDate>2021-10-13T17:46:24+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="26a63ff6-b22a-46c4-bfbe-e3cf42060dbc">
+		<Viewpoint>26a63ff6-b22a-46c4-bfbe-e3cf42060dbc_viewpoint.bcfv</Viewpoint>
+		<Snapshot>26a63ff6-b22a-46c4-bfbe-e3cf42060dbc_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d4bdb1fb-f2e5-479b-b92d-1faf052f1b04">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="fa301160-88a9-4911-a5ca-38d81d857b74">
+		<Viewpoint>fa301160-88a9-4911-a5ca-38d81d857b74_viewpoint.bcfv</Viewpoint>
+		<Snapshot>fa301160-88a9-4911-a5ca-38d81d857b74_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

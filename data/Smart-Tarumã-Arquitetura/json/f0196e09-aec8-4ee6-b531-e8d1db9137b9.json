@@ -1,0 +1,32 @@
+{
+    "codigo": "f0196e09-aec8-4ee6-b531-e8d1db9137b9",
+    "titulo": "Modelagem da fachada",
+    "status": "Active",
+    "descricao": "Por favor, verificar e ajustar esse espa\u00e7o na parede da fachada do Lazer E",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-28T19:07:04+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "e46f9ab2-8b0e-4218-ae26-3c2497fcc1db",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T19:07:04+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0161b395-44df-4c8a-b17c-701ac3a65dd5",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/f0196e09-aec8-4ee6-b531-e8d1db9137b9/f0196e09-aec8-4ee6-b531-e8d1db9137b9//snapshot.png"
+        }
+    ]
+}

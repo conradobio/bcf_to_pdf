@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="3a25a380-ccd8-4420-b30e-3768ed93ebba" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Nomenclatura</Title>
+		<Priority>Baixa</Priority>
+		<Index>264</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-11T19:26:28+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:12+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-18T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Atentar para a nomenclatura dos arquivos, foram upados arquivos com revisões não correspondentes</Description>
+	</Topic>
+	<Comment Guid="4993eb45-75fc-4ea8-be1a-9564d0bc91e7">
+		<Date>2021-10-11T19:26:28+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="47bf9f11-51f1-4274-98e8-b2259a14e249" />
+		<ModifiedDate>2021-10-11T19:26:28+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="47bf9f11-51f1-4274-98e8-b2259a14e249">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

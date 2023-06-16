@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d2cd1c3e-3adb-4b57-875d-aedb5699bcac" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Espessura das camadas do piso</Title>
+		<Priority>Alta</Priority>
+		<Index>275</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T16:28:09+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:16+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor ajustar a espessura das camadas do piso da guarita conforme o BEP</Description>
+	</Topic>
+	<Comment Guid="051ccfca-95f3-4f5e-942a-a902b168ef75">
+		<Date>2021-11-10T19:01:07+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resolvido na revisão R01.</Comment>
+		<Viewpoint Guid="e907df11-fc48-463b-a8d5-6058cb87ed92" />
+		<ModifiedDate>2021-11-10T19:01:07+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="69a16803-bddc-4859-93b1-b9f2978961e1">
+		<Date>2021-10-22T12:37:02+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foram usadas as espessuras de contrapiso (3cm) do hall da torre. E argamassa + cerâmica (2cm) do hall da torre nas áreas secas e argamassa + cerâmica (1,5cm) nas áreas molhadas.</Comment>
+		<Viewpoint Guid="57867659-f499-4557-9d7c-ac6a74238dc1" />
+		<ModifiedDate>2021-10-22T12:37:02+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="3a7463bd-bbfd-45bb-b0dc-a633803c21bf">
+		<Date>2021-10-13T16:28:09+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="57867659-f499-4557-9d7c-ac6a74238dc1" />
+		<ModifiedDate>2021-10-13T16:28:09+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="57867659-f499-4557-9d7c-ac6a74238dc1">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="e907df11-fc48-463b-a8d5-6058cb87ed92">
+		<Viewpoint>e907df11-fc48-463b-a8d5-6058cb87ed92_viewpoint.bcfv</Viewpoint>
+		<Snapshot>e907df11-fc48-463b-a8d5-6058cb87ed92_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

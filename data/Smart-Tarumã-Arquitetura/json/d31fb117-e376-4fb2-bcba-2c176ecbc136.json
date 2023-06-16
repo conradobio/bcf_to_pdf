@@ -1,0 +1,39 @@
+{
+    "codigo": "d31fb117-e376-4fb2-bcba-2c176ecbc136",
+    "titulo": "Solicita\u00e7\u00e3o para adicionar o espa\u00e7o de lavagem do carro no quadro de uso e ocupa\u00e7\u00e3o do solo",
+    "status": "Closed",
+    "descricao": "Foi solicitado pela incorpora\u00e7\u00e3o adicionar a \u00e1rea do espa\u00e7o de lavagem do carro  (COD.: 22) na quadro de \u00e1reas.",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Projeto Legal",
+    "prioridade": "Baixa",
+    "abertura": "2020-09-24T14:37:56+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2020-10-01T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "089baf47-e050-4656-94db-c36635b1fcd7",
+            "descricao": "RESOLVIDO NA ENTREGA DO DIA 24/9",
+            "data_acao": "2020-09-24T18:21:39+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "60164ab4-24bc-4544-8d83-3cd7a1c29995",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2020-09-24T14:37:56+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "43faee96-baa5-492d-9303-5b0fe3bf01b3",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d31fb117-e376-4fb2-bcba-2c176ecbc136/d31fb117-e376-4fb2-bcba-2c176ecbc136//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "codigo": "5781f001-16f8-46ae-963a-2c7e2b7a6f12",
+    "titulo": "Verificar poss\u00edvel problema nos lotes em destaque",
+    "status": "Closed",
+    "descricao": "Foi observado um conflito entre um muro de divisa (desatacado em azul) e os limites dos lotes da arquitetura (destacado em amarelo) conforme a imagem. Verificar se haver\u00e1 necessidade de algum reajuste.",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Em Espera",
+    "abertura": "2020-07-20T13:36:05+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "sem data",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "6176e5e1-3914-4f21-9f5a-cdb841accf69",
+            "descricao": "Tipologia do empreendimento alterada",
+            "data_acao": "2021-01-25T19:52:03+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "38a61f41-bb30-4413-9a2e-3e80a2d8a3a4",
+            "descricao": "Essa poligonal desse arquivo da duplica\u00e7\u00e3o \u00e9 para ser desconsiderada. O terreno est\u00e1 de acordo com a coordenada da topografia e a poligonal.",
+            "data_acao": "2020-09-22T13:16:30+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "6e26737e-a90e-41cc-8180-b5622cd507a5",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2020-07-20T13:36:05+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "17a27817-8939-48b3-9bda-a9608daf1149",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/5781f001-16f8-46ae-963a-2c7e2b7a6f12/5781f001-16f8-46ae-963a-2c7e2b7a6f12//snapshot.png"
+        }
+    ]
+}

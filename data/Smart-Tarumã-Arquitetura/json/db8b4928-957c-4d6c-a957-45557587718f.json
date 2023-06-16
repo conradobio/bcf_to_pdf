@@ -1,0 +1,54 @@
+{
+    "codigo": "db8b4928-957c-4d6c-a957-45557587718f",
+    "titulo": "Cozinha",
+    "status": "Closed",
+    "descricao": "Por gentileza, inserir veneziana para ventila\u00e7\u00e3o da cozinha",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-08-26T14:40:20+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-01T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "rafaelavilela@construtoracapital.com.br",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "3a957de4-cc48-4666-b481-54441ee87a11",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-15T21:18:11+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "48d2df36-d653-48f4-bad6-d940ee01c9a5",
+            "descricao": "AJUSTADO NA R01",
+            "data_acao": "2021-09-15T21:18:02+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "331686c6-53d3-471f-8337-dcddfd5cf147",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-26T14:40:20+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "488a0a22-4149-43d7-88fb-40115ccd85e0",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/db8b4928-957c-4d6c-a957-45557587718f/db8b4928-957c-4d6c-a957-45557587718f//snapshot.png"
+        },
+        {
+            "guid": "d985ae98-a254-49ca-bf5c-ada39f265733",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/db8b4928-957c-4d6c-a957-45557587718f/db8b4928-957c-4d6c-a957-45557587718f//d985ae98-a254-49ca-bf5c-ada39f265733_snapshot.png"
+        },
+        {
+            "guid": "fbc24c05-c195-4b2c-b980-50acceda0fb6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/db8b4928-957c-4d6c-a957-45557587718f/db8b4928-957c-4d6c-a957-45557587718f//fbc24c05-c195-4b2c-b980-50acceda0fb6_snapshot.png"
+        }
+    ]
+}

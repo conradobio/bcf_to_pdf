@@ -1,0 +1,39 @@
+{
+    "codigo": "3d635107-baad-4ef5-91e6-526c32076914",
+    "titulo": "Quantidade total de unidades habitacionais no empreendimento est\u00e1 incorreta no memorial descritivo",
+    "status": "Closed",
+    "descricao": "N\u00famero total de unidades habitacionais \u00e9 840, por\u00e9m no memorial descritivo est\u00e1 400. Por gentileza, ajustar.",
+    "tipo": "Problema",
+    "fase": "Projeto Legal",
+    "prioridade": "Alta",
+    "abertura": "2021-03-31T12:47:43+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-04-08T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "fd5c8294-2cc6-4bcb-8481-6d105e1fdccb",
+            "descricao": "Corrigido Memorial R01.",
+            "data_acao": "2021-04-02T20:10:28+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "b4ce618d-c5d0-4857-91c9-8ad0385d798d",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-03-31T12:47:43+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "30750146-b20d-467b-b053-e1ad51bab76c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/3d635107-baad-4ef5-91e6-526c32076914/3d635107-baad-4ef5-91e6-526c32076914//snapshot.png"
+        }
+    ]
+}

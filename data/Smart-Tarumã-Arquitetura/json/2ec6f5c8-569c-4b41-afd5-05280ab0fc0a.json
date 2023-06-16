@@ -1,0 +1,32 @@
+{
+    "codigo": "2ec6f5c8-569c-4b41-afd5-05280ab0fc0a",
+    "titulo": "Chapim",
+    "status": "Active",
+    "descricao": "Por gentileza, ajustar chapim nas \u00e1reas das churrasqueira",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T17:26:58+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "286fe38b-f5b1-419b-b6fd-a5b817330b3e",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T17:26:58+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "613ca9bd-ba39-4232-87de-8ea700b7420d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2ec6f5c8-569c-4b41-afd5-05280ab0fc0a/2ec6f5c8-569c-4b41-afd5-05280ab0fc0a//snapshot.png"
+        }
+    ]
+}

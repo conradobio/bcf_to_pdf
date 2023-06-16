@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="3376aa60-0bad-456c-8aba-be3e3a963e3a" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Camadas de parede lazer A</Title>
+		<Priority>Alta</Priority>
+		<Index>151</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T19:28:41+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:42+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza,modelaR espessura das camadas da parede conforme BEP</Description>
+	</Topic>
+	<Comment Guid="af5e6cba-afc0-498c-a7fe-347a8a2a4ec2">
+		<Date>2021-10-29T17:48:57+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r01</Comment>
+		<Viewpoint Guid="5954310d-4e20-4ca0-a0af-6a33c93818b9" />
+		<ModifiedDate>2021-10-29T17:48:57+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="87890144-6f6d-4af0-8226-343ec706ead8">
+		<Date>2021-10-01T15:00:19+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Espessura das paredes internas ajustadas</Comment>
+		<Viewpoint Guid="c8b04d44-81aa-4cb0-848a-88f7a500e55d" />
+		<ModifiedDate>2021-10-01T15:00:19+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="85ace739-396d-4040-bd72-63c07582103f">
+		<Date>2021-09-20T19:28:41+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c8b04d44-81aa-4cb0-848a-88f7a500e55d" />
+		<ModifiedDate>2021-09-20T19:28:41+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="5954310d-4e20-4ca0-a0af-6a33c93818b9">
+		<Viewpoint>5954310d-4e20-4ca0-a0af-6a33c93818b9_viewpoint.bcfv</Viewpoint>
+		<Snapshot>5954310d-4e20-4ca0-a0af-6a33c93818b9_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="c8b04d44-81aa-4cb0-848a-88f7a500e55d">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

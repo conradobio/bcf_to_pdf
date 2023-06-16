@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="a034e3af-8456-4132-9986-65502c4886a1" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Brinquedoteca</Title>
+		<Priority>Alta</Priority>
+		<Index>318</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T18:06:30+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:27+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Piso da brinquedoteca não seguindo projeto legal, por favor, chegar toda a paginação</Description>
+	</Topic>
+	<Comment Guid="823d87de-e071-4419-8a21-38d3365c6911">
+		<Date>2021-10-29T18:06:30+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="fceb4642-db17-4e4e-baf9-6a79617aa4ab" />
+		<ModifiedDate>2021-10-29T18:06:30+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="fceb4642-db17-4e4e-baf9-6a79617aa4ab">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

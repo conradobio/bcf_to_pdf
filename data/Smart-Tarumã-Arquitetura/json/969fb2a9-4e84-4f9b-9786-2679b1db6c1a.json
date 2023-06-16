@@ -1,0 +1,50 @@
+{
+    "codigo": "969fb2a9-4e84-4f9b-9786-2679b1db6c1a",
+    "titulo": "Laje lazer B",
+    "status": "Closed",
+    "descricao": "Por gentileza, inserir camada de impermeabiliza\u00e7\u00e3o na laje do lazer B",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-20T21:29:48+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-26T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "f3e16d4d-911b-4f42-af13-035a71f76b5d",
+            "descricao": "Ajustado na R01",
+            "data_acao": "2021-10-29T16:23:58+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "861dd3a8-cf37-41d6-a744-90c76529c784",
+            "descricao": "Resolvido",
+            "data_acao": "2021-10-04T15:07:35+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "1fce9499-e9e5-4eed-a32b-58479a44cba7",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-20T21:29:48+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6cfc2109-8544-4acb-b6e5-0f8007f9a927",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/969fb2a9-4e84-4f9b-9786-2679b1db6c1a/969fb2a9-4e84-4f9b-9786-2679b1db6c1a//6cfc2109-8544-4acb-b6e5-0f8007f9a927_snapshot.png"
+        },
+        {
+            "guid": "88abcba2-5849-4f84-9685-077b17bd561a",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/969fb2a9-4e84-4f9b-9786-2679b1db6c1a/969fb2a9-4e84-4f9b-9786-2679b1db6c1a//snapshot.png"
+        }
+    ]
+}

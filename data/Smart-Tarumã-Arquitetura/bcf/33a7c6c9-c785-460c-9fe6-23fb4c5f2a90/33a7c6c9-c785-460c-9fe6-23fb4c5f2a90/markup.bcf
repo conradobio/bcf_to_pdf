@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="33a7c6c9-c785-460c-9fe6-23fb4c5f2a90" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Pingadeiras lazer D</Title>
+		<Priority>Alta</Priority>
+		<Index>162</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T12:50:11+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:45+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, modelar as pingadeira nas janelas</Description>
+	</Topic>
+	<Comment Guid="cbca4d2e-b97c-468c-98d2-25e00cbd2647">
+		<Date>2021-10-28T20:26:08+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que as pingadeiras foram modeladas</Comment>
+		<Viewpoint Guid="d7651a67-9744-4c85-8e4f-c5f5f7f8b6c7" />
+		<ModifiedDate>2021-10-28T20:26:08+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="62c09d62-311c-4a03-8c9d-9fdcae9f7a56">
+		<Date>2021-10-06T15:09:39+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Pingadeiras modeladas</Comment>
+		<Viewpoint Guid="8a8a4489-ee21-47ec-9c0e-f6ea01e54d92" />
+		<ModifiedDate>2021-10-06T15:09:39+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="faaf3f68-1c52-4f2f-9740-46e996844666">
+		<Date>2021-09-21T12:50:11+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="8a8a4489-ee21-47ec-9c0e-f6ea01e54d92" />
+		<ModifiedDate>2021-09-21T12:50:11+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="8a8a4489-ee21-47ec-9c0e-f6ea01e54d92">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d7651a67-9744-4c85-8e4f-c5f5f7f8b6c7">
+		<Viewpoint>d7651a67-9744-4c85-8e4f-c5f5f7f8b6c7_viewpoint.bcfv</Viewpoint>
+		<Snapshot>d7651a67-9744-4c85-8e4f-c5f5f7f8b6c7_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

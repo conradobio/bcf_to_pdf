@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="0dc9de78-8853-4d51-82e4-545a10898a1b" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Atualizar prancha da Rota após mudança na guarita</Title>
+		<Priority>Baixa</Priority>
+		<Index>5</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2020-07-23T18:53:21+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:20+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2020-08-06T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Excluir o sofá que foi solicitado pelo incorporador na prancha da ROTA.</Description>
+	</Topic>
+	<Comment Guid="66cb11ff-7756-44da-abfb-e788cf807e02">
+		<Date>2021-01-25T20:02:08+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d1087814-0965-43e9-9fb2-93d5a2bf585c" />
+		<ModifiedDate>2021-01-25T20:02:08+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="70925959-783c-4f75-8e0e-a29a55fb598f">
+		<Date>2020-07-23T18:53:22+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="4e1332b9-61ea-4c3e-b375-b548fdd69ce9" />
+		<ModifiedDate>2020-07-23T18:53:22+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="4e1332b9-61ea-4c3e-b375-b548fdd69ce9">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d1087814-0965-43e9-9fb2-93d5a2bf585c">
+		<Viewpoint>d1087814-0965-43e9-9fb2-93d5a2bf585c_viewpoint.bcfv</Viewpoint>
+		<Snapshot>d1087814-0965-43e9-9fb2-93d5a2bf585c_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

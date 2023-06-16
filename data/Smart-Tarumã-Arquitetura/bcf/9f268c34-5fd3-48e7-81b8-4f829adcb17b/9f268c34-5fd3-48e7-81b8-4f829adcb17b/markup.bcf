@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="9f268c34-5fd3-48e7-81b8-4f829adcb17b" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Conflito na janela</Title>
+		<Priority>Alta</Priority>
+		<Index>332</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T19:53:48+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:29+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>coordenacao@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Janela conflitando com pingadeira, por favor, verificar todas as ocorrencias e ajustar</Description>
+	</Topic>
+	<Comment Guid="440a42e1-e6ab-4ec3-b968-9644bf9d60e9">
+		<Date>2021-10-29T19:53:48+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="e6b90591-b2c5-42d7-b37f-5f83a3381b54" />
+		<ModifiedDate>2021-10-29T19:53:48+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="e6b90591-b2c5-42d7-b37f-5f83a3381b54">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

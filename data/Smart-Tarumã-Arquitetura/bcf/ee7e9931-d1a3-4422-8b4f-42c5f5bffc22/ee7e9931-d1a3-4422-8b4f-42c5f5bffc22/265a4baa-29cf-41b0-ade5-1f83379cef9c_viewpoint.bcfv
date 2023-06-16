@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualizationInfo Guid="265a4baa-29cf-41b0-ade5-1f83379cef9c">
+	<Components>
+		<ViewSetupHints SpacesVisible="false" SpaceBoundariesVisible="false" OpeningsVisible="false" />
+	</Components>
+	<DrawingViewport>
+		<Client>REVIT</Client>
+		<ViewName>Corte Escada Piscina</ViewName>
+		<ViewType>2</ViewType>
+		<ViewStory>0</ViewStory>
+		<ViewID1>0</ViewID1>
+		<ViewID2>0</ViewID2>
+		<ViewLeftTop>
+			<X>732.49171397554892</X>
+			<Y>371.51670896407313</Y>
+		</ViewLeftTop>
+		<ViewRightBottom>
+			<X>717.98749870521976</X>
+			<Y>371.51670896407319</Y>
+		</ViewRightBottom>
+	</DrawingViewport>
+</VisualizationInfo>

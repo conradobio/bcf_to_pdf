@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="af2d1150-87b1-4f86-b003-6fdccb1ad840" TopicType="Conflito" TopicStatus="Closed">
+		<Title>AL01 dormitório 01</Title>
+		<Priority>Crítica</Priority>
+		<Index>139</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-17T14:20:11+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:38+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-08T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Em conferência no modelo rvt, identificamos divergências com o projeto de fôrma metálica na esquadria AL01 do dormitorio 01</Description>
+	</Topic>
+	<Comment Guid="606cdc2b-7986-4922-9709-703214fc8aac">
+		<Date>2021-10-21T20:29:38+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R02</Comment>
+		<Viewpoint Guid="d15e47b0-663c-4bdf-bd68-2e27ee46571c" />
+		<ModifiedDate>2021-10-21T20:29:38+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="77cd3276-099a-41a9-ab39-87ee3526d465">
+		<Date>2021-10-01T13:17:17+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não atendido, verificar e ajustar em todas as torres</Comment>
+		<Viewpoint Guid="46ee9d0f-3f07-4344-92fb-4303e17cb0f2" />
+		<ModifiedDate>2021-10-01T13:17:17+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="fd575c40-098f-42e2-915c-257b15f95a7b">
+		<Date>2021-09-17T14:20:14+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Comparação entre modelo de arquitetura enviado e dwg da forma metalica a ser seguido</Comment>
+		<Viewpoint Guid="d4c8ff71-d9bd-4952-82ac-fa1f31dcf50b" />
+		<ModifiedDate>2021-09-17T14:20:14+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="701fc058-30be-43ff-a821-98427854df9b">
+		<Date>2021-09-17T14:20:11+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="6594701b-cc6a-49ca-bfcf-560907ff7cbb" />
+		<ModifiedDate>2021-09-17T14:20:11+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="46ee9d0f-3f07-4344-92fb-4303e17cb0f2">
+		<Viewpoint>46ee9d0f-3f07-4344-92fb-4303e17cb0f2_viewpoint.bcfv</Viewpoint>
+		<Snapshot>46ee9d0f-3f07-4344-92fb-4303e17cb0f2_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="6594701b-cc6a-49ca-bfcf-560907ff7cbb">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d15e47b0-663c-4bdf-bd68-2e27ee46571c">
+		<Viewpoint>d15e47b0-663c-4bdf-bd68-2e27ee46571c_viewpoint.bcfv</Viewpoint>
+		<Snapshot>d15e47b0-663c-4bdf-bd68-2e27ee46571c_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d4c8ff71-d9bd-4952-82ac-fa1f31dcf50b">
+		<Viewpoint>d4c8ff71-d9bd-4952-82ac-fa1f31dcf50b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>d4c8ff71-d9bd-4952-82ac-fa1f31dcf50b_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="f97d74cf-37b5-47b0-bd33-6407fa01604b" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Modulação blocos de concreto</Title>
+		<Priority>Alta</Priority>
+		<Index>200</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T18:54:25+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:59+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Description>Por gentileza seguir regra de modulação dos blocos de concreto, evitando assim o maximo de cortes</Description>
+	</Topic>
+	<Comment Guid="55a38320-cce0-45a6-ab45-edc0b9faffa7">
+		<Date>2021-10-14T22:04:13+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment>Esse bcf seria para o Bruno?</Comment>
+		<Viewpoint Guid="1b9c4d95-4bc6-41bc-abf8-94d8dae9cd5b" />
+		<ModifiedDate>2021-10-14T22:04:13+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="1d2aa38f-a9de-49c8-ba53-0ca54af4f2dd">
+		<Date>2021-09-21T18:54:25+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="1b9c4d95-4bc6-41bc-abf8-94d8dae9cd5b" />
+		<ModifiedDate>2021-09-21T18:54:25+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="1b9c4d95-4bc6-41bc-abf8-94d8dae9cd5b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

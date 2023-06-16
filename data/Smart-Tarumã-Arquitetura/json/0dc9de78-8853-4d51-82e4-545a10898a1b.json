@@ -1,0 +1,43 @@
+{
+    "codigo": "0dc9de78-8853-4d51-82e4-545a10898a1b",
+    "titulo": "Atualizar prancha da Rota ap\u00f3s mudan\u00e7a na guarita",
+    "status": "Closed",
+    "descricao": "Excluir o sof\u00e1 que foi solicitado pelo incorporador na prancha da ROTA.",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2020-07-23T18:53:21+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2020-08-06T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "66cb11ff-7756-44da-abfb-e788cf807e02",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-01-25T20:02:08+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "70925959-783c-4f75-8e0e-a29a55fb598f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2020-07-23T18:53:22+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "4e1332b9-61ea-4c3e-b375-b548fdd69ce9",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/0dc9de78-8853-4d51-82e4-545a10898a1b/0dc9de78-8853-4d51-82e4-545a10898a1b//snapshot.png"
+        },
+        {
+            "guid": "d1087814-0965-43e9-9fb2-93d5a2bf585c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/0dc9de78-8853-4d51-82e4-545a10898a1b/0dc9de78-8853-4d51-82e4-545a10898a1b//d1087814-0965-43e9-9fb2-93d5a2bf585c_snapshot.png"
+        }
+    ]
+}

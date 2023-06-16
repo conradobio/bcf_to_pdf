@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="da2464d1-85a3-4fcd-8041-cf93ff09afe2" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Cota da quadra</Title>
+		<Priority>Alta</Priority>
+		<Index>245</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-29T22:14:38+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:08+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-05T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>NÃO PODEMOS MANTER A COTA QUADRA E FUNCIONAL EM TORNO DE 38,75?</Description>
+	</Topic>
+	<Comment Guid="7f8305aa-25e7-470a-82ec-6bd77f2ed80b">
+		<Date>2021-10-04T15:02:55+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ok Jesus, vamos passar a demanda para a arquitetura analisar.</Comment>
+		<Viewpoint Guid="bf2f044d-cda1-47ef-8c1a-79d3d59c809e" />
+		<ModifiedDate>2021-10-04T15:02:55+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="e38f3762-9354-4f1d-ac8b-1d0f029b6d89">
+		<Date>2021-10-03T20:10:51+00:00</Date>
+		<Author>jesus.cadengenharia@gmail.com</Author>
+		<Comment>Essa cota foi projetada pela arquitetura , para mudar essa cota seria necessario projetar as acessibilidades</Comment>
+		<Viewpoint Guid="bf2f044d-cda1-47ef-8c1a-79d3d59c809e" />
+		<ModifiedDate>2021-10-03T20:10:51+00:00</ModifiedDate>
+		<ModifiedAuthor>jesus.cadengenharia@gmail.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="e2628890-bbe8-4b92-8cdb-018f71c75d05">
+		<Date>2021-09-29T22:14:38+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="bf2f044d-cda1-47ef-8c1a-79d3d59c809e" />
+		<ModifiedDate>2021-09-29T22:14:38+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="bf2f044d-cda1-47ef-8c1a-79d3d59c809e">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

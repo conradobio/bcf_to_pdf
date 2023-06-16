@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="926f0a54-82ee-4b55-9e3d-f75a28bb0615" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Conflitos na área da churrasqueira lazer B</Title>
+		<Priority>Alta</Priority>
+		<Index>204</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T19:36:01+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:59+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Pia e churrasqueira conflitandoas camadas de parede, por gentileza, veerificar todas as ocorrencias no lazer B e ajustar</Description>
+	</Topic>
+	<Comment Guid="dcb1907e-4117-4b63-a313-d4fec28439a4">
+		<Date>2021-10-29T16:24:02+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r01</Comment>
+		<Viewpoint Guid="6ff34399-c626-4073-9fd7-6c38d7f5457d" />
+		<ModifiedDate>2021-10-29T16:24:02+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="9d0947a2-b821-4cd2-9151-f4571e8158ae">
+		<Date>2021-10-04T16:13:21+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Todas as ocorrências foram ajustadas.</Comment>
+		<Viewpoint Guid="6ff34399-c626-4073-9fd7-6c38d7f5457d" />
+		<ModifiedDate>2021-10-04T16:13:21+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="23d68859-3dcc-487f-8766-25d9d1104499">
+		<Date>2021-09-21T19:36:01+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="a2cd0ddb-a396-453d-9386-f695942194cf" />
+		<ModifiedDate>2021-09-21T19:36:01+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="6ff34399-c626-4073-9fd7-6c38d7f5457d">
+		<Viewpoint>6ff34399-c626-4073-9fd7-6c38d7f5457d_viewpoint.bcfv</Viewpoint>
+		<Snapshot>6ff34399-c626-4073-9fd7-6c38d7f5457d_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="a2cd0ddb-a396-453d-9386-f695942194cf">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

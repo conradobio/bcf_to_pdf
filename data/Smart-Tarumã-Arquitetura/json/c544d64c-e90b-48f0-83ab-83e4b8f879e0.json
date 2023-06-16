@@ -1,0 +1,46 @@
+{
+    "codigo": "c544d64c-e90b-48f0-83ab-83e4b8f879e0",
+    "titulo": "Afastamento Longitudinal entre Torres",
+    "status": "Closed",
+    "descricao": "Em todos os afastamentos entre torres no sentido longitudinal do terreno manter a cota m\u00ednima que atenda a seguinte propor\u00e7\u00e3o. 1,5m parede-crista talude / 1m (talude 1/1) / 1,5m p\u00e9 talude-parede. Isso para desn\u00edvel de at\u00e9 1m. Se for maior, acrescentar na largura do talude respeitando o limite 1/1. Com isso evitaremos muitos arrimos e enterrar as torres como ocorreu no VS2.",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Projeto Legal",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-01-12T20:12:00+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-01-26T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "08bf6934-9f92-4e1e-80a3-2902a90347bb",
+            "descricao": "Ap\u00f3s an\u00e1lise do arquivo de terraplanagem recebido em 25-01, identificamos que os afastamentos satisfazem a diretriz passada pela Engenharia.",
+            "data_acao": "2021-01-26T17:49:12+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "837e4649-c531-4b8b-aaec-dabcaea6d15e",
+            "descricao": "Os afastamentos foram ajustados ao m\u00e1ximo que permitia para cada conjunto de Torres. Esses afastamentos impactam no n\u00ba total de UH e no arranjo das cal\u00e7adas. Novo estudo de massa encaminhado dia 14/01/21.",
+            "data_acao": "2021-01-14T11:51:16+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "7aeff661-9449-41b4-85f1-2946a8deb914",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-01-12T20:12:00+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "8e69a191-09d7-4d7f-b793-3380e423ecf2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c544d64c-e90b-48f0-83ab-83e4b8f879e0/c544d64c-e90b-48f0-83ab-83e4b8f879e0//snapshot.png"
+        }
+    ]
+}

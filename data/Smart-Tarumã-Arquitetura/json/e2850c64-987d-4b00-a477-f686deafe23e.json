@@ -1,0 +1,54 @@
+{
+    "codigo": "e2850c64-987d-4b00-a477-f686deafe23e",
+    "titulo": "Prever cer\u00e2mica em toda \u00e1rea do box",
+    "status": "Active",
+    "descricao": "sem descri\u00e7\u00e3o",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-15T13:28:13+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-16T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "0ce7f903-797b-4d49-90ba-9f16f8be59fc",
+            "descricao": "Favor modelar cer\u00e2mica em toda a \u00e1rea do box. Tamb\u00e9m \u00e9 necess\u00e1rio inserir o box no projeto.",
+            "data_acao": "2021-11-10T18:36:55+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "79c1938b-a35a-4d68-a3a7-557fdc11bbd2",
+            "descricao": "Foi modelada a cer\u00e2mica do box nos dois vesti\u00e1rios",
+            "data_acao": "2021-10-22T13:12:40+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "89746ab1-68aa-46f0-98af-82f01ec29571",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-15T13:28:13+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "2cf9ece8-5edf-40d0-ae55-197578017fb9",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e2850c64-987d-4b00-a477-f686deafe23e/e2850c64-987d-4b00-a477-f686deafe23e//snapshot.png"
+        },
+        {
+            "guid": "6fdbf422-b20f-43fe-94b8-715c485820b6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e2850c64-987d-4b00-a477-f686deafe23e/e2850c64-987d-4b00-a477-f686deafe23e//6fdbf422-b20f-43fe-94b8-715c485820b6_snapshot.png"
+        },
+        {
+            "guid": "b0ff7377-7beb-477e-a963-c733e1283c35",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e2850c64-987d-4b00-a477-f686deafe23e/e2850c64-987d-4b00-a477-f686deafe23e//b0ff7377-7beb-477e-a963-c733e1283c35_snapshot.png"
+        }
+    ]
+}

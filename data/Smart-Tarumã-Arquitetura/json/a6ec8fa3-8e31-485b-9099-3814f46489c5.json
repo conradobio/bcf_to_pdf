@@ -1,0 +1,32 @@
+{
+    "codigo": "a6ec8fa3-8e31-485b-9099-3814f46489c5",
+    "titulo": "Modula\u00e7\u00e3o blocos de concreto lazer B",
+    "status": "Active",
+    "descricao": "Seguir regra sde modula\u00e7\u00e3o dos blocos de croncreto, evitando o maximo de cortes",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T19:36:03+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "rafaelavilela@construtoracapital.com.br",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4386d263-e93a-4466-b0d0-53fce8ad637d",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T19:36:03+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "34ca6a20-b830-48e5-ba46-e623a296f905",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a6ec8fa3-8e31-485b-9099-3814f46489c5/a6ec8fa3-8e31-485b-9099-3814f46489c5//snapshot.png"
+        }
+    ]
+}

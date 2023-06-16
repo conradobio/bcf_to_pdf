@@ -1,0 +1,43 @@
+{
+    "codigo": "d910fbff-80be-4747-a439-5266840d0038",
+    "titulo": "Camadas das paredes",
+    "status": "Closed",
+    "descricao": "Por gentileza, modelas todas as camadas das paredes, conforme BEP",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-08-25T15:56:04+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-01T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "5efa7a5b-c549-43fa-a14d-4740a8184257",
+            "descricao": "AJUSTADO NA R01",
+            "data_acao": "2021-09-15T21:14:43+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "c0f69118-7fc4-4b92-89a1-b52078d4609a",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-25T15:56:04+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "272a7020-95c6-419f-b0e2-8aa12aef5ef6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d910fbff-80be-4747-a439-5266840d0038/d910fbff-80be-4747-a439-5266840d0038//272a7020-95c6-419f-b0e2-8aa12aef5ef6_snapshot.png"
+        },
+        {
+            "guid": "b4e78ff0-6316-42ad-a829-fa54235c4ab1",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d910fbff-80be-4747-a439-5266840d0038/d910fbff-80be-4747-a439-5266840d0038//snapshot.png"
+        }
+    ]
+}

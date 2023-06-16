@@ -1,0 +1,39 @@
+{
+    "codigo": "658c8c79-91f6-4dbd-b6e0-c784768f1f87",
+    "titulo": "Modula\u00e7\u00e3o blocos de concreto lazer A",
+    "status": "Resolved",
+    "descricao": "Por gentileza, seguir regras de modula\u00e7\u00e3o dos blocos de concreto, evitando assim mais cortes",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T19:56:42+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "ae8a599f-e2d1-4dca-bd2a-8b556809776f",
+            "descricao": "Dimens\u00f5es alteradas conforme regras de modula\u00e7\u00e3o. Tentou-se modificar o m\u00ednimo poss\u00edvel o arquitet\u00f4nico",
+            "data_acao": "2021-10-06T14:40:15+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "694f30a3-fd8f-4024-ab3d-1764d5db7f1c",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T19:56:42+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "e75fc6e3-9dbe-4628-9438-28516df4821b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/658c8c79-91f6-4dbd-b6e0-c784768f1f87/658c8c79-91f6-4dbd-b6e0-c784768f1f87//snapshot.png"
+        }
+    ]
+}

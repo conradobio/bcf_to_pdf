@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="55e26d8c-374f-40f9-aebf-1e394710a5bb" TopicType="Conflito" TopicStatus="Active">
+		<Title>Chuveiro lazer B</Title>
+		<Priority>Baixa</Priority>
+		<Index>203</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T19:35:57+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:59+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar revestimento da área do chuveiro do lazer B</Description>
+	</Topic>
+	<Comment Guid="89504497-0732-4345-82cb-b77fea4731f4">
+		<Date>2021-10-29T16:23:58+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>por favor, seguir projeto legal para essa área</Comment>
+		<Viewpoint Guid="bddd68a3-00c8-4d78-b159-a79ceb834c5b" />
+		<ModifiedDate>2021-10-29T16:23:58+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="d50860ef-6d2b-43eb-8583-bdb84f0d5a23">
+		<Date>2021-10-05T19:00:25+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="1495990c-f40b-4503-82af-ef311127a601" />
+		<ModifiedDate>2021-10-05T19:00:25+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="939454a1-979d-4f67-ab91-4422f4045307">
+		<Date>2021-09-21T19:35:57+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c5c18871-a93d-4fe8-b986-13d67b3d815c" />
+		<ModifiedDate>2021-09-21T19:35:57+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="1495990c-f40b-4503-82af-ef311127a601">
+		<Viewpoint>1495990c-f40b-4503-82af-ef311127a601_viewpoint.bcfv</Viewpoint>
+		<Snapshot>1495990c-f40b-4503-82af-ef311127a601_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="bddd68a3-00c8-4d78-b159-a79ceb834c5b">
+		<Viewpoint>bddd68a3-00c8-4d78-b159-a79ceb834c5b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>bddd68a3-00c8-4d78-b159-a79ceb834c5b_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="c5c18871-a93d-4fe8-b986-13d67b3d815c">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

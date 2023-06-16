@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="97bc349f-1cc5-4769-a4ef-defb56d6a5e4" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Térreo</Title>
+		<Priority>Alta</Priority>
+		<Index>247</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-30T20:55:36+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:09+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-06T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Parede conflitando com esquadria no térreo, por favor, ajustar</Description>
+	</Topic>
+	<Comment Guid="245d907e-a1cf-4a2d-b968-62b1552e5d79">
+		<Date>2021-10-21T20:35:09+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resolvido na R02</Comment>
+		<Viewpoint Guid="1c1627dc-b980-409d-873c-2c697db67d7f" />
+		<ModifiedDate>2021-10-21T20:35:09+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="8335e2a1-8f72-42a8-b2dc-c2cdd0372b0f">
+		<Date>2021-09-30T20:55:36+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="ae62f75a-3230-4da0-b35f-a7df720a2e36" />
+		<ModifiedDate>2021-09-30T20:55:36+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="1c1627dc-b980-409d-873c-2c697db67d7f">
+		<Viewpoint>1c1627dc-b980-409d-873c-2c697db67d7f_viewpoint.bcfv</Viewpoint>
+		<Snapshot>1c1627dc-b980-409d-873c-2c697db67d7f_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="ae62f75a-3230-4da0-b35f-a7df720a2e36">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

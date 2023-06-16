@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e8ba33e5-f6d1-4145-965c-5767da0bd5fa" TopicType="Problema" TopicStatus="Active">
+		<Title>Calçada Acessível</Title>
+		<Priority>Alta</Priority>
+		<Index>236</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-29T20:41:35+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:08+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-05T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>ARQUITETURA NA PRÓXIMA EMISSÃO TRABALHAR RAMPA ACESSÍVEL NESSE TRECHO</Description>
+	</Topic>
+	<Comment Guid="887bb709-e3f2-4d49-ba3e-4834503b388f">
+		<Date>2021-09-29T20:41:35+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="38beae16-2d24-4bcf-acf6-433829a2c5ac" />
+		<ModifiedDate>2021-09-29T20:41:35+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="38beae16-2d24-4bcf-acf6-433829a2c5ac">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

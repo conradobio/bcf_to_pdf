@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="30c5721c-a365-46d6-880a-68beca84d62c" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Inserir forros e sancas</Title>
+		<Priority>Alta</Priority>
+		<Index>257</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-01T18:04:00+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:12+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-28T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Inserir forros e sancas nas áreas molhadas conforme bep</Description>
+	</Topic>
+	<Comment Guid="d716d12a-dead-44b4-9b28-f00e33b79b75">
+		<Date>2021-10-21T21:10:56+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não ajustado na R02</Comment>
+		<Viewpoint Guid="c494acfa-254b-4e88-956f-05b5169ab810" />
+		<ModifiedDate>2021-10-21T21:10:56+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="22c537db-e6ba-4010-ae68-2563295910c6">
+		<Date>2021-10-01T18:04:00+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c494acfa-254b-4e88-956f-05b5169ab810" />
+		<ModifiedDate>2021-10-01T18:04:00+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="c494acfa-254b-4e88-956f-05b5169ab810">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

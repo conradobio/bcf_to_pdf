@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="1bf18041-b309-4d20-9723-9a378e8c9c79" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Camadas de parede lazer D</Title>
+		<Priority>Alta</Priority>
+		<Index>168</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T13:38:19+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:47+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>coordenacao@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, modelar as camadas da parede até o teto, verificar a ocorrencia em todo o lazer D</Description>
+	</Topic>
+	<Comment Guid="a700853e-0a0a-45aa-b234-55270e0ffb49">
+		<Date>2021-09-21T13:38:19+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="053f9ba4-ce70-4cde-adb6-d142b0329321" />
+		<ModifiedDate>2021-09-21T13:38:19+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="053f9ba4-ce70-4cde-adb6-d142b0329321">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

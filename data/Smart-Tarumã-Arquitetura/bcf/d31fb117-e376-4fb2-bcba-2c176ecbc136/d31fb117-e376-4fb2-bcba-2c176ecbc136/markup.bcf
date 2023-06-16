@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d31fb117-e376-4fb2-bcba-2c176ecbc136" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Solicitação para adicionar o espaço de lavagem do carro no quadro de uso e ocupação do solo</Title>
+		<Priority>Baixa</Priority>
+		<Index>10</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2020-09-24T14:37:56+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:21+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2020-10-01T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Foi solicitado pela incorporação adicionar a área do espaço de lavagem do carro  (COD.: 22) na quadro de áreas.</Description>
+	</Topic>
+	<Comment Guid="089baf47-e050-4656-94db-c36635b1fcd7">
+		<Date>2020-09-24T18:21:39+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>RESOLVIDO NA ENTREGA DO DIA 24/9</Comment>
+		<Viewpoint Guid="43faee96-baa5-492d-9303-5b0fe3bf01b3" />
+		<ModifiedDate>2020-09-24T18:21:39+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="60164ab4-24bc-4544-8d83-3cd7a1c29995">
+		<Date>2020-09-24T14:37:56+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="43faee96-baa5-492d-9303-5b0fe3bf01b3" />
+		<ModifiedDate>2020-09-24T14:37:56+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="43faee96-baa5-492d-9303-5b0fe3bf01b3">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

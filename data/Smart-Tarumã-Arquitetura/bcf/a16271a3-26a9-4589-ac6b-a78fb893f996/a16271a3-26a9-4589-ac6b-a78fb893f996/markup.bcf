@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="a16271a3-26a9-4589-ac6b-a78fb893f996" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Conflito</Title>
+		<Priority>Alta</Priority>
+		<Index>335</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T20:31:21+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:29+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Pia comflitando com parede por favor, ajustar</Description>
+	</Topic>
+	<Comment Guid="a3361143-b9e7-41b2-bbba-2e5a24acc671">
+		<Date>2021-10-29T20:31:21+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="0b310d23-ab21-432c-a231-be2d478d2421" />
+		<ModifiedDate>2021-10-29T20:31:21+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0b310d23-ab21-432c-a231-be2d478d2421">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

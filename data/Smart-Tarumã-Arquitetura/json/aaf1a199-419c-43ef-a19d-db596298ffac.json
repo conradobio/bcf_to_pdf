@@ -1,0 +1,54 @@
+{
+    "codigo": "aaf1a199-419c-43ef-a19d-db596298ffac",
+    "titulo": "Port\u00e3o de acesso de ve\u00edculos",
+    "status": "Closed",
+    "descricao": "Favor ajustar conforme o Legal o tamanho do port\u00e3o de acesso de ve\u00edculos que \u00e9 de 2.90 m",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-13T16:28:10+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-19T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "f7c3e005-d553-4ade-aba6-bf75ffdb8492",
+            "descricao": "Resolvido na revis\u00e3o R01.",
+            "data_acao": "2021-11-10T19:01:10+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "64f55397-54b1-494d-9ceb-a16daf1cdf00",
+            "descricao": "Resolvido",
+            "data_acao": "2021-10-20T12:53:14+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "a16fdd00-30fb-43ba-90c5-bbe281eccb99",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-13T16:28:10+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "1ff20641-b50a-43f1-9611-2321417f8401",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aaf1a199-419c-43ef-a19d-db596298ffac/aaf1a199-419c-43ef-a19d-db596298ffac//1ff20641-b50a-43f1-9611-2321417f8401_snapshot.png"
+        },
+        {
+            "guid": "cc84608d-7675-4ba3-abd2-a07a90e735c6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aaf1a199-419c-43ef-a19d-db596298ffac/aaf1a199-419c-43ef-a19d-db596298ffac//cc84608d-7675-4ba3-abd2-a07a90e735c6_snapshot.png"
+        },
+        {
+            "guid": "da481964-4112-4343-a368-8083bbffe799",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aaf1a199-419c-43ef-a19d-db596298ffac/aaf1a199-419c-43ef-a19d-db596298ffac//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="43650338-101a-4a18-be8b-cba9b6715f1c" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Projeção da escada</Title>
+		<Priority>Baixa</Priority>
+		<Index>120</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-15T20:31:06+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:35+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-08T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar projeção da escada do térreo na torre 3und, po favor</Description>
+	</Topic>
+	<Comment Guid="d9c80ed7-96be-4d35-9422-244b89a8fb3a">
+		<Date>2021-10-21T13:14:36+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R02</Comment>
+		<Viewpoint Guid="798c7dea-35ea-4c64-9547-5ec815672238" />
+		<ModifiedDate>2021-10-21T13:14:36+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="9992e680-b318-41e6-89a2-b233ccc9c8de">
+		<Date>2021-10-01T13:15:48+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>verificar em todas as torres</Comment>
+		<Viewpoint Guid="798c7dea-35ea-4c64-9547-5ec815672238" />
+		<ModifiedDate>2021-10-01T13:15:48+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="935cc5fa-ced0-4f33-a4b7-00e31180a387">
+		<Date>2021-09-15T20:31:06+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="20ce236f-2a4a-41b2-8be5-0a31ab92b914" />
+		<ModifiedDate>2021-09-15T20:31:06+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="20ce236f-2a4a-41b2-8be5-0a31ab92b914">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="798c7dea-35ea-4c64-9547-5ec815672238">
+		<Viewpoint>798c7dea-35ea-4c64-9547-5ec815672238_viewpoint.bcfv</Viewpoint>
+		<Snapshot>798c7dea-35ea-4c64-9547-5ec815672238_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

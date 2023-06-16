@@ -1,0 +1,50 @@
+{
+    "codigo": "926f0a54-82ee-4b55-9e3d-f75a28bb0615",
+    "titulo": "Conflitos na \u00e1rea da churrasqueira lazer B",
+    "status": "Closed",
+    "descricao": "Pia e churrasqueira conflitandoas camadas de parede, por gentileza, veerificar todas as ocorrencias no lazer B e ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T19:36:01+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "dcb1907e-4117-4b63-a313-d4fec28439a4",
+            "descricao": "Ajustado na r01",
+            "data_acao": "2021-10-29T16:24:02+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "9d0947a2-b821-4cd2-9151-f4571e8158ae",
+            "descricao": "Todas as ocorr\u00eancias foram ajustadas.",
+            "data_acao": "2021-10-04T16:13:21+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "23d68859-3dcc-487f-8766-25d9d1104499",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T19:36:01+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6ff34399-c626-4073-9fd7-6c38d7f5457d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/926f0a54-82ee-4b55-9e3d-f75a28bb0615/926f0a54-82ee-4b55-9e3d-f75a28bb0615//6ff34399-c626-4073-9fd7-6c38d7f5457d_snapshot.png"
+        },
+        {
+            "guid": "a2cd0ddb-a396-453d-9386-f695942194cf",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/926f0a54-82ee-4b55-9e3d-f75a28bb0615/926f0a54-82ee-4b55-9e3d-f75a28bb0615//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="4a942ebe-3254-43a7-bae4-c5498ce19927" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Conflito na porta da brinquedoteca Lazer D</Title>
+		<Priority>Alta</Priority>
+		<Index>167</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T13:32:20+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:47+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>coordenacao@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Camada de parede conflitando com rodapé na brinquedoteca do lazer D, por gentileza, ajustar</Description>
+	</Topic>
+	<Comment Guid="81f9413e-3f82-4899-87e3-f1ed97d5ba81">
+		<Date>2021-09-21T13:32:20+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="e2c82a71-45d9-4f3f-95cd-b842e49c0d8f" />
+		<ModifiedDate>2021-09-21T13:32:20+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="e2c82a71-45d9-4f3f-95cd-b842e49c0d8f">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

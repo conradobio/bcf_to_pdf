@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="0460bb5f-8680-40c5-bdb0-ecaef2b10ae5" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Porta de entrada</Title>
+		<Priority>Alta</Priority>
+		<Index>255</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-01T15:58:06+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:11+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Porta de entrada dos apartamentos não alinhada com estrutura (em verde) , por favor, verificar e ajustar todas as torres</Description>
+	</Topic>
+	<Comment Guid="5caf9fd6-e4b5-41f9-9680-415924cf1320">
+		<Date>2021-10-21T21:13:50+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R02</Comment>
+		<Viewpoint Guid="b0f53ea2-014b-4ad0-824e-f23c688943fd" />
+		<ModifiedDate>2021-10-21T21:13:50+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="26cb44ce-4d40-4272-a229-6867a7f47be4">
+		<Date>2021-10-01T15:58:07+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="b0f53ea2-014b-4ad0-824e-f23c688943fd" />
+		<ModifiedDate>2021-10-01T15:58:07+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="b0f53ea2-014b-4ad0-824e-f23c688943fd">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

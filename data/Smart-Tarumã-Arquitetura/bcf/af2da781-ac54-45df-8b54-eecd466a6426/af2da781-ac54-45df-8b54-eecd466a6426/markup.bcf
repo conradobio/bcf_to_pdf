@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="af2da781-ac54-45df-8b54-eecd466a6426" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Arquivos faltando</Title>
+		<Priority>Alta</Priority>
+		<Index>214</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-24T19:46:15+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:00+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-01T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza upar os arquivos dos anexos de lixeira e guarita</Description>
+	</Topic>
+	<Comment Guid="1c962eb2-f97a-4edd-ba5b-a000cc8cb0aa">
+		<Date>2021-10-13T17:56:46+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Os arquivos de R00 chegaram dia 29/09/2021.</Comment>
+		<Viewpoint Guid="03224625-6bee-4f04-a681-09e8d04f3e65" />
+		<ModifiedDate>2021-10-13T17:56:46+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="53d713d7-ae31-4294-b980-3140d22ab9c7">
+		<Date>2021-09-24T19:46:15+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="03224625-6bee-4f04-a681-09e8d04f3e65" />
+		<ModifiedDate>2021-09-24T19:46:15+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="03224625-6bee-4f04-a681-09e8d04f3e65">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

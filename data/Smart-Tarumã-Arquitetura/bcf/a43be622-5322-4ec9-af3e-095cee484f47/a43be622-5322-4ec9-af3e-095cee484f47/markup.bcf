@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="a43be622-5322-4ec9-af3e-095cee484f47" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Porta lazer C conflitando com rodapé</Title>
+		<Priority>Alta</Priority>
+		<Index>199</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T18:54:23+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:58+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Rodapé conflitando com porta no master chef do lazer C, verificar e ajustar, por gentileza</Description>
+	</Topic>
+	<Comment Guid="b880de14-c809-4079-95e0-a23b0fbf148c">
+		<Date>2021-10-29T14:55:16+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Atendido na R01</Comment>
+		<Viewpoint Guid="eb112a73-cad0-4078-9b61-0a45af68bd2a" />
+		<ModifiedDate>2021-10-29T14:55:16+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="90377e3d-230a-4c1c-a466-dc3c9de4f733">
+		<Date>2021-10-06T15:53:41+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="3d7eced2-d713-4877-aa47-86d161bf9268" />
+		<ModifiedDate>2021-10-06T15:53:41+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="c2fe9cbd-c9bc-4bfc-929e-03e5db8830e8">
+		<Date>2021-09-21T18:54:23+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="dd33d860-2c7d-4f49-adfd-034ab27e0d53" />
+		<ModifiedDate>2021-09-21T18:54:23+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="3d7eced2-d713-4877-aa47-86d161bf9268">
+		<Viewpoint>3d7eced2-d713-4877-aa47-86d161bf9268_viewpoint.bcfv</Viewpoint>
+		<Snapshot>3d7eced2-d713-4877-aa47-86d161bf9268_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="dd33d860-2c7d-4f49-adfd-034ab27e0d53">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="eb112a73-cad0-4078-9b61-0a45af68bd2a">
+		<Viewpoint>eb112a73-cad0-4078-9b61-0a45af68bd2a_viewpoint.bcfv</Viewpoint>
+		<Snapshot>eb112a73-cad0-4078-9b61-0a45af68bd2a_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

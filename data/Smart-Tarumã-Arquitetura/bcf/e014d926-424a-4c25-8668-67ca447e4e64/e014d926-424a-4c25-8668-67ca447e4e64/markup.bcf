@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e014d926-424a-4c25-8668-67ca447e4e64" TopicType="Falha" TopicStatus="Active">
+		<Title>Chuveiros</Title>
+		<Priority>Baixa</Priority>
+		<Index>125</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-16T15:58:57+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:36+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-28T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Nos banheiros do segundo, terceiro e quarto pavimento existem dois modelos de chuveiros, por favor, deixar apenas 1 modelo</Description>
+	</Topic>
+	<Comment Guid="acc93d2b-b705-4c78-b6f6-5e0745c67a69">
+		<Date>2021-10-21T20:55:23+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Agora todos foram retirados, alguma razão??</Comment>
+		<Viewpoint Guid="9654ad22-c7d0-4d6a-8e6b-ec5a2120172c" />
+		<ModifiedDate>2021-10-21T20:55:23+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="4744a06c-b864-4f5c-ae0f-6d3ada3736a7">
+		<Date>2021-09-16T15:58:57+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="b0a6bb38-0f4e-4ab0-9e2a-3cfc6487b845" />
+		<ModifiedDate>2021-09-16T15:58:57+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="9654ad22-c7d0-4d6a-8e6b-ec5a2120172c">
+		<Viewpoint>9654ad22-c7d0-4d6a-8e6b-ec5a2120172c_viewpoint.bcfv</Viewpoint>
+		<Snapshot>9654ad22-c7d0-4d6a-8e6b-ec5a2120172c_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="b0a6bb38-0f4e-4ab0-9e2a-3cfc6487b845">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

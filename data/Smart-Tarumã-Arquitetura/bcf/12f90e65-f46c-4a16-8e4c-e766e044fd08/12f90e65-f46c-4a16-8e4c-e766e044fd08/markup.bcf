@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="12f90e65-f46c-4a16-8e4c-e766e044fd08" TopicType="Conflito" TopicStatus="Active">
+		<Title>Teto</Title>
+		<Priority>Alta</Priority>
+		<Index>321</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T18:16:21+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:27+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camada de revestiemento na cobertura</Description>
+	</Topic>
+	<Comment Guid="05324449-4322-4a91-a29f-9438d3bb7ed0">
+		<Date>2021-10-29T18:16:21+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c9a43d2e-9e9f-4d17-8e2d-84e3f3ec3aa6" />
+		<ModifiedDate>2021-10-29T18:16:21+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="c9a43d2e-9e9f-4d17-8e2d-84e3f3ec3aa6">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

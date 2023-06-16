@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="421a6d27-46e5-4d09-aa33-d10d375a5f4e" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Ajustar dimenções do armário</Title>
+		<Priority>Baixa</Priority>
+		<Index>93</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-25T21:20:44+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:31+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-22T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar dimenções do armario para não conflitar com a abertura da porta</Description>
+	</Topic>
+	<Comment Guid="4c8b36d6-4d06-4fd9-a844-72ecd8945be7">
+		<Date>2021-09-15T21:07:27+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>A nova revisão não veio com layout, por favor, verificar</Comment>
+		<Viewpoint Guid="0b2c04e5-d840-4d73-9485-a5e3fc39c4b2" />
+		<ModifiedDate>2021-09-15T21:07:27+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="6560e0ce-91ad-4ac5-96ac-847cd20cdf9f">
+		<Date>2021-08-25T21:20:44+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="0b2c04e5-d840-4d73-9485-a5e3fc39c4b2" />
+		<ModifiedDate>2021-08-25T21:20:44+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0b2c04e5-d840-4d73-9485-a5e3fc39c4b2">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

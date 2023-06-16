@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="80258646-4f15-4593-a6a4-a43112441ea6" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Piso lazer A</Title>
+		<Priority>Alta</Priority>
+		<Index>150</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T19:28:39+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:42+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Argamassa mais ceramica deveria ter espesura total de 1,5 cm, por gentileza, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="6b95d3c4-3cac-4f26-97ec-6e9fe9d94ea3">
+		<Date>2021-10-29T17:48:54+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r01</Comment>
+		<Viewpoint Guid="acd09f2d-3cdb-4409-a579-5359b1c45987" />
+		<ModifiedDate>2021-10-29T17:48:54+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="830d5f3e-1a44-4130-bed5-4d82b2b04918">
+		<Date>2021-10-01T14:25:16+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foi verificado e ajustado para espessura total de 1,5 cm.</Comment>
+		<Viewpoint Guid="acd09f2d-3cdb-4409-a579-5359b1c45987" />
+		<ModifiedDate>2021-10-01T14:25:16+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="e21791e1-91f6-4dba-bf9e-334bedf6be33">
+		<Date>2021-09-20T19:28:39+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="acd09f2d-3cdb-4409-a579-5359b1c45987" />
+		<ModifiedDate>2021-09-20T19:28:39+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="acd09f2d-3cdb-4409-a579-5359b1c45987">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

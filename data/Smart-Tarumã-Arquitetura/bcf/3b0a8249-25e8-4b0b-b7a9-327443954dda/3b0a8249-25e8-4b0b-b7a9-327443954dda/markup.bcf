@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="3b0a8249-25e8-4b0b-b7a9-327443954dda" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Lazer B</Title>
+		<Priority>Alta</Priority>
+		<Index>158</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T21:40:09+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:44+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza modelar camada de revestimento na área indicada na imagem</Description>
+	</Topic>
+	<Comment Guid="607e63c3-d437-4b4f-afc9-5df6e9110182">
+		<Date>2021-10-29T16:24:01+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não atendido, essa área não deveria ser revestida com ceramica?</Comment>
+		<Viewpoint Guid="29729ba7-1d4e-4082-9d37-71a66baf0166" />
+		<ModifiedDate>2021-10-29T16:24:01+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="451fc6d9-2489-45b1-8d69-87264419a777">
+		<Date>2021-10-04T16:16:39+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido.</Comment>
+		<Viewpoint Guid="29729ba7-1d4e-4082-9d37-71a66baf0166" />
+		<ModifiedDate>2021-10-04T16:16:39+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="56f188c6-debc-4338-ae5e-805b7d9aa27a">
+		<Date>2021-09-20T21:40:09+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="055e3dc4-6b48-4f23-8e82-e7c77c782474" />
+		<ModifiedDate>2021-09-20T21:40:09+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="055e3dc4-6b48-4f23-8e82-e7c77c782474">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="29729ba7-1d4e-4082-9d37-71a66baf0166">
+		<Viewpoint>29729ba7-1d4e-4082-9d37-71a66baf0166_viewpoint.bcfv</Viewpoint>
+		<Snapshot>29729ba7-1d4e-4082-9d37-71a66baf0166_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

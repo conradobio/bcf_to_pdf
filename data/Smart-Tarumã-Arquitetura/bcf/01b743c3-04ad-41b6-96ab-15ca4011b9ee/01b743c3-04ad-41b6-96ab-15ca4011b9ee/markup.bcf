@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="01b743c3-04ad-41b6-96ab-15ca4011b9ee" TopicType="Conflito" TopicStatus="Active">
+		<Title>Tabeira</Title>
+		<Priority>Alta</Priority>
+		<Index>334</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T20:14:57+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:29+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>christianmelo@vemmorarmais.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Tabeira conflitando com piso, deveria ser assim mesmo??</Description>
+	</Topic>
+	<Comment Guid="4d066cad-0c6c-467a-a2b0-ed20c7291b2d">
+		<Date>2021-10-29T20:14:57+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="19cdab71-4b7e-48e8-a25f-497619d39c16" />
+		<ModifiedDate>2021-10-29T20:14:57+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="19cdab71-4b7e-48e8-a25f-497619d39c16">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

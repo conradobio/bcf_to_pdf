@@ -1,0 +1,57 @@
+{
+    "codigo": "d59a3ed6-885a-4884-b294-22e1a2fa2248",
+    "titulo": "Camadas das paredes da guarita",
+    "status": "Active",
+    "descricao": "Favor modelar as paredes conforme as camadas especificadas no BEP",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-13T15:06:35+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-16T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "6095ba2a-66ec-4c27-84c2-51a66851d7ed",
+            "descricao": "Faltam camadas nas paredes externas, favor revisar conforme BEP",
+            "data_acao": "2021-11-10T18:48:02+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "a42e8efd-a6cc-475c-92c4-3adaeb718dc0",
+            "descricao": "Resolvido. As paredes foram modeladas conforme o BEP.",
+            "data_acao": "2021-10-25T12:39:01+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "79567666-e649-4e7f-bc08-c51e4181c0dd",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-13T15:06:38+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "4b20b128-3697-445c-b420-0fc62d7e4dcb",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-13T15:06:35+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "49252233-556e-47f6-bdc5-31d4779339c2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d59a3ed6-885a-4884-b294-22e1a2fa2248/d59a3ed6-885a-4884-b294-22e1a2fa2248//49252233-556e-47f6-bdc5-31d4779339c2_snapshot.png"
+        },
+        {
+            "guid": "7727b14e-237c-4fab-90e1-774a18d2f47f",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d59a3ed6-885a-4884-b294-22e1a2fa2248/d59a3ed6-885a-4884-b294-22e1a2fa2248//snapshot.png"
+        }
+    ]
+}

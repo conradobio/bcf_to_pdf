@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="018ba63f-99d4-4f26-b35c-00667c217d3c" TopicType="Consulta de Informação" TopicStatus="Closed">
+		<Title>Afastamento de Torres III</Title>
+		<Priority>Crítica</Priority>
+		<Index>23</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-01-28T20:25:26+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:24+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-02-11T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Identificamos que para atender a diretriz da Caixa e da Engenharia da Capital, devido a conformação do talude em 1/1, as torres deveriam ser afastadas 0,43m para atender a diretriz e evitar arrimos. É possível esse afastamento, meninas?</Description>
+	</Topic>
+	<Comment Guid="72c854c0-473a-46f5-99d2-292e7d0b7682">
+		<Date>2021-01-28T20:25:26+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="73001666-cf37-476d-878a-7be795514155" />
+		<ModifiedDate>2021-01-28T20:25:26+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="73001666-cf37-476d-878a-7be795514155">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

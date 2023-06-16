@@ -1,0 +1,39 @@
+{
+    "codigo": "8e5f7316-aff9-4d4e-9f87-e89923020052",
+    "titulo": "Problema no quadro de \u00e1reas da \u00c1rea de Lazer",
+    "status": "Closed",
+    "descricao": "Acrescentar no quadro \u00c1rea Constru\u00edda-Lazer o novo \u201cEspa\u00e7o MasterChef\u201d previsto na R05.",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2020-07-23T18:51:34+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2020-08-06T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "e08cb589-b5c6-42e7-a2ec-7ff8b802833e",
+            "descricao": "Altera\u00e7\u00e3o na tipologia do empreendimento fez todas as \u00e1reas serem alteradas, e na R004 d o anteprojeto essas ainda n\u00e3o foram indicadas",
+            "data_acao": "2021-01-25T20:01:18+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "25a88d5f-3593-452e-b1d4-0a9a189b6c77",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2020-07-23T18:51:34+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "3dd47a54-c8ca-48f9-9077-b4bdfa1610ac",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/8e5f7316-aff9-4d4e-9f87-e89923020052/8e5f7316-aff9-4d4e-9f87-e89923020052//snapshot.png"
+        }
+    ]
+}

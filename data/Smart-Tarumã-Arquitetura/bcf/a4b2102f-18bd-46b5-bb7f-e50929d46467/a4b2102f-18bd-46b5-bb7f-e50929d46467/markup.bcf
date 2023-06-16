@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="a4b2102f-18bd-46b5-bb7f-e50929d46467" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Piso lazer A</Title>
+		<Priority>Alta</Priority>
+		<Index>148</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T18:59:18+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:41+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Inserir camada de revestimento do piso conforme BEP, Por favor</Description>
+	</Topic>
+	<Comment Guid="c16630d2-03d4-4508-b958-d3141f8cc667">
+		<Date>2021-10-29T17:48:46+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R01</Comment>
+		<Viewpoint Guid="38b590df-5580-4883-ae5b-c832c22aa46f" />
+		<ModifiedDate>2021-10-29T17:48:46+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="6dd4eca4-7cf4-4650-be7d-1fc2f858d351">
+		<Date>2021-10-05T14:11:24+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Revestimento do piso alterado conforme BEP, ou seja, piso cerâmico nos ambientes de lazer. No entanto, destaca-se que no projeto legal a indicação é de piso emborrachado na brinquedoteca</Comment>
+		<Viewpoint Guid="38b590df-5580-4883-ae5b-c832c22aa46f" />
+		<ModifiedDate>2021-10-05T14:11:24+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="eeb33b70-7801-4d32-98c9-c2486bbab7d4">
+		<Date>2021-09-20T18:59:19+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="08da2da8-6d08-4dd3-9942-e615a05f6b1d" />
+		<ModifiedDate>2021-09-20T18:59:19+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="08da2da8-6d08-4dd3-9942-e615a05f6b1d">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="38b590df-5580-4883-ae5b-c832c22aa46f">
+		<Viewpoint>38b590df-5580-4883-ae5b-c832c22aa46f_viewpoint.bcfv</Viewpoint>
+		<Snapshot>38b590df-5580-4883-ae5b-c832c22aa46f_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

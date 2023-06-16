@@ -1,0 +1,50 @@
+{
+    "codigo": "21e7e5e8-d42b-4f4b-887f-546b86c06fa2",
+    "titulo": "Pingadeiras lazer E",
+    "status": "Closed",
+    "descricao": "Modelar as pingadeiars das janelas no lazer E, por favor",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T15:40:02+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "093bbc77-5bda-4c8b-8474-32d87f987b34",
+            "descricao": "Visto na R01 que as pingadeiras foram modeladas",
+            "data_acao": "2021-10-28T19:34:31+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "f7547005-d4ad-4b72-a1cc-86dde263e300",
+            "descricao": "Pingadeiras modeladas em todas as janelas",
+            "data_acao": "2021-10-11T15:37:19+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "c1e6678f-a36c-46e4-9e47-2f467ac970ef",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T15:40:02+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "959a3a0d-2e46-4bdf-b66f-99d7115bb0ea",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/21e7e5e8-d42b-4f4b-887f-546b86c06fa2/21e7e5e8-d42b-4f4b-887f-546b86c06fa2//snapshot.png"
+        },
+        {
+            "guid": "9b25c1a8-02ec-4e95-8fa0-5b3c406abf4c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/21e7e5e8-d42b-4f4b-887f-546b86c06fa2/21e7e5e8-d42b-4f4b-887f-546b86c06fa2//9b25c1a8-02ec-4e95-8fa0-5b3c406abf4c_snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "codigo": "dee7a427-e2ef-4723-8dc7-c779cc13b783",
+    "titulo": "Bancada espa\u00e7o master chef",
+    "status": "Closed",
+    "descricao": "Bancada conflitando com parede no espa\u00e7o master chef do lazer E, por favor ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T15:55:22+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "f0f62c59-d652-44c3-872e-19f9d47f9654",
+            "descricao": "Visto na R01 que a bancada foi ajustada",
+            "data_acao": "2021-10-28T19:13:11+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "47f0bbf2-7a7f-4f82-b22b-433747709526",
+            "descricao": "Bancada ajustada",
+            "data_acao": "2021-10-13T18:48:51+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "908ae277-1dbb-4b5f-9661-2e732de84872",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T16:12:07+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "06212abc-0cb7-4a85-9e56-3602198f6fc7",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T15:55:22+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "05cee8d4-e9ba-451b-9b00-28cee7da05ad",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/dee7a427-e2ef-4723-8dc7-c779cc13b783/dee7a427-e2ef-4723-8dc7-c779cc13b783//snapshot.png"
+        },
+        {
+            "guid": "d235baad-bf57-4a53-9eba-2b33b3b87bb5",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/dee7a427-e2ef-4723-8dc7-c779cc13b783/dee7a427-e2ef-4723-8dc7-c779cc13b783//d235baad-bf57-4a53-9eba-2b33b3b87bb5_snapshot.png"
+        },
+        {
+            "guid": "f2a5dc37-9f26-479d-827a-75aee80a0aa7",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/dee7a427-e2ef-4723-8dc7-c779cc13b783/dee7a427-e2ef-4723-8dc7-c779cc13b783//f2a5dc37-9f26-479d-827a-75aee80a0aa7_snapshot.png"
+        }
+    ]
+}

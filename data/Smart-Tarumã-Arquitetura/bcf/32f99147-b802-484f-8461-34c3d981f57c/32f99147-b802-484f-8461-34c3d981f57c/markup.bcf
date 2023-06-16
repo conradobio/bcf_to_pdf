@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="32f99147-b802-484f-8461-34c3d981f57c" TopicType="Problema" TopicStatus="Active">
+		<Title>Nível da Guarita</Title>
+		<Priority>Crítica</Priority>
+		<Index>232</Index>
+		<Labels>Arquitetura</Labels>
+		<Labels>Terraplanagem</Labels>
+		<CreationDate>2021-09-29T20:22:05+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:07+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Guarita está ficando enterrada, podemos estudar uma nova solução para o platô dela, deixando a ~46,85, para não enterrar em relação a rua do lado de fora, dificultando o visual do porteiro de quem chega.</Description>
+	</Topic>
+	<Comment Guid="98a9259a-52dc-47ef-8df1-ee4a4c4233b7">
+		<Date>2021-10-14T17:58:44+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Foi verificado e a cota da guarita não pode ser elevada, pois não tería acessibilidade nas rampas.
+Arquitetura, favor verificar as cotas da guarita e informar se esta cota atual atende, ou sugerir uma nova cota.</Comment>
+		<Viewpoint Guid="5ab5b3c8-3509-4b13-8fb6-9a8c2d3953cd" />
+		<ModifiedDate>2021-10-14T17:58:44+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="57ad47ab-2580-4c7e-9fcf-d45c42292087">
+		<Date>2021-10-03T19:55:06+00:00</Date>
+		<Author>jesus.cadengenharia@gmail.com</Author>
+		<Comment>na cota 46,85 ficara sem acessibilidade .</Comment>
+		<Viewpoint Guid="68db4612-23bc-4993-b3d4-4f3539552736" />
+		<ModifiedDate>2021-10-03T19:55:06+00:00</ModifiedDate>
+		<ModifiedAuthor>jesus.cadengenharia@gmail.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="04976090-0c73-4753-b522-0d8f85509988">
+		<Date>2021-09-29T20:22:05+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="68db4612-23bc-4993-b3d4-4f3539552736" />
+		<ModifiedDate>2021-09-29T20:22:05+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="5ab5b3c8-3509-4b13-8fb6-9a8c2d3953cd">
+		<Viewpoint>5ab5b3c8-3509-4b13-8fb6-9a8c2d3953cd_viewpoint.bcfv</Viewpoint>
+		<Snapshot>5ab5b3c8-3509-4b13-8fb6-9a8c2d3953cd_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="68db4612-23bc-4993-b3d4-4f3539552736">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

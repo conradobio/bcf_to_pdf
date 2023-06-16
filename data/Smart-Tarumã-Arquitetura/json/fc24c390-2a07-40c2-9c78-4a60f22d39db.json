@@ -1,0 +1,32 @@
+{
+    "codigo": "fc24c390-2a07-40c2-9c78-4a60f22d39db",
+    "titulo": "Porta conflitando com camadas das paredes",
+    "status": "Active",
+    "descricao": "A abertura da porta da copa est\u00e1 dentro das camadas das paredes, favor ajustar",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-28T20:26:12+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4e97b350-fea5-4f8e-a3c6-8353528df008",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T20:26:12+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "f0d69516-abb0-49d3-bd17-38ab48a18190",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/fc24c390-2a07-40c2-9c78-4a60f22d39db/fc24c390-2a07-40c2-9c78-4a60f22d39db//snapshot.png"
+        }
+    ]
+}

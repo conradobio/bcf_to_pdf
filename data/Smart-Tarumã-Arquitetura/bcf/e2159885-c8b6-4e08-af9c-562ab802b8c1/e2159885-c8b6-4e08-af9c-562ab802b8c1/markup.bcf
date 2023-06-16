@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e2159885-c8b6-4e08-af9c-562ab802b8c1" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Banheiro</Title>
+		<Priority>Alta</Priority>
+		<Index>254</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-01T15:58:05+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:11+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Porta do banheiro não alinhada com estrutura (estrutura em verde) por favor, verificar e ajustar ocorrncia em todas as torres</Description>
+	</Topic>
+	<Comment Guid="b0c47ff4-4e43-4c01-8076-650d2a54624b">
+		<Date>2021-10-21T21:12:50+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R02</Comment>
+		<Viewpoint Guid="f8e5fe67-22d6-4a44-89b2-1218f2924760" />
+		<ModifiedDate>2021-10-21T21:12:50+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="fcd91e2c-27d5-481d-9505-cacfe267b574">
+		<Date>2021-10-01T15:58:05+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d205d7ed-60ca-4e43-a842-ca851fce7fb6" />
+		<ModifiedDate>2021-10-01T15:58:05+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="d205d7ed-60ca-4e43-a842-ca851fce7fb6">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="f8e5fe67-22d6-4a44-89b2-1218f2924760">
+		<Viewpoint>f8e5fe67-22d6-4a44-89b2-1218f2924760_viewpoint.bcfv</Viewpoint>
+		<Snapshot>f8e5fe67-22d6-4a44-89b2-1218f2924760_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

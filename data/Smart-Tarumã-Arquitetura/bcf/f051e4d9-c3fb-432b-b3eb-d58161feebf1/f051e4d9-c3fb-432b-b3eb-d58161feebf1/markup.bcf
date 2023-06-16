@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="f051e4d9-c3fb-432b-b3eb-d58161feebf1" TopicType="Conflito" TopicStatus="Active">
+		<Title>Camada de parede sobrepondo camada de revestimento da ducha</Title>
+		<Priority>Alta</Priority>
+		<Index>297</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T19:45:55+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:22+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por favor ajusar as camadas</Description>
+	</Topic>
+	<Comment Guid="cfcfee0d-a998-4002-95ba-0f69a99edde8">
+		<Date>2021-10-28T19:45:55+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="2c53f338-387e-43f2-bc5d-6b23a1e53a18" />
+		<ModifiedDate>2021-10-28T19:45:55+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="2c53f338-387e-43f2-bc5d-6b23a1e53a18">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

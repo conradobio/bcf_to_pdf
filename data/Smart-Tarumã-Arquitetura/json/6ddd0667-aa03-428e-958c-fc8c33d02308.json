@@ -1,0 +1,50 @@
+{
+    "codigo": "6ddd0667-aa03-428e-958c-fc8c33d02308",
+    "titulo": "Conflito do rodap\u00e9 lazer D",
+    "status": "Closed",
+    "descricao": "Rodap\u00e9 conflitando com as outras camadas de piso, por gentileza ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T13:51:58+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "414ab897-d1ab-4469-9a26-07c888125c22",
+            "descricao": "Visto na R01 que o rodap\u00e9 foi ajustado",
+            "data_acao": "2021-10-28T20:49:53+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "c68e6c91-4dff-4af1-8af2-dac9df00b847",
+            "descricao": "Posi\u00e7\u00e3o dos rodap\u00e9s ajustada",
+            "data_acao": "2021-10-07T15:31:14+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "2bf551b0-76c3-44e6-9f9d-c5a422271e34",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T13:51:58+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "15424460-8824-4a46-b4c0-806a511eff01",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/6ddd0667-aa03-428e-958c-fc8c33d02308/6ddd0667-aa03-428e-958c-fc8c33d02308//snapshot.png"
+        },
+        {
+            "guid": "78d824d8-2cfc-4a0b-aa4b-9c8238ca504e",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/6ddd0667-aa03-428e-958c-fc8c33d02308/6ddd0667-aa03-428e-958c-fc8c33d02308//78d824d8-2cfc-4a0b-aa4b-9c8238ca504e_snapshot.png"
+        }
+    ]
+}

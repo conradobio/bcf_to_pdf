@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="585ea5e2-4ed2-4751-9c19-b290563741e1" TopicType="Problema" TopicStatus="Closed">
+		<Title>Padronizar nomes dos anexos</Title>
+		<Priority>Baixa</Priority>
+		<Index>50</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-03-31T16:06:16+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:27+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Por gentileza, poderia padronizar nomes dos anexos no projeto para que fiquem identificados de forma idêntica em legendas e tabelas?</Description>
+	</Topic>
+	<Comment Guid="bcaeef10-5aab-40c4-8d6b-985a2d075856">
+		<Date>2021-03-31T16:06:16+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="cd5dab55-7255-40b3-bb4b-61cd84437c0c" />
+		<ModifiedDate>2021-03-31T16:06:16+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="cd5dab55-7255-40b3-bb4b-61cd84437c0c">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,57 @@
+{
+    "codigo": "b9c18a5d-a3f1-4f65-a9ff-ac71deb5ea83",
+    "titulo": "Modelagem contrapiso",
+    "status": "Closed",
+    "descricao": "Conforme BEP o contrapiso do hall dever\u00e1 ter 3 cm e no modelo est\u00e1 4 cm, por gentileza, verificar e ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-08-25T15:50:32+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-07T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "339c18ad-6b3b-46cb-9904-4338c2548bf4",
+            "descricao": "Ajustado na R02",
+            "data_acao": "2021-10-21T20:37:36+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "cb8f4444-a501-4437-a7af-ac8e3c513f4e",
+            "descricao": "n\u00e3o ajustado r01",
+            "data_acao": "2021-09-30T21:05:32+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "ca1deaa8-2f66-4d7e-b9bf-2a57cdcb666a",
+            "descricao": "n\u00e3o atendido, por gentileza, verificar e ajustar",
+            "data_acao": "2021-09-15T20:58:54+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "ffb0dd2e-e884-4d09-b9ab-b161e1ff317f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-25T15:50:32+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "236f1aae-572a-4276-b98c-89e11f8b6c71",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b9c18a5d-a3f1-4f65-a9ff-ac71deb5ea83/b9c18a5d-a3f1-4f65-a9ff-ac71deb5ea83//snapshot.png"
+        },
+        {
+            "guid": "86c3e97d-59dd-4dfd-9878-1525eaa37b6f",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b9c18a5d-a3f1-4f65-a9ff-ac71deb5ea83/b9c18a5d-a3f1-4f65-a9ff-ac71deb5ea83//86c3e97d-59dd-4dfd-9878-1525eaa37b6f_snapshot.png"
+        }
+    ]
+}

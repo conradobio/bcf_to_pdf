@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualizationInfo Guid="cb9b7dc7-7909-43ea-abeb-bf152d66be41">
+	<Components>
+		<ViewSetupHints SpacesVisible="false" SpaceBoundariesVisible="false" OpeningsVisible="false" />
+	</Components>
+	<DrawingViewport>
+		<Client>REVIT</Client>
+		<ViewName>D</ViewName>
+		<ViewType>2</ViewType>
+		<ViewStory>0</ViewStory>
+		<ViewID1>0</ViewID1>
+		<ViewID2>0</ViewID2>
+		<ViewLeftTop>
+			<X>-25.325246617173054</X>
+			<Y>-8.6206117245527416</Y>
+		</ViewLeftTop>
+		<ViewRightBottom>
+			<X>6.1246425574039005</X>
+			<Y>-8.6206117245528429</Y>
+		</ViewRightBottom>
+	</DrawingViewport>
+</VisualizationInfo>

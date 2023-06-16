@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d910fbff-80be-4747-a439-5266840d0038" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Camadas das paredes</Title>
+		<Priority>Alta</Priority>
+		<Index>88</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-25T15:56:04+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:28+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-01T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, modelas todas as camadas das paredes, conforme BEP</Description>
+	</Topic>
+	<Comment Guid="5efa7a5b-c549-43fa-a14d-4740a8184257">
+		<Date>2021-09-15T21:14:43+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>AJUSTADO NA R01</Comment>
+		<Viewpoint Guid="272a7020-95c6-419f-b0e2-8aa12aef5ef6" />
+		<ModifiedDate>2021-09-15T21:14:43+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="c0f69118-7fc4-4b92-89a1-b52078d4609a">
+		<Date>2021-08-25T15:56:04+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="b4e78ff0-6316-42ad-a829-fa54235c4ab1" />
+		<ModifiedDate>2021-08-25T15:56:04+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="272a7020-95c6-419f-b0e2-8aa12aef5ef6">
+		<Viewpoint>272a7020-95c6-419f-b0e2-8aa12aef5ef6_viewpoint.bcfv</Viewpoint>
+		<Snapshot>272a7020-95c6-419f-b0e2-8aa12aef5ef6_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="b4e78ff0-6316-42ad-a829-fa54235c4ab1">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

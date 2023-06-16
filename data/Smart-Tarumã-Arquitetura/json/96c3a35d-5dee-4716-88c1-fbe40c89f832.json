@@ -1,0 +1,32 @@
+{
+    "codigo": "96c3a35d-5dee-4716-88c1-fbe40c89f832",
+    "titulo": "Documenta\u00e7\u00e3o",
+    "status": "Active",
+    "descricao": "Faltando entregar PDF",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T18:22:29+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-12-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "b1ed74b4-4f29-4cfd-9935-3571dadc3b65",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T18:22:29+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "447f91e0-632c-440a-9c4c-1747fb9a5683",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/96c3a35d-5dee-4716-88c1-fbe40c89f832/96c3a35d-5dee-4716-88c1-fbe40c89f832//snapshot.png"
+        }
+    ]
+}

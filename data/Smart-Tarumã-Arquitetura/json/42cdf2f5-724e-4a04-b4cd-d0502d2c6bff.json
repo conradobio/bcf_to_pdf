@@ -1,0 +1,39 @@
+{
+    "codigo": "42cdf2f5-724e-4a04-b4cd-d0502d2c6bff",
+    "titulo": "Paredes da lixeira sem as camadas",
+    "status": "Resolved",
+    "descricao": "Favor modelar as paredes e camadas conforme o BEP",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-11T20:34:40+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-17T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "de42cadb-de6b-4070-8586-835b66772389",
+            "descricao": "Resolvido",
+            "data_acao": "2021-10-14T17:44:55+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "1bac268f-08e3-4994-80d3-1e37834c813b",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-11T20:34:40+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "2d0d5c82-b871-4384-ac5f-4388596c1925",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/42cdf2f5-724e-4a04-b4cd-d0502d2c6bff/42cdf2f5-724e-4a04-b4cd-d0502d2c6bff//snapshot.png"
+        }
+    ]
+}

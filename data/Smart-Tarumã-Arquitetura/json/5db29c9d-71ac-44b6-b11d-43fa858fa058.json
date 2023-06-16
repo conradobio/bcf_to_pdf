@@ -1,0 +1,32 @@
+{
+    "codigo": "5db29c9d-71ac-44b6-b11d-43fa858fa058",
+    "titulo": "Conflito entre piso",
+    "status": "Active",
+    "descricao": "Camadas de piso conflitandona entrada do banheiro, por favor, verificar todas as ocorrencias e ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T19:16:19+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "c9c2e672-87fd-4586-8db5-27dbd731d92c",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T19:16:19+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "e8fdbe93-3be4-4b69-9930-721e62409c2d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/5db29c9d-71ac-44b6-b11d-43fa858fa058/5db29c9d-71ac-44b6-b11d-43fa858fa058//snapshot.png"
+        }
+    ]
+}

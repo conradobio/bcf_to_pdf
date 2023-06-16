@@ -1,0 +1,32 @@
+{
+    "codigo": "3a25a380-ccd8-4420-b30e-3768ed93ebba",
+    "titulo": "Nomenclatura",
+    "status": "Closed",
+    "descricao": "Atentar para a nomenclatura dos arquivos, foram upados arquivos com revis\u00f5es n\u00e3o correspondentes",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-11T19:26:28+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-18T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4993eb45-75fc-4ea8-be1a-9564d0bc91e7",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-11T19:26:28+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "47bf9f11-51f1-4274-98e8-b2259a14e249",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/3a25a380-ccd8-4420-b30e-3768ed93ebba/3a25a380-ccd8-4420-b30e-3768ed93ebba//snapshot.png"
+        }
+    ]
+}

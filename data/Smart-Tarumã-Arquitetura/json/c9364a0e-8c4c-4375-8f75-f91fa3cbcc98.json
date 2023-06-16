@@ -1,0 +1,65 @@
+{
+    "codigo": "c9364a0e-8c4c-4375-8f75-f91fa3cbcc98",
+    "titulo": "AL03 sala de estar/jantar",
+    "status": "Closed",
+    "descricao": "Em confer\u00eancia no modelo rvt, identificamos diverg\u00eancias com o projeto de f\u00f4rma met\u00e1lica na esquadria AL01 do dormitorio 01",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-09-17T14:52:52+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-28T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "25d3e2ed-036a-4b80-a127-2f42fa4c1870",
+            "descricao": "Divergindo apenas em peitoril, por favor, ajustar",
+            "data_acao": "2021-10-21T20:59:16+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "874e6c59-ff46-4294-aa7e-db9344923fdb",
+            "descricao": "n\u00e3o atendido, verificar em todas as torres",
+            "data_acao": "2021-09-30T21:14:16+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "1cf5c4b2-dfbd-4515-88ae-b5b1b43f2814",
+            "descricao": "Compara\u00e7\u00e3o entre modelo de arquitetura enviado e dwg da forma metalica a ser seguido",
+            "data_acao": "2021-09-17T14:52:54+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "fd3f02cd-5e31-49bd-b324-b77bfb6729d6",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-17T14:52:52+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "4bf98a4a-5d49-4fc4-9602-7abbb5b1c500",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c9364a0e-8c4c-4375-8f75-f91fa3cbcc98/c9364a0e-8c4c-4375-8f75-f91fa3cbcc98//4bf98a4a-5d49-4fc4-9602-7abbb5b1c500_snapshot.png"
+        },
+        {
+            "guid": "c02bc2ec-4767-49ec-afcd-5c02d3c621f2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c9364a0e-8c4c-4375-8f75-f91fa3cbcc98/c9364a0e-8c4c-4375-8f75-f91fa3cbcc98//snapshot.png"
+        },
+        {
+            "guid": "c35bd6b4-9810-40d2-8ea8-272cc5c86122",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c9364a0e-8c4c-4375-8f75-f91fa3cbcc98/c9364a0e-8c4c-4375-8f75-f91fa3cbcc98//c35bd6b4-9810-40d2-8ea8-272cc5c86122_snapshot.png"
+        },
+        {
+            "guid": "fcb9da52-731e-423a-bba9-d37f047cee1b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c9364a0e-8c4c-4375-8f75-f91fa3cbcc98/c9364a0e-8c4c-4375-8f75-f91fa3cbcc98//fcb9da52-731e-423a-bba9-d37f047cee1b_snapshot.png"
+        }
+    ]
+}

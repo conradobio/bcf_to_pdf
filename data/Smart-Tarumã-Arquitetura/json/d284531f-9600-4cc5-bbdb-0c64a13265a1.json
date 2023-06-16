@@ -1,0 +1,39 @@
+{
+    "codigo": "d284531f-9600-4cc5-bbdb-0c64a13265a1",
+    "titulo": "Simblogia de esquadria",
+    "status": "Active",
+    "descricao": "Indicar simbologia da esquadria e incorporar na legenda, por favor",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-16T14:58:09+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-08T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "f4a35174-2527-4a54-b31a-19ad64b92381",
+            "descricao": "n\u00e3o atendido, verificar e ajustar em todas as torres",
+            "data_acao": "2021-10-01T13:19:49+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "12e24cb4-d09f-4d13-b6ec-4582e0383769",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-16T14:58:09+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "e4008539-be14-42a3-a0f3-a2f5351672b2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d284531f-9600-4cc5-bbdb-0c64a13265a1/d284531f-9600-4cc5-bbdb-0c64a13265a1//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="9d6f178f-4022-4ad7-872b-55404d88f49f" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Marquise</Title>
+		<Priority>Alta</Priority>
+		<Index>320</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T18:06:35+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:27+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Marquise não deveria ser impermeabilizada??</Description>
+	</Topic>
+	<Comment Guid="afc3f504-634f-4dbe-b016-e78722e28aca">
+		<Date>2021-10-29T18:06:35+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7a040e64-c8bf-4ec4-8af1-c77f0852bdd2" />
+		<ModifiedDate>2021-10-29T18:06:35+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="7a040e64-c8bf-4ec4-8af1-c77f0852bdd2">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

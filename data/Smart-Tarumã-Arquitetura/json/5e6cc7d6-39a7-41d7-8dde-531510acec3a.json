@@ -1,0 +1,50 @@
+{
+    "codigo": "5e6cc7d6-39a7-41d7-8dde-531510acec3a",
+    "titulo": "Tamanho do P05",
+    "status": "Closed",
+    "descricao": "Favor ajustar o tamanho do port\u00e3o de acordo com o projeto legal que \u00e9 de 2.20 m",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-13T17:03:46+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-19T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "a4a9942f-857a-4d09-9e74-fcce30295b93",
+            "descricao": "Resolvido na revis\u00e3o R01.",
+            "data_acao": "2021-11-10T19:01:06+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "bd406180-535a-44aa-9018-e1bb3488f16a",
+            "descricao": "A largura na tabela do projeto legal est\u00e1 incorreta, com 2.20m. A largura no projeto legal \u00e9 6.22, assim como est\u00e1 no modelo do projeto executivo.",
+            "data_acao": "2021-10-20T15:15:31+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "80f5052c-821c-4f4e-b562-d09ccc35bda3",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-13T17:03:46+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "dc807595-77e6-4085-8165-e33967bc2940",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/5e6cc7d6-39a7-41d7-8dde-531510acec3a/5e6cc7d6-39a7-41d7-8dde-531510acec3a//dc807595-77e6-4085-8165-e33967bc2940_snapshot.png"
+        },
+        {
+            "guid": "fa6a7f84-586b-4efd-8f8d-6f4c1c688ba7",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/5e6cc7d6-39a7-41d7-8dde-531510acec3a/5e6cc7d6-39a7-41d7-8dde-531510acec3a//snapshot.png"
+        }
+    ]
+}

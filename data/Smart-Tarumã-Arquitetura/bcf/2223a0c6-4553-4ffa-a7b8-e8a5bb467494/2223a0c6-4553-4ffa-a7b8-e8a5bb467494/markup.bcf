@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="2223a0c6-4553-4ffa-a7b8-e8a5bb467494" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Modelagem do rodapé</Title>
+		<Priority>Alta</Priority>
+		<Index>124</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-16T15:58:26+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:36+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-28T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Rodapé conflitando com porta na suite 1</Description>
+	</Topic>
+	<Comment Guid="e76cd45a-e598-4c03-afa1-94e5bd8bc4e9">
+		<Date>2021-10-21T20:51:27+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não ajustado</Comment>
+		<Viewpoint Guid="35484634-78ae-4b98-bb8e-a48cf2e299ec" />
+		<ModifiedDate>2021-10-21T20:51:27+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="1494ed17-7e6a-4527-8994-1cd6b7d7c3dd">
+		<Date>2021-09-30T21:18:54+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não ajustado , verificar todas as ocorrências em todas as torres</Comment>
+		<Viewpoint Guid="1386f3fa-ed7e-47e1-a522-fd5624a64d70" />
+		<ModifiedDate>2021-09-30T21:18:54+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="c8e97567-2e0a-4c79-93da-386ad440d787">
+		<Date>2021-09-16T15:58:26+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="1386f3fa-ed7e-47e1-a522-fd5624a64d70" />
+		<ModifiedDate>2021-09-16T15:58:26+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="1386f3fa-ed7e-47e1-a522-fd5624a64d70">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="35484634-78ae-4b98-bb8e-a48cf2e299ec">
+		<Viewpoint>35484634-78ae-4b98-bb8e-a48cf2e299ec_viewpoint.bcfv</Viewpoint>
+		<Snapshot>35484634-78ae-4b98-bb8e-a48cf2e299ec_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

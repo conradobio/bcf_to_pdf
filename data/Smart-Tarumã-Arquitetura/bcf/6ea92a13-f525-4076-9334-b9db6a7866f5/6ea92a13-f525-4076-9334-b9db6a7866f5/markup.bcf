@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="6ea92a13-f525-4076-9334-b9db6a7866f5" TopicType="Consulta de Informação" TopicStatus="Closed">
+		<Title>Talude invadindo o perímetro do terreno</Title>
+		<Priority>Baixa</Priority>
+		<Index>73</Index>
+		<Labels>Arquitetura</Labels>
+		<Labels>Terraplanagem</Labels>
+		<CreationDate>2021-07-30T15:45:05+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:28+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-08-13T14:00:00+00:00</DueDate>
+		<AssignedTo>rafaelavilela@construtoracapital.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Talude invadindo o perímetro do terreno nas laterais. Favor verificar se há algum problema desse talude está passando do limite do terreno do condominio.</Description>
+	</Topic>
+	<Comment Guid="182f7497-e2d6-4e0b-86cd-7936b94bb7f6">
+		<Date>2021-08-28T19:47:19+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>AJUSTADO NA R02</Comment>
+		<Viewpoint Guid="8caf56ad-d72d-463f-8db8-e3ba16c0202c" />
+		<ModifiedDate>2021-08-28T19:47:19+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="7ed2cdb1-b812-4695-8175-e604a535ff34">
+		<Date>2021-07-30T15:45:05+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="99678836-2980-40af-b5c4-744e34254d60" />
+		<ModifiedDate>2021-07-30T15:45:05+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="8caf56ad-d72d-463f-8db8-e3ba16c0202c">
+		<Viewpoint>8caf56ad-d72d-463f-8db8-e3ba16c0202c_viewpoint.bcfv</Viewpoint>
+		<Snapshot>8caf56ad-d72d-463f-8db8-e3ba16c0202c_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="99678836-2980-40af-b5c4-744e34254d60">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

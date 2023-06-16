@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e2850c64-987d-4b00-a477-f686deafe23e" TopicType="Falha" TopicStatus="Active">
+		<Title>Prever cerâmica em toda área do box</Title>
+		<Priority>Baixa</Priority>
+		<Index>286</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-15T13:28:13+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:19+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-16T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+	</Topic>
+	<Comment Guid="0ce7f903-797b-4d49-90ba-9f16f8be59fc">
+		<Date>2021-11-10T18:36:55+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Favor modelar cerâmica em toda a área do box. Também é necessário inserir o box no projeto.</Comment>
+		<Viewpoint Guid="b0ff7377-7beb-477e-a963-c733e1283c35" />
+		<ModifiedDate>2021-11-10T18:36:55+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="79c1938b-a35a-4d68-a3a7-557fdc11bbd2">
+		<Date>2021-10-22T13:12:40+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foi modelada a cerâmica do box nos dois vestiários</Comment>
+		<Viewpoint Guid="6fdbf422-b20f-43fe-94b8-715c485820b6" />
+		<ModifiedDate>2021-10-22T13:12:40+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="89746ab1-68aa-46f0-98af-82f01ec29571">
+		<Date>2021-10-15T13:28:13+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="2cf9ece8-5edf-40d0-ae55-197578017fb9" />
+		<ModifiedDate>2021-10-15T13:28:13+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="2cf9ece8-5edf-40d0-ae55-197578017fb9">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="6fdbf422-b20f-43fe-94b8-715c485820b6">
+		<Viewpoint>6fdbf422-b20f-43fe-94b8-715c485820b6_viewpoint.bcfv</Viewpoint>
+		<Snapshot>6fdbf422-b20f-43fe-94b8-715c485820b6_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="b0ff7377-7beb-477e-a963-c733e1283c35">
+		<Viewpoint>b0ff7377-7beb-477e-a963-c733e1283c35_viewpoint.bcfv</Viewpoint>
+		<Snapshot>b0ff7377-7beb-477e-a963-c733e1283c35_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

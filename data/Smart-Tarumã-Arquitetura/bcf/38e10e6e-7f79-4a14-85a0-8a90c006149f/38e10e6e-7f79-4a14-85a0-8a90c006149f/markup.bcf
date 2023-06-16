@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="38e10e6e-7f79-4a14-85a0-8a90c006149f" TopicType="Problema" TopicStatus="Active">
+		<Title>Ajustar camada da parede na platibanda</Title>
+		<Priority>Alta</Priority>
+		<Index>303</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T20:38:33+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:23+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar essa camada na platibanda</Description>
+	</Topic>
+	<Comment Guid="21d17bfa-3db5-4880-bacb-26042cb9f778">
+		<Date>2021-10-28T20:38:33+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7caeefd5-d65e-42a4-917f-1f1bce21c171" />
+		<ModifiedDate>2021-10-28T20:38:33+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="7caeefd5-d65e-42a4-917f-1f1bce21c171">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

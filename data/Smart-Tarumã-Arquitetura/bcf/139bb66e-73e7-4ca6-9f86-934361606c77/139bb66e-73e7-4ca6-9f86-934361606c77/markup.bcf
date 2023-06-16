@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="139bb66e-73e7-4ca6-9f86-934361606c77" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Ajustar modelagem da parede e piso na casa de bombas</Title>
+		<Priority>Alta</Priority>
+		<Index>296</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T19:39:50+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:21+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+	</Topic>
+	<Comment Guid="fe07173a-d656-4400-a0d5-626a090f8f93">
+		<Date>2021-10-28T19:39:50+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="f6395394-dcf9-4741-9f9f-62987247612d" />
+		<ModifiedDate>2021-10-28T19:39:50+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="f6395394-dcf9-4741-9f9f-62987247612d">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

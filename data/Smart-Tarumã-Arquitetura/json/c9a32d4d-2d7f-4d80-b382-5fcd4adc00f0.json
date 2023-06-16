@@ -1,0 +1,50 @@
+{
+    "codigo": "c9a32d4d-2d7f-4d80-b382-5fcd4adc00f0",
+    "titulo": "Selador lazer D",
+    "status": "Closed",
+    "descricao": "Selador modelar antes da massa acrilica, por gentileza",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T14:36:15+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4c001781-2167-488b-a2a1-58ff7df969bf",
+            "descricao": "Selador modelado antes da massa na R01",
+            "data_acao": "2021-10-28T20:38:27+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "2ea5a59b-7a6b-4e70-8d7a-e3740449369f",
+            "descricao": "resolvido",
+            "data_acao": "2021-10-18T21:36:37+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "1a1c2af4-88ec-4586-a847-4f7ed00e6aaf",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T14:36:15+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6478f199-f08a-40fa-96f9-31bb8316bb19",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c9a32d4d-2d7f-4d80-b382-5fcd4adc00f0/c9a32d4d-2d7f-4d80-b382-5fcd4adc00f0//snapshot.png"
+        },
+        {
+            "guid": "ce5fd5dc-eaf6-4f9e-9ce7-babb6419236b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c9a32d4d-2d7f-4d80-b382-5fcd4adc00f0/c9a32d4d-2d7f-4d80-b382-5fcd4adc00f0//ce5fd5dc-eaf6-4f9e-9ce7-babb6419236b_snapshot.png"
+        }
+    ]
+}

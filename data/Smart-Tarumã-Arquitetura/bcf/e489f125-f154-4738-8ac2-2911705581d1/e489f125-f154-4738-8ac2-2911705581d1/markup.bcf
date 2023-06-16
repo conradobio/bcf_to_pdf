@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e489f125-f154-4738-8ac2-2911705581d1" TopicType="Problema" TopicStatus="Active">
+		<Title>Cota da Rua da Duplicação</Title>
+		<Priority>Alta</Priority>
+		<Index>231</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-29T20:15:09+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:06+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-05T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ponto de Atenção, quando tivermos a informação do nível da duplicação.</Description>
+	</Topic>
+	<Comment Guid="26484e3f-aa3b-4004-a475-2e37edb18fd7">
+		<Date>2021-09-29T20:15:41+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resposta Morar: Mas vamos ter essa informação neste momento?</Comment>
+		<Viewpoint Guid="c222865a-961e-4677-a684-4ec163b0836b" />
+		<ModifiedDate>2021-09-29T20:15:41+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="29b2950e-7a9b-419f-9eed-9b5189420d9c">
+		<Date>2021-09-29T20:15:09+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c222865a-961e-4677-a684-4ec163b0836b" />
+		<ModifiedDate>2021-09-29T20:15:09+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="c222865a-961e-4677-a684-4ec163b0836b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

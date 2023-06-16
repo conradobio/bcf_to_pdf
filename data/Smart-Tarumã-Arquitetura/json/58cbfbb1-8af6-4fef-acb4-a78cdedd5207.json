@@ -1,0 +1,32 @@
+{
+    "codigo": "58cbfbb1-8af6-4fef-acb4-a78cdedd5207",
+    "titulo": "Padronizar termos para apartamentos adapt\u00e1veis para PCR",
+    "status": "Closed",
+    "descricao": "Nas pranchas foram encontrados mais de um termo para se referir a apartamentos para PCR, Por gentileza, padronizar denomina\u00e7\u00e3o.",
+    "tipo": "Problema",
+    "fase": "Projeto Legal",
+    "prioridade": "Baixa",
+    "abertura": "2021-03-31T14:24:31+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-04-07T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "169244d7-4d8d-48c6-a3ce-e5c1c003682b",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-03-31T14:24:31+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "5c135a40-147b-4441-8525-7490b2bfebc8",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/58cbfbb1-8af6-4fef-acb4-a78cdedd5207/58cbfbb1-8af6-4fef-acb4-a78cdedd5207//snapshot.png"
+        }
+    ]
+}

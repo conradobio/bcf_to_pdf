@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="a0614f15-8f88-4445-b072-66a74b9f2df3" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Banheiro PNE lazer A</Title>
+		<Priority>Alta</Priority>
+		<Index>155</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T20:52:05+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:43+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, reveja modelo de bacia sanitária e seu dimensionamento conforme NBR 9050</Description>
+	</Topic>
+	<Comment Guid="00510d0a-37e7-4ec1-ae5a-7a9a9f60f3d3">
+		<Date>2021-10-04T15:04:08+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>altura da bacia sanitária ajustada conforme NBR 9050</Comment>
+		<Viewpoint Guid="6a3d9459-6e34-4060-9ec6-9db27532da9e" />
+		<ModifiedDate>2021-10-04T15:04:08+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="0908aca4-a374-4465-91df-4553ad13c548">
+		<Date>2021-09-20T20:52:05+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="6a3d9459-6e34-4060-9ec6-9db27532da9e" />
+		<ModifiedDate>2021-09-20T20:52:05+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="6a3d9459-6e34-4060-9ec6-9db27532da9e">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

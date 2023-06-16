@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="5a44635d-18ec-44c5-83d1-8125ac2553ee" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Camada de pintura</Title>
+		<Priority>Alta</Priority>
+		<Index>126</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-16T16:07:13+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:37+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>faltando modelar camada de pintura nos tres ultimos pavimerntos na sala de jantar, por favor, ajustar e verificar a ocorrencia em todos os apartamentos</Description>
+	</Topic>
+	<Comment Guid="4094f754-0ae3-4d96-b5ef-7ac9470bfdbd">
+		<Date>2021-10-21T20:56:49+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r02</Comment>
+		<Viewpoint Guid="0b0b35be-3b20-4aad-8d5d-12c21340d3ed" />
+		<ModifiedDate>2021-10-21T20:56:49+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="61eb1490-c2a7-4aa6-8a84-1017a3fada73">
+		<Date>2021-09-30T21:21:40+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não resolvido, verificar todas as ocorrências em todas as torres</Comment>
+		<Viewpoint Guid="c8d2c252-bf09-49d1-92a3-5550c128a028" />
+		<ModifiedDate>2021-09-30T21:21:40+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="da7806a5-1ad9-4fba-b20b-434facd63f11">
+		<Date>2021-09-16T16:07:13+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="e3b6c7d5-661f-4fd2-bcc4-c57dec1790d3" />
+		<ModifiedDate>2021-09-16T16:07:13+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0b0b35be-3b20-4aad-8d5d-12c21340d3ed">
+		<Viewpoint>0b0b35be-3b20-4aad-8d5d-12c21340d3ed_viewpoint.bcfv</Viewpoint>
+		<Snapshot>0b0b35be-3b20-4aad-8d5d-12c21340d3ed_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="c8d2c252-bf09-49d1-92a3-5550c128a028">
+		<Viewpoint>c8d2c252-bf09-49d1-92a3-5550c128a028_viewpoint.bcfv</Viewpoint>
+		<Snapshot>c8d2c252-bf09-49d1-92a3-5550c128a028_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="e3b6c7d5-661f-4fd2-bcc4-c57dec1790d3">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

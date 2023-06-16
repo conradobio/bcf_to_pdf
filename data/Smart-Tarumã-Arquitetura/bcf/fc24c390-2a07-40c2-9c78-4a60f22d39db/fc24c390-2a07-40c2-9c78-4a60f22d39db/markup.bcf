@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="fc24c390-2a07-40c2-9c78-4a60f22d39db" TopicType="Conflito" TopicStatus="Active">
+		<Title>Porta conflitando com camadas das paredes</Title>
+		<Priority>Alta</Priority>
+		<Index>300</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T20:26:12+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:23+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>A abertura da porta da copa está dentro das camadas das paredes, favor ajustar</Description>
+	</Topic>
+	<Comment Guid="4e97b350-fea5-4f8e-a3c6-8353528df008">
+		<Date>2021-10-28T20:26:12+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="f0d69516-abb0-49d3-bd17-38ab48a18190" />
+		<ModifiedDate>2021-10-28T20:26:12+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="f0d69516-abb0-49d3-bd17-38ab48a18190">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

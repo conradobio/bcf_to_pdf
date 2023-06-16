@@ -1,0 +1,50 @@
+{
+    "codigo": "2ad85328-a9aa-4f90-ac76-c48c875b1ecf",
+    "titulo": "Camada de pintura",
+    "status": "Closed",
+    "descricao": "Camada de pintura modelada apenas na copa e banheiro, modelar nos demais ambientes (sal\u00e3o de festas, sal\u00e3o de jogos e brinquedotaca)",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T14:11:43+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "cb62a702-00df-4370-8ca8-dfdbed0ae0eb",
+            "descricao": "Visto na Re01 que as camadas foram modeladas",
+            "data_acao": "2021-10-28T20:47:12+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "64293717-802c-4f35-9e53-0cbb661e1bc4",
+            "descricao": "camada de pintura modelada nos ambientes listados",
+            "data_acao": "2021-10-07T15:47:17+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "401818d1-22b2-4c4c-93a1-b7468e3d621b",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T14:11:43+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "b7f5030b-f754-4ec3-91bf-30182f38728b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2ad85328-a9aa-4f90-ac76-c48c875b1ecf/2ad85328-a9aa-4f90-ac76-c48c875b1ecf//b7f5030b-f754-4ec3-91bf-30182f38728b_snapshot.png"
+        },
+        {
+            "guid": "c94190c1-043f-41a2-bf92-de73d26bf607",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2ad85328-a9aa-4f90-ac76-c48c875b1ecf/2ad85328-a9aa-4f90-ac76-c48c875b1ecf//snapshot.png"
+        }
+    ]
+}

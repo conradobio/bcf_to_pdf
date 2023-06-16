@@ -1,0 +1,50 @@
+{
+    "codigo": "32f99147-b802-484f-8461-34c3d981f57c",
+    "titulo": "N\u00edvel da Guarita",
+    "status": "Active",
+    "descricao": "Guarita est\u00e1 ficando enterrada, podemos estudar uma nova solu\u00e7\u00e3o para o plat\u00f4 dela, deixando a ~46,85, para n\u00e3o enterrar em rela\u00e7\u00e3o a rua do lado de fora, dificultando o visual do porteiro de quem chega.",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-09-29T20:22:05+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "98a9259a-52dc-47ef-8df1-ee4a4c4233b7",
+            "descricao": "Foi verificado e a cota da guarita n\u00e3o pode ser elevada, pois n\u00e3o ter\u00eda acessibilidade nas rampas.\nArquitetura, favor verificar as cotas da guarita e informar se esta cota atual atende, ou sugerir uma nova cota.",
+            "data_acao": "2021-10-14T17:58:44+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "57ad47ab-2580-4c7e-9fcf-d45c42292087",
+            "descricao": "na cota 46,85 ficara sem acessibilidade .",
+            "data_acao": "2021-10-03T19:55:06+00:00",
+            "novo_autor": "jesus.cadengenharia@gmail.com",
+            "realizado_por": "jesus.cadengenharia@gmail.com"
+        },
+        {
+            "guid": "04976090-0c73-4753-b522-0d8f85509988",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T20:22:05+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "5ab5b3c8-3509-4b13-8fb6-9a8c2d3953cd",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/32f99147-b802-484f-8461-34c3d981f57c/32f99147-b802-484f-8461-34c3d981f57c//5ab5b3c8-3509-4b13-8fb6-9a8c2d3953cd_snapshot.png"
+        },
+        {
+            "guid": "68db4612-23bc-4993-b3d4-4f3539552736",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/32f99147-b802-484f-8461-34c3d981f57c/32f99147-b802-484f-8461-34c3d981f57c//snapshot.png"
+        }
+    ]
+}

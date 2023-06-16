@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="87019b21-936c-4457-a323-69d838c168e6" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Porta conflitando com piso lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>181</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T15:32:03+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:51+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Portas conflitando com piso em todos os banheiros no lazer E, por favor, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="f315b387-642d-482c-8704-f4b6c3ec4a96">
+		<Date>2021-10-28T19:38:07+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que as portas foram ajustadas</Comment>
+		<Viewpoint Guid="00895814-1b9b-48b3-981f-c939f4b8b831" />
+		<ModifiedDate>2021-10-28T19:38:07+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="423987e1-ab16-4c7a-a927-2760a52f988f">
+		<Date>2021-10-11T15:11:41+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Portas ajustadas</Comment>
+		<Viewpoint Guid="d83166ab-95aa-48d0-b587-393391b010de" />
+		<ModifiedDate>2021-10-11T15:11:41+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a5a1e4a7-2fd4-45fb-8b1b-94ed3e189da3">
+		<Date>2021-09-21T15:32:03+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d83166ab-95aa-48d0-b587-393391b010de" />
+		<ModifiedDate>2021-09-21T15:32:03+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="00895814-1b9b-48b3-981f-c939f4b8b831">
+		<Viewpoint>00895814-1b9b-48b3-981f-c939f4b8b831_viewpoint.bcfv</Viewpoint>
+		<Snapshot>00895814-1b9b-48b3-981f-c939f4b8b831_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d83166ab-95aa-48d0-b587-393391b010de">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

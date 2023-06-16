@@ -1,0 +1,46 @@
+{
+    "codigo": "677fa9fc-f4ef-47df-b746-072ab08c30aa",
+    "titulo": "Parede \u00e1rea molhada lazer A",
+    "status": "Closed",
+    "descricao": "Inserir camada de impermeabiliza\u00e7\u00e3onas paredes das \u00e1reas molhadas, por favor",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-20T20:39:43+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-26T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "71b79c74-8a8c-4d87-a403-934879b5ba90",
+            "descricao": "Ajustado na r01",
+            "data_acao": "2021-10-29T17:48:55+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "f6976953-f456-4cb5-9f0d-4ce5b8691f8b",
+            "descricao": "Camadas de impermeabiliza\u00e7\u00e3o das \u00e1reas molhadas inseridas",
+            "data_acao": "2021-10-04T13:15:13+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "19f74960-07c2-4acd-992a-6692bc855707",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-20T20:39:43+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "e4d5aece-ef45-4c1f-af97-5eaf99287369",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/677fa9fc-f4ef-47df-b746-072ab08c30aa/677fa9fc-f4ef-47df-b746-072ab08c30aa//snapshot.png"
+        }
+    ]
+}

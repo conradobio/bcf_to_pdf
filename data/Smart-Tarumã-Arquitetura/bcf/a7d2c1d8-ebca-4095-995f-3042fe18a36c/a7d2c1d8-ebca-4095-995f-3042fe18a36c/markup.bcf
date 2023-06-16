@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="a7d2c1d8-ebca-4095-995f-3042fe18a36c" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Sanitários</Title>
+		<Priority>Alta</Priority>
+		<Index>336</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T20:33:03+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:30+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Sanitário conflitando com piso</Description>
+	</Topic>
+	<Comment Guid="cf015650-3565-44b0-bf30-407f2d1115fa">
+		<Date>2021-10-29T20:33:03+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c82ffaa3-21ac-4a5f-ba8d-37a8db7d30ab" />
+		<ModifiedDate>2021-10-29T20:33:03+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="c82ffaa3-21ac-4a5f-ba8d-37a8db7d30ab">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

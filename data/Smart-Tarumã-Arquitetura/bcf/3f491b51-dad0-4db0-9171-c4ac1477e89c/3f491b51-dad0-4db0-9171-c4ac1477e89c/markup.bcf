@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="3f491b51-dad0-4db0-9171-c4ac1477e89c" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Ajustar chapim da platibanda</Title>
+		<Priority>Alta</Priority>
+		<Index>305</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T20:47:20+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:24+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor ajustar a modelagem do chapim</Description>
+	</Topic>
+	<Comment Guid="d41a4333-22df-47ff-a553-2121002fc40c">
+		<Date>2021-10-28T20:47:20+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="e76e1a40-a959-4481-87f3-494870e54407" />
+		<ModifiedDate>2021-10-28T20:47:20+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="e76e1a40-a959-4481-87f3-494870e54407">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

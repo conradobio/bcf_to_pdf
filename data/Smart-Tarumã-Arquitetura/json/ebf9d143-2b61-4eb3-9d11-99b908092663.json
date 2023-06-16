@@ -1,0 +1,32 @@
+{
+    "codigo": "ebf9d143-2b61-4eb3-9d11-99b908092663",
+    "titulo": "Ajustar bancada do banheiro",
+    "status": "Active",
+    "descricao": "Bancada dentro das camadas da parede e verificar tamb\u00e9m que a cuba est\u00e1 flutuando",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-28T19:17:48+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "cc0ab340-2577-4449-a243-38386138c9ff",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T19:17:48+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "d6b65041-b70f-4d8b-9e63-c2af72356a3b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ebf9d143-2b61-4eb3-9d11-99b908092663/ebf9d143-2b61-4eb3-9d11-99b908092663//snapshot.png"
+        }
+    ]
+}

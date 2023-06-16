@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e90b45d4-0177-4145-8397-cc688da85405" TopicType="Problema" TopicStatus="Closed">
+		<Title>Área de pavimentação no memorial difere do total no modelo</Title>
+		<Priority>Alta</Priority>
+		<Index>48</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-03-31T15:36:24+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:26+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Área a pavimentar presente no memorial representa apenas uma parte da área no modelo. Por gentileza, verificar e ajustar.</Description>
+	</Topic>
+	<Comment Guid="c6255031-d30a-4ccb-950e-83292c57e164">
+		<Date>2021-03-31T15:36:36+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="033cdb39-7ea5-4cb4-9a13-61f3c7230045" />
+		<ModifiedDate>2021-03-31T15:36:36+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="fac3754a-1e6b-4ec2-b78f-7d4c69d5833b">
+		<Date>2021-03-31T15:36:24+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="ca84da67-c370-41a5-8226-faebfb5b9612" />
+		<ModifiedDate>2021-03-31T15:36:24+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="033cdb39-7ea5-4cb4-9a13-61f3c7230045">
+		<Viewpoint>033cdb39-7ea5-4cb4-9a13-61f3c7230045_viewpoint.bcfv</Viewpoint>
+		<Snapshot>033cdb39-7ea5-4cb4-9a13-61f3c7230045_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="ca84da67-c370-41a5-8226-faebfb5b9612">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

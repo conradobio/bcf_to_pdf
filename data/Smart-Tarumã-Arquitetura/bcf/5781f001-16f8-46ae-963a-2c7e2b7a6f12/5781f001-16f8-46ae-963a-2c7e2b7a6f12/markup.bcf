@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="5781f001-16f8-46ae-963a-2c7e2b7a6f12" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Verificar possível problema nos lotes em destaque</Title>
+		<Priority>Em Espera</Priority>
+		<Index>1</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2020-07-20T13:36:05+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:20+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Foi observado um conflito entre um muro de divisa (desatacado em azul) e os limites dos lotes da arquitetura (destacado em amarelo) conforme a imagem. Verificar se haverá necessidade de algum reajuste.</Description>
+	</Topic>
+	<Comment Guid="6176e5e1-3914-4f21-9f5a-cdb841accf69">
+		<Date>2021-01-25T19:52:03+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Tipologia do empreendimento alterada</Comment>
+		<Viewpoint Guid="17a27817-8939-48b3-9bda-a9608daf1149" />
+		<ModifiedDate>2021-01-25T19:52:03+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="38a61f41-bb30-4413-9a2e-3e80a2d8a3a4">
+		<Date>2020-09-22T13:16:30+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>Essa poligonal desse arquivo da duplicação é para ser desconsiderada. O terreno está de acordo com a coordenada da topografia e a poligonal.</Comment>
+		<Viewpoint Guid="17a27817-8939-48b3-9bda-a9608daf1149" />
+		<ModifiedDate>2020-09-22T13:16:30+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="6e26737e-a90e-41cc-8180-b5622cd507a5">
+		<Date>2020-07-20T13:36:05+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="17a27817-8939-48b3-9bda-a9608daf1149" />
+		<ModifiedDate>2020-07-20T13:36:05+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="17a27817-8939-48b3-9bda-a9608daf1149">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

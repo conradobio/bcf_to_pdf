@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="acde7b17-fad9-43be-97db-626d7a6b6a9f" TopicType="Conflito" TopicStatus="Closed">
+		<Title>Pé direito</Title>
+		<Priority>Baixa</Priority>
+		<Index>105</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-26T14:44:35+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:33+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-22T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar pé direito conforme BEP, por gentileza</Description>
+	</Topic>
+	<Comment Guid="3a9125cf-7ca4-49a3-845e-ed734af29ed8">
+		<Date>2021-09-30T21:11:26+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>ajustado na r01</Comment>
+		<Viewpoint Guid="cb9b7dc7-7909-43ea-abeb-bf152d66be41" />
+		<ModifiedDate>2021-09-30T21:11:26+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="99ce06ba-abcd-4158-9fb1-9ed6d3e81e27">
+		<Date>2021-09-15T20:51:06+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não ajustado e verificar a ocorrencia em todas as torres por gentilez</Comment>
+		<Viewpoint Guid="cb9b7dc7-7909-43ea-abeb-bf152d66be41" />
+		<ModifiedDate>2021-09-15T20:51:06+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="e62e8d72-14eb-4fe6-95d5-f4094b3ebba9">
+		<Date>2021-08-26T14:44:35+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="cb9b7dc7-7909-43ea-abeb-bf152d66be41" />
+		<ModifiedDate>2021-08-26T14:44:35+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="cb9b7dc7-7909-43ea-abeb-bf152d66be41">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

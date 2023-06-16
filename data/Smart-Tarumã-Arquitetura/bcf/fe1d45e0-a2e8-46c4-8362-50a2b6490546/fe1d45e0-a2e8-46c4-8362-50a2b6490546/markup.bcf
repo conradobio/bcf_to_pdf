@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="fe1d45e0-a2e8-46c4-8362-50a2b6490546" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Bancadas churrasqueira</Title>
+		<Priority>Alta</Priority>
+		<Index>184</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T15:47:25+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:53+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Alinhar os tampos da área da churrasqueira no lazer E, camada de parede está conflitando, por favor</Description>
+	</Topic>
+	<Comment Guid="bc2ad68c-d791-44cb-a9d2-df8ad95f921f">
+		<Date>2021-10-28T19:20:07+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que falta apenas um pequeno ajuste na primeira bancada</Comment>
+		<Viewpoint Guid="d074d798-854d-4d05-8256-569795d1089c" />
+		<ModifiedDate>2021-10-28T19:20:07+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="dd7f1a7e-98aa-4444-b293-c3ce841501c2">
+		<Date>2021-10-11T15:54:05+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>tampos alinhados</Comment>
+		<Viewpoint Guid="31017fdc-a081-4690-aa3a-2c9074c87e0b" />
+		<ModifiedDate>2021-10-11T15:54:05+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="663e9aaf-7ada-46a4-9c66-31545cb23780">
+		<Date>2021-09-21T15:47:25+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="31017fdc-a081-4690-aa3a-2c9074c87e0b" />
+		<ModifiedDate>2021-09-21T15:47:25+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="31017fdc-a081-4690-aa3a-2c9074c87e0b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d074d798-854d-4d05-8256-569795d1089c">
+		<Viewpoint>d074d798-854d-4d05-8256-569795d1089c_viewpoint.bcfv</Viewpoint>
+		<Snapshot>d074d798-854d-4d05-8256-569795d1089c_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

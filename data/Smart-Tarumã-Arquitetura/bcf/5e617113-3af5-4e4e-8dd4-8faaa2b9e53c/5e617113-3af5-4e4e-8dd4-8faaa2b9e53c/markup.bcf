@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="5e617113-3af5-4e4e-8dd4-8faaa2b9e53c" TopicType="Conflito" TopicStatus="Closed">
+		<Title>Banheiro acessivel lazer C</Title>
+		<Priority>Alta</Priority>
+		<Index>201</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T19:14:07+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:59+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Lavatório conflitando com as camadas de parede no banheiro acessivel do lazer C, por gentileza, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="68b58b6d-a096-444b-8eb0-b07471aaf4ed">
+		<Date>2021-10-29T14:55:23+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>RESOLVIDO NA R01</Comment>
+		<Viewpoint Guid="2ab3adc5-1c14-4fc6-87db-a935ae7c5851" />
+		<ModifiedDate>2021-10-29T14:55:23+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ba734b1f-c45b-4d48-9623-ea75ad36ec5b">
+		<Date>2021-10-06T15:57:50+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="93abb38b-ad24-4e5d-88a0-ea1d4aeb9de9" />
+		<ModifiedDate>2021-10-06T15:57:50+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="274f81e2-7f40-4340-91fd-eec516cfd1d9">
+		<Date>2021-09-21T19:14:07+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="93abb38b-ad24-4e5d-88a0-ea1d4aeb9de9" />
+		<ModifiedDate>2021-09-21T19:14:07+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="2ab3adc5-1c14-4fc6-87db-a935ae7c5851">
+		<Viewpoint>2ab3adc5-1c14-4fc6-87db-a935ae7c5851_viewpoint.bcfv</Viewpoint>
+		<Snapshot>2ab3adc5-1c14-4fc6-87db-a935ae7c5851_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="93abb38b-ad24-4e5d-88a0-ea1d4aeb9de9">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

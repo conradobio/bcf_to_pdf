@@ -1,0 +1,39 @@
+{
+    "codigo": "6c17c7aa-64ec-4727-a88a-a5fe06c82db1",
+    "titulo": "Solicita\u00e7\u00e3o para identificar as janelas nas \u00e1reas de lazer",
+    "status": "Closed",
+    "descricao": "Solicita\u00e7\u00e3o da incorpora\u00e7\u00e3o de identificar as janelas das \u00e1reas de lazer na Implanta\u00e7ao",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Projeto Legal",
+    "prioridade": "Baixa",
+    "abertura": "2020-09-24T14:35:03+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2020-10-01T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "466fddac-6f32-43e6-9b36-b3cf77e82ef1",
+            "descricao": "N\u00c3O \u00c9 NECESS\u00c1RIO IDENTIFICAR POIS O PROJETO ESPEC\u00cdFICO DA \u00c1REA DE LAZER J\u00c1 TEM ESSE REGISTRO. O QUE A INCORPORA\u00c7\u00c3O SOLICITOU FOI A IDENTIFICA\u00c7\u00c3O NO DESENHO POIS TINHAM AMBIENTES QUE ESTAVAM SEM A JANELA (ACADEMIA, MASTER CHEF)",
+            "data_acao": "2020-09-24T18:24:47+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "670ebee4-ccde-4d99-90aa-439dc55e7c76",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2020-09-24T14:35:03+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "64bcd2d2-ddc8-48fb-a7f6-5c3a9264a2d9",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/6c17c7aa-64ec-4727-a88a-a5fe06c82db1/6c17c7aa-64ec-4727-a88a-a5fe06c82db1//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "codigo": "2cb7def0-3c46-4eda-8bb8-3406183f1663",
+    "titulo": "Remover previs\u00e3o de AC de Janela para o empreendimento",
+    "status": "Closed",
+    "descricao": "Os empreendimentos Smart, a partir do Torquato, n\u00e3o ter\u00e3o mais AC de Janela",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-08-26T14:13:44+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-08-30T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "15012a0b-ad30-4d59-85c9-d2d4b7771338",
+            "descricao": "AJUSTADO",
+            "data_acao": "2021-09-15T21:24:38+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "810b43eb-cfe1-436d-88de-0c75fdca216e",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-26T14:13:44+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "2ad588d9-11e3-41c2-8817-6cd565aa155c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2cb7def0-3c46-4eda-8bb8-3406183f1663/2cb7def0-3c46-4eda-8bb8-3406183f1663//snapshot.png"
+        }
+    ]
+}

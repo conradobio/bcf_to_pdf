@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="4c115947-7af1-4f88-8100-d4bb8117f3ac" TopicType="Consulta de Informação" TopicStatus="Closed">
+		<Title>Afastamento de Torres I</Title>
+		<Priority>Crítica</Priority>
+		<Index>20</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-01-28T18:05:15+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:23+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-02-11T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Diante da diretriz da Engenharia da Capital e da Caixa sobre o afastamentos das torres dos taludes, e após análise da Terraplanagem enviada em 25-01, identificamos que as torres tem de ser afastadas em 0,58m do talude para atender a diretriz. Haja visto que temos a APP a esquerda das torres, é possível realizar esse afastamento?</Description>
+	</Topic>
+	<Comment Guid="8fb7df2c-7172-4b73-8476-1026aa7deb36">
+		<Date>2021-01-28T18:05:15+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="893128c9-1a6d-4c6d-a869-e80b06957659" />
+		<ModifiedDate>2021-01-28T18:05:15+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="893128c9-1a6d-4c6d-a869-e80b06957659">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

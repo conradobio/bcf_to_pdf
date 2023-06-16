@@ -1,0 +1,50 @@
+{
+    "codigo": "b03c66ed-98a4-49ff-9274-b75c2be12b0b",
+    "titulo": "Modula\u00e7\u00e3o dos blocos de concreto lazer D",
+    "status": "Closed",
+    "descricao": "Medidas n\u00e3o batem com as regras de modula\u00e7\u00e3o de blocos de concreto a ser seguida, por favor, verificar e ajustar evitando o minimo de cortes possiveis nos blocos",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T13:28:16+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "7ca7487e-2d47-4f75-9225-f2c9341134e3",
+            "descricao": "Modula\u00e7\u00e3o ajustada na R01",
+            "data_acao": "2021-10-28T20:29:36+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "635ae0b9-33a7-4b3d-bbd1-cdc90510a53b",
+            "descricao": "Dimens\u00f5es alteradas seguindo a regra de modula\u00e7\u00e3o, a fim de reduzir os recortes, buscando a m\u00ednima modifica\u00e7\u00e3o no arquitet\u00f4nico.",
+            "data_acao": "2021-10-07T12:51:18+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "cef99a76-55b4-4506-bd8f-8823ef464abf",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T13:28:16+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "4bc15fe8-d052-4af6-b1bd-6b4a1f5e5349",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b03c66ed-98a4-49ff-9274-b75c2be12b0b/b03c66ed-98a4-49ff-9274-b75c2be12b0b//snapshot.png"
+        },
+        {
+            "guid": "919d86ed-2aaf-41ee-ae23-9b28453bb975",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b03c66ed-98a4-49ff-9274-b75c2be12b0b/b03c66ed-98a4-49ff-9274-b75c2be12b0b//919d86ed-2aaf-41ee-ae23-9b28453bb975_snapshot.png"
+        }
+    ]
+}

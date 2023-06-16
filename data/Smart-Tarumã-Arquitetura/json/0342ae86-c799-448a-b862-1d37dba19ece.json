@@ -1,0 +1,32 @@
+{
+    "codigo": "0342ae86-c799-448a-b862-1d37dba19ece",
+    "titulo": "Banheiros",
+    "status": "Active",
+    "descricao": "Modelar camada de revestimento ceramico acima do lavat\u00f3rio conforme projeto legal",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T18:06:33+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "916b006c-f729-4000-bf61-552b359c5cb9",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T18:06:33+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "85abc007-26d2-451c-a572-7eb9b2b542f4",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/0342ae86-c799-448a-b862-1d37dba19ece/0342ae86-c799-448a-b862-1d37dba19ece//snapshot.png"
+        }
+    ]
+}

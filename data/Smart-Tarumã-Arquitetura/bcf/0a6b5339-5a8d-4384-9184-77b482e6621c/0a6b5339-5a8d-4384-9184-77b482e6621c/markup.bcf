@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="0a6b5339-5a8d-4384-9184-77b482e6621c" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Forro de gesso</Title>
+		<Priority>Alta</Priority>
+		<Index>131</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-16T19:29:04+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:38+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-28T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Faltando forro nos banheiros, por favor, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="2fc61c88-e0d9-4cb7-9ffd-b0e82b1c6733">
+		<Date>2021-10-21T20:57:59+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>foi colocado forro em todos os ambientes, por favor, retirar, deixar apenas no banheiro, seguindo o BEP</Comment>
+		<Viewpoint Guid="48e82efe-796a-45ea-84a7-9d34727655ab" />
+		<ModifiedDate>2021-10-21T20:57:59+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="1c55a1e2-ffd1-44ff-a73f-0fad5163089c">
+		<Date>2021-09-30T21:16:34+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não ajustado, verificar em todas as torres</Comment>
+		<Viewpoint Guid="b276c5d5-1be8-40a9-9644-b95392f8d154" />
+		<ModifiedDate>2021-09-30T21:16:34+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="22778ab0-d8e8-4a90-949f-a3aa59baf2b3">
+		<Date>2021-09-16T19:29:29+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="b276c5d5-1be8-40a9-9644-b95392f8d154" />
+		<ModifiedDate>2021-09-16T19:29:29+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="f19e1193-28e5-4c0d-afb0-fe7e188c87c7">
+		<Date>2021-09-16T19:29:04+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="71a0d119-f245-459a-9a04-2ae78e8f1324" />
+		<ModifiedDate>2021-09-16T19:29:04+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="48e82efe-796a-45ea-84a7-9d34727655ab">
+		<Viewpoint>48e82efe-796a-45ea-84a7-9d34727655ab_viewpoint.bcfv</Viewpoint>
+		<Snapshot>48e82efe-796a-45ea-84a7-9d34727655ab_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="71a0d119-f245-459a-9a04-2ae78e8f1324">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="b276c5d5-1be8-40a9-9644-b95392f8d154">
+		<Viewpoint>b276c5d5-1be8-40a9-9644-b95392f8d154_viewpoint.bcfv</Viewpoint>
+		<Snapshot>b276c5d5-1be8-40a9-9644-b95392f8d154_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="b3aacd10-e637-47d2-8390-5393f032ca67" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Lavatórios</Title>
+		<Priority>Alta</Priority>
+		<Index>327</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T19:16:21+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:28+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>rafaelavilela@construtoracapital.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camada de revestimento acima do lavatório conforme projeto legal</Description>
+	</Topic>
+	<Comment Guid="613f4e6c-d9f5-423c-b3ed-5faa700679ee">
+		<Date>2021-10-29T19:16:21+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="26f5f14f-f82d-412a-b340-cc7ae1106c86" />
+		<ModifiedDate>2021-10-29T19:16:21+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="26f5f14f-f82d-412a-b340-cc7ae1106c86">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

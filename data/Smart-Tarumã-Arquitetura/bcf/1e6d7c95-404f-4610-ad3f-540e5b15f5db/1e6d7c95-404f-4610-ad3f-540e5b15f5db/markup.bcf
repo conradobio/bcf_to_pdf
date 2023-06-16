@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="1e6d7c95-404f-4610-ad3f-540e5b15f5db" TopicType="Problema" TopicStatus="Active">
+		<Title>Muro de Divisa</Title>
+		<Priority>Alta</Priority>
+		<Index>235</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-29T20:39:10+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:07+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-05T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>ESSE TRECHO NÁO ESTÁ APRESENTADO NA SURFACE? ARQUITETURA ANALISAR E SUGERIR COMO FICARÁ O MURO DE DIVISA NESTE PONTO</Description>
+	</Topic>
+	<Comment Guid="95c587a7-9d7c-486d-9236-a1b309fdd4c1">
+		<Date>2021-09-29T21:49:34+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Verificar como será o muro de divisa nessa área também.</Comment>
+		<Viewpoint Guid="eeec58a7-3baa-43ba-ad6b-83c02354771f" />
+		<ModifiedDate>2021-09-29T21:49:34+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="697fb649-c4aa-4a6f-b144-930d0313a3bf">
+		<Date>2021-09-29T20:39:10+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7be03725-477e-439a-8118-c68cacff60c9" />
+		<ModifiedDate>2021-09-29T20:39:10+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="7be03725-477e-439a-8118-c68cacff60c9">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="eeec58a7-3baa-43ba-ad6b-83c02354771f">
+		<Viewpoint>eeec58a7-3baa-43ba-ad6b-83c02354771f_viewpoint.bcfv</Viewpoint>
+		<Snapshot>eeec58a7-3baa-43ba-ad6b-83c02354771f_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,43 @@
+{
+    "codigo": "e014d926-424a-4c25-8668-67ca447e4e64",
+    "titulo": "Chuveiros",
+    "status": "Active",
+    "descricao": "Nos banheiros do segundo, terceiro e quarto pavimento existem dois modelos de chuveiros, por favor, deixar apenas 1 modelo",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-09-16T15:58:57+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-28T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "acc93d2b-b705-4c78-b6f6-5e0745c67a69",
+            "descricao": "Agora todos foram retirados, alguma raz\u00e3o??",
+            "data_acao": "2021-10-21T20:55:23+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "4744a06c-b864-4f5c-ae0f-6d3ada3736a7",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-16T15:58:57+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "9654ad22-c7d0-4d6a-8e6b-ec5a2120172c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e014d926-424a-4c25-8668-67ca447e4e64/e014d926-424a-4c25-8668-67ca447e4e64//9654ad22-c7d0-4d6a-8e6b-ec5a2120172c_snapshot.png"
+        },
+        {
+            "guid": "b0a6bb38-0f4e-4ab0-9e2a-3cfc6487b845",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e014d926-424a-4c25-8668-67ca447e4e64/e014d926-424a-4c25-8668-67ca447e4e64//snapshot.png"
+        }
+    ]
+}

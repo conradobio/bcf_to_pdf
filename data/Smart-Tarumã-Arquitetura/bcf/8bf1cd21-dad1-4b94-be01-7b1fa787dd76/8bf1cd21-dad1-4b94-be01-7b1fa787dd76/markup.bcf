@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="8bf1cd21-dad1-4b94-be01-7b1fa787dd76" TopicType="Solicitação" TopicStatus="Resolved">
+		<Title>Modulação dos blocos de concreto nas portas da lixeira</Title>
+		<Priority>Alta</Priority>
+		<Index>271</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T14:32:56+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:14+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>A modegalem não bate com a modulação dos blocos de concreto a ser seguida, por favor, ver a possibilidade de ajustar para evitar o mínimo de cortes possíveis nos blocos</Description>
+	</Topic>
+	<Comment Guid="26c839bd-4c53-4bab-bd16-b828eb457096">
+		<Date>2021-10-15T14:22:16+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="1dae001a-e56a-452e-9ad2-0a7b6f13c57a" />
+		<ModifiedDate>2021-10-26T14:22:32+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="601b865a-4822-4183-a525-a6fc117116ff">
+		<Date>2021-10-13T14:32:56+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7bfed091-eaf4-4196-b11b-372c4bc4e42a" />
+		<ModifiedDate>2021-10-13T14:32:56+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="1dae001a-e56a-452e-9ad2-0a7b6f13c57a">
+		<Viewpoint>1dae001a-e56a-452e-9ad2-0a7b6f13c57a_viewpoint.bcfv</Viewpoint>
+		<Snapshot>1dae001a-e56a-452e-9ad2-0a7b6f13c57a_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="7bfed091-eaf4-4196-b11b-372c4bc4e42a">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

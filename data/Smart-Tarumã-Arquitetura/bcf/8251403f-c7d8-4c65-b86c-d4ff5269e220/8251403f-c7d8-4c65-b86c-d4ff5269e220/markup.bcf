@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="8251403f-c7d8-4c65-b86c-d4ff5269e220" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Deslocamento de Torres da Entrada</Title>
+		<Priority>Crítica</Priority>
+		<Index>12</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-01-12T20:07:40+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:22+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-01-26T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Morar Mais solicita o afastamento das Torres próximas a entrada de veículos de serviço. Pois provavelmente será em rampa e será necessário espaço para "taludar"</Description>
+	</Topic>
+	<Comment Guid="5d835d01-9f34-46e0-9eed-1e17e506df79">
+		<Date>2021-01-25T20:58:04+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Torres afastadas 1m. Será o suficiente?</Comment>
+		<Viewpoint Guid="4675e814-b7cf-433a-9fcb-554c0082a2ef" />
+		<ModifiedDate>2021-01-26T12:43:50+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ba94a77b-204f-4d71-a314-dd795fd9cbd2">
+		<Date>2021-01-14T11:54:45+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>Aumento de 1,00 m de afastamento. Ajustado de acordo com o novo estudo encaminhado dia 14/01/21</Comment>
+		<Viewpoint Guid="4675e814-b7cf-433a-9fcb-554c0082a2ef" />
+		<ModifiedDate>2021-01-14T11:54:45+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="fac0439a-3819-4a05-9117-6911c81ea14c">
+		<Date>2021-01-12T20:07:40+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="4675e814-b7cf-433a-9fcb-554c0082a2ef" />
+		<ModifiedDate>2021-01-12T20:07:40+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="4675e814-b7cf-433a-9fcb-554c0082a2ef">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,50 @@
+{
+    "codigo": "befc5aaf-936c-4758-afbe-8e64e29a28d8",
+    "titulo": "Laje D",
+    "status": "Closed",
+    "descricao": "Por gentileza, modelar as camadas de laje conforme BEP no lazer D",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T14:04:05+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "067430ea-1d45-451f-9fa4-0d53b7189a89",
+            "descricao": "Visto na R01 que as camadas da laje foram modeladas",
+            "data_acao": "2021-10-28T20:49:54+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "c0d2f7fb-6a82-4c8b-abbb-c979697514ad",
+            "descricao": "Camadas da Laje modeladas conforme BEP",
+            "data_acao": "2021-10-08T13:46:19+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "805723c2-f9d5-460b-a827-0351c9e468b2",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T14:04:05+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "7f9fde29-245a-47e2-b77c-dab36b428938",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/befc5aaf-936c-4758-afbe-8e64e29a28d8/befc5aaf-936c-4758-afbe-8e64e29a28d8//snapshot.png"
+        },
+        {
+            "guid": "f26ee6fa-a401-427e-98eb-7575372c4fdc",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/befc5aaf-936c-4758-afbe-8e64e29a28d8/befc5aaf-936c-4758-afbe-8e64e29a28d8//f26ee6fa-a401-427e-98eb-7575372c4fdc_snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="356bce03-7e3b-4ccb-be88-6c173397afdb" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Camadas de pintura laje</Title>
+		<Priority>Alta</Priority>
+		<Index>325</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T18:44:04+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:28+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Seguir com as camadas de pintura até o limite da platibanda, por favor</Description>
+	</Topic>
+	<Comment Guid="1bc14a3a-646d-4ed0-b7b3-5fdd2398e2ef">
+		<Date>2021-10-29T18:44:04+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="a26682e7-8ca7-40f0-9301-1fb8108fd512" />
+		<ModifiedDate>2021-10-29T18:44:04+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="a26682e7-8ca7-40f0-9301-1fb8108fd512">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

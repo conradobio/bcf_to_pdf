@@ -1,0 +1,32 @@
+{
+    "codigo": "6dde9fca-99d9-4464-9744-13d0b3ab9d34",
+    "titulo": "Caixa de Retardo",
+    "status": "Closed",
+    "descricao": "Identificar local previsto para a Caixa de Retardo",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Projeto Legal",
+    "prioridade": "Alta",
+    "abertura": "2021-01-12T20:15:07+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-01-26T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4089e6fd-63fb-49fd-8c5c-7e75e5c88c6d",
+            "descricao": "Atendido na R00.4",
+            "data_acao": "2021-01-25T19:35:16+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "5cece988-b8cf-4aa8-9bd6-42a0d5c8d498",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/6dde9fca-99d9-4464-9744-13d0b3ab9d34/6dde9fca-99d9-4464-9744-13d0b3ab9d34//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="b356273b-f2a1-4a0e-be17-a8fb8952e091" TopicType="Falha" TopicStatus="Closed">
+		<Title>Prancha sem imagem</Title>
+		<Priority>Alta</Priority>
+		<Index>216</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-27T13:51:40+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:01+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-30T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Pranchas do Lazer vieram sem desenho</Description>
+	</Topic>
+	<Comment Guid="f679246d-a8ea-4af3-9db1-4999f4aa2daa">
+		<Date>2021-10-29T17:48:56+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r01</Comment>
+		<Viewpoint Guid="cbcd48d3-185e-4595-a663-d19174134d8c" />
+		<ModifiedDate>2021-10-29T17:48:56+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ca2c1b6d-9962-4a70-b5fb-0c9e088ecb9a">
+		<Date>2021-10-04T16:08:03+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foram verificados os arquivos do Autodoc e os desenhos aparecem normalmente</Comment>
+		<Viewpoint Guid="cbcd48d3-185e-4595-a663-d19174134d8c" />
+		<ModifiedDate>2021-10-04T16:08:03+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="aeb5ff34-b0ff-45dd-9805-63f119c35f30">
+		<Date>2021-09-27T13:51:40+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="63c97bfd-6213-497f-85ca-2ab476795c6e" />
+		<ModifiedDate>2021-09-27T13:51:40+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="63c97bfd-6213-497f-85ca-2ab476795c6e">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="cbcd48d3-185e-4595-a663-d19174134d8c">
+		<Viewpoint>cbcd48d3-185e-4595-a663-d19174134d8c_viewpoint.bcfv</Viewpoint>
+		<Snapshot>cbcd48d3-185e-4595-a663-d19174134d8c_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

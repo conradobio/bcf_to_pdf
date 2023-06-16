@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e7ed68a5-505e-4b3b-987b-31d39156158d" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Chapim</Title>
+		<Priority>Alta</Priority>
+		<Index>314</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T16:06:27+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:26+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Asjustar chapim na platibanda, por favor</Description>
+	</Topic>
+	<Comment Guid="802f32f8-f06e-46b3-bc3c-59d11a2d387a">
+		<Date>2021-10-29T16:06:27+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="dd580b70-c3fc-45d2-a18e-fb2023bc53a1" />
+		<ModifiedDate>2021-10-29T16:06:27+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="dd580b70-c3fc-45d2-a18e-fb2023bc53a1">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

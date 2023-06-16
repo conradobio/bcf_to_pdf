@@ -1,0 +1,54 @@
+{
+    "codigo": "e5bc5611-ac60-44bc-b349-1625f1ad7c8c",
+    "titulo": "Platibanda",
+    "status": "Active",
+    "descricao": "Ajustar esquadria da platibanda conforme projeto de forma metalica",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-17T19:15:11+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-28T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "32cef89d-c8ad-4dc3-8558-d6241b0c6e7f",
+            "descricao": "N\u00e3o atendido",
+            "data_acao": "2021-10-21T20:33:45+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "da13d42e-56b8-4eea-8245-517317689ddc",
+            "descricao": "n\u00e3o atendido verificar e ajustar em todas as torres",
+            "data_acao": "2021-10-01T13:18:58+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "8b723f1f-3788-4645-9fba-14c94b4b2792",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-17T19:15:11+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "42a32662-7146-41ab-aef3-ae6ad6724394",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e5bc5611-ac60-44bc-b349-1625f1ad7c8c/e5bc5611-ac60-44bc-b349-1625f1ad7c8c//snapshot.png"
+        },
+        {
+            "guid": "71414d55-2e23-42b2-890a-e4e11f6ea3fc",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e5bc5611-ac60-44bc-b349-1625f1ad7c8c/e5bc5611-ac60-44bc-b349-1625f1ad7c8c//71414d55-2e23-42b2-890a-e4e11f6ea3fc_snapshot.png"
+        },
+        {
+            "guid": "dc5e8b15-ae80-4add-8709-03edcce330ae",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e5bc5611-ac60-44bc-b349-1625f1ad7c8c/e5bc5611-ac60-44bc-b349-1625f1ad7c8c//dc5e8b15-ae80-4add-8709-03edcce330ae_snapshot.png"
+        }
+    ]
+}

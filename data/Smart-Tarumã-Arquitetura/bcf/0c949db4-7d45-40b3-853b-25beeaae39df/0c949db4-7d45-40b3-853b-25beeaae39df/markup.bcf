@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="0c949db4-7d45-40b3-853b-25beeaae39df" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Parede conflitando com piso, lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>179</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T15:24:52+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:50+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Parede conflitando com piso no lazer E, por gentileza, ajustar todas as ocorrencias</Description>
+	</Topic>
+	<Comment Guid="b823773e-2175-44ab-a44e-46173161ac0d">
+		<Date>2021-10-28T19:41:32+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R01</Comment>
+		<Viewpoint Guid="7eea0a66-451a-44c5-80c8-725cf4da83c4" />
+		<ModifiedDate>2021-10-28T19:41:32+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="4efd26cb-d4a8-46bf-b60e-e38bea89c775">
+		<Date>2021-10-11T13:43:10+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>encontro de paredes e pisos ajustado</Comment>
+		<Viewpoint Guid="1736efa5-8fe2-411b-a77d-c17c1ef3e411" />
+		<ModifiedDate>2021-10-11T13:43:10+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="edbfd2eb-0a50-4409-923b-15867e691e81">
+		<Date>2021-09-21T15:24:52+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="1736efa5-8fe2-411b-a77d-c17c1ef3e411" />
+		<ModifiedDate>2021-09-21T15:24:52+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="1736efa5-8fe2-411b-a77d-c17c1ef3e411">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="7eea0a66-451a-44c5-80c8-725cf4da83c4">
+		<Viewpoint>7eea0a66-451a-44c5-80c8-725cf4da83c4_viewpoint.bcfv</Viewpoint>
+		<Snapshot>7eea0a66-451a-44c5-80c8-725cf4da83c4_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

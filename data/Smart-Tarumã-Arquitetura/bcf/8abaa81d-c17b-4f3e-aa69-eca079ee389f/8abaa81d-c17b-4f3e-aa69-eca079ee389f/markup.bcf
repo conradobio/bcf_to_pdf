@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="8abaa81d-c17b-4f3e-aa69-eca079ee389f" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Janelas</Title>
+		<Priority>Alta</Priority>
+		<Index>328</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T19:32:45+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:28+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Faltando modelar as janelas dos sanitários</Description>
+	</Topic>
+	<Comment Guid="e63b03eb-1d40-437d-a62b-c3771ae95637">
+		<Date>2021-10-29T19:32:45+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="0bb5cb02-6651-4eb5-8cd3-a67a0e8731bd" />
+		<ModifiedDate>2021-10-29T19:32:45+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0bb5cb02-6651-4eb5-8cd3-a67a0e8731bd">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

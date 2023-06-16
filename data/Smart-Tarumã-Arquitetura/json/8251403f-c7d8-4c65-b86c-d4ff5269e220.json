@@ -1,0 +1,46 @@
+{
+    "codigo": "8251403f-c7d8-4c65-b86c-d4ff5269e220",
+    "titulo": "Deslocamento de Torres da Entrada",
+    "status": "Closed",
+    "descricao": "Morar Mais solicita o afastamento das Torres pr\u00f3ximas a entrada de ve\u00edculos de servi\u00e7o. Pois provavelmente ser\u00e1 em rampa e ser\u00e1 necess\u00e1rio espa\u00e7o para \"taludar\"",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Projeto Legal",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-01-12T20:07:40+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-01-26T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "5d835d01-9f34-46e0-9eed-1e17e506df79",
+            "descricao": "Torres afastadas 1m. Ser\u00e1 o suficiente?",
+            "data_acao": "2021-01-25T20:58:04+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "ba94a77b-204f-4d71-a314-dd795fd9cbd2",
+            "descricao": "Aumento de 1,00 m de afastamento. Ajustado de acordo com o novo estudo encaminhado dia 14/01/21",
+            "data_acao": "2021-01-14T11:54:45+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "fac0439a-3819-4a05-9117-6911c81ea14c",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-01-12T20:07:40+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "4675e814-b7cf-433a-9fcb-554c0082a2ef",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/8251403f-c7d8-4c65-b86c-d4ff5269e220/8251403f-c7d8-4c65-b86c-d4ff5269e220//snapshot.png"
+        }
+    ]
+}

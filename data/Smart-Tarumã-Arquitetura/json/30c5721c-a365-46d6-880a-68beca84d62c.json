@@ -1,0 +1,39 @@
+{
+    "codigo": "30c5721c-a365-46d6-880a-68beca84d62c",
+    "titulo": "Inserir forros e sancas",
+    "status": "Active",
+    "descricao": "Inserir forros e sancas nas \u00e1reas molhadas conforme bep",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-01T18:04:00+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-28T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "d716d12a-dead-44b4-9b28-f00e33b79b75",
+            "descricao": "N\u00e3o ajustado na R02",
+            "data_acao": "2021-10-21T21:10:56+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "22c537db-e6ba-4010-ae68-2563295910c6",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-01T18:04:00+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "c494acfa-254b-4e88-956f-05b5169ab810",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/30c5721c-a365-46d6-880a-68beca84d62c/30c5721c-a365-46d6-880a-68beca84d62c//snapshot.png"
+        }
+    ]
+}

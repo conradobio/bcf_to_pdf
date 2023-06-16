@@ -1,0 +1,54 @@
+{
+    "codigo": "bf1f44c8-7fcb-48d5-ac51-17c35bce44b7",
+    "titulo": "Guarda corpo",
+    "status": "Closed",
+    "descricao": "Faltando guarda corpo no ultimo pavimento",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-30T20:56:15+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-06T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "bbe1aec0-9d56-4708-97c4-a9ff1c0ac538",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-21T20:36:20+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "ddc53fb8-2848-4e96-a58b-ba6527839072",
+            "descricao": "Ajustado na r02",
+            "data_acao": "2021-10-21T20:36:14+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "cb3d8edd-9f3c-46fd-9f4f-d8730f17fdda",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-30T20:56:15+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "029da3a8-a2dc-40b4-bf84-a634b88ef9a8",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/bf1f44c8-7fcb-48d5-ac51-17c35bce44b7/bf1f44c8-7fcb-48d5-ac51-17c35bce44b7//029da3a8-a2dc-40b4-bf84-a634b88ef9a8_snapshot.png"
+        },
+        {
+            "guid": "4c64d731-ebea-429d-b85f-1d83b25c0fef",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/bf1f44c8-7fcb-48d5-ac51-17c35bce44b7/bf1f44c8-7fcb-48d5-ac51-17c35bce44b7//4c64d731-ebea-429d-b85f-1d83b25c0fef_snapshot.png"
+        },
+        {
+            "guid": "85f6f629-d219-4413-834c-e24ba3ebab1a",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/bf1f44c8-7fcb-48d5-ac51-17c35bce44b7/bf1f44c8-7fcb-48d5-ac51-17c35bce44b7//snapshot.png"
+        }
+    ]
+}

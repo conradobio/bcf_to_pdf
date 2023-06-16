@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e9f0a69d-395c-426c-a7fd-b55aff0f122d" TopicType="Problema" TopicStatus="Closed">
+		<Title>Lavatório não representado na planta</Title>
+		<Priority>Alta</Priority>
+		<Index>223</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-27T14:06:46+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:03+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-30T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Representação do lavatório não aparece na prancha</Description>
+	</Topic>
+	<Comment Guid="cbdce0f9-8d31-4527-bb5e-6d829708b5ec">
+		<Date>2021-10-28T18:20:10+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que os lavatórios foram representados</Comment>
+		<Viewpoint Guid="383ee7ca-65e6-4ace-8552-6369b70c7fae" />
+		<ModifiedDate>2021-10-28T18:20:10+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="30feded7-bd89-495c-a0dd-6c114631ae0d">
+		<Date>2021-10-14T18:25:40+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foram gerados novos arquivos DWG correspondentes a modificação R01 no qual foi incluída a representação do lavatório e bacia sanitária</Comment>
+		<Viewpoint Guid="8b3e4992-b41a-4ad9-b001-b2736b332f77" />
+		<ModifiedDate>2021-10-14T18:25:40+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="16236587-2690-4326-b6f4-847f4fc80a7b">
+		<Date>2021-09-27T14:06:46+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="8b3e4992-b41a-4ad9-b001-b2736b332f77" />
+		<ModifiedDate>2021-09-27T14:06:46+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="383ee7ca-65e6-4ace-8552-6369b70c7fae">
+		<Viewpoint>383ee7ca-65e6-4ace-8552-6369b70c7fae_viewpoint.bcfv</Viewpoint>
+		<Snapshot>383ee7ca-65e6-4ace-8552-6369b70c7fae_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="8b3e4992-b41a-4ad9-b001-b2736b332f77">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

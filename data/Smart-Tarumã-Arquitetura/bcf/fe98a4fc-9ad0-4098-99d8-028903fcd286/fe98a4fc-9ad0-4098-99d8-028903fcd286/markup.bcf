@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="fe98a4fc-9ad0-4098-99d8-028903fcd286" TopicType="Consulta de Informação" TopicStatus="Active">
+		<Title>Acessibilidade na Academia</Title>
+		<Priority>Alta</Priority>
+		<Index>242</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-29T22:00:56+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:08+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-05T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>ACADEMIA E PLAY CT 40,15 ou CT TORRE 29 . CHECAR ACESSIBILIDADE</Description>
+	</Topic>
+	<Comment Guid="d4d7d34a-5524-4b0c-a50a-3d56fc4e14ec">
+		<Date>2021-09-29T22:00:56+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="a4c0aea5-ecea-420f-b38e-61a187a7744d" />
+		<ModifiedDate>2021-09-29T22:00:56+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="a4c0aea5-ecea-420f-b38e-61a187a7744d">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="3752950a-e742-4c99-a7be-bec8a980c4f8" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Abertura dos dutos</Title>
+		<Priority>Alta</Priority>
+		<Index>144</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-17T18:51:23+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:40+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-08T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar abertura de entrada dos dutos de ar condicionado conforme projeto de forma metalica</Description>
+	</Topic>
+	<Comment Guid="05c98618-b7e8-4289-809c-ad35695cb107">
+		<Date>2021-10-01T13:37:28+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não ajustado, verificar em todas as torres</Comment>
+		<Viewpoint Guid="60315d85-3757-4f34-b8d0-9f8d1c74f184" />
+		<ModifiedDate>2021-10-01T13:37:28+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="598c39bd-b0e7-412e-9a9b-d7d73447cc3b">
+		<Date>2021-09-17T18:51:23+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="60315d85-3757-4f34-b8d0-9f8d1c74f184" />
+		<ModifiedDate>2021-09-17T18:51:23+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="60315d85-3757-4f34-b8d0-9f8d1c74f184">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

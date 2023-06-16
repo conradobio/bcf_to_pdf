@@ -1,0 +1,32 @@
+{
+    "codigo": "9d6f178f-4022-4ad7-872b-55404d88f49f",
+    "titulo": "Marquise",
+    "status": "Active",
+    "descricao": "Marquise n\u00e3o deveria ser impermeabilizada??",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T18:06:35+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "afc3f504-634f-4dbe-b016-e78722e28aca",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T18:06:35+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "7a040e64-c8bf-4ec4-8af1-c77f0852bdd2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/9d6f178f-4022-4ad7-872b-55404d88f49f/9d6f178f-4022-4ad7-872b-55404d88f49f//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "codigo": "da2464d1-85a3-4fcd-8041-cf93ff09afe2",
+    "titulo": "Cota da quadra",
+    "status": "Active",
+    "descricao": "N\u00c3O PODEMOS MANTER A COTA QUADRA E FUNCIONAL EM TORNO DE 38,75?",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-29T22:14:38+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-05T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "7f8305aa-25e7-470a-82ec-6bd77f2ed80b",
+            "descricao": "Ok Jesus, vamos passar a demanda para a arquitetura analisar.",
+            "data_acao": "2021-10-04T15:02:55+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "e38f3762-9354-4f1d-ac8b-1d0f029b6d89",
+            "descricao": "Essa cota foi projetada pela arquitetura , para mudar essa cota seria necessario projetar as acessibilidades",
+            "data_acao": "2021-10-03T20:10:51+00:00",
+            "novo_autor": "jesus.cadengenharia@gmail.com",
+            "realizado_por": "jesus.cadengenharia@gmail.com"
+        },
+        {
+            "guid": "e2628890-bbe8-4b92-8cdb-018f71c75d05",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T22:14:38+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "bf2f044d-cda1-47ef-8c1a-79d3d59c809e",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/da2464d1-85a3-4fcd-8041-cf93ff09afe2/da2464d1-85a3-4fcd-8041-cf93ff09afe2//snapshot.png"
+        }
+    ]
+}

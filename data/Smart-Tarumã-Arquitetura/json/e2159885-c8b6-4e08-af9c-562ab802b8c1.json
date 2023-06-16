@@ -1,0 +1,43 @@
+{
+    "codigo": "e2159885-c8b6-4e08-af9c-562ab802b8c1",
+    "titulo": "Banheiro",
+    "status": "Closed",
+    "descricao": "Porta do banheiro n\u00e3o alinhada com estrutura (estrutura em verde) por favor, verificar e ajustar ocorrncia em todas as torres",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-01T15:58:05+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-07T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "b0c47ff4-4e43-4c01-8076-650d2a54624b",
+            "descricao": "Ajustado na R02",
+            "data_acao": "2021-10-21T21:12:50+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "fcd91e2c-27d5-481d-9505-cacfe267b574",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-01T15:58:05+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "d205d7ed-60ca-4e43-a842-ca851fce7fb6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e2159885-c8b6-4e08-af9c-562ab802b8c1/e2159885-c8b6-4e08-af9c-562ab802b8c1//snapshot.png"
+        },
+        {
+            "guid": "f8e5fe67-22d6-4a44-89b2-1218f2924760",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e2159885-c8b6-4e08-af9c-562ab802b8c1/e2159885-c8b6-4e08-af9c-562ab802b8c1//f8e5fe67-22d6-4a44-89b2-1218f2924760_snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="969fb2a9-4e84-4f9b-9786-2679b1db6c1a" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Laje lazer B</Title>
+		<Priority>Alta</Priority>
+		<Index>157</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T21:29:48+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:43+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, inserir camada de impermeabilização na laje do lazer B</Description>
+	</Topic>
+	<Comment Guid="f3e16d4d-911b-4f42-af13-035a71f76b5d">
+		<Date>2021-10-29T16:23:58+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R01</Comment>
+		<Viewpoint Guid="6cfc2109-8544-4acb-b6e5-0f8007f9a927" />
+		<ModifiedDate>2021-10-29T16:23:58+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="861dd3a8-cf37-41d6-a744-90c76529c784">
+		<Date>2021-10-04T15:07:35+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="6cfc2109-8544-4acb-b6e5-0f8007f9a927" />
+		<ModifiedDate>2021-10-04T15:07:35+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="1fce9499-e9e5-4eed-a32b-58479a44cba7">
+		<Date>2021-09-20T21:29:48+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="88abcba2-5849-4f84-9685-077b17bd561a" />
+		<ModifiedDate>2021-09-20T21:29:48+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="6cfc2109-8544-4acb-b6e5-0f8007f9a927">
+		<Viewpoint>6cfc2109-8544-4acb-b6e5-0f8007f9a927_viewpoint.bcfv</Viewpoint>
+		<Snapshot>6cfc2109-8544-4acb-b6e5-0f8007f9a927_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="88abcba2-5849-4f84-9685-077b17bd561a">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

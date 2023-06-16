@@ -1,0 +1,32 @@
+{
+    "codigo": "e85461c2-4c9e-4d72-aea7-baf5208a8513",
+    "titulo": "Piscinas",
+    "status": "Active",
+    "descricao": "As bordas das piscinas n\u00e3o deveriam ter alguma argamassa colante ou pode seguir sem??",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T17:27:00+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "8363a70c-729c-4976-90cc-8e28e3cdc534",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T17:27:00+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "d5d22778-4555-40be-a4d6-3373757e61fe",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e85461c2-4c9e-4d72-aea7-baf5208a8513/e85461c2-4c9e-4d72-aea7-baf5208a8513//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "codigo": "a711bd0c-8d2c-464b-9bbb-6a7907057793",
+    "titulo": "Faltam camdas na laje da lixeira conforme o BEP e Projeto Legal",
+    "status": "Resolved",
+    "descricao": "\u00c9 uma Laje impermeabilizada, favor ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-11T21:08:55+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-17T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "479fc3bc-8b78-43f8-bd42-5268b1eae135",
+            "descricao": "Resolvido",
+            "data_acao": "2021-10-14T18:21:57+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "74179d93-1ddf-44c7-901d-c3dc58cd3235",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-11T21:08:55+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "3e26776a-9722-46ca-900f-0e48a3dfbc03",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a711bd0c-8d2c-464b-9bbb-6a7907057793/a711bd0c-8d2c-464b-9bbb-6a7907057793//3e26776a-9722-46ca-900f-0e48a3dfbc03_snapshot.png"
+        },
+        {
+            "guid": "a36b5245-af0c-4c04-90f8-0535198953ca",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a711bd0c-8d2c-464b-9bbb-6a7907057793/a711bd0c-8d2c-464b-9bbb-6a7907057793//snapshot.png"
+        }
+    ]
+}

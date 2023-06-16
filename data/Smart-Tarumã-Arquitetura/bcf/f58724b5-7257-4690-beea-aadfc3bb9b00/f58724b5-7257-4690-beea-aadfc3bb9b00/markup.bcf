@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="f58724b5-7257-4690-beea-aadfc3bb9b00" TopicType="Consulta de Informação" TopicStatus="Closed">
+		<Title>Sanitário PCD dos banheiros do Lazer</Title>
+		<Priority>Alta</Priority>
+		<Index>221</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-27T14:04:04+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:02+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-30T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Verificar o tipo de sanitário usado no banheiro PCD. Ajustar para todos os outros lazeres também</Description>
+	</Topic>
+	<Comment Guid="dc1aa00d-4d6d-4667-97ae-b2b058b9ce2b">
+		<Date>2021-10-29T15:09:28+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r01</Comment>
+		<Viewpoint Guid="cf0d1866-231a-418f-b686-4bbae0194798" />
+		<ModifiedDate>2021-10-29T15:09:28+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="0aca5e18-f562-4593-952f-983239af301a">
+		<Date>2021-10-13T12:21:19+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foi ajustado os sanitários em todos os lazeres</Comment>
+		<Viewpoint Guid="cf0d1866-231a-418f-b686-4bbae0194798" />
+		<ModifiedDate>2021-10-13T12:21:19+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="f900aaf8-4d72-49fa-9239-7b8b2fa54162">
+		<Date>2021-09-27T14:04:04+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="cf0d1866-231a-418f-b686-4bbae0194798" />
+		<ModifiedDate>2021-09-27T14:04:04+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="cf0d1866-231a-418f-b686-4bbae0194798">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="4f61ee1a-841f-4edf-b352-f28aca1dbff3" TopicType="Falha" TopicStatus="Closed">
+		<Title>Diferença em número de vagas para visitantes no projeto e memorial descritivo</Title>
+		<Priority>Alta</Priority>
+		<Index>47</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-03-31T15:07:14+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:26+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Vagas para visitantes no projeto em quantidade diferente da especificada no memorial descritivo, Por gentileza, verificar e ajustar.
+Além disso, o total 41 equivale a soma das vagas comuns e vagas para idosos e PCR, estando as 13 vagas para moto além dessa contagem, deixando assim a informação um pouco confusa, Poderia ajustar?</Description>
+	</Topic>
+	<Comment Guid="b4612f92-5c30-4c80-9f16-17924e2bcde1">
+		<Date>2021-04-09T16:59:17+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="d4f1beaf-15ad-4d15-93bc-96e296688b6b" />
+		<ModifiedDate>2021-04-09T16:59:17+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="d3e6b16d-d55b-4de1-9f9f-9ac72c0d44a0">
+		<Date>2021-04-02T20:54:14+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>As vagas de visitantes contemplam em ambas as fases. O total são 41 vagas mesmo. Favor verificar as vagas em frente ao Bicicletário A e Playground A.
+As vagas de motos estão na fase 01 em frente a guarita e na fase 2 em frente a Torre 21, com total de 13 vagas para moto.
+As vagas de idosos que estão erradas de acordo com o quadro. São 03 vagas no total: 02 em frente a academia e 01 em frente a quadra poliesportiva.</Comment>
+		<Viewpoint Guid="d4f1beaf-15ad-4d15-93bc-96e296688b6b" />
+		<ModifiedDate>2021-04-02T20:54:14+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="f58e64fd-9dc7-48b2-b96d-2a98ec72aebc">
+		<Date>2021-03-31T15:07:14+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d4f1beaf-15ad-4d15-93bc-96e296688b6b" />
+		<ModifiedDate>2021-03-31T15:07:14+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="d4f1beaf-15ad-4d15-93bc-96e296688b6b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

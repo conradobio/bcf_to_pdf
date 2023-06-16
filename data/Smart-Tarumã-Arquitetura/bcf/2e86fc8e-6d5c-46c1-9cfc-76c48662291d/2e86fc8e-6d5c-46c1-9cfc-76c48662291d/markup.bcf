@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="2e86fc8e-6d5c-46c1-9cfc-76c48662291d" TopicType="Problema" TopicStatus="Closed">
+		<Title>Atualização das áreas após ampliação da área fitness</Title>
+		<Priority>Baixa</Priority>
+		<Index>2</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2020-07-23T18:47:39+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:20+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2020-08-06T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar na tabela de área verde/app essa diminuição de área verde na implantação e na legenda o tamanho da Área Fitness (17) que continua 55m² na R06 (mesma área da R05).</Description>
+	</Topic>
+	<Comment Guid="dd52a64e-df67-4338-9b0f-c543cd87b151">
+		<Date>2020-07-23T18:47:39+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="40221d5d-1b2c-4d3f-914b-d25de4e9fce2" />
+		<ModifiedDate>2020-07-23T18:47:39+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="40221d5d-1b2c-4d3f-914b-d25de4e9fce2">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

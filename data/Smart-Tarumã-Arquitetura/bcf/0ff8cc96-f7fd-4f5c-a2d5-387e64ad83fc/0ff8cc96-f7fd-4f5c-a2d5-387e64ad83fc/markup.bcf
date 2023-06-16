@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="0ff8cc96-f7fd-4f5c-a2d5-387e64ad83fc" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Nivel acabado</Title>
+		<Priority>Alta</Priority>
+		<Index>337</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T21:01:12+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:30+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Nível de arquitetura não está de acordo com terraplanagem, por favor, ajustar</Description>
+	</Topic>
+	<Comment Guid="2420c99d-7a0b-4fa1-9273-767c2539c3b4">
+		<Date>2021-10-29T21:01:12+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="28ce75dd-aeb6-4f2e-b995-aea3f53eba3c" />
+		<ModifiedDate>2021-10-29T21:01:12+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="28ce75dd-aeb6-4f2e-b995-aea3f53eba3c">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

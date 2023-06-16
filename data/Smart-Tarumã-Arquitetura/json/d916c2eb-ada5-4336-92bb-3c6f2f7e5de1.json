@@ -1,0 +1,46 @@
+{
+    "codigo": "d916c2eb-ada5-4336-92bb-3c6f2f7e5de1",
+    "titulo": "Rua Principal",
+    "status": "Closed",
+    "descricao": "No geral pra tentarmos melhorar o empreendimento e diminuir os arrimos entre torres, vagas e nos anexos, precisar\u00edamos reajustar toda a implanta\u00e7\u00e3o;\nDiminuir a inclina\u00e7\u00e3o da rua principal da estaca 1 at\u00e9 a 7 pr\u00f3xima ao in\u00edcio da ponte, para ~2% =, assim a diferen\u00e7a de desn\u00edvel cair\u00e1 de 7,5m pra 2,5m.\nPr\u00f3s; conseguimos diminuir a altura dos arrimos e muitos casos remover. E n\u00e3o ter\u00edamos mais torres enterradas.\nContras: aumento de aterro. Ter\u00edamos tamb\u00e9m que reajustar a implanta\u00e7\u00e3o buscar criar um espa\u00e7o para fazer um talude pr\u00f3ximo a app, ou fazer o arrimo pr\u00f3ximo a app (estilo Torquato 02).",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-09-29T19:59:11+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-05T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "jesus.cadengenharia@gmail.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "1dc4c255-4076-4053-9d6a-6ad748fb4d60",
+            "descricao": "Verificado a revis\u00e3o 03, n\u00e3o houveram altera\u00e7\u00f5es na via principal. Foi comentado em reuni\u00e3o que n\u00e3o seria poss\u00edvel fazer tais altera\u00e7\u00f5es e que o projetista iria tentar, por\u00e9m sem sucesso.",
+            "data_acao": "2021-10-14T18:47:45+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "1bafda3b-3465-4e4d-ae8a-d510d739b74b",
+            "descricao": "Resposta Morar: De acordo, como comentei conten\u00e7\u00e3o \u00e9 mais cara que aterro. Conseguimos ter a estimativa com o Jesus do quanto aumentaria de aterro? Podemos avaliar isso com ele em conjunto.",
+            "data_acao": "2021-09-29T20:00:11+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "3e24594e-2754-4b4f-96c4-7ec3535d7370",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T19:59:11+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "88e31fed-be66-492d-8143-ae4e64875a06",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d916c2eb-ada5-4336-92bb-3c6f2f7e5de1/d916c2eb-ada5-4336-92bb-3c6f2f7e5de1//snapshot.png"
+        }
+    ]
+}

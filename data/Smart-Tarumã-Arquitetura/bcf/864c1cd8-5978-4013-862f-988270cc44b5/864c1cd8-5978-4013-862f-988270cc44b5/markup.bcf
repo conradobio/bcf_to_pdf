@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="864c1cd8-5978-4013-862f-988270cc44b5" TopicType="Falha" TopicStatus="Closed">
+		<Title>Prever cerâmica na parede lateral também</Title>
+		<Priority>Baixa</Priority>
+		<Index>287</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-15T13:28:51+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:19+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-22T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+	</Topic>
+	<Comment Guid="a2c504fc-b234-4de3-baab-df8f6259dbe4">
+		<Date>2021-11-10T18:28:10+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resolvido na revisão R01.</Comment>
+		<Viewpoint Guid="0eac0ce3-95e9-4158-8dfe-331edc23234b" />
+		<ModifiedDate>2021-11-10T18:28:10+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="9be31410-ec89-4c6c-b8c5-7458894c68de">
+		<Date>2021-10-22T12:45:33+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido. A cerâmica tem 45x45cm e terá esse recorte de 2.5cm na parte inferior.</Comment>
+		<Viewpoint Guid="74670d70-b8a8-43f3-9148-9e9c1caa27e5" />
+		<ModifiedDate>2021-10-22T12:45:33+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="00022ab7-cb45-4b0a-932c-1e8cb606bcb9">
+		<Date>2021-10-15T13:28:51+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="0d899b77-4cd6-47b8-8469-dc78ad330cfb" />
+		<ModifiedDate>2021-10-15T13:28:51+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0d899b77-4cd6-47b8-8469-dc78ad330cfb">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="0eac0ce3-95e9-4158-8dfe-331edc23234b">
+		<Viewpoint>0eac0ce3-95e9-4158-8dfe-331edc23234b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>0eac0ce3-95e9-4158-8dfe-331edc23234b_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="74670d70-b8a8-43f3-9148-9e9c1caa27e5">
+		<Viewpoint>74670d70-b8a8-43f3-9148-9e9c1caa27e5_viewpoint.bcfv</Viewpoint>
+		<Snapshot>74670d70-b8a8-43f3-9148-9e9c1caa27e5_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

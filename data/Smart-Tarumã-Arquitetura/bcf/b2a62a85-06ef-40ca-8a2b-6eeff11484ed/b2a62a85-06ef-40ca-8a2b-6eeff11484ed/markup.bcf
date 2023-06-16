@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="b2a62a85-06ef-40ca-8a2b-6eeff11484ed" TopicType="Falha" TopicStatus="Active">
+		<Title>Incluir informações de revisão</Title>
+		<Priority>Baixa</Priority>
+		<Index>285</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-15T13:27:12+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:19+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-22T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Incluir informações de revisão</Description>
+	</Topic>
+	<Comment Guid="6187682f-6f1a-4100-aa90-b26181b2435f">
+		<Date>2021-10-15T13:27:12+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="6905d7e2-6e9e-4564-9f1b-ccbdaf609d2b" />
+		<ModifiedDate>2021-10-15T13:27:12+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="6905d7e2-6e9e-4564-9f1b-ccbdaf609d2b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

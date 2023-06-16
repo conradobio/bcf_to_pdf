@@ -1,0 +1,6 @@
+streamlit
+pandas
+jinja2
+json
+xhtml2pdf
+stqdm

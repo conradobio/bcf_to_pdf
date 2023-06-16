@@ -1,0 +1,50 @@
+{
+    "codigo": "0c949db4-7d45-40b3-853b-25beeaae39df",
+    "titulo": "Parede conflitando com piso, lazer E",
+    "status": "Closed",
+    "descricao": "Parede conflitando com piso no lazer E, por gentileza, ajustar todas as ocorrencias",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T15:24:52+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "b823773e-2175-44ab-a44e-46173161ac0d",
+            "descricao": "Ajustado na R01",
+            "data_acao": "2021-10-28T19:41:32+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "4efd26cb-d4a8-46bf-b60e-e38bea89c775",
+            "descricao": "encontro de paredes e pisos ajustado",
+            "data_acao": "2021-10-11T13:43:10+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "edbfd2eb-0a50-4409-923b-15867e691e81",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T15:24:52+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "1736efa5-8fe2-411b-a77d-c17c1ef3e411",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/0c949db4-7d45-40b3-853b-25beeaae39df/0c949db4-7d45-40b3-853b-25beeaae39df//snapshot.png"
+        },
+        {
+            "guid": "7eea0a66-451a-44c5-80c8-725cf4da83c4",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/0c949db4-7d45-40b3-853b-25beeaae39df/0c949db4-7d45-40b3-853b-25beeaae39df//7eea0a66-451a-44c5-80c8-725cf4da83c4_snapshot.png"
+        }
+    ]
+}

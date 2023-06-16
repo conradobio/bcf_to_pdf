@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="4aa670c6-7f5b-4aaa-9ae8-4119c3a79996" TopicType="Problema" TopicStatus="Closed">
+		<Title>Ajustar muro do empreendimento de acordo com limite físico</Title>
+		<Priority>Alta</Priority>
+		<Index>51</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-04-01T13:56:18+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:27+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Ajustar muro do empreendimento de acordo com limite físico observado em projeto de terraplanagem (muro do vizinho adentra no lote). Por gentileza, verificar e ajustar.</Description>
+	</Topic>
+	<Comment Guid="a22c7543-a70d-4688-8bc9-21a03c0385b4">
+		<Date>2021-04-09T16:51:08+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="97de4e2c-11b0-4da1-a94b-e7d9bbdcc422" />
+		<ModifiedDate>2021-04-09T16:51:08+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="e65ed61e-2b70-4e64-8d83-3e16cdfed1d1">
+		<Date>2021-04-01T13:56:18+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="97de4e2c-11b0-4da1-a94b-e7d9bbdcc422" />
+		<ModifiedDate>2021-04-01T13:56:18+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="97de4e2c-11b0-4da1-a94b-e7d9bbdcc422">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

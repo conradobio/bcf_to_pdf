@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e85461c2-4c9e-4d72-aea7-baf5208a8513" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Piscinas</Title>
+		<Priority>Alta</Priority>
+		<Index>317</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T17:27:00+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:26+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>As bordas das piscinas não deveriam ter alguma argamassa colante ou pode seguir sem??</Description>
+	</Topic>
+	<Comment Guid="8363a70c-729c-4976-90cc-8e28e3cdc534">
+		<Date>2021-10-29T17:27:00+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d5d22778-4555-40be-a4d6-3373757e61fe" />
+		<ModifiedDate>2021-10-29T17:27:00+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="d5d22778-4555-40be-a4d6-3373757e61fe">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

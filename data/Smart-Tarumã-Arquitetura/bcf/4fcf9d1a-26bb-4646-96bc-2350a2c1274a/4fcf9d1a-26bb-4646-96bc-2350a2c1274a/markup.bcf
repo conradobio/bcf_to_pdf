@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="4fcf9d1a-26bb-4646-96bc-2350a2c1274a" TopicType="Problema" TopicStatus="Active">
+		<Title>Complementar informações do carimbo</Title>
+		<Priority>Alta</Priority>
+		<Index>284</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-15T13:26:18+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:19+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Detalhar o local a que se refere a planta (Lixeira, Guarita, etc.)</Description>
+	</Topic>
+	<Comment Guid="8fb6704e-0809-4b33-b40f-4d26029a3587">
+		<Date>2021-10-15T13:26:18+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="262684a4-0037-4c96-bd5b-a14b3443979d" />
+		<ModifiedDate>2021-10-15T13:26:18+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="262684a4-0037-4c96-bd5b-a14b3443979d">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="2ec6f5c8-569c-4b41-afd5-05280ab0fc0a" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Chapim</Title>
+		<Priority>Alta</Priority>
+		<Index>316</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T17:26:58+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:26+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, ajustar chapim nas áreas das churrasqueira</Description>
+	</Topic>
+	<Comment Guid="286fe38b-f5b1-419b-b6fd-a5b817330b3e">
+		<Date>2021-10-29T17:26:58+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="613ca9bd-ba39-4232-87de-8ea700b7420d" />
+		<ModifiedDate>2021-10-29T17:26:58+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="613ca9bd-ba39-4232-87de-8ea700b7420d">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

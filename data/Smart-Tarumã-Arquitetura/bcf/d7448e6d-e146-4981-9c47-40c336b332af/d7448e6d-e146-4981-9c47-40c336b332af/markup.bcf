@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d7448e6d-e146-4981-9c47-40c336b332af" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Camada de pintura</Title>
+		<Priority>Alta</Priority>
+		<Index>288</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-21T21:07:23+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:20+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-28T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Faltando camada de pintura na sala, banheiro e quarto, por favor, verificar todas as ocorrências e ajustar</Description>
+	</Topic>
+	<Comment Guid="49a093fe-d45b-4cfe-9a68-c50d092f3034">
+		<Date>2021-10-21T21:07:23+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="f27679ea-bd62-428e-9196-82d989faffed" />
+		<ModifiedDate>2021-10-21T21:07:23+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="f27679ea-bd62-428e-9196-82d989faffed">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

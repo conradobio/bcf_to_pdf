@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="f0196e09-aec8-4ee6-b531-e8d1db9137b9" TopicType="Problema" TopicStatus="Active">
+		<Title>Modelagem da fachada</Title>
+		<Priority>Baixa</Priority>
+		<Index>293</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T19:07:04+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:21+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por favor, verificar e ajustar esse espaço na parede da fachada do Lazer E</Description>
+	</Topic>
+	<Comment Guid="e46f9ab2-8b0e-4218-ae26-3c2497fcc1db">
+		<Date>2021-10-28T19:07:04+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="0161b395-44df-4c8a-b17c-701ac3a65dd5" />
+		<ModifiedDate>2021-10-28T19:07:04+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0161b395-44df-4c8a-b17c-701ac3a65dd5">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

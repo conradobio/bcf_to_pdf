@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualizationInfo Guid="93abb38b-ad24-4e5d-88a0-ea1d4aeb9de9">
+	<Components>
+		<ViewSetupHints SpacesVisible="false" SpaceBoundariesVisible="false" OpeningsVisible="false" />
+	</Components>
+	<DrawingViewport>
+		<Client>REVIT</Client>
+		<ViewName>Térreo</ViewName>
+		<ViewType>1</ViewType>
+		<ViewStory>0</ViewStory>
+		<ViewID1>0</ViewID1>
+		<ViewID2>0</ViewID2>
+		<ViewLeftTop>
+			<X>-799.33519893521157</X>
+			<Y>149.3996172488778</Y>
+		</ViewLeftTop>
+		<ViewRightBottom>
+			<X>-797.65837220773665</X>
+			<Y>155.18386837920411</Y>
+		</ViewRightBottom>
+	</DrawingViewport>
+</VisualizationInfo>

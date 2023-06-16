@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="41279edf-3422-4d3d-8157-df6aea3819d3" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Banheiro PNE lazer C</Title>
+		<Priority>Alta</Priority>
+		<Index>161</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T22:05:30+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:44+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Rever altura e modelo de bacia sanitaria do banheiro PNE conforme NBR 9050</Description>
+	</Topic>
+	<Comment Guid="cc1aea7f-86a9-4c7d-a8bf-dba95e612ee7">
+		<Date>2021-10-29T14:55:10+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Atendido na r01</Comment>
+		<Viewpoint Guid="563917f8-c5bf-4a82-94c2-e5f1cc42db7b" />
+		<ModifiedDate>2021-10-29T14:55:10+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="e43830e6-1cba-4294-88fc-c9827fd45e0d">
+		<Date>2021-10-13T12:20:59+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="b21b143c-1c82-4d7d-8d42-522b6e6a5204" />
+		<ModifiedDate>2021-10-13T12:20:59+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="cf053adc-aefe-40a4-9a99-eba7c2506627">
+		<Date>2021-09-20T22:05:30+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="a2c413b7-a035-40bf-ac32-874bf2635945" />
+		<ModifiedDate>2021-09-20T22:05:30+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="563917f8-c5bf-4a82-94c2-e5f1cc42db7b">
+		<Viewpoint>563917f8-c5bf-4a82-94c2-e5f1cc42db7b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>563917f8-c5bf-4a82-94c2-e5f1cc42db7b_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="a2c413b7-a035-40bf-ac32-874bf2635945">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="b21b143c-1c82-4d7d-8d42-522b6e6a5204">
+		<Viewpoint>b21b143c-1c82-4d7d-8d42-522b6e6a5204_viewpoint.bcfv</Viewpoint>
+		<Snapshot>b21b143c-1c82-4d7d-8d42-522b6e6a5204_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="15ec4db5-7d24-4cdd-a22f-8e0e12856f1f" TopicType="Solicitação" TopicStatus="Active">
+		<Title>estrutura x arq</Title>
+		<Priority>Alta</Priority>
+		<Index>253</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-01T15:58:02+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:11+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Janelas dos quartos com diferença com estrutura, por favor, verificar e ajustar conforme estrutura (estrutura em verde) em todas as torres</Description>
+	</Topic>
+	<Comment Guid="a3c17726-0040-4e11-9378-ef5932d16efd">
+		<Date>2021-10-01T15:58:03+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c208d24b-3510-427d-9bc2-833f1f57c523" />
+		<ModifiedDate>2021-10-01T15:58:03+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="c208d24b-3510-427d-9bc2-833f1f57c523">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

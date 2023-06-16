@@ -1,0 +1,54 @@
+{
+    "codigo": "670dff70-3a0f-4c31-992d-841a91e21e78",
+    "titulo": "Prancha sem imagem",
+    "status": "Closed",
+    "descricao": "Prancha do Lazer sem imagem",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-27T13:52:39+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-30T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "42184e75-83fd-4b2e-926b-f58c9ae5bf88",
+            "descricao": "Ajustado na R01",
+            "data_acao": "2021-10-29T16:24:03+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "55a52317-813e-4d37-8e78-326d7f2a8c33",
+            "descricao": "Foi verificado que as imagens est\u00e3o nas pranchas, em ambos arquivos RVT e DWG, tanto no Drive quanto no Autodoc.",
+            "data_acao": "2021-10-04T16:25:46+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "9007e02c-44d3-4653-94af-19726619dfdb",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-27T13:52:39+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "26ba9e0b-ebc4-4203-8586-5466eb582f06",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/670dff70-3a0f-4c31-992d-841a91e21e78/670dff70-3a0f-4c31-992d-841a91e21e78//26ba9e0b-ebc4-4203-8586-5466eb582f06_snapshot.png"
+        },
+        {
+            "guid": "427f77e6-67af-4f06-a032-4b9befcf4c3f",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/670dff70-3a0f-4c31-992d-841a91e21e78/670dff70-3a0f-4c31-992d-841a91e21e78//427f77e6-67af-4f06-a032-4b9befcf4c3f_snapshot.png"
+        },
+        {
+            "guid": "63923f71-c08d-4ace-ae72-931b869f8ca9",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/670dff70-3a0f-4c31-992d-841a91e21e78/670dff70-3a0f-4c31-992d-841a91e21e78//snapshot.png"
+        }
+    ]
+}

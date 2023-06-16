@@ -1,0 +1,46 @@
+{
+    "codigo": "4f61ee1a-841f-4edf-b352-f28aca1dbff3",
+    "titulo": "Diferen\u00e7a em n\u00famero de vagas para visitantes no projeto e memorial descritivo",
+    "status": "Closed",
+    "descricao": "Vagas para visitantes no projeto em quantidade diferente da especificada no memorial descritivo, Por gentileza, verificar e ajustar.\nAl\u00e9m disso, o total 41 equivale a soma das vagas comuns e vagas para idosos e PCR, estando as 13 vagas para moto al\u00e9m dessa contagem, deixando assim a informa\u00e7\u00e3o um pouco confusa, Poderia ajustar?",
+    "tipo": "Falha",
+    "fase": "Projeto Legal",
+    "prioridade": "Alta",
+    "abertura": "2021-03-31T15:07:14+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-04-07T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "b4612f92-5c30-4c80-9f16-17924e2bcde1",
+            "descricao": "Resolvido",
+            "data_acao": "2021-04-09T16:59:17+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "d3e6b16d-d55b-4de1-9f9f-9ac72c0d44a0",
+            "descricao": "As vagas de visitantes contemplam em ambas as fases. O total s\u00e3o 41 vagas mesmo. Favor verificar as vagas em frente ao Biciclet\u00e1rio A e Playground A.\nAs vagas de motos est\u00e3o na fase 01 em frente a guarita e na fase 2 em frente a Torre 21, com total de 13 vagas para moto.\nAs vagas de idosos que est\u00e3o erradas de acordo com o quadro. S\u00e3o 03 vagas no total: 02 em frente a academia e 01 em frente a quadra poliesportiva.",
+            "data_acao": "2021-04-02T20:54:14+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "f58e64fd-9dc7-48b2-b96d-2a98ec72aebc",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-03-31T15:07:14+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "d4f1beaf-15ad-4d15-93bc-96e296688b6b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/4f61ee1a-841f-4edf-b352-f28aca1dbff3/4f61ee1a-841f-4edf-b352-f28aca1dbff3//snapshot.png"
+        }
+    ]
+}

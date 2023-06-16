@@ -1,0 +1,54 @@
+{
+    "codigo": "ee7e9931-d1a3-4422-8b4f-42c5f5bffc22",
+    "titulo": "Escada da piscina lazer E",
+    "status": "Active",
+    "descricao": "Escada da piscina no lazer E verificar se est\u00e1 seguindo norma, por gentileza",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T15:55:17+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "b8716a36-e2f6-4f7e-a065-750099db9fc1",
+            "descricao": "Visto na R01 que os degraus foram ajustados, falta apenas ajustar o corrim\u00e3o da escada (inclusive a modelagem)",
+            "data_acao": "2021-10-28T19:24:41+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "037380de-25d7-42b4-a48c-5fbe83738438",
+            "descricao": "Medidas dos degraus ajustadas conforme a NBR 9050",
+            "data_acao": "2021-10-13T18:46:10+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "e00c1a2f-4175-49b6-a39b-05637425fb6a",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T15:55:17+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0b265bba-53b7-42a8-8d4d-73580054c6ce",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ee7e9931-d1a3-4422-8b4f-42c5f5bffc22/ee7e9931-d1a3-4422-8b4f-42c5f5bffc22//0b265bba-53b7-42a8-8d4d-73580054c6ce_snapshot.png"
+        },
+        {
+            "guid": "265a4baa-29cf-41b0-ade5-1f83379cef9c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ee7e9931-d1a3-4422-8b4f-42c5f5bffc22/ee7e9931-d1a3-4422-8b4f-42c5f5bffc22//265a4baa-29cf-41b0-ade5-1f83379cef9c_snapshot.png"
+        },
+        {
+            "guid": "543262dc-9ee2-4dd0-bea0-62c193388ab7",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ee7e9931-d1a3-4422-8b4f-42c5f5bffc22/ee7e9931-d1a3-4422-8b4f-42c5f5bffc22//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "codigo": "2667c983-7ae4-4b6b-bc1c-7397ed18c47f",
+    "titulo": "M02",
+    "status": "Closed",
+    "descricao": "M02 se repete na tabela, por gentileza, ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-08-25T22:01:47+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-01T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "10ad49ba-0aee-4231-9998-2445052c0339",
+            "descricao": "ajustado na r01",
+            "data_acao": "2021-09-15T21:08:50+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "a86478b7-dd76-40eb-8f9e-046f05de831c",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-25T22:01:47+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "177d86a7-662e-4e9f-8b7f-b53b4e28ab0b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2667c983-7ae4-4b6b-bc1c-7397ed18c47f/2667c983-7ae4-4b6b-bc1c-7397ed18c47f//177d86a7-662e-4e9f-8b7f-b53b4e28ab0b_snapshot.png"
+        },
+        {
+            "guid": "4e294f4d-0aa8-4b39-ae3d-f7e3690d2be5",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2667c983-7ae4-4b6b-bc1c-7397ed18c47f/2667c983-7ae4-4b6b-bc1c-7397ed18c47f//snapshot.png"
+        }
+    ]
+}

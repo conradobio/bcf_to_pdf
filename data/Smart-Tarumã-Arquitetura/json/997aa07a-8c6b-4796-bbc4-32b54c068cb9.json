@@ -1,0 +1,32 @@
+{
+    "codigo": "997aa07a-8c6b-4796-bbc4-32b54c068cb9",
+    "titulo": "Afastamento de Torres - Resumo",
+    "status": "Closed",
+    "descricao": "Segue resumo geral dos acr\u00e9scimos de afastamentos a serem analisados das torres para atendimento da diretriz da construtora e normativa da Caixa",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-01-29T18:17:10+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-02-12T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "f9be2c05-9944-427a-9915-b71eaf472bc9",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-01-29T18:17:11+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "71a8af76-1657-442b-93cd-7063326cf123",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/997aa07a-8c6b-4796-bbc4-32b54c068cb9/997aa07a-8c6b-4796-bbc4-32b54c068cb9//snapshot.png"
+        }
+    ]
+}

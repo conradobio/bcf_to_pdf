@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="bf984de6-8f52-401d-8526-5ff122743746" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Ar condicionado</Title>
+		<Priority>Crítica</Priority>
+		<Index>106</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-26T14:51:09+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:33+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-01T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>De acordo com o BEP, os ar condicionados vão ser do tipo split, por gentileza, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="369f155b-23d0-48bf-8e01-c706e768f15e">
+		<Date>2021-09-15T21:11:22+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>AJUSTADO NA R01</Comment>
+		<Viewpoint Guid="c90e1cba-d378-453d-9c35-8f8c2ff8102e" />
+		<ModifiedDate>2021-09-15T21:11:22+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="0026826d-79cb-40a9-b3ae-928b9bb0afc1">
+		<Date>2021-08-26T14:51:09+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="31ec2319-21b8-4f6a-9bf0-ae0cd50b3b2f" />
+		<ModifiedDate>2021-08-26T14:51:09+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="31ec2319-21b8-4f6a-9bf0-ae0cd50b3b2f">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="c90e1cba-d378-453d-9c35-8f8c2ff8102e">
+		<Viewpoint>c90e1cba-d378-453d-9c35-8f8c2ff8102e_viewpoint.bcfv</Viewpoint>
+		<Snapshot>c90e1cba-d378-453d-9c35-8f8c2ff8102e_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

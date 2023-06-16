@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="9f876c62-a92c-4f4d-b99b-5911bffc2c8c" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Vão da copa conflitando com parede no lazer D</Title>
+		<Priority>Alta</Priority>
+		<Index>164</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T13:13:41+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:46+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>vão da porta conflitando com vão da copa, por gentileza, ajustar</Description>
+	</Topic>
+	<Comment Guid="e130aea1-233f-44d3-81eb-f9f41e36699d">
+		<Date>2021-10-28T20:26:01+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que o vão da copa foi ajustado</Comment>
+		<Viewpoint Guid="ff6d30b4-ca57-4f36-9563-11c65f0b4c94" />
+		<ModifiedDate>2021-10-28T20:26:01+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="fef60d20-02bf-44f2-b839-0cf9af20b278">
+		<Date>2021-10-07T14:07:52+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Camadas da parede ajustadas conforme vão da copa.</Comment>
+		<Viewpoint Guid="6e24bb17-b929-4c4c-9106-0115e003a7ab" />
+		<ModifiedDate>2021-10-07T14:07:52+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="416d8277-91c9-407f-b7e4-c368d048b8c8">
+		<Date>2021-09-21T13:13:41+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="6e24bb17-b929-4c4c-9106-0115e003a7ab" />
+		<ModifiedDate>2021-09-21T13:13:41+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="6e24bb17-b929-4c4c-9106-0115e003a7ab">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="ff6d30b4-ca57-4f36-9563-11c65f0b4c94">
+		<Viewpoint>ff6d30b4-ca57-4f36-9563-11c65f0b4c94_viewpoint.bcfv</Viewpoint>
+		<Snapshot>ff6d30b4-ca57-4f36-9563-11c65f0b4c94_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

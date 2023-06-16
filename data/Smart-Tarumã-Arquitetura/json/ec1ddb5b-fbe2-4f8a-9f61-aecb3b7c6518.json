@@ -1,0 +1,32 @@
+{
+    "codigo": "ec1ddb5b-fbe2-4f8a-9f61-aecb3b7c6518",
+    "titulo": "Banheiros",
+    "status": "Active",
+    "descricao": "Modelar camada de revestimento acima do lavat\u00f3rios nos banheiros conforme projeto legal",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-29T18:44:01+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4aeb03d6-22d8-448e-a54f-d0edf3c329d3",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T18:44:01+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "a1dc18eb-4836-4476-afd4-a5c42a299465",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ec1ddb5b-fbe2-4f8a-9f61-aecb3b7c6518/ec1ddb5b-fbe2-4f8a-9f61-aecb3b7c6518//snapshot.png"
+        }
+    ]
+}

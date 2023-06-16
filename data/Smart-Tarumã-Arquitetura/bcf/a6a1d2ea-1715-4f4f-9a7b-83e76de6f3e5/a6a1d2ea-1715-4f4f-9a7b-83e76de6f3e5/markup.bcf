@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="a6a1d2ea-1715-4f4f-9a7b-83e76de6f3e5" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Afastamento de Torres II</Title>
+		<Priority>Crítica</Priority>
+		<Index>21</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-01-28T18:40:29+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:23+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-02-11T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Após análise da terraplanagem, para conformar esse talude em 1/1 e deixar a implantação de acordo com a exigência da Caixa e da Engenharia da Capital, poderiam afastar a torre em 3,50m em direção a ETE?</Description>
+	</Topic>
+	<Comment Guid="f7623a15-b931-41cb-a114-18f10c654f13">
+		<Date>2021-01-28T18:40:29+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="680d240a-1324-473a-b9a1-456842ffa5a2" />
+		<ModifiedDate>2021-01-28T18:40:29+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="680d240a-1324-473a-b9a1-456842ffa5a2">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,39 @@
+{
+    "codigo": "9a481af9-9a1a-4041-9087-344ce68d4f36",
+    "titulo": "Duplica\u00e7\u00e3o da Pista X Canteiro",
+    "status": "Closed",
+    "descricao": "Duplica\u00e7\u00e3o da pista passando por dentro do muro de divisa e por cima do canteiro. Favor estudar a possibilidade de ajustes.",
+    "tipo": "Problema",
+    "fase": "Projeto Legal",
+    "prioridade": "Alta",
+    "abertura": "2020-09-21T19:15:52+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2020-09-28T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "ff6389f9-50da-40e0-b0a6-17d5df2ff758",
+            "descricao": "Essa \u00e9 a parte do talude e n\u00e3o da Via.",
+            "data_acao": "2020-09-22T13:14:19+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "cd2be21c-2135-486f-9959-7405dfd29113",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2020-09-21T19:15:52+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "7613c461-9cc5-4db3-a5be-5e5fa270e5b1",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/9a481af9-9a1a-4041-9087-344ce68d4f36/9a481af9-9a1a-4041-9087-344ce68d4f36//snapshot.png"
+        }
+    ]
+}

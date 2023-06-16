@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualizationInfo Guid="43ce895d-bb34-44a8-9f22-6ccdf888603b">
+	<Components>
+		<ViewSetupHints SpacesVisible="false" SpaceBoundariesVisible="false" OpeningsVisible="false" />
+	</Components>
+	<DrawingViewport>
+		<Client>REVIT</Client>
+		<ViewName>Corte 4</ViewName>
+		<ViewType>2</ViewType>
+		<ViewStory>0</ViewStory>
+		<ViewID1>0</ViewID1>
+		<ViewID2>0</ViewID2>
+		<ViewLeftTop>
+			<X>730.01119536803924</X>
+			<Y>308.21619321554931</Y>
+		</ViewLeftTop>
+		<ViewRightBottom>
+			<X>693.02083718905453</X>
+			<Y>308.21619321554942</Y>
+		</ViewRightBottom>
+	</DrawingViewport>
+</VisualizationInfo>

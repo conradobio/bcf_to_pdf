@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="b1418519-d122-4c94-8aba-bf3597ef2cc6" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Indicação das uniddaes de apartamentos</Title>
+		<Priority>Baixa</Priority>
+		<Index>119</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-15T20:25:07+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:35+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-28T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Indicar o numero das unidades de apartamentos, por gentileza, erificar a ocorrencia em todas as torres</Description>
+	</Topic>
+	<Comment Guid="ccdcad75-7719-4d34-841e-15273faffa5a">
+		<Date>2021-10-21T13:13:00+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não atendido</Comment>
+		<Viewpoint Guid="91189f7a-e509-4788-b2fe-203f4a99fb57" />
+		<ModifiedDate>2021-10-21T13:13:00+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="147cd309-a5b4-4862-8319-9c730a30a39e">
+		<Date>2021-10-01T13:14:17+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não atendido</Comment>
+		<Viewpoint Guid="91189f7a-e509-4788-b2fe-203f4a99fb57" />
+		<ModifiedDate>2021-10-01T13:14:17+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ef6cb3ed-c4de-455d-994e-527e911a31c9">
+		<Date>2021-09-15T20:25:07+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="91189f7a-e509-4788-b2fe-203f4a99fb57" />
+		<ModifiedDate>2021-09-15T20:25:07+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="91189f7a-e509-4788-b2fe-203f4a99fb57">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

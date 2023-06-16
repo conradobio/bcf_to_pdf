@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="46bad17d-0416-4278-a322-6b82809c7f0a" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Esquadria AL02</Title>
+		<Priority>Alta</Priority>
+		<Index>122</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-16T14:15:01+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:36+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-08T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Esquadria AL02 não está conforme legenda, por favor, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="c31c156f-fb11-4354-b520-d27cc8fec534">
+		<Date>2021-10-01T13:12:44+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não ajustado, verificar em todas as torres, por favor</Comment>
+		<Viewpoint Guid="50397d3d-9ae0-4fc6-a915-92cbeb3678e6" />
+		<ModifiedDate>2021-10-01T13:12:44+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="2198b202-0085-42bc-9fec-d1d0697b4246">
+		<Date>2021-09-16T14:15:01+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d9c2705f-9508-41b4-b69d-fe70a3fc6ebc" />
+		<ModifiedDate>2021-09-16T14:15:01+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="50397d3d-9ae0-4fc6-a915-92cbeb3678e6">
+		<Viewpoint>50397d3d-9ae0-4fc6-a915-92cbeb3678e6_viewpoint.bcfv</Viewpoint>
+		<Snapshot>50397d3d-9ae0-4fc6-a915-92cbeb3678e6_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d9c2705f-9508-41b4-b69d-fe70a3fc6ebc">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

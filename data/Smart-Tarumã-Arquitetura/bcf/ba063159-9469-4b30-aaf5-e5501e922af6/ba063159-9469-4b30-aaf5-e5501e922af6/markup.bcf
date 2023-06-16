@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="ba063159-9469-4b30-aaf5-e5501e922af6" TopicType="Problema" TopicStatus="Active">
+		<Title>Níveis de terraplanagem</Title>
+		<Priority>Alta</Priority>
+		<Index>344</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-11-10T19:08:36+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:31+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor ajustar os níveis de acordo com a terraplanagem</Description>
+	</Topic>
+	<Comment Guid="08d70e35-9d2d-40b8-b5f1-ce4641c6aeaa">
+		<Date>2021-11-10T19:08:36+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d82de84c-90aa-406e-bc1b-a93aab7eecaa" />
+		<ModifiedDate>2021-11-10T19:08:36+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="d82de84c-90aa-406e-bc1b-a93aab7eecaa">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

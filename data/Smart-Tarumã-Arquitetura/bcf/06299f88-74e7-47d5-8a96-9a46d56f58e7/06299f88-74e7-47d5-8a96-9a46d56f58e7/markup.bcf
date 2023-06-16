@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="06299f88-74e7-47d5-8a96-9a46d56f58e7" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Centro de medição</Title>
+		<Priority>Baixa</Priority>
+		<Index>103</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-26T14:40:18+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:33+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-08T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Torre não tem abrigo para centro de medição, por favor, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="4e273640-7e2f-402e-9a21-e9b37eadfff7">
+		<Date>2021-10-01T15:14:48+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>resolvido</Comment>
+		<Viewpoint Guid="236b92af-789e-432d-9bd2-1a5048ebe5e9" />
+		<ModifiedDate>2021-10-01T15:14:48+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="e241148a-700c-478c-b7f4-395087122908">
+		<Date>2021-10-01T13:13:40+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não atendido</Comment>
+		<Viewpoint Guid="236b92af-789e-432d-9bd2-1a5048ebe5e9" />
+		<ModifiedDate>2021-10-01T13:13:40+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a18d7bd1-416a-4c00-929e-7d5535d9872b">
+		<Date>2021-09-15T21:25:19+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não atendido na R01</Comment>
+		<Viewpoint Guid="236b92af-789e-432d-9bd2-1a5048ebe5e9" />
+		<ModifiedDate>2021-09-15T21:25:19+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="89affe00-c424-4d7d-86b3-e10ce94d0744">
+		<Date>2021-08-26T14:40:18+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="236b92af-789e-432d-9bd2-1a5048ebe5e9" />
+		<ModifiedDate>2021-08-26T14:40:18+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="236b92af-789e-432d-9bd2-1a5048ebe5e9">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

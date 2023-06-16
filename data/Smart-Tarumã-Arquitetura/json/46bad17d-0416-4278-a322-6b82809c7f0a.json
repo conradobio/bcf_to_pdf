@@ -1,0 +1,43 @@
+{
+    "codigo": "46bad17d-0416-4278-a322-6b82809c7f0a",
+    "titulo": "Esquadria AL02",
+    "status": "Active",
+    "descricao": "Esquadria AL02 n\u00e3o est\u00e1 conforme legenda, por favor, verificar e ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-16T14:15:01+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-08T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "c31c156f-fb11-4354-b520-d27cc8fec534",
+            "descricao": "n\u00e3o ajustado, verificar em todas as torres, por favor",
+            "data_acao": "2021-10-01T13:12:44+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "2198b202-0085-42bc-9fec-d1d0697b4246",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-16T14:15:01+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "50397d3d-9ae0-4fc6-a915-92cbeb3678e6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/46bad17d-0416-4278-a322-6b82809c7f0a/46bad17d-0416-4278-a322-6b82809c7f0a//50397d3d-9ae0-4fc6-a915-92cbeb3678e6_snapshot.png"
+        },
+        {
+            "guid": "d9c2705f-9508-41b4-b69d-fe70a3fc6ebc",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/46bad17d-0416-4278-a322-6b82809c7f0a/46bad17d-0416-4278-a322-6b82809c7f0a//snapshot.png"
+        }
+    ]
+}

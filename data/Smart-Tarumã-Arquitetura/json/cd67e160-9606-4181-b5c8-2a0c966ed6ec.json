@@ -1,0 +1,50 @@
+{
+    "codigo": "cd67e160-9606-4181-b5c8-2a0c966ed6ec",
+    "titulo": "Piscina lazer E",
+    "status": "Active",
+    "descricao": "Alinhar borda de granito da piscina no lazer E, por favor",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T15:40:07+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "0ae7e7be-3bd2-4a1e-9027-2f17bb0f73ef",
+            "descricao": "Visto na R01 que ainda falta alinhar a borda da piscina com a parede",
+            "data_acao": "2021-10-28T19:34:34+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "34295a95-c590-421b-902d-9979483d0dd4",
+            "descricao": "Bordas das piscinas alinhadas a fim de cobrir as camadas de parede",
+            "data_acao": "2021-10-11T15:50:40+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "540e12ee-d31b-419b-9e1e-a06f47700821",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T15:40:07+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "bee10791-3d76-4cbe-90ea-b8841c0fc805",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/cd67e160-9606-4181-b5c8-2a0c966ed6ec/cd67e160-9606-4181-b5c8-2a0c966ed6ec//snapshot.png"
+        },
+        {
+            "guid": "cfcfbd65-e421-4f3e-b07a-ebea570b2b61",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/cd67e160-9606-4181-b5c8-2a0c966ed6ec/cd67e160-9606-4181-b5c8-2a0c966ed6ec//cfcfbd65-e421-4f3e-b07a-ebea570b2b61_snapshot.png"
+        }
+    ]
+}

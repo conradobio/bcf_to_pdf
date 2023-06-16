@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="4df2be00-3b7b-4691-94e0-bec96ab5b9af" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Camadas da laje impermeabilizada</Title>
+		<Priority>Alta</Priority>
+		<Index>273</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T15:06:38+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:15+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor ajustar as camadas da laje conforme especificado no BEP</Description>
+	</Topic>
+	<Comment Guid="ade6ec18-23b0-4f69-afa3-872b8449cdef">
+		<Date>2021-11-10T18:52:19+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Faltam os acabamentos internos da laje.</Comment>
+		<Viewpoint Guid="5c182212-827b-4239-a2a5-fdad44d55b78" />
+		<ModifiedDate>2021-11-10T18:52:19+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="6f403d66-a057-4284-b0b3-feff988a0b0c">
+		<Date>2021-10-22T12:37:08+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>As camadas de laje foram ajustadas de acordo com o BEP.</Comment>
+		<Viewpoint Guid="5c182212-827b-4239-a2a5-fdad44d55b78" />
+		<ModifiedDate>2021-10-22T12:37:08+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="52371209-78ef-4fcd-bcac-f129c78db66d">
+		<Date>2021-10-13T15:06:38+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="df472ed8-ba3d-4366-987f-577057f8b013" />
+		<ModifiedDate>2021-10-13T15:06:38+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="5c182212-827b-4239-a2a5-fdad44d55b78">
+		<Viewpoint>5c182212-827b-4239-a2a5-fdad44d55b78_viewpoint.bcfv</Viewpoint>
+		<Snapshot>5c182212-827b-4239-a2a5-fdad44d55b78_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="df472ed8-ba3d-4366-987f-577057f8b013">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

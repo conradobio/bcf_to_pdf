@@ -1,0 +1,39 @@
+{
+    "codigo": "0460bb5f-8680-40c5-bdb0-ecaef2b10ae5",
+    "titulo": "Porta de entrada",
+    "status": "Closed",
+    "descricao": "Porta de entrada dos apartamentos n\u00e3o alinhada com estrutura (em verde) , por favor, verificar e ajustar todas as torres",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-01T15:58:06+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-07T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "5caf9fd6-e4b5-41f9-9680-415924cf1320",
+            "descricao": "Ajustado na R02",
+            "data_acao": "2021-10-21T21:13:50+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "26cb44ce-4d40-4272-a229-6867a7f47be4",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-01T15:58:07+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "b0f53ea2-014b-4ad0-824e-f23c688943fd",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/0460bb5f-8680-40c5-bdb0-ecaef2b10ae5/0460bb5f-8680-40c5-bdb0-ecaef2b10ae5//snapshot.png"
+        }
+    ]
+}

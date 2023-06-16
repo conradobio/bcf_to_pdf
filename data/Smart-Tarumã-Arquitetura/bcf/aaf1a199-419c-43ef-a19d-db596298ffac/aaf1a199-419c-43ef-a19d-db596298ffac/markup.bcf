@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="aaf1a199-419c-43ef-a19d-db596298ffac" TopicType="Falha" TopicStatus="Closed">
+		<Title>Portão de acesso de veículos</Title>
+		<Priority>Alta</Priority>
+		<Index>276</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T16:28:10+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:16+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor ajustar conforme o Legal o tamanho do portão de acesso de veículos que é de 2.90 m</Description>
+	</Topic>
+	<Comment Guid="f7c3e005-d553-4ade-aba6-bf75ffdb8492">
+		<Date>2021-11-10T19:01:10+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resolvido na revisão R01.</Comment>
+		<Viewpoint Guid="cc84608d-7675-4ba3-abd2-a07a90e735c6" />
+		<ModifiedDate>2021-11-10T19:01:10+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="64f55397-54b1-494d-9ceb-a16daf1cdf00">
+		<Date>2021-10-20T12:53:14+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="1ff20641-b50a-43f1-9611-2321417f8401" />
+		<ModifiedDate>2021-10-20T12:53:14+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a16fdd00-30fb-43ba-90c5-bbe281eccb99">
+		<Date>2021-10-13T16:28:10+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="da481964-4112-4343-a368-8083bbffe799" />
+		<ModifiedDate>2021-10-13T16:28:10+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="1ff20641-b50a-43f1-9611-2321417f8401">
+		<Viewpoint>1ff20641-b50a-43f1-9611-2321417f8401_viewpoint.bcfv</Viewpoint>
+		<Snapshot>1ff20641-b50a-43f1-9611-2321417f8401_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="cc84608d-7675-4ba3-abd2-a07a90e735c6">
+		<Viewpoint>cc84608d-7675-4ba3-abd2-a07a90e735c6_viewpoint.bcfv</Viewpoint>
+		<Snapshot>cc84608d-7675-4ba3-abd2-a07a90e735c6_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="da481964-4112-4343-a368-8083bbffe799">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

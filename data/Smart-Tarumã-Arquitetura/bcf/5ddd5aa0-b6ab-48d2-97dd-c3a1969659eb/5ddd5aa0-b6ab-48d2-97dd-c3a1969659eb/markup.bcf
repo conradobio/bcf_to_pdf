@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="5ddd5aa0-b6ab-48d2-97dd-c3a1969659eb" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Modelagem paredes da piscina</Title>
+		<Priority>Alta</Priority>
+		<Index>298</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T19:56:57+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:22+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor ajustar o encontro dessas paredes da piscina</Description>
+	</Topic>
+	<Comment Guid="30ca4643-db3f-4eb2-910b-d6ae73627559">
+		<Date>2021-10-28T19:56:57+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d3d38e19-5187-4a41-9de5-fbafdc6c7cd7" />
+		<ModifiedDate>2021-10-28T19:56:57+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="d3d38e19-5187-4a41-9de5-fbafdc6c7cd7">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

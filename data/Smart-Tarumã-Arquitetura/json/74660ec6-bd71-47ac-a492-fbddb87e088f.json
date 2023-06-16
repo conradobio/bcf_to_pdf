@@ -1,0 +1,39 @@
+{
+    "codigo": "74660ec6-bd71-47ac-a492-fbddb87e088f",
+    "titulo": "Shaft",
+    "status": "Closed",
+    "descricao": "Esse shaft n\u00e3o existe, por gentileza, retira-l\u00f3",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-09-15T21:32:15+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-07T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "1af3c536-0ebf-43df-95c5-6962cb055878",
+            "descricao": "n\u00e3o resolvido, verificar em todas as torres",
+            "data_acao": "2021-09-30T21:23:18+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "5b5251f3-06ca-45b5-8cb8-875540fb2ad9",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-15T21:32:15+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "8c4342b9-a4e9-4794-b79a-d90b7bde99a4",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/74660ec6-bd71-47ac-a492-fbddb87e088f/74660ec6-bd71-47ac-a492-fbddb87e088f//snapshot.png"
+        }
+    ]
+}

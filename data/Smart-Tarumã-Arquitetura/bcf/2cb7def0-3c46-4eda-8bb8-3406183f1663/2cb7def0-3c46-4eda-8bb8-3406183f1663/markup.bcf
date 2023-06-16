@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="2cb7def0-3c46-4eda-8bb8-3406183f1663" TopicType="Problema" TopicStatus="Closed">
+		<Title>Remover previsão de AC de Janela para o empreendimento</Title>
+		<Priority>Crítica</Priority>
+		<Index>101</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-26T14:13:44+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:32+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-08-30T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Os empreendimentos Smart, a partir do Torquato, não terão mais AC de Janela</Description>
+	</Topic>
+	<Comment Guid="15012a0b-ad30-4d59-85c9-d2d4b7771338">
+		<Date>2021-09-15T21:24:38+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>AJUSTADO</Comment>
+		<Viewpoint Guid="2ad588d9-11e3-41c2-8817-6cd565aa155c" />
+		<ModifiedDate>2021-09-15T21:24:38+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="810b43eb-cfe1-436d-88de-0c75fdca216e">
+		<Date>2021-08-26T14:13:44+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="2ad588d9-11e3-41c2-8817-6cd565aa155c" />
+		<ModifiedDate>2021-08-26T14:13:44+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="2ad588d9-11e3-41c2-8817-6cd565aa155c">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

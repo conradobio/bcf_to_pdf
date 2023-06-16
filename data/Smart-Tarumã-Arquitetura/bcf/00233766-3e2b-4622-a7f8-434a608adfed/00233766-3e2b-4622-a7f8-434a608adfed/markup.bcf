@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="00233766-3e2b-4622-a7f8-434a608adfed" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Revestimento da piscina lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>185</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T15:47:29+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:53+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Área da parede da piscina sem revestimento, por favor, ajustar</Description>
+	</Topic>
+	<Comment Guid="622010e5-f59a-4386-ab85-7beb65a5ec27">
+		<Date>2021-10-28T19:25:36+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que foi incluido o revestimento</Comment>
+		<Viewpoint Guid="f9b9c60f-e04a-4656-ab36-db4f8d4cca68" />
+		<ModifiedDate>2021-10-28T19:25:36+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="2f6558b4-2519-4b04-a464-40cec1a59890">
+		<Date>2021-10-11T16:01:37+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Revestimento adicionado</Comment>
+		<Viewpoint Guid="3ccfbd9e-2866-44aa-af7e-f12f9dddc6b2" />
+		<ModifiedDate>2021-10-11T16:01:37+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="cbef2e0e-3f4a-4cd2-8d5a-c2e2a7740eca">
+		<Date>2021-09-21T15:47:29+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="3ccfbd9e-2866-44aa-af7e-f12f9dddc6b2" />
+		<ModifiedDate>2021-09-21T15:47:29+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="3ccfbd9e-2866-44aa-af7e-f12f9dddc6b2">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="f9b9c60f-e04a-4656-ab36-db4f8d4cca68">
+		<Viewpoint>f9b9c60f-e04a-4656-ab36-db4f8d4cca68_viewpoint.bcfv</Viewpoint>
+		<Snapshot>f9b9c60f-e04a-4656-ab36-db4f8d4cca68_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

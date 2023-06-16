@@ -1,0 +1,32 @@
+{
+    "codigo": "a7d2c1d8-ebca-4095-995f-3042fe18a36c",
+    "titulo": "Sanit\u00e1rios",
+    "status": "Active",
+    "descricao": "Sanit\u00e1rio conflitando com piso",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T20:33:03+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "cf015650-3565-44b0-bf30-407f2d1115fa",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T20:33:03+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "c82ffaa3-21ac-4a5f-ba8d-37a8db7d30ab",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a7d2c1d8-ebca-4095-995f-3042fe18a36c/a7d2c1d8-ebca-4095-995f-3042fe18a36c//snapshot.png"
+        }
+    ]
+}

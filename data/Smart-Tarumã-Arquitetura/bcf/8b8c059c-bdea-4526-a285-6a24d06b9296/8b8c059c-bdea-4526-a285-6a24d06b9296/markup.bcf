@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="8b8c059c-bdea-4526-a285-6a24d06b9296" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Alinhar bancada da copa</Title>
+		<Priority>Alta</Priority>
+		<Index>302</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T20:38:32+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:23+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Alinhas bancada da copa na parede</Description>
+	</Topic>
+	<Comment Guid="8547920c-3258-4967-abc3-4b3325caec34">
+		<Date>2021-10-28T20:38:32+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="f3533252-42a8-43e3-a4e5-1b60de0369fa" />
+		<ModifiedDate>2021-10-28T20:38:32+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="f3533252-42a8-43e3-a4e5-1b60de0369fa">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,32 @@
+{
+    "codigo": "88a31b09-b5f5-4117-9c69-41f2e0846e3b",
+    "titulo": "Alterar posicionamento dos ralos",
+    "status": "Active",
+    "descricao": "O ralo dever\u00e1 ser posicionado no encontro das 4 cer\u00e2micas, conforme imagem em anexo",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-08-26T14:10:44+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-08-30T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "86bf16a3-2688-4031-925f-e8eb4a03711b",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-26T14:10:44+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6c77b567-b72f-4a51-ba33-a9d330cfa663",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/88a31b09-b5f5-4117-9c69-41f2e0846e3b/88a31b09-b5f5-4117-9c69-41f2e0846e3b//snapshot.png"
+        }
+    ]
+}

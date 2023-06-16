@@ -1,0 +1,32 @@
+{
+    "codigo": "b5ad3241-bc95-46ce-bfdf-d7bb47e2fe13",
+    "titulo": "Revestimento ceramico",
+    "status": "Active",
+    "descricao": "Acrescentar revestimento ceramico no lavat\u00f3rio conforme projeto legal",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T15:39:57+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "coordenacao@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "cdb78e71-e676-495d-b10d-e54d0b2fc8c2",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T15:39:57+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "adcba499-9448-417f-b645-a6b5415e3900",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b5ad3241-bc95-46ce-bfdf-d7bb47e2fe13/b5ad3241-bc95-46ce-bfdf-d7bb47e2fe13//snapshot.png"
+        }
+    ]
+}

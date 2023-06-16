@@ -1,0 +1,39 @@
+{
+    "codigo": "421a6d27-46e5-4d09-aa33-d10d375a5f4e",
+    "titulo": "Ajustar dimen\u00e7\u00f5es do arm\u00e1rio",
+    "status": "Active",
+    "descricao": "Ajustar dimen\u00e7\u00f5es do armario para n\u00e3o conflitar com a abertura da porta",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-08-25T21:20:44+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-22T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4c8b36d6-4d06-4fd9-a844-72ecd8945be7",
+            "descricao": "A nova revis\u00e3o n\u00e3o veio com layout, por favor, verificar",
+            "data_acao": "2021-09-15T21:07:27+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "6560e0ce-91ad-4ac5-96ac-847cd20cdf9f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-25T21:20:44+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0b2c04e5-d840-4d73-9485-a5e3fc39c4b2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/421a6d27-46e5-4d09-aa33-d10d375a5f4e/421a6d27-46e5-4d09-aa33-d10d375a5f4e//snapshot.png"
+        }
+    ]
+}

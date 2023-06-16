@@ -1,0 +1,32 @@
+{
+    "codigo": "e8ba33e5-f6d1-4145-965c-5767da0bd5fa",
+    "titulo": "Cal\u00e7ada Acess\u00edvel",
+    "status": "Active",
+    "descricao": "ARQUITETURA NA PR\u00d3XIMA EMISS\u00c3O TRABALHAR RAMPA ACESS\u00cdVEL NESSE TRECHO",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-29T20:41:35+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-05T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "887bb709-e3f2-4d49-ba3e-4834503b388f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T20:41:35+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "38beae16-2d24-4bcf-acf6-433829a2c5ac",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e8ba33e5-f6d1-4145-965c-5767da0bd5fa/e8ba33e5-f6d1-4145-965c-5767da0bd5fa//snapshot.png"
+        }
+    ]
+}

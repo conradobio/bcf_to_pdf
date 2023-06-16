@@ -1,0 +1,39 @@
+{
+    "codigo": "334afe02-7478-4ef3-b407-69a6ece81852",
+    "titulo": "Afastamento das torres para os taludes",
+    "status": "Active",
+    "descricao": "Vamos ter q rever essas torres e essa frente, elas ficaram enterradas, o problema \u00e9 que na torre 7 o desn\u00edvel chega a 5m e n\u00e3o temos afastamento suficiente do p\u00e9 do talude. Se angulo do talude for < 45 graus, o afastamento deve ser de 2,5m. Pelas minhas contas deu 34 graus. as torres precisam ser afastadas 1m, v\u00e3o ficar coladas na cal\u00e7ada.",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-09-29T15:53:11+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-05T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "30b9a1c5-a5b1-41f8-8c45-eb6ec6bca79f",
+            "descricao": "Resposta Morar: Como falamos temos casos que infelizmente n\u00e3o \u00e9 poss\u00edvel desenterrar a torre por completo como esse exemplo, logo precisamos foca no ajuste do acesso e atender ao m\u00ednimo exigido pela CEF em rela\u00e7\u00e3o ao afastamento do talude. Avaliar com Jesus se o c\u00e1lculo estaria certo e vamos afastar",
+            "data_acao": "2021-09-29T15:54:50+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "743b752a-b4a8-4731-b5ec-b2165d1bc56d",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T15:53:11+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "c51346b9-4aeb-48f5-9bb0-94599a7bae8a",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/334afe02-7478-4ef3-b407-69a6ece81852/334afe02-7478-4ef3-b407-69a6ece81852//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="da98fc42-8e8d-4b79-9a47-fae42a21ca32" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Impermeabilização</Title>
+		<Priority>Alta</Priority>
+		<Index>307</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T15:39:48+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:25+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Colocar camadas de impermeabilização conforme BEP, por favor</Description>
+	</Topic>
+	<Comment Guid="188cf30f-1fa7-4e92-97a1-a5700039bdf2">
+		<Date>2021-10-29T15:39:48+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="b3c06998-efb6-42db-9f61-a6b125ac8afd" />
+		<ModifiedDate>2021-10-29T15:39:48+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="b3c06998-efb6-42db-9f61-a6b125ac8afd">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

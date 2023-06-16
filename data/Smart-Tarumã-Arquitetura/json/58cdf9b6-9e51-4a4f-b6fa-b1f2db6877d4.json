@@ -1,0 +1,32 @@
+{
+    "codigo": "58cdf9b6-9e51-4a4f-b6fa-b1f2db6877d4",
+    "titulo": "Modula\u00e7\u00e3o",
+    "status": "Active",
+    "descricao": "Verificar se modelo atende padr\u00e3o de modula\u00e7\u00e3o de bloco de concreto",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T19:45:21+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "5afb4dad-61ad-416a-9d00-26cb60e976c4",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T19:45:21+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6325fe1b-c5bd-4b06-8fe0-63fc4b03d4b6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/58cdf9b6-9e51-4a4f-b6fa-b1f2db6877d4/58cdf9b6-9e51-4a4f-b6fa-b1f2db6877d4//snapshot.png"
+        }
+    ]
+}

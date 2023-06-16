@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e9f90fa0-857d-4b94-b635-2ffe95eedb31" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Laje lazer C</Title>
+		<Priority>Alta</Priority>
+		<Index>195</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T18:35:46+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:57+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Parede conflitando com laje no lazer C, por favor, ajustar</Description>
+	</Topic>
+	<Comment Guid="65d8901a-60d9-4951-8690-c8996aaad066">
+		<Date>2021-10-29T14:55:21+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Atendido na r01</Comment>
+		<Viewpoint Guid="7c337cb6-c0c2-42ac-aad6-23b9bf087a9d" />
+		<ModifiedDate>2021-10-29T14:55:21+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="91ec5f95-cb80-4e54-8f65-5428beab2455">
+		<Date>2021-10-06T15:35:40+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="0256004a-9477-439d-8b9e-2654096b54bd" />
+		<ModifiedDate>2021-10-06T15:35:40+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="4a6b15f7-e561-40f4-a2f2-7644004c5980">
+		<Date>2021-09-21T18:39:03+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="0256004a-9477-439d-8b9e-2654096b54bd" />
+		<ModifiedDate>2021-09-21T18:39:03+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="54fb61c9-9b8c-4c53-a949-0871d7b1a89a">
+		<Date>2021-09-21T18:35:46+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="ab9c3910-84a2-4b8d-876c-43318e8fd545" />
+		<ModifiedDate>2021-09-21T18:35:46+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0256004a-9477-439d-8b9e-2654096b54bd">
+		<Viewpoint>0256004a-9477-439d-8b9e-2654096b54bd_viewpoint.bcfv</Viewpoint>
+		<Snapshot>0256004a-9477-439d-8b9e-2654096b54bd_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="7c337cb6-c0c2-42ac-aad6-23b9bf087a9d">
+		<Viewpoint>7c337cb6-c0c2-42ac-aad6-23b9bf087a9d_viewpoint.bcfv</Viewpoint>
+		<Snapshot>7c337cb6-c0c2-42ac-aad6-23b9bf087a9d_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="ab9c3910-84a2-4b8d-876c-43318e8fd545">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

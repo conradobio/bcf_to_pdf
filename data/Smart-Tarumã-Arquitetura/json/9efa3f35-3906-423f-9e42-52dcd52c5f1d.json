@@ -1,0 +1,50 @@
+{
+    "codigo": "9efa3f35-3906-423f-9e42-52dcd52c5f1d",
+    "titulo": "Posicionamento dos Catelos D'\u00e1gua",
+    "status": "Closed",
+    "descricao": "Reservat\u00f3rio no ponto mais baixo como as ETE\u00b4s. Devem ser reposicionados para cota superior. Como \u00e9 um condom\u00ednio s\u00f3, posicionar os dois castelos na frente do terreno.",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Projeto Legal",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-01-12T20:14:08+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-01-26T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "802ebe69-5492-45d9-9b0f-99d0590f3a58",
+            "descricao": "Atendido na R00.4",
+            "data_acao": "2021-01-26T14:42:18+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "a0ed03a7-504f-496f-83c8-b8d5409a4bcd",
+            "descricao": "Ajustado de acordo com o novo estudo encaminhado dia 14/01/21",
+            "data_acao": "2021-01-14T11:40:57+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "484ba004-c4a5-4980-922e-15f3c1bae105",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-01-12T20:14:08+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "439b85b5-3656-47d6-a72d-ec5da070be31",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/9efa3f35-3906-423f-9e42-52dcd52c5f1d/9efa3f35-3906-423f-9e42-52dcd52c5f1d//snapshot.png"
+        },
+        {
+            "guid": "9a9f07dc-f63b-42ee-ba55-c8040f416306",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/9efa3f35-3906-423f-9e42-52dcd52c5f1d/9efa3f35-3906-423f-9e42-52dcd52c5f1d//9a9f07dc-f63b-42ee-ba55-c8040f416306_snapshot.png"
+        }
+    ]
+}

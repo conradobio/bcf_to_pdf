@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="bd9c9cb5-d5bc-4df0-bb26-0329f8b1038e" TopicType="Falha" TopicStatus="Closed">
+		<Title>Objeto flutuando</Title>
+		<Priority>Baixa</Priority>
+		<Index>107</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-26T21:09:22+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:34+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-02T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>carenagem da pia flutuando no modelo</Description>
+	</Topic>
+	<Comment Guid="6fb1cbb3-06b6-4009-a7e3-6edd2d8b09d6">
+		<Date>2021-09-15T21:12:19+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>AJUSTADO</Comment>
+		<Viewpoint Guid="ebb7799a-7285-4cc7-911d-ce8a6ce66d68" />
+		<ModifiedDate>2021-09-15T21:12:19+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="763a726f-537b-493f-9acd-7b79a1693411">
+		<Date>2021-08-26T21:09:22+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="ebb7799a-7285-4cc7-911d-ce8a6ce66d68" />
+		<ModifiedDate>2021-08-26T21:09:22+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="ebb7799a-7285-4cc7-911d-ce8a6ce66d68">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

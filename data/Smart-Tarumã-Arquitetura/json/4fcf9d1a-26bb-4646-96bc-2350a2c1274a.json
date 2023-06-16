@@ -1,0 +1,32 @@
+{
+    "codigo": "4fcf9d1a-26bb-4646-96bc-2350a2c1274a",
+    "titulo": "Complementar informa\u00e7\u00f5es do carimbo",
+    "status": "Active",
+    "descricao": "Detalhar o local a que se refere a planta (Lixeira, Guarita, etc.)",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-15T13:26:18+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "sem data",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "8fb6704e-0809-4b33-b40f-4d26029a3587",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-15T13:26:18+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "262684a4-0037-4c96-bd5b-a14b3443979d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/4fcf9d1a-26bb-4646-96bc-2350a2c1274a/4fcf9d1a-26bb-4646-96bc-2350a2c1274a//snapshot.png"
+        }
+    ]
+}

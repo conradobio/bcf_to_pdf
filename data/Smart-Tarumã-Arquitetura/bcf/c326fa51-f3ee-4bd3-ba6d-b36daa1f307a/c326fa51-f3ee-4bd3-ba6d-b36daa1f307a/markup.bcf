@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="c326fa51-f3ee-4bd3-ba6d-b36daa1f307a" TopicType="Falha" TopicStatus="Active">
+		<Title>Bit do box</Title>
+		<Priority>Baixa</Priority>
+		<Index>343</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-11-10T18:43:41+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:30+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-16T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor prever o bit do box dos vestiários conforme especificado no BEP.</Description>
+	</Topic>
+	<Comment Guid="ee52fb44-5e6c-4c49-9123-dd9091a9ff60">
+		<Date>2021-11-10T18:43:41+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="f2192073-18e5-41f1-975f-422df85fd1a6" />
+		<ModifiedDate>2021-11-10T18:43:41+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="f2192073-18e5-41f1-975f-422df85fd1a6">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

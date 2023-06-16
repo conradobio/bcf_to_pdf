@@ -1,0 +1,50 @@
+{
+    "codigo": "d2cd1c3e-3adb-4b57-875d-aedb5699bcac",
+    "titulo": "Espessura das camadas do piso",
+    "status": "Closed",
+    "descricao": "Favor ajustar a espessura das camadas do piso da guarita conforme o BEP",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-13T16:28:09+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-19T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "051ccfca-95f3-4f5e-942a-a902b168ef75",
+            "descricao": "Resolvido na revis\u00e3o R01.",
+            "data_acao": "2021-11-10T19:01:07+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "69a16803-bddc-4859-93b1-b9f2978961e1",
+            "descricao": "Foram usadas as espessuras de contrapiso (3cm) do hall da torre. E argamassa + cer\u00e2mica (2cm) do hall da torre nas \u00e1reas secas e argamassa + cer\u00e2mica (1,5cm) nas \u00e1reas molhadas.",
+            "data_acao": "2021-10-22T12:37:02+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "3a7463bd-bbfd-45bb-b0dc-a633803c21bf",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-13T16:28:09+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "57867659-f499-4557-9d7c-ac6a74238dc1",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d2cd1c3e-3adb-4b57-875d-aedb5699bcac/d2cd1c3e-3adb-4b57-875d-aedb5699bcac//snapshot.png"
+        },
+        {
+            "guid": "e907df11-fc48-463b-a8d5-6058cb87ed92",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d2cd1c3e-3adb-4b57-875d-aedb5699bcac/d2cd1c3e-3adb-4b57-875d-aedb5699bcac//e907df11-fc48-463b-a8d5-6058cb87ed92_snapshot.png"
+        }
+    ]
+}

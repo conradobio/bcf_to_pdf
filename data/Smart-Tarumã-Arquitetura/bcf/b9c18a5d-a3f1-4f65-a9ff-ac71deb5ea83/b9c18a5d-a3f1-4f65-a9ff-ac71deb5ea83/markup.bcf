@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="b9c18a5d-a3f1-4f65-a9ff-ac71deb5ea83" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Modelagem contrapiso</Title>
+		<Priority>Crítica</Priority>
+		<Index>87</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-25T15:50:32+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:28+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Conforme BEP o contrapiso do hall deverá ter 3 cm e no modelo está 4 cm, por gentileza, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="339c18ad-6b3b-46cb-9904-4338c2548bf4">
+		<Date>2021-10-21T20:37:36+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R02</Comment>
+		<Viewpoint Guid="86c3e97d-59dd-4dfd-9878-1525eaa37b6f" />
+		<ModifiedDate>2021-10-21T20:37:36+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="cb8f4444-a501-4437-a7af-ac8e3c513f4e">
+		<Date>2021-09-30T21:05:32+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não ajustado r01</Comment>
+		<Viewpoint Guid="236f1aae-572a-4276-b98c-89e11f8b6c71" />
+		<ModifiedDate>2021-09-30T21:05:32+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ca1deaa8-2f66-4d7e-b9bf-2a57cdcb666a">
+		<Date>2021-09-15T20:58:54+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não atendido, por gentileza, verificar e ajustar</Comment>
+		<Viewpoint Guid="236f1aae-572a-4276-b98c-89e11f8b6c71" />
+		<ModifiedDate>2021-09-15T20:58:54+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ffb0dd2e-e884-4d09-b9ab-b161e1ff317f">
+		<Date>2021-08-25T15:50:32+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="236f1aae-572a-4276-b98c-89e11f8b6c71" />
+		<ModifiedDate>2021-08-25T15:50:32+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="236f1aae-572a-4276-b98c-89e11f8b6c71">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="86c3e97d-59dd-4dfd-9878-1525eaa37b6f">
+		<Viewpoint>86c3e97d-59dd-4dfd-9878-1525eaa37b6f_viewpoint.bcfv</Viewpoint>
+		<Snapshot>86c3e97d-59dd-4dfd-9878-1525eaa37b6f_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

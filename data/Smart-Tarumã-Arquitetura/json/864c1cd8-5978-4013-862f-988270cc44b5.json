@@ -1,0 +1,54 @@
+{
+    "codigo": "864c1cd8-5978-4013-862f-988270cc44b5",
+    "titulo": "Prever cer\u00e2mica na parede lateral tamb\u00e9m",
+    "status": "Closed",
+    "descricao": "sem descri\u00e7\u00e3o",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-15T13:28:51+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-22T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "a2c504fc-b234-4de3-baab-df8f6259dbe4",
+            "descricao": "Resolvido na revis\u00e3o R01.",
+            "data_acao": "2021-11-10T18:28:10+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "9be31410-ec89-4c6c-b8c5-7458894c68de",
+            "descricao": "Resolvido. A cer\u00e2mica tem 45x45cm e ter\u00e1 esse recorte de 2.5cm na parte inferior.",
+            "data_acao": "2021-10-22T12:45:33+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "00022ab7-cb45-4b0a-932c-1e8cb606bcb9",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-15T13:28:51+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0d899b77-4cd6-47b8-8469-dc78ad330cfb",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/864c1cd8-5978-4013-862f-988270cc44b5/864c1cd8-5978-4013-862f-988270cc44b5//snapshot.png"
+        },
+        {
+            "guid": "0eac0ce3-95e9-4158-8dfe-331edc23234b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/864c1cd8-5978-4013-862f-988270cc44b5/864c1cd8-5978-4013-862f-988270cc44b5//0eac0ce3-95e9-4158-8dfe-331edc23234b_snapshot.png"
+        },
+        {
+            "guid": "74670d70-b8a8-43f3-9148-9e9c1caa27e5",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/864c1cd8-5978-4013-862f-988270cc44b5/864c1cd8-5978-4013-862f-988270cc44b5//74670d70-b8a8-43f3-9148-9e9c1caa27e5_snapshot.png"
+        }
+    ]
+}

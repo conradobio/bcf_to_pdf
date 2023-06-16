@@ -1,0 +1,50 @@
+{
+    "codigo": "d9c5ad54-9767-46d4-b89a-abfb115a1bd0",
+    "titulo": "Prancha sem imagem",
+    "status": "Closed",
+    "descricao": "Prancha sem imagem",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-27T14:00:27+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-30T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "bd2f8db1-1e6f-4718-a78a-82039a929c09",
+            "descricao": "Resolvido na R01",
+            "data_acao": "2021-10-29T14:55:09+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "97eb89ec-7d0d-4301-a4ad-59168b9d9152",
+            "descricao": "resolvido",
+            "data_acao": "2021-10-18T21:31:57+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "90aaaa45-236c-41b9-b5ca-8ff6811d8f3c",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-27T14:00:27+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "1cc61dbc-1b53-4d13-92fb-0cf06c11c735",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d9c5ad54-9767-46d4-b89a-abfb115a1bd0/d9c5ad54-9767-46d4-b89a-abfb115a1bd0//1cc61dbc-1b53-4d13-92fb-0cf06c11c735_snapshot.png"
+        },
+        {
+            "guid": "65afe616-0398-45ab-92c1-a5b396945cd9",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d9c5ad54-9767-46d4-b89a-abfb115a1bd0/d9c5ad54-9767-46d4-b89a-abfb115a1bd0//snapshot.png"
+        }
+    ]
+}

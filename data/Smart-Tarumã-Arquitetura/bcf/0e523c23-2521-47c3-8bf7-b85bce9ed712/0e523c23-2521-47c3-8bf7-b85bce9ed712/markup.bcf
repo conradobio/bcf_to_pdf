@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="0e523c23-2521-47c3-8bf7-b85bce9ed712" TopicType="Consulta de Informação" TopicStatus="Closed">
+		<Title>Lavatório Banheiro Lazer</Title>
+		<Priority>Alta</Priority>
+		<Index>222</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-27T14:05:34+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:03+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-30T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>O lavatório será de bancada ou coluna? Verificar para outros banheiros do lazer também.</Description>
+	</Topic>
+	<Comment Guid="2462c700-1795-4e49-91d0-4d9c0e575e88">
+		<Date>2021-10-28T20:17:06+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Realmente no Legal somente o banheiro PCR que nãoterá bancada</Comment>
+		<Viewpoint Guid="8c99725f-81d3-4ca9-8257-c1d3c2b30a6b" />
+		<ModifiedDate>2021-10-28T20:17:06+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="3ec606e7-704b-45ed-8ca8-481cda369401">
+		<Date>2021-10-08T12:56:59+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foi verificado nos arquivos DWG do Projeto Legal a existência de lavatório de coluna nas demais área de lazer, assim, apenas na área de Lazer D consta lavatório de bancada.</Comment>
+		<Viewpoint Guid="8c99725f-81d3-4ca9-8257-c1d3c2b30a6b" />
+		<ModifiedDate>2021-10-08T12:56:59+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="f7952a08-3646-4d1d-91ae-0d3ed3934589">
+		<Date>2021-09-27T14:05:34+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="22d80f65-7e6a-44e8-bb3e-2299f083772b" />
+		<ModifiedDate>2021-09-27T14:05:34+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="22d80f65-7e6a-44e8-bb3e-2299f083772b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="8c99725f-81d3-4ca9-8257-c1d3c2b30a6b">
+		<Viewpoint>8c99725f-81d3-4ca9-8257-c1d3c2b30a6b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>8c99725f-81d3-4ca9-8257-c1d3c2b30a6b_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

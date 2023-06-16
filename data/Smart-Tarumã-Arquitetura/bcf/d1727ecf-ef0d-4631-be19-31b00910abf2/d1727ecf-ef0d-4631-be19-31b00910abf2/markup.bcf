@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d1727ecf-ef0d-4631-be19-31b00910abf2" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Nível das torres</Title>
+		<Priority>Alta</Priority>
+		<Index>112</Index>
+		<Labels>Arquitetura</Labels>
+		<Labels>Terraplanagem</Labels>
+		<CreationDate>2021-08-30T16:06:03+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:34+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-06T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>As torres 13, 14, 15, 16 E 17 estão enterradas em relação ao nível da rua e não pode ser enterradas em nenhuma das ponta, segundo diretrizes</Description>
+	</Topic>
+	<Comment Guid="abf392ea-89ff-434d-ac47-a8ebf357673f">
+		<Date>2021-10-14T19:13:26+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Foi avaliado na revisão 3, as torres continuam enterradas. Vamos aguardar a definição da arquitetura.</Comment>
+		<Viewpoint Guid="a0db59a6-e2f7-4ed3-8ae3-49bbb0a81289" />
+		<ModifiedDate>2021-10-14T19:13:26+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="7c4be96f-e064-4454-8ab6-a1a5fb07bdae">
+		<Date>2021-10-01T15:26:01+00:00</Date>
+		<Author>jesus.cadengenharia@gmail.com</Author>
+		<Comment>As cotas das torres e rampas seguiram as informações da arquitetura com relação a  acessibilidade</Comment>
+		<Viewpoint Guid="a0db59a6-e2f7-4ed3-8ae3-49bbb0a81289" />
+		<ModifiedDate>2021-10-01T15:26:01+00:00</ModifiedDate>
+		<ModifiedAuthor>jesus.cadengenharia@gmail.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="44d0753a-fae7-405d-b1fa-e4429fe10d93">
+		<Date>2021-08-30T16:06:04+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="a0db59a6-e2f7-4ed3-8ae3-49bbb0a81289" />
+		<ModifiedDate>2021-08-30T16:06:04+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="a0db59a6-e2f7-4ed3-8ae3-49bbb0a81289">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

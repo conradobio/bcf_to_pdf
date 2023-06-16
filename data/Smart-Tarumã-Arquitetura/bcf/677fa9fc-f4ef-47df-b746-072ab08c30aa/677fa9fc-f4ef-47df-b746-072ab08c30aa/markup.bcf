@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="677fa9fc-f4ef-47df-b746-072ab08c30aa" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Parede área molhada lazer A</Title>
+		<Priority>Alta</Priority>
+		<Index>154</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T20:39:43+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:43+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Inserir camada de impermeabilizaçãonas paredes das áreas molhadas, por favor</Description>
+	</Topic>
+	<Comment Guid="71b79c74-8a8c-4d87-a403-934879b5ba90">
+		<Date>2021-10-29T17:48:55+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r01</Comment>
+		<Viewpoint Guid="e4d5aece-ef45-4c1f-af97-5eaf99287369" />
+		<ModifiedDate>2021-10-29T17:48:55+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="f6976953-f456-4cb5-9f0d-4ce5b8691f8b">
+		<Date>2021-10-04T13:15:13+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Camadas de impermeabilização das áreas molhadas inseridas</Comment>
+		<Viewpoint Guid="e4d5aece-ef45-4c1f-af97-5eaf99287369" />
+		<ModifiedDate>2021-10-04T13:15:13+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="19f74960-07c2-4acd-992a-6692bc855707">
+		<Date>2021-09-20T20:39:43+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="e4d5aece-ef45-4c1f-af97-5eaf99287369" />
+		<ModifiedDate>2021-09-20T20:39:43+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="e4d5aece-ef45-4c1f-af97-5eaf99287369">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

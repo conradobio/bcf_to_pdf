@@ -1,0 +1,43 @@
+{
+    "codigo": "c830d510-c07f-4a51-ad22-1666fa59a119",
+    "titulo": "Portas dos quartos",
+    "status": "Closed",
+    "descricao": "Parede conflitando com porta no quarto, por favor, ajustar e verificar todas as ocorrencias",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-30T20:56:04+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-06T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "38cba8ab-275b-4119-a4ee-9d42bd844742",
+            "descricao": "Ajustado na R02",
+            "data_acao": "2021-10-21T21:08:14+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "0222681c-e0b2-4532-a5db-c4bf7de404be",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-30T20:56:04+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "5640aada-512d-480b-a72d-c62a7b098028",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c830d510-c07f-4a51-ad22-1666fa59a119/c830d510-c07f-4a51-ad22-1666fa59a119//5640aada-512d-480b-a72d-c62a7b098028_snapshot.png"
+        },
+        {
+            "guid": "e9a993d2-38e9-4169-bb41-7d8a0934395f",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c830d510-c07f-4a51-ad22-1666fa59a119/c830d510-c07f-4a51-ad22-1666fa59a119//snapshot.png"
+        }
+    ]
+}

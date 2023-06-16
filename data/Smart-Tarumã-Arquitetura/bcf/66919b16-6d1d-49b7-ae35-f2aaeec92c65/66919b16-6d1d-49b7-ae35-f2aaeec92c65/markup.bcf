@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="66919b16-6d1d-49b7-ae35-f2aaeec92c65" TopicType="Problema" TopicStatus="Closed">
+		<Title>Cotas da Fase 2</Title>
+		<Priority>Crítica</Priority>
+		<Index>229</Index>
+		<Labels>Arquitetura</Labels>
+		<Labels>Terraplanagem</Labels>
+		<CreationDate>2021-09-29T20:05:10+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:06+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-05T13:00:00+00:00</DueDate>
+		<AssignedTo>jesus.cadengenharia@gmail.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Na parte 2 (torre 18 a torre 42) não precisamos fazer muita coisa, o desnível ta suave.</Description>
+	</Topic>
+	<Comment Guid="091cd25e-4e7f-4d3a-a041-c3521dff5d75">
+		<Date>2021-10-14T18:51:13+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não houveram reduções no número de contenções solicitadas, somente nas alturas.</Comment>
+		<Viewpoint Guid="87883d11-52cb-4257-9fd3-c76c997bd5ac" />
+		<ModifiedDate>2021-10-14T18:51:13+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="88dfaa74-49bc-4bbb-8cc8-716989b78b2c">
+		<Date>2021-09-29T20:05:46+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resposta Morar: Ainda sim temos contenções entre torres que precisam ser marcadas. Ainda acho que podemos melhorar com poucos movimentos contençoes criadas nas áreas de lazer desse trecho</Comment>
+		<Viewpoint Guid="87883d11-52cb-4257-9fd3-c76c997bd5ac" />
+		<ModifiedDate>2021-09-29T20:05:46+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="af71cefd-70b6-4915-9111-6f28a608d7fa">
+		<Date>2021-09-29T20:05:10+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="87883d11-52cb-4257-9fd3-c76c997bd5ac" />
+		<ModifiedDate>2021-09-29T20:05:10+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="87883d11-52cb-4257-9fd3-c76c997bd5ac">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

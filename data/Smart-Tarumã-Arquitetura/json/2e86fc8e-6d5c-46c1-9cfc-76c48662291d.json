@@ -1,0 +1,32 @@
+{
+    "codigo": "2e86fc8e-6d5c-46c1-9cfc-76c48662291d",
+    "titulo": "Atualiza\u00e7\u00e3o das \u00e1reas ap\u00f3s amplia\u00e7\u00e3o da \u00e1rea fitness",
+    "status": "Closed",
+    "descricao": "Ajustar na tabela de \u00e1rea verde/app essa diminui\u00e7\u00e3o de \u00e1rea verde na implanta\u00e7\u00e3o e na legenda o tamanho da \u00c1rea Fitness (17) que continua 55m\u00b2 na R06 (mesma \u00e1rea da R05).",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2020-07-23T18:47:39+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2020-08-06T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "dd52a64e-df67-4338-9b0f-c543cd87b151",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2020-07-23T18:47:39+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "40221d5d-1b2c-4d3f-914b-d25de4e9fce2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2e86fc8e-6d5c-46c1-9cfc-76c48662291d/2e86fc8e-6d5c-46c1-9cfc-76c48662291d//snapshot.png"
+        }
+    ]
+}

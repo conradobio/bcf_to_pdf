@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e8368580-e4b0-427d-acf7-057605eabc4e" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Solicitação para adicionar o contorno das casas no Planta de Permeabilidade</Title>
+		<Priority>Baixa</Priority>
+		<Index>8</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2020-09-24T14:31:26+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:21+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2020-10-01T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Adicionar o contorno das casas de lote 8x20 no Planta de Permeabilidade que não estão aparecendo</Description>
+	</Topic>
+	<Comment Guid="4e1d3bea-08be-4aac-bc8d-8b160e5e85cc">
+		<Date>2021-01-25T20:27:41+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Houve mudança na tipologia do empreendimento</Comment>
+		<Viewpoint Guid="7a7c7165-b52e-4b3c-a82b-895330539263" />
+		<ModifiedDate>2021-01-25T20:27:41+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="b7b7eccc-9131-4d0c-9625-a6c7bee60dab">
+		<Date>2020-09-24T18:23:06+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>RESOLVIDO NA ENTREGA DO DIA 24/9</Comment>
+		<Viewpoint Guid="7a7c7165-b52e-4b3c-a82b-895330539263" />
+		<ModifiedDate>2020-09-24T18:23:06+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="b9a564c9-627d-451b-a57c-d0a57786740b">
+		<Date>2020-09-24T14:31:26+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7a7c7165-b52e-4b3c-a82b-895330539263" />
+		<ModifiedDate>2020-09-24T14:31:26+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="7a7c7165-b52e-4b3c-a82b-895330539263">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

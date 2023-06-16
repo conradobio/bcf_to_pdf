@@ -1,0 +1,46 @@
+{
+    "codigo": "f7cde015-b740-434b-a703-8e53e780c7d8",
+    "titulo": "Churrasqueira lazer B",
+    "status": "Closed",
+    "descricao": "Modelar camada de pintura da platibanda da \u00e1rea da churrasqueira no lazer B",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T19:47:39+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "2659d584-3ae9-400f-b2bc-f85384b31436",
+            "descricao": "Ajustado na r01",
+            "data_acao": "2021-10-29T16:24:02+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "11984691-92ef-4c69-9d57-45eae0a7af1c",
+            "descricao": "Realizado.",
+            "data_acao": "2021-10-05T15:59:43+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "682bc598-f199-4455-b859-bbd74fa8230d",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T19:47:39+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "ec98adbd-9893-46a3-bc1e-ed7db28fd4ce",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/f7cde015-b740-434b-a703-8e53e780c7d8/f7cde015-b740-434b-a703-8e53e780c7d8//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="6a7738da-6c5b-4f2b-88b8-01495bc012ae" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Parede caasa de bomba lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>192</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T17:51:24+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:56+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camada de parede da casa de bombas conforme BEP</Description>
+	</Topic>
+	<Comment Guid="cd2b104e-07e2-4756-9c9c-bd3f9ee2a6ae">
+		<Date>2021-10-28T18:47:14+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que foi corrigido</Comment>
+		<Viewpoint Guid="464a647d-db0d-473a-9948-a1d1f8bf8e95" />
+		<ModifiedDate>2021-10-28T18:47:14+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="e2bd032b-c894-4dc5-b256-aaa25a449301">
+		<Date>2021-10-13T19:22:55+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Camada de Argamassa polimérica modelada nas paredes da casa de bombas</Comment>
+		<Viewpoint Guid="5a770d27-819a-4545-9c45-f390b1da70c9" />
+		<ModifiedDate>2021-10-13T19:22:55+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="c20d108a-ad26-47de-98c8-8db2cd2de9c5">
+		<Date>2021-09-21T17:51:24+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="5a770d27-819a-4545-9c45-f390b1da70c9" />
+		<ModifiedDate>2021-09-21T17:51:24+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="464a647d-db0d-473a-9948-a1d1f8bf8e95">
+		<Viewpoint>464a647d-db0d-473a-9948-a1d1f8bf8e95_viewpoint.bcfv</Viewpoint>
+		<Snapshot>464a647d-db0d-473a-9948-a1d1f8bf8e95_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="5a770d27-819a-4545-9c45-f390b1da70c9">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

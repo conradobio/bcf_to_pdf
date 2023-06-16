@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="716f75a1-a51f-4b22-a7ec-a8fac09fa157" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Administração do condominio lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>193</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T17:51:28+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:56+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Parede de administração com camadas modeladas erradas, por gentileza, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="d6dd1d82-9375-4608-869e-e628558e3d01">
+		<Date>2021-10-28T18:29:39+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que as paredes da administração do condomínio modeladas conforme o BEP</Comment>
+		<Viewpoint Guid="f20f036c-09c5-48e6-a7cf-9feb0eb97bbb" />
+		<ModifiedDate>2021-10-28T18:29:39+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="c9790234-49ce-4b1f-a7bd-383ea4bba3b4">
+		<Date>2021-10-13T19:36:27+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Paredes da administração modeladas conforme BEP (área seca interna)</Comment>
+		<Viewpoint Guid="7b972ded-9bf3-43a1-bdc4-f4d275cb5aee" />
+		<ModifiedDate>2021-10-13T19:36:27+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="da8cd698-6ce2-4c64-ab1b-6f5b33430099">
+		<Date>2021-09-21T17:51:28+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7b972ded-9bf3-43a1-bdc4-f4d275cb5aee" />
+		<ModifiedDate>2021-09-21T17:51:28+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="7b972ded-9bf3-43a1-bdc4-f4d275cb5aee">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="f20f036c-09c5-48e6-a7cf-9feb0eb97bbb">
+		<Viewpoint>f20f036c-09c5-48e6-a7cf-9feb0eb97bbb_viewpoint.bcfv</Viewpoint>
+		<Snapshot>f20f036c-09c5-48e6-a7cf-9feb0eb97bbb_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

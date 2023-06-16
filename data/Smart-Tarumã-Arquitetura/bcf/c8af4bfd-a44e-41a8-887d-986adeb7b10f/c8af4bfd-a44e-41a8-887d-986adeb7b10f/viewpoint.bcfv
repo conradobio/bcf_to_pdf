@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualizationInfo Guid="2e3bbeb3-3a71-490b-a935-9d9fd57aca55">
+	<Components>
+		<ViewSetupHints SpacesVisible="false" SpaceBoundariesVisible="false" OpeningsVisible="false" />
+	</Components>
+	<DrawingViewport>
+		<Client>REVIT</Client>
+		<ViewName>Implantação</ViewName>
+		<ViewType>1</ViewType>
+		<ViewStory>0</ViewStory>
+		<ViewID1>0</ViewID1>
+		<ViewID2>0</ViewID2>
+		<ViewLeftTop>
+			<X>-864.15848202333939</X>
+			<Y>-141.20385306490579</Y>
+		</ViewLeftTop>
+		<ViewRightBottom>
+			<X>-730.86042487540078</X>
+			<Y>-63.167953420353946</Y>
+		</ViewRightBottom>
+	</DrawingViewport>
+</VisualizationInfo>

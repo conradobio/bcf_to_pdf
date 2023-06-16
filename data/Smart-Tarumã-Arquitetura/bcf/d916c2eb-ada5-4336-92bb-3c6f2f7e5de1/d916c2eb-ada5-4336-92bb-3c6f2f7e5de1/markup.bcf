@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="d916c2eb-ada5-4336-92bb-3c6f2f7e5de1" TopicType="Problema" TopicStatus="Closed">
+		<Title>Rua Principal</Title>
+		<Priority>Crítica</Priority>
+		<Index>228</Index>
+		<Labels>Arquitetura</Labels>
+		<Labels>Terraplanagem</Labels>
+		<CreationDate>2021-09-29T19:59:11+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:05+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-05T13:00:00+00:00</DueDate>
+		<AssignedTo>jesus.cadengenharia@gmail.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>No geral pra tentarmos melhorar o empreendimento e diminuir os arrimos entre torres, vagas e nos anexos, precisaríamos reajustar toda a implantação;
+Diminuir a inclinação da rua principal da estaca 1 até a 7 próxima ao início da ponte, para ~2% =, assim a diferença de desnível cairá de 7,5m pra 2,5m.
+Prós; conseguimos diminuir a altura dos arrimos e muitos casos remover. E não teríamos mais torres enterradas.
+Contras: aumento de aterro. Teríamos também que reajustar a implantação buscar criar um espaço para fazer um talude próximo a app, ou fazer o arrimo próximo a app (estilo Torquato 02).</Description>
+	</Topic>
+	<Comment Guid="1dc4c255-4076-4053-9d6a-6ad748fb4d60">
+		<Date>2021-10-14T18:47:45+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Verificado a revisão 03, não houveram alterações na via principal. Foi comentado em reunião que não seria possível fazer tais alterações e que o projetista iria tentar, porém sem sucesso.</Comment>
+		<Viewpoint Guid="88e31fed-be66-492d-8143-ae4e64875a06" />
+		<ModifiedDate>2021-10-14T18:47:45+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="1bafda3b-3465-4e4d-ae8a-d510d739b74b">
+		<Date>2021-09-29T20:00:11+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resposta Morar: De acordo, como comentei contenção é mais cara que aterro. Conseguimos ter a estimativa com o Jesus do quanto aumentaria de aterro? Podemos avaliar isso com ele em conjunto.</Comment>
+		<Viewpoint Guid="88e31fed-be66-492d-8143-ae4e64875a06" />
+		<ModifiedDate>2021-09-29T20:00:11+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="3e24594e-2754-4b4f-96c4-7ec3535d7370">
+		<Date>2021-09-29T19:59:11+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="88e31fed-be66-492d-8143-ae4e64875a06" />
+		<ModifiedDate>2021-09-29T19:59:11+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="88e31fed-be66-492d-8143-ae4e64875a06">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,72 @@
+{
+    "codigo": "169a10b3-1091-4f9b-a08b-3affb7696ff9",
+    "titulo": "Contrapiso \u00e1rea molhada",
+    "status": "Active",
+    "descricao": "De acordo com o BEP, contrapiso da cozinha deveia ter 4 cm, por favor, verificar e ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-08-25T20:47:05+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-28T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "11a44c75-0c8a-40a9-8e00-9c3200c0210a",
+            "descricao": "N\u00e3o ajustado",
+            "data_acao": "2021-10-21T20:38:32+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "69315f93-f607-4967-a7e1-eda176e7f32a",
+            "descricao": "n\u00e3o ajustado",
+            "data_acao": "2021-09-30T21:07:44+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "9cc045fc-b188-46e5-8e4b-a1e646353f6b",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-15T21:04:01+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "cd09ffd1-5e63-40a1-b6aa-5965d79df2be",
+            "descricao": "Ainda n\u00e3o ajustado na R01, verificar e ajustar por favor",
+            "data_acao": "2021-09-15T21:03:51+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "e8e60e76-b76d-4531-bd73-f747913febd5",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-25T20:47:05+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0b4fd5d8-e2a9-40d8-b70e-2a986c4510a7",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/169a10b3-1091-4f9b-a08b-3affb7696ff9/169a10b3-1091-4f9b-a08b-3affb7696ff9//0b4fd5d8-e2a9-40d8-b70e-2a986c4510a7_snapshot.png"
+        },
+        {
+            "guid": "5a275a45-c6f5-4b6a-b39a-d6c3038ca809",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/169a10b3-1091-4f9b-a08b-3affb7696ff9/169a10b3-1091-4f9b-a08b-3affb7696ff9//snapshot.png"
+        },
+        {
+            "guid": "6cab5244-57f0-4ec2-9762-45797dad482c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/169a10b3-1091-4f9b-a08b-3affb7696ff9/169a10b3-1091-4f9b-a08b-3affb7696ff9//6cab5244-57f0-4ec2-9762-45797dad482c_snapshot.png"
+        },
+        {
+            "guid": "9c8bf6e8-de50-49e4-9723-f45951a06da7",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/169a10b3-1091-4f9b-a08b-3affb7696ff9/169a10b3-1091-4f9b-a08b-3affb7696ff9//9c8bf6e8-de50-49e4-9723-f45951a06da7_snapshot.png"
+        }
+    ]
+}

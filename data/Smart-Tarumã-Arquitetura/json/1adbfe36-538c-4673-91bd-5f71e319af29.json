@@ -1,0 +1,57 @@
+{
+    "codigo": "1adbfe36-538c-4673-91bd-5f71e319af29",
+    "titulo": "AL02 Banheiro",
+    "status": "Closed",
+    "descricao": "Em confer\u00eancia no modelo rvt, identificamos diverg\u00eancias com o projeto de f\u00f4rma met\u00e1lica na esquadria AL02 do banheiro",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-09-17T14:32:24+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-07T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "2ea8ffea-a3f5-4146-8674-cfb59b5c329a",
+            "descricao": "Ajustado na R02",
+            "data_acao": "2021-10-21T21:00:18+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "94307f5e-4852-4b45-a952-12af75e24bf9",
+            "descricao": "n\u00e3o ajustado, verificar em todas as torres",
+            "data_acao": "2021-09-30T21:15:08+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "d3c010bb-192c-4534-9b9d-e89622dbdd0b",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-17T14:32:26+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "6cd976ca-b8b6-4cc8-8442-1b8c9d0dea4e",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-17T14:32:24+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "69fc08f8-672f-4f09-8b0f-835e7e16b0e1",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/1adbfe36-538c-4673-91bd-5f71e319af29/1adbfe36-538c-4673-91bd-5f71e319af29//69fc08f8-672f-4f09-8b0f-835e7e16b0e1_snapshot.png"
+        },
+        {
+            "guid": "88beac5c-c343-4c22-99ea-a7eb7d3f8057",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/1adbfe36-538c-4673-91bd-5f71e319af29/1adbfe36-538c-4673-91bd-5f71e319af29//snapshot.png"
+        }
+    ]
+}

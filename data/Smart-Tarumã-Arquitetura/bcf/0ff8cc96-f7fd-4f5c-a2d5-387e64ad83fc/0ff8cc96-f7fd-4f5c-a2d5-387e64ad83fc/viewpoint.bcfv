@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualizationInfo Guid="28ce75dd-aeb6-4f2e-b995-aea3f53eba3c">
+	<Components>
+		<ViewSetupHints SpacesVisible="false" SpaceBoundariesVisible="false" OpeningsVisible="false" />
+	</Components>
+	<DrawingViewport>
+		<Client>REVIT</Client>
+		<ViewName>Elevação 1 - a</ViewName>
+		<ViewType>10</ViewType>
+		<ViewStory>0</ViewStory>
+		<ViewID1>0</ViewID1>
+		<ViewID2>0</ViewID2>
+		<ViewLeftTop>
+			<X>-786.58780284113539</X>
+			<Y>135.04687294181156</Y>
+		</ViewLeftTop>
+		<ViewRightBottom>
+			<X>-805.83981480838167</X>
+			<Y>120.90061515393906</Y>
+		</ViewRightBottom>
+	</DrawingViewport>
+</VisualizationInfo>

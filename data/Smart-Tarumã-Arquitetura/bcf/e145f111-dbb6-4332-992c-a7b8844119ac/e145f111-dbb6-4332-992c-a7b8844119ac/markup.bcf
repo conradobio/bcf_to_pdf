@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e145f111-dbb6-4332-992c-a7b8844119ac" TopicType="Conflito" TopicStatus="Active">
+		<Title>Contrapiso</Title>
+		<Priority>Baixa</Priority>
+		<Index>315</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T16:11:30+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:26+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Espessura contrapiso não seguindo BEP, Por gentileza, verificar se espessura atende</Description>
+	</Topic>
+	<Comment Guid="e2dc00d3-c3fd-4dac-a5ac-0803f27def72">
+		<Date>2021-10-29T16:11:30+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="9c772a43-bc41-4cc4-a483-e805c63e76b1" />
+		<ModifiedDate>2021-10-29T16:11:30+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="9c772a43-bc41-4cc4-a483-e805c63e76b1">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

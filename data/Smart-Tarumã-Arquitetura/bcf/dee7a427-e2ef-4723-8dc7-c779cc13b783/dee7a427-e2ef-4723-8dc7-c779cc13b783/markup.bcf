@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="dee7a427-e2ef-4723-8dc7-c779cc13b783" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Bancada espaço master chef</Title>
+		<Priority>Alta</Priority>
+		<Index>187</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T15:55:22+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:54+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Bancada conflitando com parede no espaço master chef do lazer E, por favor ajustar</Description>
+	</Topic>
+	<Comment Guid="f0f62c59-d652-44c3-872e-19f9d47f9654">
+		<Date>2021-10-28T19:13:11+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que a bancada foi ajustada</Comment>
+		<Viewpoint Guid="d235baad-bf57-4a53-9eba-2b33b3b87bb5" />
+		<ModifiedDate>2021-10-28T19:13:11+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="47f0bbf2-7a7f-4f82-b22b-433747709526">
+		<Date>2021-10-13T18:48:51+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Bancada ajustada</Comment>
+		<Viewpoint Guid="f2a5dc37-9f26-479d-827a-75aee80a0aa7" />
+		<ModifiedDate>2021-10-13T18:48:51+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="908ae277-1dbb-4b5f-9661-2e732de84872">
+		<Date>2021-09-21T16:12:07+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="f2a5dc37-9f26-479d-827a-75aee80a0aa7" />
+		<ModifiedDate>2021-09-21T16:12:07+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="06212abc-0cb7-4a85-9e56-3602198f6fc7">
+		<Date>2021-09-21T15:55:22+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="05cee8d4-e9ba-451b-9b00-28cee7da05ad" />
+		<ModifiedDate>2021-09-21T15:55:22+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="05cee8d4-e9ba-451b-9b00-28cee7da05ad">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d235baad-bf57-4a53-9eba-2b33b3b87bb5">
+		<Viewpoint>d235baad-bf57-4a53-9eba-2b33b3b87bb5_viewpoint.bcfv</Viewpoint>
+		<Snapshot>d235baad-bf57-4a53-9eba-2b33b3b87bb5_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="f2a5dc37-9f26-479d-827a-75aee80a0aa7">
+		<Viewpoint>f2a5dc37-9f26-479d-827a-75aee80a0aa7_viewpoint.bcfv</Viewpoint>
+		<Snapshot>f2a5dc37-9f26-479d-827a-75aee80a0aa7_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

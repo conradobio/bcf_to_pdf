@@ -1,0 +1,32 @@
+{
+    "codigo": "585ea5e2-4ed2-4751-9c19-b290563741e1",
+    "titulo": "Padronizar nomes dos anexos",
+    "status": "Closed",
+    "descricao": "Por gentileza, poderia padronizar nomes dos anexos no projeto para que fiquem identificados de forma id\u00eantica em legendas e tabelas?",
+    "tipo": "Problema",
+    "fase": "Projeto Legal",
+    "prioridade": "Baixa",
+    "abertura": "2021-03-31T16:06:16+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-04-07T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "bcaeef10-5aab-40c4-8d6b-985a2d075856",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-03-31T16:06:16+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "cd5dab55-7255-40b3-bb4b-61cd84437c0c",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/585ea5e2-4ed2-4751-9c19-b290563741e1/585ea5e2-4ed2-4751-9c19-b290563741e1//snapshot.png"
+        }
+    ]
+}

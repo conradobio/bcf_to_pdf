@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="2ad85328-a9aa-4f90-ac76-c48c875b1ecf" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Camada de pintura</Title>
+		<Priority>Alta</Priority>
+		<Index>172</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T14:11:43+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:48+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Camada de pintura modelada apenas na copa e banheiro, modelar nos demais ambientes (salão de festas, salão de jogos e brinquedotaca)</Description>
+	</Topic>
+	<Comment Guid="cb62a702-00df-4370-8ca8-dfdbed0ae0eb">
+		<Date>2021-10-28T20:47:12+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na Re01 que as camadas foram modeladas</Comment>
+		<Viewpoint Guid="b7f5030b-f754-4ec3-91bf-30182f38728b" />
+		<ModifiedDate>2021-10-28T20:47:12+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="64293717-802c-4f35-9e53-0cbb661e1bc4">
+		<Date>2021-10-07T15:47:17+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>camada de pintura modelada nos ambientes listados</Comment>
+		<Viewpoint Guid="c94190c1-043f-41a2-bf92-de73d26bf607" />
+		<ModifiedDate>2021-10-07T15:47:17+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="401818d1-22b2-4c4c-93a1-b7468e3d621b">
+		<Date>2021-09-21T14:11:43+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="c94190c1-043f-41a2-bf92-de73d26bf607" />
+		<ModifiedDate>2021-09-21T14:11:43+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="b7f5030b-f754-4ec3-91bf-30182f38728b">
+		<Viewpoint>b7f5030b-f754-4ec3-91bf-30182f38728b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>b7f5030b-f754-4ec3-91bf-30182f38728b_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="c94190c1-043f-41a2-bf92-de73d26bf607">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

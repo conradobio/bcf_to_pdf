@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="42cdf2f5-724e-4a04-b4cd-d0502d2c6bff" TopicType="Solicitação" TopicStatus="Resolved">
+		<Title>Paredes da lixeira sem as camadas</Title>
+		<Priority>Alta</Priority>
+		<Index>265</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-11T20:34:40+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:12+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-17T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor modelar as paredes e camadas conforme o BEP</Description>
+	</Topic>
+	<Comment Guid="de42cadb-de6b-4070-8586-835b66772389">
+		<Date>2021-10-14T17:44:55+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="2d0d5c82-b871-4384-ac5f-4388596c1925" />
+		<ModifiedDate>2021-10-14T17:44:55+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="1bac268f-08e3-4994-80d3-1e37834c813b">
+		<Date>2021-10-11T20:34:40+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="2d0d5c82-b871-4384-ac5f-4388596c1925" />
+		<ModifiedDate>2021-10-11T20:34:40+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="2d0d5c82-b871-4384-ac5f-4388596c1925">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

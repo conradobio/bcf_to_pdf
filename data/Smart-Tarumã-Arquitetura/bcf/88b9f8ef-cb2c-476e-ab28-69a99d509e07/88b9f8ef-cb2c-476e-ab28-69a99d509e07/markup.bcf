@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="88b9f8ef-cb2c-476e-ab28-69a99d509e07" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Camada de impermeabilização da casa de bombas</Title>
+		<Priority>Alta</Priority>
+		<Index>202</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T19:14:11+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:59+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camadas de impermeabilização da casa de bombas do lazer C conforme BEP</Description>
+	</Topic>
+	<Comment Guid="5be5b9a0-a8b0-499d-9c60-8ae85fcad601">
+		<Date>2021-10-29T14:55:08+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Atendido na R01</Comment>
+		<Viewpoint Guid="2c4cbb9b-f38a-4c39-9461-c506d6c1001d" />
+		<ModifiedDate>2021-10-29T14:55:08+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="fec67ab7-639d-4105-85a6-6c77a2af390d">
+		<Date>2021-10-07T17:20:19+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="2c4cbb9b-f38a-4c39-9461-c506d6c1001d" />
+		<ModifiedDate>2021-10-07T17:20:19+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="485bfef7-287e-4481-88ba-1b5e90c5c129">
+		<Date>2021-09-21T19:14:11+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="2c4cbb9b-f38a-4c39-9461-c506d6c1001d" />
+		<ModifiedDate>2021-09-21T19:14:11+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="2c4cbb9b-f38a-4c39-9461-c506d6c1001d">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

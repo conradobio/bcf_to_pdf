@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="85eebc1b-6154-4265-900b-2e6e60da4d2a" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Fachada lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>196</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T18:35:50+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:57+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar as camadas de parede da fachada do lazer C até o topo da laje, por gentileza</Description>
+	</Topic>
+	<Comment Guid="e05f72cd-05a4-49b8-9716-0e9e7c845c9d">
+		<Date>2021-10-28T18:29:35+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na 01 que as camadas de paredes foram modeladas</Comment>
+		<Viewpoint Guid="b8aef647-a55e-4d30-a9f5-19a416b36c00" />
+		<ModifiedDate>2021-10-28T18:29:35+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="4a4a7d8b-351c-4960-ad2a-fb109328794e">
+		<Date>2021-10-13T20:07:24+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Camadas da parede de fachada modeladas até o topo</Comment>
+		<Viewpoint Guid="dc118cbf-c167-42c8-97db-2698d4a6b7cb" />
+		<ModifiedDate>2021-10-13T20:07:24+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="d4e7d0e3-74a5-4a73-9965-40f0a149ccf5">
+		<Date>2021-09-21T18:35:50+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="dc118cbf-c167-42c8-97db-2698d4a6b7cb" />
+		<ModifiedDate>2021-09-21T18:35:50+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="b8aef647-a55e-4d30-a9f5-19a416b36c00">
+		<Viewpoint>b8aef647-a55e-4d30-a9f5-19a416b36c00_viewpoint.bcfv</Viewpoint>
+		<Snapshot>b8aef647-a55e-4d30-a9f5-19a416b36c00_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="dc118cbf-c167-42c8-97db-2698d4a6b7cb">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

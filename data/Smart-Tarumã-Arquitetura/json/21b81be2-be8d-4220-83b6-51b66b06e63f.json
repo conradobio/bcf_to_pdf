@@ -1,0 +1,50 @@
+{
+    "codigo": "21b81be2-be8d-4220-83b6-51b66b06e63f",
+    "titulo": "Camadas de piso lazer C",
+    "status": "Active",
+    "descricao": "Modelar camada de piso conforme BEP",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-20T21:59:35+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-07T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "2d6b94b8-1332-424c-9f7b-d67eec00ab9f",
+            "descricao": "Modelo ainda se encontra com algumas falhas no piso na \u00e1rea dos banheiros, verificar todas as ocorrencias por favor",
+            "data_acao": "2021-10-29T14:55:06+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "a9f41ce6-dbb8-405e-abff-ed2cedea01d0",
+            "descricao": "Resolvido",
+            "data_acao": "2021-10-11T13:57:40+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "8098ac38-7aa3-4872-8231-b1500bcdc90c",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-20T21:59:35+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "e0517488-680a-4f05-b9f1-c700bfc22640",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/21b81be2-be8d-4220-83b6-51b66b06e63f/21b81be2-be8d-4220-83b6-51b66b06e63f//e0517488-680a-4f05-b9f1-c700bfc22640_snapshot.png"
+        },
+        {
+            "guid": "e4d53ebb-2cad-4cc7-abaf-a6b0779a7f82",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/21b81be2-be8d-4220-83b6-51b66b06e63f/21b81be2-be8d-4220-83b6-51b66b06e63f//snapshot.png"
+        }
+    ]
+}

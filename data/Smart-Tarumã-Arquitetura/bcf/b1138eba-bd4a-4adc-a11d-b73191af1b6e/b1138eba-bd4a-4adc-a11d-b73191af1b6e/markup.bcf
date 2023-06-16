@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="b1138eba-bd4a-4adc-a11d-b73191af1b6e" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Parede espaço master chef lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>177</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T15:11:36+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:50+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Parede do espaço masterchef modelada apenas na massa acrilica, por gentileza, modelar as demais camadas conforme BEP</Description>
+	</Topic>
+	<Comment Guid="8a046447-9f17-4eab-b806-58b5c07c8ae8">
+		<Date>2021-10-28T19:51:14+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Camadas das paredes modeladas na R01</Comment>
+		<Viewpoint Guid="dac2bcda-e215-4fc3-ac43-f25452f5f9b2" />
+		<ModifiedDate>2021-10-28T19:51:14+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="5f32f8e3-fce7-4a2d-be2c-d367e889d74b">
+		<Date>2021-10-11T13:11:13+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>camadas das paredes ajustadas conforme BEP</Comment>
+		<Viewpoint Guid="43ce895d-bb34-44a8-9f22-6ccdf888603b" />
+		<ModifiedDate>2021-10-11T13:11:13+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="056566ae-f989-4921-8eb6-9a68b1acdb9d">
+		<Date>2021-09-21T15:11:36+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="43ce895d-bb34-44a8-9f22-6ccdf888603b" />
+		<ModifiedDate>2021-09-21T15:11:36+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="43ce895d-bb34-44a8-9f22-6ccdf888603b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="dac2bcda-e215-4fc3-ac43-f25452f5f9b2">
+		<Viewpoint>dac2bcda-e215-4fc3-ac43-f25452f5f9b2_viewpoint.bcfv</Viewpoint>
+		<Snapshot>dac2bcda-e215-4fc3-ac43-f25452f5f9b2_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

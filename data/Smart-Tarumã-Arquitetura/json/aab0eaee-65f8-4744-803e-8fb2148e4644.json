@@ -1,0 +1,57 @@
+{
+    "codigo": "aab0eaee-65f8-4744-803e-8fb2148e4644",
+    "titulo": "Modula\u00e7\u00e3o do guarda-volumes e guarita",
+    "status": "Closed",
+    "descricao": "Verificar a possibilidade ajustar esses v\u00e3o de acordo com a modula\u00e7\u00e3o dos blocos de 14",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-13T17:03:48+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-19T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "8f952f2c-9ff1-4f25-9b14-18cf5f0f2280",
+            "descricao": "Resolvido na revis\u00e3o R01.",
+            "data_acao": "2021-11-10T19:03:01+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "4c2648fc-67eb-434c-842f-48f76afc1528",
+            "descricao": "Foram ajustadas os v\u00e3os de todas as \u00e1reas da guarita. Foi retirada a boneca das portas; e a janela da guarita foi alinhada ao centro da parede.\n\nguarda-volumes\n3,35 para 3,41 +0,06\n2,30 pra 2,26 -0,04\n\nguarita\n3,40 para 3,41 +0,01\n2,30 pra 2,26 -0,04\njanela 2,27 para 2,21 -0,06\n\ndep\u00f3sito \n3,20 pra 3,26 +0,06\n3,44 pra 3,46 +0,02\n\ncopa\n2,48 pra 2,46 -0,02\n\na. servi\u00e7os\n2,10 para 2,06 -0,04\n2,48 pra 2,46 -0,02\n\nvest. fem.\n1,70 pra 1,66 -0,04\n2,10 pra 2,06 -0,04\n\nvest. mas.\n1,71 pra 1,66 -0,05\n2,10 pra 2,06 -0,04",
+            "data_acao": "2021-10-21T20:20:43+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "a5094dce-99a3-45a1-af34-89eeee2ed778",
+            "descricao": "Verificar tamb\u00e9m a possibilidade de ajustar a modula\u00e7\u00e3o pra m\u00fatiplos de 20 nas outras \u00e1reas da guarita.",
+            "data_acao": "2021-10-13T17:35:35+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "70b2f85e-d01b-4fec-848e-0708ee2443d3",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-13T17:03:48+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "3db8f330-e556-492f-a7dc-cac98fac80d9",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aab0eaee-65f8-4744-803e-8fb2148e4644/aab0eaee-65f8-4744-803e-8fb2148e4644//snapshot.png"
+        },
+        {
+            "guid": "9677d0a8-232f-4095-b563-7a337b1a49f9",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aab0eaee-65f8-4744-803e-8fb2148e4644/aab0eaee-65f8-4744-803e-8fb2148e4644//9677d0a8-232f-4095-b563-7a337b1a49f9_snapshot.png"
+        }
+    ]
+}

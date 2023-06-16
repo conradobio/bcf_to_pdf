@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="f7cde015-b740-434b-a703-8e53e780c7d8" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Churrasqueira lazer B</Title>
+		<Priority>Alta</Priority>
+		<Index>206</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T19:47:39+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:00+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camada de pintura da platibanda da área da churrasqueira no lazer B</Description>
+	</Topic>
+	<Comment Guid="2659d584-3ae9-400f-b2bc-f85384b31436">
+		<Date>2021-10-29T16:24:02+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r01</Comment>
+		<Viewpoint Guid="ec98adbd-9893-46a3-bc1e-ed7db28fd4ce" />
+		<ModifiedDate>2021-10-29T16:24:02+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="11984691-92ef-4c69-9d57-45eae0a7af1c">
+		<Date>2021-10-05T15:59:43+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Realizado.</Comment>
+		<Viewpoint Guid="ec98adbd-9893-46a3-bc1e-ed7db28fd4ce" />
+		<ModifiedDate>2021-10-05T15:59:43+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="682bc598-f199-4455-b859-bbd74fa8230d">
+		<Date>2021-09-21T19:47:39+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="ec98adbd-9893-46a3-bc1e-ed7db28fd4ce" />
+		<ModifiedDate>2021-09-21T19:47:39+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="ec98adbd-9893-46a3-bc1e-ed7db28fd4ce">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="4c585c60-38ec-4efc-b51f-1f921c025fda" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Bancada copa</Title>
+		<Priority>Alta</Priority>
+		<Index>311</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-29T16:06:19+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:25+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-04T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar largura da bancada da copa conforme projeto legal</Description>
+	</Topic>
+	<Comment Guid="98abb5de-cc23-4338-b8f9-4c2afb681ba6">
+		<Date>2021-10-29T16:06:19+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="cf00de15-8bdb-4b86-972c-00e63fb38aa7" />
+		<ModifiedDate>2021-10-29T16:06:19+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="cf00de15-8bdb-4b86-972c-00e63fb38aa7">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

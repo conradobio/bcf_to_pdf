@@ -1,0 +1,50 @@
+{
+    "codigo": "f1d0dbe5-d1f1-49ec-a2b8-5023eb3d0154",
+    "titulo": "Folha sem t\u00edtulo e nomenclatura diferente do BEP",
+    "status": "Closed",
+    "descricao": "Folha 02/17 encontra-se sem t\u00edtulo, Al\u00e9m disso, algumas folhas apresentam na sua nomenclatura disciplina e fase do projeto em ordem invertida do padr\u00e3o estabelecido no BEP. Por gentileza, ajustar.",
+    "tipo": "Problema",
+    "fase": "Projeto Legal",
+    "prioridade": "Baixa",
+    "abertura": "2021-03-31T14:34:21+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-04-07T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "568ec0f5-b291-4ff6-97d7-c25fbbe6665b",
+            "descricao": "a prancha 02 est\u00e1 ajustada. o restante das pranchas ser\u00e3o corrigidas tamb\u00e9m.",
+            "data_acao": "2021-04-02T20:40:36+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "b4718359-88a8-4535-a812-dbb49aa899c0",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-03-31T15:13:56+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "1debaf6b-dd66-4adf-b041-5cd727be7999",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-03-31T14:34:21+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "65718db3-d4d4-4c52-a6c4-a3d33eb6ed84",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/f1d0dbe5-d1f1-49ec-a2b8-5023eb3d0154/f1d0dbe5-d1f1-49ec-a2b8-5023eb3d0154//65718db3-d4d4-4c52-a6c4-a3d33eb6ed84_snapshot.png"
+        },
+        {
+            "guid": "7f01d68c-4d57-4540-afa1-6e9a665947e3",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/f1d0dbe5-d1f1-49ec-a2b8-5023eb3d0154/f1d0dbe5-d1f1-49ec-a2b8-5023eb3d0154//snapshot.png"
+        }
+    ]
+}

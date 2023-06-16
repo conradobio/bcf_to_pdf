@@ -1,0 +1,50 @@
+{
+    "codigo": "18f7b6a6-06eb-4b3d-8a43-9f9266165932",
+    "titulo": "Argamassa colante lazer E",
+    "status": "Closed",
+    "descricao": "Modelar argamassa colante conforme extens\u00e3o do rodap\u00e9, por favor, ajustar e verificar todas as ocorrencias",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T15:24:56+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "905e5bc9-3d87-4400-aba4-218e5da14b7b",
+            "descricao": "Visto na R01 que foi ajustado",
+            "data_acao": "2021-10-28T19:38:03+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "cde17742-d265-4e5f-8e7a-ca81f343f3a2",
+            "descricao": "Extens\u00e3o da argamassa colante ajustada conforme a extens\u00e3o do rodap\u00e9",
+            "data_acao": "2021-10-11T13:46:35+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "accebda5-7bf5-48b3-ae0e-cfcd860fcfec",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T15:24:56+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "34d597c3-a92c-4bb0-b3ea-8da7941241fa",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/18f7b6a6-06eb-4b3d-8a43-9f9266165932/18f7b6a6-06eb-4b3d-8a43-9f9266165932//snapshot.png"
+        },
+        {
+            "guid": "a23f56fb-70be-44bb-860a-5fbc9bea67db",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/18f7b6a6-06eb-4b3d-8a43-9f9266165932/18f7b6a6-06eb-4b3d-8a43-9f9266165932//a23f56fb-70be-44bb-860a-5fbc9bea67db_snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "codigo": "ee6badbb-4ab3-4066-b792-0a66b647a15d",
+    "titulo": "Altera\u00e7\u00e3o do piso das \u00e1reas secas da torre",
+    "status": "Closed",
+    "descricao": "O piso das \u00e1reas secas dos apartamentos ser\u00e3o cer\u00e2micos e n\u00e3o Contrapiso aparente (ser\u00e1 corrigido no BEP tamb\u00e9m)",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-08-26T14:08:20+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-08-30T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "8204a371-5cd0-4581-a6a3-557fe40a27f1",
+            "descricao": "Ajustado na R01",
+            "data_acao": "2021-09-15T21:24:10+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "8120f53f-098e-4540-adb0-d47b3c011357",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-26T14:08:20+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "eed0d86d-2323-4722-b4a7-b909cb0e5eef",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ee6badbb-4ab3-4066-b792-0a66b647a15d/ee6badbb-4ab3-4066-b792-0a66b647a15d//snapshot.png"
+        }
+    ]
+}

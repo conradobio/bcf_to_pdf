@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="c6b3b172-acc5-490c-a444-0ef52cdbd0d3" TopicType="Solicitação" TopicStatus="Resolved">
+		<Title>Ausência do gradil metálico no acesso interno a lixeira</Title>
+		<Priority>Alta</Priority>
+		<Index>267</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-11T21:01:57+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:13+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-17T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor colocar o gradil conforme o Projeto Legal</Description>
+	</Topic>
+	<Comment Guid="b7680fe3-5303-4828-9aa0-c35623469af9">
+		<Date>2021-10-26T14:08:49+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>O gradil, na verdade é um guarda-corpo e deverá ser modelado na implantação.</Comment>
+		<ModifiedDate>2021-10-26T14:08:49+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="7e0c717f-64d9-4df6-8d61-e6c0a5f1ffaa">
+		<Date>2021-10-14T17:44:21+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="b3d7657d-18af-44c0-b1db-52eedfbefb8e" />
+		<ModifiedDate>2021-10-14T17:44:21+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="3460c309-18b8-4abf-a01d-391480e18d66">
+		<Date>2021-10-11T21:01:57+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="12a25d8d-f6ae-4080-9a18-cfa4ae030680" />
+		<ModifiedDate>2021-10-11T21:01:57+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="12a25d8d-f6ae-4080-9a18-cfa4ae030680">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="b3d7657d-18af-44c0-b1db-52eedfbefb8e">
+		<Viewpoint>b3d7657d-18af-44c0-b1db-52eedfbefb8e_viewpoint.bcfv</Viewpoint>
+		<Snapshot>b3d7657d-18af-44c0-b1db-52eedfbefb8e_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

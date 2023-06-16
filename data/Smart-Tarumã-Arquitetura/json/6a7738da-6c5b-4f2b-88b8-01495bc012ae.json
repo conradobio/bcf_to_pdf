@@ -1,0 +1,50 @@
+{
+    "codigo": "6a7738da-6c5b-4f2b-88b8-01495bc012ae",
+    "titulo": "Parede caasa de bomba lazer E",
+    "status": "Closed",
+    "descricao": "Modelar camada de parede da casa de bombas conforme BEP",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T17:51:24+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "cd2b104e-07e2-4756-9c9c-bd3f9ee2a6ae",
+            "descricao": "Visto na R01 que foi corrigido",
+            "data_acao": "2021-10-28T18:47:14+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "e2bd032b-c894-4dc5-b256-aaa25a449301",
+            "descricao": "Camada de Argamassa polim\u00e9rica modelada nas paredes da casa de bombas",
+            "data_acao": "2021-10-13T19:22:55+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "c20d108a-ad26-47de-98c8-8db2cd2de9c5",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T17:51:24+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "464a647d-db0d-473a-9948-a1d1f8bf8e95",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/6a7738da-6c5b-4f2b-88b8-01495bc012ae/6a7738da-6c5b-4f2b-88b8-01495bc012ae//464a647d-db0d-473a-9948-a1d1f8bf8e95_snapshot.png"
+        },
+        {
+            "guid": "5a770d27-819a-4545-9c45-f390b1da70c9",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/6a7738da-6c5b-4f2b-88b8-01495bc012ae/6a7738da-6c5b-4f2b-88b8-01495bc012ae//snapshot.png"
+        }
+    ]
+}

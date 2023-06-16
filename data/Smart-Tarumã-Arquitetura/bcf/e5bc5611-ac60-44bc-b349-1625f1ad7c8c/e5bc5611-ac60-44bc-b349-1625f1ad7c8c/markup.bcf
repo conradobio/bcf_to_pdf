@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="e5bc5611-ac60-44bc-b349-1625f1ad7c8c" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Platibanda</Title>
+		<Priority>Alta</Priority>
+		<Index>146</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-17T19:15:11+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:40+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-28T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar esquadria da platibanda conforme projeto de forma metalica</Description>
+	</Topic>
+	<Comment Guid="32cef89d-c8ad-4dc3-8558-d6241b0c6e7f">
+		<Date>2021-10-21T20:33:45+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Não atendido</Comment>
+		<Viewpoint Guid="71414d55-2e23-42b2-890a-e4e11f6ea3fc" />
+		<ModifiedDate>2021-10-21T20:33:45+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="da13d42e-56b8-4eea-8245-517317689ddc">
+		<Date>2021-10-01T13:18:58+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não atendido verificar e ajustar em todas as torres</Comment>
+		<Viewpoint Guid="dc5e8b15-ae80-4add-8709-03edcce330ae" />
+		<ModifiedDate>2021-10-01T13:18:58+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="8b723f1f-3788-4645-9fba-14c94b4b2792">
+		<Date>2021-09-17T19:15:11+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="42a32662-7146-41ab-aef3-ae6ad6724394" />
+		<ModifiedDate>2021-09-17T19:15:11+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="42a32662-7146-41ab-aef3-ae6ad6724394">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="71414d55-2e23-42b2-890a-e4e11f6ea3fc">
+		<Viewpoint>71414d55-2e23-42b2-890a-e4e11f6ea3fc_viewpoint.bcfv</Viewpoint>
+		<Snapshot>71414d55-2e23-42b2-890a-e4e11f6ea3fc_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="dc5e8b15-ae80-4add-8709-03edcce330ae">
+		<Viewpoint>dc5e8b15-ae80-4add-8709-03edcce330ae_viewpoint.bcfv</Viewpoint>
+		<Snapshot>dc5e8b15-ae80-4add-8709-03edcce330ae_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

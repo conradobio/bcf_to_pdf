@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="2f9e0e42-fc9c-44ea-bd17-4e42f3f57c21" TopicType="Problema" TopicStatus="Closed">
+		<Title>Arquitetura não está georreferenciada</Title>
+		<Priority>Alta</Priority>
+		<Index>42</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-03-31T13:04:40+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:24+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-04-07T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Arquitetura não está georreferenciada conforme terraplanagem e topografia. Por gentileza, ajustar.</Description>
+	</Topic>
+	<Comment Guid="d5689e7d-1908-4490-97f5-876c812d6a4a">
+		<Date>2021-03-31T13:04:40+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="89d1d003-7c62-4c55-8c5d-ae7dcd3d5cc8" />
+		<ModifiedDate>2021-03-31T13:04:40+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="89d1d003-7c62-4c55-8c5d-ae7dcd3d5cc8">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,50 @@
+{
+    "codigo": "9f876c62-a92c-4f4d-b99b-5911bffc2c8c",
+    "titulo": "V\u00e3o da copa conflitando com parede no lazer D",
+    "status": "Closed",
+    "descricao": "v\u00e3o da porta conflitando com v\u00e3o da copa, por gentileza, ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T13:13:41+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "e130aea1-233f-44d3-81eb-f9f41e36699d",
+            "descricao": "Visto na R01 que o v\u00e3o da copa foi ajustado",
+            "data_acao": "2021-10-28T20:26:01+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "fef60d20-02bf-44f2-b839-0cf9af20b278",
+            "descricao": "Camadas da parede ajustadas conforme v\u00e3o da copa.",
+            "data_acao": "2021-10-07T14:07:52+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "416d8277-91c9-407f-b7e4-c368d048b8c8",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T13:13:41+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6e24bb17-b929-4c4c-9106-0115e003a7ab",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/9f876c62-a92c-4f4d-b99b-5911bffc2c8c/9f876c62-a92c-4f4d-b99b-5911bffc2c8c//snapshot.png"
+        },
+        {
+            "guid": "ff6d30b4-ca57-4f36-9563-11c65f0b4c94",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/9f876c62-a92c-4f4d-b99b-5911bffc2c8c/9f876c62-a92c-4f4d-b99b-5911bffc2c8c//ff6d30b4-ca57-4f36-9563-11c65f0b4c94_snapshot.png"
+        }
+    ]
+}

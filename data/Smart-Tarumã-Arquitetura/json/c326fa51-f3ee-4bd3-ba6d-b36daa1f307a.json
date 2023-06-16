@@ -1,0 +1,32 @@
+{
+    "codigo": "c326fa51-f3ee-4bd3-ba6d-b36daa1f307a",
+    "titulo": "Bit do box",
+    "status": "Active",
+    "descricao": "Favor prever o bit do box dos vesti\u00e1rios conforme especificado no BEP.",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-11-10T18:43:41+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-16T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "ee52fb44-5e6c-4c49-9123-dd9091a9ff60",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-11-10T18:43:41+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "f2192073-18e5-41f1-975f-422df85fd1a6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/c326fa51-f3ee-4bd3-ba6d-b36daa1f307a/c326fa51-f3ee-4bd3-ba6d-b36daa1f307a//snapshot.png"
+        }
+    ]
+}

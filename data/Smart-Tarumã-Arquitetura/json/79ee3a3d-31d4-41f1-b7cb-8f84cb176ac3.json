@@ -1,0 +1,43 @@
+{
+    "codigo": "79ee3a3d-31d4-41f1-b7cb-8f84cb176ac3",
+    "titulo": "Alinhar bancada do banheiro",
+    "status": "Active",
+    "descricao": "sem descri\u00e7\u00e3o",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-28T20:52:22+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "f9fedcb1-fe27-4ffb-8a78-f6b483ef2d9c",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T20:52:27+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "2ff0e452-18bb-44ee-9c86-98c5a7270daa",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T20:52:22+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "133fc330-3803-4375-97b4-a06f274e7c22",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/79ee3a3d-31d4-41f1-b7cb-8f84cb176ac3/79ee3a3d-31d4-41f1-b7cb-8f84cb176ac3//133fc330-3803-4375-97b4-a06f274e7c22_snapshot.png"
+        },
+        {
+            "guid": "3830c381-b9b5-479d-8a1c-27f1cdaa90b0",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/79ee3a3d-31d4-41f1-b7cb-8f84cb176ac3/79ee3a3d-31d4-41f1-b7cb-8f84cb176ac3//snapshot.png"
+        }
+    ]
+}

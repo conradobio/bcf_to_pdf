@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="befc5aaf-936c-4758-afbe-8e64e29a28d8" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Laje D</Title>
+		<Priority>Alta</Priority>
+		<Index>171</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T14:04:05+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:47+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, modelar as camadas de laje conforme BEP no lazer D</Description>
+	</Topic>
+	<Comment Guid="067430ea-1d45-451f-9fa4-0d53b7189a89">
+		<Date>2021-10-28T20:49:54+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que as camadas da laje foram modeladas</Comment>
+		<Viewpoint Guid="f26ee6fa-a401-427e-98eb-7575372c4fdc" />
+		<ModifiedDate>2021-10-28T20:49:54+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="c0d2f7fb-6a82-4c8b-abbb-c979697514ad">
+		<Date>2021-10-08T13:46:19+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Camadas da Laje modeladas conforme BEP</Comment>
+		<Viewpoint Guid="7f9fde29-245a-47e2-b77c-dab36b428938" />
+		<ModifiedDate>2021-10-08T13:46:19+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="805723c2-f9d5-460b-a827-0351c9e468b2">
+		<Date>2021-09-21T14:04:05+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="7f9fde29-245a-47e2-b77c-dab36b428938" />
+		<ModifiedDate>2021-09-21T14:04:05+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="7f9fde29-245a-47e2-b77c-dab36b428938">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="f26ee6fa-a401-427e-98eb-7575372c4fdc">
+		<Viewpoint>f26ee6fa-a401-427e-98eb-7575372c4fdc_viewpoint.bcfv</Viewpoint>
+		<Snapshot>f26ee6fa-a401-427e-98eb-7575372c4fdc_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

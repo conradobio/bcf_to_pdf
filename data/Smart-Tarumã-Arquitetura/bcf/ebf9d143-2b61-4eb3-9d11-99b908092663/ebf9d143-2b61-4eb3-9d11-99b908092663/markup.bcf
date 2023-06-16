@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="ebf9d143-2b61-4eb3-9d11-99b908092663" TopicType="Conflito" TopicStatus="Active">
+		<Title>Ajustar bancada do banheiro</Title>
+		<Priority>Alta</Priority>
+		<Index>295</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-28T19:17:48+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:21+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-03T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Bancada dentro das camadas da parede e verificar também que a cuba está flutuando</Description>
+	</Topic>
+	<Comment Guid="cc0ab340-2577-4449-a243-38386138c9ff">
+		<Date>2021-10-28T19:17:48+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d6b65041-b70f-4d8b-9e63-c2af72356a3b" />
+		<ModifiedDate>2021-10-28T19:17:48+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="d6b65041-b70f-4d8b-9e63-c2af72356a3b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

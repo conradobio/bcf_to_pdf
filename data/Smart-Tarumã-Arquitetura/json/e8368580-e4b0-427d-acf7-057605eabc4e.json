@@ -1,0 +1,46 @@
+{
+    "codigo": "e8368580-e4b0-427d-acf7-057605eabc4e",
+    "titulo": "Solicita\u00e7\u00e3o para adicionar o contorno das casas no Planta de Permeabilidade",
+    "status": "Closed",
+    "descricao": "Adicionar o contorno das casas de lote 8x20 no Planta de Permeabilidade que n\u00e3o est\u00e3o aparecendo",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Projeto Legal",
+    "prioridade": "Baixa",
+    "abertura": "2020-09-24T14:31:26+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2020-10-01T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "contato@duettoarq.com.br",
+    "autor": "bruno@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4e1d3bea-08be-4aac-bc8d-8b160e5e85cc",
+            "descricao": "Houve mudan\u00e7a na tipologia do empreendimento",
+            "data_acao": "2021-01-25T20:27:41+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "b7b7eccc-9131-4d0c-9625-a6c7bee60dab",
+            "descricao": "RESOLVIDO NA ENTREGA DO DIA 24/9",
+            "data_acao": "2020-09-24T18:23:06+00:00",
+            "novo_autor": "contato@duettoarq.com.br",
+            "realizado_por": "contato@duettoarq.com.br"
+        },
+        {
+            "guid": "b9a564c9-627d-451b-a57c-d0a57786740b",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2020-09-24T14:31:26+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "7a7c7165-b52e-4b3c-a82b-895330539263",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e8368580-e4b0-427d-acf7-057605eabc4e/e8368580-e4b0-427d-acf7-057605eabc4e//snapshot.png"
+        }
+    ]
+}

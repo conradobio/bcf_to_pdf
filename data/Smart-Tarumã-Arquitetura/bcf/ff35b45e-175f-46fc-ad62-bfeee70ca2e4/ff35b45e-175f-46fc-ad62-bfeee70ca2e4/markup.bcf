@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="ff35b45e-175f-46fc-ad62-bfeee70ca2e4" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Fachada</Title>
+		<Priority>Alta</Priority>
+		<Index>248</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-30T20:55:52+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:09+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-06T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Parede conflitando com aberturas de ar condicionado e duto na cozinha, por favor, ajustar</Description>
+	</Topic>
+	<Comment Guid="da2906af-6879-4134-842c-107c6657f785">
+		<Date>2021-10-21T21:02:41+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R02</Comment>
+		<Viewpoint Guid="0f9003b2-42a3-477f-ac04-2738ef95dc38" />
+		<ModifiedDate>2021-10-21T21:02:41+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a5375e62-efd2-4f26-ba6b-765db342455c">
+		<Date>2021-09-30T20:55:53+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="abb9a9ae-d64d-4bb4-b114-a3f565e5f398" />
+		<ModifiedDate>2021-09-30T20:55:53+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0f9003b2-42a3-477f-ac04-2738ef95dc38">
+		<Viewpoint>0f9003b2-42a3-477f-ac04-2738ef95dc38_viewpoint.bcfv</Viewpoint>
+		<Snapshot>0f9003b2-42a3-477f-ac04-2738ef95dc38_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="abb9a9ae-d64d-4bb4-b114-a3f565e5f398">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="aab0eaee-65f8-4744-803e-8fb2148e4644" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Modulação do guarda-volumes e guarita</Title>
+		<Priority>Alta</Priority>
+		<Index>278</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T17:03:48+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:17+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Verificar a possibilidade ajustar esses vão de acordo com a modulação dos blocos de 14</Description>
+	</Topic>
+	<Comment Guid="8f952f2c-9ff1-4f25-9b14-18cf5f0f2280">
+		<Date>2021-11-10T19:03:01+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resolvido na revisão R01.</Comment>
+		<Viewpoint Guid="9677d0a8-232f-4095-b563-7a337b1a49f9" />
+		<ModifiedDate>2021-11-10T19:03:01+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="4c2648fc-67eb-434c-842f-48f76afc1528">
+		<Date>2021-10-21T20:20:43+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Foram ajustadas os vãos de todas as áreas da guarita. Foi retirada a boneca das portas; e a janela da guarita foi alinhada ao centro da parede.
+
+guarda-volumes
+3,35 para 3,41 +0,06
+2,30 pra 2,26 -0,04
+
+guarita
+3,40 para 3,41 +0,01
+2,30 pra 2,26 -0,04
+janela 2,27 para 2,21 -0,06
+
+depósito 
+3,20 pra 3,26 +0,06
+3,44 pra 3,46 +0,02
+
+copa
+2,48 pra 2,46 -0,02
+
+a. serviços
+2,10 para 2,06 -0,04
+2,48 pra 2,46 -0,02
+
+vest. fem.
+1,70 pra 1,66 -0,04
+2,10 pra 2,06 -0,04
+
+vest. mas.
+1,71 pra 1,66 -0,05
+2,10 pra 2,06 -0,04</Comment>
+		<Viewpoint Guid="9677d0a8-232f-4095-b563-7a337b1a49f9" />
+		<ModifiedDate>2021-10-21T20:20:43+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a5094dce-99a3-45a1-af34-89eeee2ed778">
+		<Date>2021-10-13T17:35:35+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Verificar também a possibilidade de ajustar a modulação pra mútiplos de 20 nas outras áreas da guarita.</Comment>
+		<Viewpoint Guid="9677d0a8-232f-4095-b563-7a337b1a49f9" />
+		<ModifiedDate>2021-10-13T17:35:35+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="70b2f85e-d01b-4fec-848e-0708ee2443d3">
+		<Date>2021-10-13T17:03:48+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="3db8f330-e556-492f-a7dc-cac98fac80d9" />
+		<ModifiedDate>2021-10-13T17:03:48+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="3db8f330-e556-492f-a7dc-cac98fac80d9">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="9677d0a8-232f-4095-b563-7a337b1a49f9">
+		<Viewpoint>9677d0a8-232f-4095-b563-7a337b1a49f9_viewpoint.bcfv</Viewpoint>
+		<Snapshot>9677d0a8-232f-4095-b563-7a337b1a49f9_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

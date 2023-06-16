@@ -1,0 +1,98 @@
+{
+    "codigo": "aefe1fe6-5983-4dc9-b18a-3321b1bd8e42",
+    "titulo": "AL06 entrada da torre",
+    "status": "Closed",
+    "descricao": "Em confer\u00eancia no modelo rvt, identificamos diverg\u00eancias com o projeto de f\u00f4rma met\u00e1lica na esquadria AL06 da entrada da torre",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-09-17T15:19:59+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-29T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "coordenacao@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "4ce4b0bb-53fc-4212-9452-deb3469b035f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-22T13:10:08+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "40f71f6b-987e-4d00-b44e-60d5876c89eb",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-22T13:09:52+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "b1bb2978-4ff1-414f-ad1c-78b14096d362",
+            "descricao": "Altura ainda n\u00e3o coincidindo",
+            "data_acao": "2021-10-22T13:09:34+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "d0a71ae5-94ea-4050-b2f4-4d707376ad3d",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-01T13:36:30+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "90c812a3-6a5a-4319-9185-563ea956ef32",
+            "descricao": "n\u00e3o ajustado, por favor, verificar e ajustar em todas as torres",
+            "data_acao": "2021-10-01T13:36:19+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "17f0bc98-97c7-48a5-aec0-a0a060564616",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-17T15:25:39+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "97306183-915b-4f94-97f6-47568acb142f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-17T15:19:59+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "12a3fc2d-df23-4f0a-859a-7974021cca9d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42//12a3fc2d-df23-4f0a-859a-7974021cca9d_snapshot.png"
+        },
+        {
+            "guid": "1d170180-dbe1-4d49-a242-6fa673310c44",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42//1d170180-dbe1-4d49-a242-6fa673310c44_snapshot.png"
+        },
+        {
+            "guid": "43cfba42-f167-431e-84bd-968600d54f49",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42//43cfba42-f167-431e-84bd-968600d54f49_snapshot.png"
+        },
+        {
+            "guid": "515a67b4-0f64-4dc7-86d8-57a8d2a42e60",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42//515a67b4-0f64-4dc7-86d8-57a8d2a42e60_snapshot.png"
+        },
+        {
+            "guid": "5e861b6e-9681-4f0c-be9b-211c31538395",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42//snapshot.png"
+        },
+        {
+            "guid": "76c947fb-6128-4765-abda-6bd12a080328",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42//76c947fb-6128-4765-abda-6bd12a080328_snapshot.png"
+        },
+        {
+            "guid": "92fada1a-ab49-455e-827d-b47a462a765d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42/aefe1fe6-5983-4dc9-b18a-3321b1bd8e42//92fada1a-ab49-455e-827d-b47a462a765d_snapshot.png"
+        }
+    ]
+}

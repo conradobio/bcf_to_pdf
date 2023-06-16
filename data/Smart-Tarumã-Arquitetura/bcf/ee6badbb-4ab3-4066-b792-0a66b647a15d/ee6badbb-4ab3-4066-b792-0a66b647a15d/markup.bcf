@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="ee6badbb-4ab3-4066-b792-0a66b647a15d" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Alteração do piso das áreas secas da torre</Title>
+		<Priority>Alta</Priority>
+		<Index>99</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-26T14:08:20+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:31+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-08-30T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>O piso das áreas secas dos apartamentos serão cerâmicos e não Contrapiso aparente (será corrigido no BEP também)</Description>
+	</Topic>
+	<Comment Guid="8204a371-5cd0-4581-a6a3-557fe40a27f1">
+		<Date>2021-09-15T21:24:10+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R01</Comment>
+		<Viewpoint Guid="eed0d86d-2323-4722-b4a7-b909cb0e5eef" />
+		<ModifiedDate>2021-09-15T21:24:10+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="8120f53f-098e-4540-adb0-d47b3c011357">
+		<Date>2021-08-26T14:08:20+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="eed0d86d-2323-4722-b4a7-b909cb0e5eef" />
+		<ModifiedDate>2021-08-26T14:08:20+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="eed0d86d-2323-4722-b4a7-b909cb0e5eef">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

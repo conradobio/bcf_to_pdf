@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="82412230-50bc-4e73-a4a0-00c2b4390e4d" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Estrutura do banheiro</Title>
+		<Priority>Alta</Priority>
+		<Index>252</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-01T15:05:14+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:11+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Dimensões do banheiro não ta seguindo estrutura (estrutura com linhas verdes, arquitetura em rosa) por favor ajustar em todas as torres</Description>
+	</Topic>
+	<Comment Guid="d8ccf9c0-7572-441f-951e-500c2ff6203e">
+		<Date>2021-10-21T21:10:14+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R02</Comment>
+		<Viewpoint Guid="5e07f796-713f-40d6-a86d-b83ea10352ef" />
+		<ModifiedDate>2021-10-21T21:10:14+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="4d79bac7-fa3f-42ec-a54b-056089d351a3">
+		<Date>2021-10-01T15:05:14+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="dcef67f2-5cf7-4032-8517-18de432f38bd" />
+		<ModifiedDate>2021-10-01T15:05:14+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="5e07f796-713f-40d6-a86d-b83ea10352ef">
+		<Viewpoint>5e07f796-713f-40d6-a86d-b83ea10352ef_viewpoint.bcfv</Viewpoint>
+		<Snapshot>5e07f796-713f-40d6-a86d-b83ea10352ef_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="dcef67f2-5cf7-4032-8517-18de432f38bd">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

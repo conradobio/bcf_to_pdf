@@ -1,0 +1,32 @@
+{
+    "codigo": "99517b27-beeb-40fe-a46b-7d98d4a5ca4d",
+    "titulo": "Confliro",
+    "status": "Active",
+    "descricao": "Porta comflitano com camadas de piso, por favor, verificar todas as ocorrencias e ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T19:53:46+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "8c32f748-d58c-491a-99c0-b7249caa3487",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T19:53:46+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "61b98e05-9ee7-49cd-9b8a-6fd5b2848d6f",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/99517b27-beeb-40fe-a46b-7d98d4a5ca4d/99517b27-beeb-40fe-a46b-7d98d4a5ca4d//snapshot.png"
+        }
+    ]
+}

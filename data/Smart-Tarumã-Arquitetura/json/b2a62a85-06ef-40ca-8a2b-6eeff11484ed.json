@@ -1,0 +1,32 @@
+{
+    "codigo": "b2a62a85-06ef-40ca-8a2b-6eeff11484ed",
+    "titulo": "Incluir informa\u00e7\u00f5es de revis\u00e3o",
+    "status": "Active",
+    "descricao": "Incluir informa\u00e7\u00f5es de revis\u00e3o",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-15T13:27:12+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-22T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "6187682f-6f1a-4100-aa90-b26181b2435f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-15T13:27:12+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6905d7e2-6e9e-4564-9f1b-ccbdaf609d2b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/b2a62a85-06ef-40ca-8a2b-6eeff11484ed/b2a62a85-06ef-40ca-8a2b-6eeff11484ed//snapshot.png"
+        }
+    ]
+}

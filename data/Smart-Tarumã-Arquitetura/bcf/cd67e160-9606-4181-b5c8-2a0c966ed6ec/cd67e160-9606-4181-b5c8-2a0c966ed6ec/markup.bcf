@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="cd67e160-9606-4181-b5c8-2a0c966ed6ec" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Piscina lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>183</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T15:40:07+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:52+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Alinhar borda de granito da piscina no lazer E, por favor</Description>
+	</Topic>
+	<Comment Guid="0ae7e7be-3bd2-4a1e-9027-2f17bb0f73ef">
+		<Date>2021-10-28T19:34:34+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que ainda falta alinhar a borda da piscina com a parede</Comment>
+		<Viewpoint Guid="cfcfbd65-e421-4f3e-b07a-ebea570b2b61" />
+		<ModifiedDate>2021-10-28T19:34:34+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="34295a95-c590-421b-902d-9979483d0dd4">
+		<Date>2021-10-11T15:50:40+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Bordas das piscinas alinhadas a fim de cobrir as camadas de parede</Comment>
+		<Viewpoint Guid="bee10791-3d76-4cbe-90ea-b8841c0fc805" />
+		<ModifiedDate>2021-10-11T15:50:40+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="540e12ee-d31b-419b-9e1e-a06f47700821">
+		<Date>2021-09-21T15:40:07+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="bee10791-3d76-4cbe-90ea-b8841c0fc805" />
+		<ModifiedDate>2021-09-21T15:40:07+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="bee10791-3d76-4cbe-90ea-b8841c0fc805">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="cfcfbd65-e421-4f3e-b07a-ebea570b2b61">
+		<Viewpoint>cfcfbd65-e421-4f3e-b07a-ebea570b2b61_viewpoint.bcfv</Viewpoint>
+		<Snapshot>cfcfbd65-e421-4f3e-b07a-ebea570b2b61_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="28baebff-fa5a-4c60-9817-cacc21ecd9c3" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>separação dos ambientes</Title>
+		<Priority>Alta</Priority>
+		<Index>174</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T14:36:18+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:49+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camada da separação dos ambientes, não deixar apenas do contrapiso</Description>
+	</Topic>
+	<Comment Guid="8a405a9a-9b69-4f1c-a625-94a0650a7efb">
+		<Date>2021-10-28T20:32:02+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que as soleiras foram modeladas</Comment>
+		<Viewpoint Guid="0e782fa6-8943-4810-96e8-5c2acdcd2f63" />
+		<ModifiedDate>2021-10-28T20:32:02+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="0ddbd12a-304a-4c68-8691-4e6a3215439a">
+		<Date>2021-10-07T17:12:15+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Soleiras modeladas</Comment>
+		<Viewpoint Guid="e43905f9-7ce1-4146-a03e-b72c2be1d773" />
+		<ModifiedDate>2021-10-07T17:12:15+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ede50c97-a4ae-4ffe-bfca-cbd7f07d219d">
+		<Date>2021-09-21T14:36:18+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="e43905f9-7ce1-4146-a03e-b72c2be1d773" />
+		<ModifiedDate>2021-09-21T14:36:18+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="0e782fa6-8943-4810-96e8-5c2acdcd2f63">
+		<Viewpoint>0e782fa6-8943-4810-96e8-5c2acdcd2f63_viewpoint.bcfv</Viewpoint>
+		<Snapshot>0e782fa6-8943-4810-96e8-5c2acdcd2f63_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="e43905f9-7ce1-4146-a03e-b72c2be1d773">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

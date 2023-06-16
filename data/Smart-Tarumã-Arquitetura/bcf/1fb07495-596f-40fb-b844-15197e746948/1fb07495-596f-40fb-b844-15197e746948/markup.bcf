@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="1fb07495-596f-40fb-b844-15197e746948" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Piso lazer E</Title>
+		<Priority>Alta</Priority>
+		<Index>191</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T16:24:32+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:56+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar piso lazer E conforme BEP</Description>
+	</Topic>
+	<Comment Guid="edd7fc24-0d89-4228-affe-9b97cde34944">
+		<Date>2021-10-28T18:47:10+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>ajustar espessura da camada de argamassa + cerâmica (1,5 cm)  do Lazer E</Comment>
+		<Viewpoint Guid="bc802976-95d2-4907-87d0-708101fc5c80" />
+		<ModifiedDate>2021-10-28T18:47:10+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="1344dfc3-77b7-44fd-956a-a8796660c885">
+		<Date>2021-10-13T21:11:00+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Piso modelado conforme BEP e projeto legal</Comment>
+		<Viewpoint Guid="fc681805-ec8d-47ba-b9a8-ecba24f4f38d" />
+		<ModifiedDate>2021-10-13T21:11:00+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="6315d43f-bca0-4078-8e34-ae842d242a42">
+		<Date>2021-09-21T16:24:32+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="fc681805-ec8d-47ba-b9a8-ecba24f4f38d" />
+		<ModifiedDate>2021-09-21T16:24:32+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="bc802976-95d2-4907-87d0-708101fc5c80">
+		<Viewpoint>bc802976-95d2-4907-87d0-708101fc5c80_viewpoint.bcfv</Viewpoint>
+		<Snapshot>bc802976-95d2-4907-87d0-708101fc5c80_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="fc681805-ec8d-47ba-b9a8-ecba24f4f38d">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

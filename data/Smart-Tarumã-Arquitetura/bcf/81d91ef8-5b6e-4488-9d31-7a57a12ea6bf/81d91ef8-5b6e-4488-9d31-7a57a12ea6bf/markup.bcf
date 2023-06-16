@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="81d91ef8-5b6e-4488-9d31-7a57a12ea6bf" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Abertura para entrada dos dutos de ar condicionado</Title>
+		<Priority>Crítica</Priority>
+		<Index>145</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-17T19:07:35+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:40+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Rever a locação das aberturas para entrada dos dutos de ar condionado nos dormitorios 1 e 2, as aberturas não estão seguindo nem o dimensionamento nem a posição correta</Description>
+	</Topic>
+	<Comment Guid="6d974fe2-445b-41ad-9c10-194a2714f2a4">
+		<Date>2021-09-17T19:07:35+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="e867f34d-6e5f-413c-b730-49d7871bfe6f" />
+		<ModifiedDate>2021-09-17T19:07:35+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="e867f34d-6e5f-413c-b730-49d7871bfe6f">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

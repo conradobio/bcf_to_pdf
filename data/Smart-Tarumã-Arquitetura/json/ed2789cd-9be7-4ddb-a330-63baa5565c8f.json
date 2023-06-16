@@ -1,0 +1,50 @@
+{
+    "codigo": "ed2789cd-9be7-4ddb-a330-63baa5565c8f",
+    "titulo": "Fachada",
+    "status": "Closed",
+    "descricao": "Modelar os revestimentos da fachada conforme BEP, por gentileza",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-08-25T15:57:56+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-22T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "1f3aae42-d515-45e5-91af-6cc26f2e43fb",
+            "descricao": "resolvido r01",
+            "data_acao": "2021-09-30T21:06:27+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "03e8a811-5fd0-4a71-b697-31d6a051b7c6",
+            "descricao": "Ajustado em partes na r01, ainda tem partes sem a camada de pintura",
+            "data_acao": "2021-09-15T20:52:31+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "ca882993-f176-438b-8fd9-89b0262a3657",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-25T15:57:56+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "31df2da5-cd2a-4571-9908-2a96bebcc177",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ed2789cd-9be7-4ddb-a330-63baa5565c8f/ed2789cd-9be7-4ddb-a330-63baa5565c8f//31df2da5-cd2a-4571-9908-2a96bebcc177_snapshot.png"
+        },
+        {
+            "guid": "40f19da6-1cd2-468b-928b-ff301c0c13ac",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ed2789cd-9be7-4ddb-a330-63baa5565c8f/ed2789cd-9be7-4ddb-a330-63baa5565c8f//snapshot.png"
+        }
+    ]
+}

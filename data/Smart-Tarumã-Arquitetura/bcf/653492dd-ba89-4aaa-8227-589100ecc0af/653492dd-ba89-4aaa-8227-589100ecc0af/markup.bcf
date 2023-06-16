@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="653492dd-ba89-4aaa-8227-589100ecc0af" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Banheiro lazer C</Title>
+		<Priority>Alta</Priority>
+		<Index>197</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T18:41:47+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:58+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-11-07T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Rodapé conflitando com portas no banheiro do lazer C</Description>
+	</Topic>
+	<Comment Guid="9ec4d5b1-8136-4419-a0d4-3c3bf19df4d9">
+		<Date>2021-10-29T14:55:07+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na r01</Comment>
+		<Viewpoint Guid="90afc011-e229-4219-af89-4ba9ff7043b9" />
+		<ModifiedDate>2021-10-29T14:55:07+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="478319c2-807c-4db7-88d9-e99a4379fc92">
+		<Date>2021-10-06T15:44:28+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="90afc011-e229-4219-af89-4ba9ff7043b9" />
+		<ModifiedDate>2021-10-06T15:44:28+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a5fb5816-00a0-4cb9-bab9-466aec47ec4b">
+		<Date>2021-09-21T18:41:47+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="6b0a0301-449e-4fc9-ad74-a676caa961c8" />
+		<ModifiedDate>2021-09-21T18:41:47+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="6b0a0301-449e-4fc9-ad74-a676caa961c8">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="90afc011-e229-4219-af89-4ba9ff7043b9">
+		<Viewpoint>90afc011-e229-4219-af89-4ba9ff7043b9_viewpoint.bcfv</Viewpoint>
+		<Snapshot>90afc011-e229-4219-af89-4ba9ff7043b9_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

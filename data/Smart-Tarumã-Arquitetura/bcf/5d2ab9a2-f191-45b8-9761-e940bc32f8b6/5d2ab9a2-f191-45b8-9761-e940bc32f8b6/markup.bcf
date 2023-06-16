@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="5d2ab9a2-f191-45b8-9761-e940bc32f8b6" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Fachada lazer A</Title>
+		<Priority>Alta</Priority>
+		<Index>149</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-20T19:28:35+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:41+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-26T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar camada de pintura da fachada por gentileza</Description>
+	</Topic>
+	<Comment Guid="09c628d6-9418-48a8-a9ed-827bcd8a7ada">
+		<Date>2021-10-29T17:48:50+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R01</Comment>
+		<Viewpoint Guid="bce67aaa-400a-4f6a-ac91-3e8339b2f21a" />
+		<ModifiedDate>2021-10-29T17:48:50+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="701b6f28-33f7-484b-97f0-b1468f14a5ad">
+		<Date>2021-10-01T14:21:42+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Não foi identificado. A camada está modelada</Comment>
+		<Viewpoint Guid="068e83d0-3268-4ab5-a9aa-302e566dea0a" />
+		<ModifiedDate>2021-10-01T14:21:42+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="c13aac39-892f-4e02-aeef-30044e470d99">
+		<Date>2021-09-20T19:28:35+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="57fd6a6c-ed32-4fe2-8ee6-7c451f42d203" />
+		<ModifiedDate>2021-09-20T19:28:35+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="068e83d0-3268-4ab5-a9aa-302e566dea0a">
+		<Viewpoint>068e83d0-3268-4ab5-a9aa-302e566dea0a_viewpoint.bcfv</Viewpoint>
+		<Snapshot>068e83d0-3268-4ab5-a9aa-302e566dea0a_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="57fd6a6c-ed32-4fe2-8ee6-7c451f42d203">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="bce67aaa-400a-4f6a-ac91-3e8339b2f21a">
+		<Viewpoint>bce67aaa-400a-4f6a-ac91-3e8339b2f21a_viewpoint.bcfv</Viewpoint>
+		<Snapshot>bce67aaa-400a-4f6a-ac91-3e8339b2f21a_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

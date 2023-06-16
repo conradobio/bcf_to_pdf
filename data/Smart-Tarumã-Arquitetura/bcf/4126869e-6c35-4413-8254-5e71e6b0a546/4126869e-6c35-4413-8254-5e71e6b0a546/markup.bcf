@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="4126869e-6c35-4413-8254-5e71e6b0a546" TopicType="Consulta de Informação" TopicStatus="Resolved">
+		<Title>Espessuras paredes lixeira</Title>
+		<Priority>Baixa</Priority>
+		<Index>283</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-15T13:24:30+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:18+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-22T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por que as espessuras das paredes são diferentes? Norte e Leste serão de contenção?</Description>
+	</Topic>
+	<Comment Guid="80d5ca1a-16c9-44dd-a6a6-2c576735e49a">
+		<Date>2021-10-26T14:07:40+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Conforme o projeto legal, as duas paredes externas devem ter 19 cm. Porém conforme explicado pela coordenação, os muros de divisa tem 9 cm e as paredes dos anexos tem 14 cm. Logo, a lixeira será modelada em 14 cm.</Comment>
+		<Viewpoint Guid="b246010b-5dda-4598-90e2-536e363e76f2" />
+		<ModifiedDate>2021-10-26T14:07:40+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="2b25acc8-4e35-4c01-aa9c-7e26cc7d6d62">
+		<Date>2021-10-18T12:22:41+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>As paredes já foram ajustadas, elas devem ter 14 cm conforme o BEP</Comment>
+		<Viewpoint Guid="4dfeff2d-5c07-4248-9cbe-6e9be8c22453" />
+		<ModifiedDate>2021-10-18T12:22:41+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="50b54b5a-e7d1-4153-a9aa-ca538d7f2a8f">
+		<Date>2021-10-15T13:24:30+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="058b4999-90c8-4dd6-ac6e-5e880bced7ef" />
+		<ModifiedDate>2021-10-15T13:24:30+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="058b4999-90c8-4dd6-ac6e-5e880bced7ef">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="4dfeff2d-5c07-4248-9cbe-6e9be8c22453">
+		<Viewpoint>4dfeff2d-5c07-4248-9cbe-6e9be8c22453_viewpoint.bcfv</Viewpoint>
+		<Snapshot>4dfeff2d-5c07-4248-9cbe-6e9be8c22453_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="b246010b-5dda-4598-90e2-536e363e76f2">
+		<Viewpoint>b246010b-5dda-4598-90e2-536e363e76f2_viewpoint.bcfv</Viewpoint>
+		<Snapshot>b246010b-5dda-4598-90e2-536e363e76f2_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

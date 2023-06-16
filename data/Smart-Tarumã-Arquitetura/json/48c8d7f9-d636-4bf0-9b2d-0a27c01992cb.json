@@ -1,0 +1,39 @@
+{
+    "codigo": "48c8d7f9-d636-4bf0-9b2d-0a27c01992cb",
+    "titulo": "Portas fachada do lazer A",
+    "status": "Closed",
+    "descricao": "Portas fora de nivel na fachada do lazer A, verificar todas as ocorrencias e ajustar, por favor",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T19:56:39+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "2e8ac114-8007-4186-8254-dfa7e63384e6",
+            "descricao": "Portas ajustadas conforme o piso",
+            "data_acao": "2021-10-04T15:03:12+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "bf64502e-f97b-4d5f-b2aa-7dcf478aa14f",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T19:56:39+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "55a01f83-fb97-431e-b1e0-7a7d6ca24b5d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/48c8d7f9-d636-4bf0-9b2d-0a27c01992cb/48c8d7f9-d636-4bf0-9b2d-0a27c01992cb//snapshot.png"
+        }
+    ]
+}

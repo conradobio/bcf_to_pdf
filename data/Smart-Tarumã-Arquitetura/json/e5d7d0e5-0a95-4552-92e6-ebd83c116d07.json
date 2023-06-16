@@ -1,0 +1,50 @@
+{
+    "codigo": "e5d7d0e5-0a95-4552-92e6-ebd83c116d07",
+    "titulo": "Masterchef lazer E",
+    "status": "Closed",
+    "descricao": "Rpdap\u00e9 conflitando com porta no espa\u00e7o masterchef do lazer E, por gentileza, ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T14:52:15+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "9ea7f051-ae1c-41d1-8e1e-8aff632297db",
+            "descricao": "Visto na R01 que o rodap\u00e9 foi ajustado",
+            "data_acao": "2021-10-28T19:51:07+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "addd0777-19b0-4c5d-842c-5134156262b1",
+            "descricao": "Rodap\u00e9 ajustado",
+            "data_acao": "2021-10-11T12:20:05+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "7a083a49-ab47-4a60-823f-6edddc023f08",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T14:52:15+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "0babfd9f-f92d-4774-ac3d-4ab0f53b100d",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e5d7d0e5-0a95-4552-92e6-ebd83c116d07/e5d7d0e5-0a95-4552-92e6-ebd83c116d07//0babfd9f-f92d-4774-ac3d-4ab0f53b100d_snapshot.png"
+        },
+        {
+            "guid": "60f773d0-3fae-4a4d-9133-2c6d671c9b19",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/e5d7d0e5-0a95-4552-92e6-ebd83c116d07/e5d7d0e5-0a95-4552-92e6-ebd83c116d07//snapshot.png"
+        }
+    ]
+}

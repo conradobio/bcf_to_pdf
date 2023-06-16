@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="3963a6f3-8a56-4136-983c-74c52357f23e" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Torre 3UND PNE</Title>
+		<Priority>Alta</Priority>
+		<Index>118</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-15T20:04:15+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:35+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-21T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, retirar as linhas vermelhas da planta da torre  3und PNE no primeiro pavimento</Description>
+	</Topic>
+	<Comment Guid="26486b1d-7097-4f91-8c57-4b4342a66ef9">
+		<Date>2021-09-30T21:19:30+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>retirado</Comment>
+		<Viewpoint Guid="4b932a4f-4e36-44b7-a1a0-daef01d395fe" />
+		<ModifiedDate>2021-09-30T21:19:30+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="2249f9b7-47f4-4bb5-9374-589f44e75c19">
+		<Date>2021-09-15T20:04:15+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="4b932a4f-4e36-44b7-a1a0-daef01d395fe" />
+		<ModifiedDate>2021-09-15T20:04:15+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="4b932a4f-4e36-44b7-a1a0-daef01d395fe">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

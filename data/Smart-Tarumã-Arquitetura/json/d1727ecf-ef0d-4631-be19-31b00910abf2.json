@@ -1,0 +1,46 @@
+{
+    "codigo": "d1727ecf-ef0d-4631-be19-31b00910abf2",
+    "titulo": "N\u00edvel das torres",
+    "status": "Active",
+    "descricao": "As torres 13, 14, 15, 16 E 17 est\u00e3o enterradas em rela\u00e7\u00e3o ao n\u00edvel da rua e n\u00e3o pode ser enterradas em nenhuma das ponta, segundo diretrizes",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-08-30T16:06:03+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-06T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "abf392ea-89ff-434d-ac47-a8ebf357673f",
+            "descricao": "Foi avaliado na revis\u00e3o 3, as torres continuam enterradas. Vamos aguardar a defini\u00e7\u00e3o da arquitetura.",
+            "data_acao": "2021-10-14T19:13:26+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "7c4be96f-e064-4454-8ab6-a1a5fb07bdae",
+            "descricao": "As cotas das torres e rampas seguiram as informa\u00e7\u00f5es da arquitetura com rela\u00e7\u00e3o a  acessibilidade",
+            "data_acao": "2021-10-01T15:26:01+00:00",
+            "novo_autor": "jesus.cadengenharia@gmail.com",
+            "realizado_por": "jesus.cadengenharia@gmail.com"
+        },
+        {
+            "guid": "44d0753a-fae7-405d-b1fa-e4429fe10d93",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-30T16:06:04+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "a0db59a6-e2f7-4ed3-8ae3-49bbb0a81289",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d1727ecf-ef0d-4631-be19-31b00910abf2/d1727ecf-ef0d-4631-be19-31b00910abf2//snapshot.png"
+        }
+    ]
+}

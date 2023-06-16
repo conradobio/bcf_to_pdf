@@ -1,0 +1,32 @@
+{
+    "codigo": "4dc47fa8-7566-4868-8cc3-319869ffc316",
+    "titulo": "Ajustar modelagem da parede na casa de bombas",
+    "status": "Active",
+    "descricao": "sem descri\u00e7\u00e3o",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-28T18:48:46+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "ee64b432-2e59-4b15-ad38-0b2d7707f499",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T18:48:46+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6d51091f-140b-4990-9f05-0dc3482f2973",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/4dc47fa8-7566-4868-8cc3-319869ffc316/4dc47fa8-7566-4868-8cc3-319869ffc316//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="db8b4928-957c-4d6c-a957-45557587718f" TopicType="Conflito" TopicStatus="Closed">
+		<Title>Cozinha</Title>
+		<Priority>Baixa</Priority>
+		<Index>104</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-26T14:40:20+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:33+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-01T13:00:00+00:00</DueDate>
+		<AssignedTo>rafaelavilela@construtoracapital.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Por gentileza, inserir veneziana para ventilação da cozinha</Description>
+	</Topic>
+	<Comment Guid="3a957de4-cc48-4666-b481-54441ee87a11">
+		<Date>2021-09-15T21:18:11+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="fbc24c05-c195-4b2c-b980-50acceda0fb6" />
+		<ModifiedDate>2021-09-15T21:18:11+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="48d2df36-d653-48f4-bad6-d940ee01c9a5">
+		<Date>2021-09-15T21:18:02+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>AJUSTADO NA R01</Comment>
+		<Viewpoint Guid="d985ae98-a254-49ca-bf5c-ada39f265733" />
+		<ModifiedDate>2021-09-15T21:18:02+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="331686c6-53d3-471f-8337-dcddfd5cf147">
+		<Date>2021-08-26T14:40:20+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="488a0a22-4149-43d7-88fb-40115ccd85e0" />
+		<ModifiedDate>2021-08-26T14:40:20+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="488a0a22-4149-43d7-88fb-40115ccd85e0">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d985ae98-a254-49ca-bf5c-ada39f265733">
+		<Viewpoint>d985ae98-a254-49ca-bf5c-ada39f265733_viewpoint.bcfv</Viewpoint>
+		<Snapshot>d985ae98-a254-49ca-bf5c-ada39f265733_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="fbc24c05-c195-4b2c-b980-50acceda0fb6">
+		<Viewpoint>fbc24c05-c195-4b2c-b980-50acceda0fb6_viewpoint.bcfv</Viewpoint>
+		<Snapshot>fbc24c05-c195-4b2c-b980-50acceda0fb6_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

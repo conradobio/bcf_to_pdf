@@ -1,0 +1,32 @@
+{
+    "codigo": "12f90e65-f46c-4a16-8e4c-e766e044fd08",
+    "titulo": "Teto",
+    "status": "Active",
+    "descricao": "Modelar camada de revestiemento na cobertura",
+    "tipo": "Conflito",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T18:16:21+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "05324449-4322-4a91-a29f-9438d3bb7ed0",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T18:16:21+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "c9a43d2e-9e9f-4d17-8e2d-84e3f3ec3aa6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/12f90e65-f46c-4a16-8e4c-e766e044fd08/12f90e65-f46c-4a16-8e4c-e766e044fd08//snapshot.png"
+        }
+    ]
+}

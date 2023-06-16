@@ -1,0 +1,32 @@
+{
+    "codigo": "5ddd5aa0-b6ab-48d2-97dd-c3a1969659eb",
+    "titulo": "Modelagem paredes da piscina",
+    "status": "Active",
+    "descricao": "Favor ajustar o encontro dessas paredes da piscina",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-28T19:56:57+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "30ca4643-db3f-4eb2-910b-d6ae73627559",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T19:56:57+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "d3d38e19-5187-4a41-9de5-fbafdc6c7cd7",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/5ddd5aa0-b6ab-48d2-97dd-c3a1969659eb/5ddd5aa0-b6ab-48d2-97dd-c3a1969659eb//snapshot.png"
+        }
+    ]
+}

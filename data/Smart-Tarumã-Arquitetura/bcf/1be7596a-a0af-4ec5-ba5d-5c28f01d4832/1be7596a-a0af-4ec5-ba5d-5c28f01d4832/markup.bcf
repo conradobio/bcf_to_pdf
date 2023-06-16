@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="1be7596a-a0af-4ec5-ba5d-5c28f01d4832" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Marquise</Title>
+		<Priority>Alta</Priority>
+		<Index>102</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-26T14:40:18+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:32+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-08T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Não tem marquise de entrada, por favor, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="fc0f9f35-f209-4c37-8044-fc17757b038f">
+		<Date>2021-10-01T15:14:12+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>ajustado</Comment>
+		<Viewpoint Guid="af8840fe-88bd-4ef5-86a7-5e69b4a15f4b" />
+		<ModifiedDate>2021-10-01T15:14:12+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="d9df2178-3a28-4b31-aed4-7359b1cc0e44">
+		<Date>2021-10-01T13:21:09+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="af8840fe-88bd-4ef5-86a7-5e69b4a15f4b" />
+		<ModifiedDate>2021-10-01T13:21:09+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="b041a40a-05cd-422b-a23a-4a30dfc72f37">
+		<Date>2021-10-01T13:21:00+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>não atendido, verificar e ajustar em todas as torres</Comment>
+		<Viewpoint Guid="f9e2dcc1-a026-4649-8d59-1d8d041b8982" />
+		<ModifiedDate>2021-10-01T13:21:00+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="af8840fe-88bd-4ef5-86a7-5e69b4a15f4b">
+		<Viewpoint>af8840fe-88bd-4ef5-86a7-5e69b4a15f4b_viewpoint.bcfv</Viewpoint>
+		<Snapshot>af8840fe-88bd-4ef5-86a7-5e69b4a15f4b_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="f9e2dcc1-a026-4649-8d59-1d8d041b8982">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

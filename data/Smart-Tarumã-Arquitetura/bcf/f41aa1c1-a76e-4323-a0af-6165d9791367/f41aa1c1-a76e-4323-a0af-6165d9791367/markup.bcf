@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="f41aa1c1-a76e-4323-a0af-6165d9791367" TopicType="Solicitação" TopicStatus="Resolved">
+		<Title>Ajustar a espessura das camadas do piso da lixeira</Title>
+		<Priority>Alta</Priority>
+		<Index>266</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-11T20:34:43+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:12+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-17T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Radier 15 cm e Argamassa + cerâmica 2 cm</Description>
+	</Topic>
+	<Comment Guid="0ee44a66-47b7-4bf0-a6fa-643720ad6358">
+		<Date>2021-10-14T18:29:08+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Resolvido</Comment>
+		<Viewpoint Guid="70dfe391-4c0f-4f8d-90ac-b7e83173b7d2" />
+		<ModifiedDate>2021-10-14T18:29:08+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="be6d3714-48df-4f4a-af6a-182abfcc120a">
+		<Date>2021-10-11T20:34:43+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="3d894a13-db10-4aeb-8889-8b3f612b7cb7" />
+		<ModifiedDate>2021-10-11T20:34:43+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="3d894a13-db10-4aeb-8889-8b3f612b7cb7">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="70dfe391-4c0f-4f8d-90ac-b7e83173b7d2">
+		<Viewpoint>70dfe391-4c0f-4f8d-90ac-b7e83173b7d2_viewpoint.bcfv</Viewpoint>
+		<Snapshot>70dfe391-4c0f-4f8d-90ac-b7e83173b7d2_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

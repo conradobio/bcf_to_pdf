@@ -1,0 +1,32 @@
+{
+    "codigo": "4f7f3012-f465-4783-8cd5-20727aaade4d",
+    "titulo": "Alinhar o rodap\u00e9 no espa\u00e7o masterchef",
+    "status": "Active",
+    "descricao": "sem descri\u00e7\u00e3o",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Baixa",
+    "abertura": "2021-10-28T19:15:55+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-03T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "6e38e3ef-dac8-4cca-8d08-24142b2798e4",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-28T19:15:55+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "09111d67-442c-46ca-a600-363e212ca540",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/4f7f3012-f465-4783-8cd5-20727aaade4d/4f7f3012-f465-4783-8cd5-20727aaade4d//snapshot.png"
+        }
+    ]
+}

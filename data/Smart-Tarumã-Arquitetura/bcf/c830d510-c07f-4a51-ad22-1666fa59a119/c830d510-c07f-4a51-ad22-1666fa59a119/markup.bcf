@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="c830d510-c07f-4a51-ad22-1666fa59a119" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Portas dos quartos</Title>
+		<Priority>Alta</Priority>
+		<Index>249</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-30T20:56:04+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:10+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-06T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Parede conflitando com porta no quarto, por favor, ajustar e verificar todas as ocorrencias</Description>
+	</Topic>
+	<Comment Guid="38cba8ab-275b-4119-a4ee-9d42bd844742">
+		<Date>2021-10-21T21:08:14+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R02</Comment>
+		<Viewpoint Guid="5640aada-512d-480b-a72d-c62a7b098028" />
+		<ModifiedDate>2021-10-21T21:08:14+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="0222681c-e0b2-4532-a5db-c4bf7de404be">
+		<Date>2021-09-30T20:56:04+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="e9a993d2-38e9-4169-bb41-7d8a0934395f" />
+		<ModifiedDate>2021-09-30T20:56:04+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="5640aada-512d-480b-a72d-c62a7b098028">
+		<Viewpoint>5640aada-512d-480b-a72d-c62a7b098028_viewpoint.bcfv</Viewpoint>
+		<Snapshot>5640aada-512d-480b-a72d-c62a7b098028_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="e9a993d2-38e9-4169-bb41-7d8a0934395f">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="5e6cc7d6-39a7-41d7-8dde-531510acec3a" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Tamanho do P05</Title>
+		<Priority>Alta</Priority>
+		<Index>277</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-10-13T17:03:46+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:40:17+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-10-19T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Favor ajustar o tamanho do portão de acordo com o projeto legal que é de 2.20 m</Description>
+	</Topic>
+	<Comment Guid="a4a9942f-857a-4d09-9e74-fcce30295b93">
+		<Date>2021-11-10T19:01:06+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Resolvido na revisão R01.</Comment>
+		<Viewpoint Guid="dc807595-77e6-4085-8165-e33967bc2940" />
+		<ModifiedDate>2021-11-10T19:01:06+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="bd406180-535a-44aa-9018-e1bb3488f16a">
+		<Date>2021-10-20T15:15:31+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>A largura na tabela do projeto legal está incorreta, com 2.20m. A largura no projeto legal é 6.22, assim como está no modelo do projeto executivo.</Comment>
+		<Viewpoint Guid="dc807595-77e6-4085-8165-e33967bc2940" />
+		<ModifiedDate>2021-10-20T15:15:31+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="80f5052c-821c-4f4e-b562-d09ccc35bda3">
+		<Date>2021-10-13T17:03:46+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="fa6a7f84-586b-4efd-8f8d-6f4c1c688ba7" />
+		<ModifiedDate>2021-10-13T17:03:46+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="dc807595-77e6-4085-8165-e33967bc2940">
+		<Viewpoint>dc807595-77e6-4085-8165-e33967bc2940_viewpoint.bcfv</Viewpoint>
+		<Snapshot>dc807595-77e6-4085-8165-e33967bc2940_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="fa6a7f84-586b-4efd-8f8d-6f4c1c688ba7">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

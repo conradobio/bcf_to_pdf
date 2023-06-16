@@ -1,0 +1,50 @@
+{
+    "codigo": "00233766-3e2b-4622-a7f8-434a608adfed",
+    "titulo": "Revestimento da piscina lazer E",
+    "status": "Closed",
+    "descricao": "\u00c1rea da parede da piscina sem revestimento, por favor, ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T15:47:29+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "622010e5-f59a-4386-ab85-7beb65a5ec27",
+            "descricao": "Visto na R01 que foi incluido o revestimento",
+            "data_acao": "2021-10-28T19:25:36+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "2f6558b4-2519-4b04-a464-40cec1a59890",
+            "descricao": "Revestimento adicionado",
+            "data_acao": "2021-10-11T16:01:37+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "cbef2e0e-3f4a-4cd2-8d5a-c2e2a7740eca",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T15:47:29+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "3ccfbd9e-2866-44aa-af7e-f12f9dddc6b2",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/00233766-3e2b-4622-a7f8-434a608adfed/00233766-3e2b-4622-a7f8-434a608adfed//snapshot.png"
+        },
+        {
+            "guid": "f9b9c60f-e04a-4656-ab36-db4f8d4cca68",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/00233766-3e2b-4622-a7f8-434a608adfed/00233766-3e2b-4622-a7f8-434a608adfed//f9b9c60f-e04a-4656-ab36-db4f8d4cca68_snapshot.png"
+        }
+    ]
+}

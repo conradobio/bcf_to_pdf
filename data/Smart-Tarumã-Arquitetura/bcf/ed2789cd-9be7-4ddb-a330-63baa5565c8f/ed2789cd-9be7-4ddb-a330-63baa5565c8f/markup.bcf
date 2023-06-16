@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="ed2789cd-9be7-4ddb-a330-63baa5565c8f" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Fachada</Title>
+		<Priority>Crítica</Priority>
+		<Index>89</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-25T15:57:56+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:29+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-22T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Modelar os revestimentos da fachada conforme BEP, por gentileza</Description>
+	</Topic>
+	<Comment Guid="1f3aae42-d515-45e5-91af-6cc26f2e43fb">
+		<Date>2021-09-30T21:06:27+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>resolvido r01</Comment>
+		<Viewpoint Guid="31df2da5-cd2a-4571-9908-2a96bebcc177" />
+		<ModifiedDate>2021-09-30T21:06:27+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="03e8a811-5fd0-4a71-b697-31d6a051b7c6">
+		<Date>2021-09-15T20:52:31+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado em partes na r01, ainda tem partes sem a camada de pintura</Comment>
+		<Viewpoint Guid="31df2da5-cd2a-4571-9908-2a96bebcc177" />
+		<ModifiedDate>2021-09-15T21:44:48+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ca882993-f176-438b-8fd9-89b0262a3657">
+		<Date>2021-08-25T15:57:56+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="40f19da6-1cd2-468b-928b-ff301c0c13ac" />
+		<ModifiedDate>2021-08-25T15:57:56+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="31df2da5-cd2a-4571-9908-2a96bebcc177">
+		<Viewpoint>31df2da5-cd2a-4571-9908-2a96bebcc177_viewpoint.bcfv</Viewpoint>
+		<Snapshot>31df2da5-cd2a-4571-9908-2a96bebcc177_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="40f19da6-1cd2-468b-928b-ff301c0c13ac">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

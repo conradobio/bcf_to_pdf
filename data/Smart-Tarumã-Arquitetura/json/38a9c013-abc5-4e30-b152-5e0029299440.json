@@ -1,0 +1,61 @@
+{
+    "codigo": "38a9c013-abc5-4e30-b152-5e0029299440",
+    "titulo": "Ajustes na Guarita e A. Servi\u00e7o",
+    "status": "Closed",
+    "descricao": "A altura do n\u00edvel at\u00e9 o p\u00f3rtico tem uma diferen\u00e7a de 2 cm de acordo com o Legal.",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-13T17:35:36+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-19T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "b89a9a6f-3b36-4d14-b082-3ef619d56412",
+            "descricao": "Resolvido na revis\u00e3o R01.",
+            "data_acao": "2021-11-10T18:43:41+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "76fd39cc-4afe-4297-8803-b11dd8fd1518",
+            "descricao": "O modelo est\u00e1 correto de acordo com o projeto legal",
+            "data_acao": "2021-10-21T20:24:56+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "07544247-dd9d-48fd-8feb-22b43823f39d",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-13T17:35:39+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "a85264f1-b5b3-4378-bbed-db896aac7a37",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-13T17:35:36+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6b51d9b4-3941-4d6b-9d78-3c7b9da410f6",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/38a9c013-abc5-4e30-b152-5e0029299440/38a9c013-abc5-4e30-b152-5e0029299440//snapshot.png"
+        },
+        {
+            "guid": "b84677eb-c620-4ddf-b772-c74968b98f2a",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/38a9c013-abc5-4e30-b152-5e0029299440/38a9c013-abc5-4e30-b152-5e0029299440//b84677eb-c620-4ddf-b772-c74968b98f2a_snapshot.png"
+        },
+        {
+            "guid": "edac5a71-b8c8-4f9b-ba82-0c081afbd8cd",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/38a9c013-abc5-4e30-b152-5e0029299440/38a9c013-abc5-4e30-b152-5e0029299440//edac5a71-b8c8-4f9b-ba82-0c081afbd8cd_snapshot.png"
+        }
+    ]
+}

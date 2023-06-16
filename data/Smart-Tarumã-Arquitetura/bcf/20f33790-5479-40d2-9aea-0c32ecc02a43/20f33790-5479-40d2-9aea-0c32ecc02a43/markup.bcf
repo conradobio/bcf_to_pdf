@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="20f33790-5479-40d2-9aea-0c32ecc02a43" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Porta conflitando com soleira na copa do lazer D</Title>
+		<Priority>Alta</Priority>
+		<Index>165</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T13:16:16+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:46+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Soleira conflitando com porta na copa do lazer D, por gentileza, ajustar</Description>
+	</Topic>
+	<Comment Guid="4413f3ec-5f52-4441-b964-5a4909658f6f">
+		<Date>2021-10-28T20:26:06+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Visto na R01 que foi ajustado</Comment>
+		<Viewpoint Guid="8398df18-2b92-490d-8864-787e6caa87ca" />
+		<ModifiedDate>2021-10-28T20:26:06+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="ec082bdd-2263-41f0-8585-4c82531a30f2">
+		<Date>2021-10-07T14:39:39+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>soleira e demais camadas ajustadas conforme vão da porta</Comment>
+		<Viewpoint Guid="56cdd99a-26e1-4456-adda-6f7f1b6ccb17" />
+		<ModifiedDate>2021-10-07T14:39:39+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="02d254ee-0c8e-49a3-a7b2-af598ddd24d9">
+		<Date>2021-09-21T13:16:16+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="56cdd99a-26e1-4456-adda-6f7f1b6ccb17" />
+		<ModifiedDate>2021-09-21T13:16:16+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="56cdd99a-26e1-4456-adda-6f7f1b6ccb17">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="8398df18-2b92-490d-8864-787e6caa87ca">
+		<Viewpoint>8398df18-2b92-490d-8864-787e6caa87ca_viewpoint.bcfv</Viewpoint>
+		<Snapshot>8398df18-2b92-490d-8864-787e6caa87ca_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

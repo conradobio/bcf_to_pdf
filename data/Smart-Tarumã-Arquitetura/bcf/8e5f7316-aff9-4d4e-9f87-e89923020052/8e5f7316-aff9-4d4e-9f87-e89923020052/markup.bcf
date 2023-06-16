@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="8e5f7316-aff9-4d4e-9f87-e89923020052" TopicType="Problema" TopicStatus="Closed">
+		<Title>Problema no quadro de áreas da Área de Lazer</Title>
+		<Priority>Baixa</Priority>
+		<Index>4</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2020-07-23T18:51:34+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:20+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2020-08-06T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Acrescentar no quadro Área Construída-Lazer o novo “Espaço MasterChef” previsto na R05.</Description>
+	</Topic>
+	<Comment Guid="e08cb589-b5c6-42e7-a2ec-7ff8b802833e">
+		<Date>2021-01-25T20:01:18+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Alteração na tipologia do empreendimento fez todas as áreas serem alteradas, e na R004 d o anteprojeto essas ainda não foram indicadas</Comment>
+		<Viewpoint Guid="3dd47a54-c8ca-48f9-9077-b4bdfa1610ac" />
+		<ModifiedDate>2021-01-25T20:01:18+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="25a88d5f-3593-452e-b1d4-0a9a189b6c77">
+		<Date>2020-07-23T18:51:34+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="3dd47a54-c8ca-48f9-9077-b4bdfa1610ac" />
+		<ModifiedDate>2020-07-23T18:51:34+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="3dd47a54-c8ca-48f9-9077-b4bdfa1610ac">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="c68b7692-0088-4c09-bc30-3b1b2dd757bf" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Descolamento de Torres</Title>
+		<Priority>Crítica</Priority>
+		<Index>11</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-01-12T20:01:27+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:22+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-02-02T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Morar Mais solicitou a o afastamento das Torres do arco para evitar a criação de muros de arrimo.</Description>
+	</Topic>
+	<Comment Guid="c822fb2a-4dc2-43ce-9da0-163925ad52ac">
+		<Date>2021-01-25T20:50:59+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Da R00.2 para R00.4 (modelo mais atual), as linhas apresentam variação da distância de 0,6318m. É o suficiente para evitar a criação de muros de arrimo?</Comment>
+		<Viewpoint Guid="d803ebc1-abbd-48bc-8a3b-a13157b2b8a6" />
+		<ModifiedDate>2021-01-25T20:50:59+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="4f36198c-d8ab-4562-8cb4-e55cc147069e">
+		<Date>2021-01-14T15:21:11+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>foi deslocado mais 1,00 m.</Comment>
+		<Viewpoint Guid="348ebf27-c50f-4b32-b2a7-e41c673ed961" />
+		<ModifiedDate>2021-01-14T15:21:11+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="3a129d82-ed6a-45a2-a03f-d9c5aff58d18">
+		<Date>2021-01-12T20:01:27+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="348ebf27-c50f-4b32-b2a7-e41c673ed961" />
+		<ModifiedDate>2021-01-12T20:01:27+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="348ebf27-c50f-4b32-b2a7-e41c673ed961">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d803ebc1-abbd-48bc-8a3b-a13157b2b8a6">
+		<Viewpoint>d803ebc1-abbd-48bc-8a3b-a13157b2b8a6_viewpoint.bcfv</Viewpoint>
+		<Snapshot>d803ebc1-abbd-48bc-8a3b-a13157b2b8a6_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

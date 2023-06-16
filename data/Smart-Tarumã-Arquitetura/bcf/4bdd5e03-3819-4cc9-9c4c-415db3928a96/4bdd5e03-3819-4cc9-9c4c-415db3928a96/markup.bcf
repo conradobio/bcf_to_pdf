@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="4bdd5e03-3819-4cc9-9c4c-415db3928a96" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Altura da escada</Title>
+		<Priority>Crítica</Priority>
+		<Index>91</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-25T20:11:28+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:30+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-22T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>De acordo com o BEP deveriamos ter uma altura de 18,53 cm, por favor, verificar e ajustar</Description>
+	</Topic>
+	<Comment Guid="2910aaa4-9e46-4be8-b6f3-bce345ccb6b5">
+		<Date>2021-09-15T21:02:33+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Ajustado na R01</Comment>
+		<Viewpoint Guid="1cf5c5b7-e22c-4281-a07f-70d797260ef0" />
+		<ModifiedDate>2021-09-15T21:02:33+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="07fc9c89-eaf1-4b6f-9b7d-7797f4f7ae39">
+		<Date>2021-08-25T20:11:28+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="b86d31b2-7a3e-404c-ab1d-e80a771b2187" />
+		<ModifiedDate>2021-08-25T20:11:28+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="1cf5c5b7-e22c-4281-a07f-70d797260ef0">
+		<Viewpoint>1cf5c5b7-e22c-4281-a07f-70d797260ef0_viewpoint.bcfv</Viewpoint>
+		<Snapshot>1cf5c5b7-e22c-4281-a07f-70d797260ef0_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="b86d31b2-7a3e-404c-ab1d-e80a771b2187">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

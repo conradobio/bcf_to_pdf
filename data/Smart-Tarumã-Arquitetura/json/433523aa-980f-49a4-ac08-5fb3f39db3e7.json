@@ -1,0 +1,43 @@
+{
+    "codigo": "433523aa-980f-49a4-ac08-5fb3f39db3e7",
+    "titulo": "Corre\u00e7\u00e3o da Fase do Projeto nas pranchas de Arquitetura",
+    "status": "Closed",
+    "descricao": "Corrigir a fase do projeto de Legal para Executivo nas pranchas de Arquitetura",
+    "tipo": "Falha",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-08-26T14:05:20+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-08-30T14:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "7cf4e974-8908-44ac-8937-fc321a4e0ee3",
+            "descricao": "atendido na R01",
+            "data_acao": "2021-09-15T21:21:18+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "ebc040fb-d8b6-4b8a-8154-b7d7a0c95f0b",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-08-26T14:05:20+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "4d91a852-6822-4439-ba08-90d0e904c12e",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/433523aa-980f-49a4-ac08-5fb3f39db3e7/433523aa-980f-49a4-ac08-5fb3f39db3e7//snapshot.png"
+        },
+        {
+            "guid": "b84b92d6-fdfc-4025-bf90-8b48afcbc887",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/433523aa-980f-49a4-ac08-5fb3f39db3e7/433523aa-980f-49a4-ac08-5fb3f39db3e7//b84b92d6-fdfc-4025-bf90-8b48afcbc887_snapshot.png"
+        }
+    ]
+}

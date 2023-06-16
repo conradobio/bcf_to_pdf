@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="9efa3f35-3906-423f-9e42-52dcd52c5f1d" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Posicionamento dos Catelos D'água</Title>
+		<Priority>Crítica</Priority>
+		<Index>14</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-01-12T20:14:08+00:00</CreationDate>
+		<CreationAuthor>bruno@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:22+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-01-26T14:00:00+00:00</DueDate>
+		<AssignedTo>contato@duettoarq.com.br</AssignedTo>
+		<Stage>Projeto Legal</Stage>
+		<Description>Reservatório no ponto mais baixo como as ETE´s. Devem ser reposicionados para cota superior. Como é um condomínio só, posicionar os dois castelos na frente do terreno.</Description>
+	</Topic>
+	<Comment Guid="802ebe69-5492-45d9-9b0f-99d0590f3a58">
+		<Date>2021-01-26T14:42:18+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Atendido na R00.4</Comment>
+		<Viewpoint Guid="9a9f07dc-f63b-42ee-ba55-c8040f416306" />
+		<ModifiedDate>2021-01-26T14:42:18+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="a0ed03a7-504f-496f-83c8-b8d5409a4bcd">
+		<Date>2021-01-14T11:40:57+00:00</Date>
+		<Author>contato@duettoarq.com.br</Author>
+		<Comment>Ajustado de acordo com o novo estudo encaminhado dia 14/01/21</Comment>
+		<Viewpoint Guid="439b85b5-3656-47d6-a72d-ec5da070be31" />
+		<ModifiedDate>2021-01-14T11:40:57+00:00</ModifiedDate>
+		<ModifiedAuthor>contato@duettoarq.com.br</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="484ba004-c4a5-4980-922e-15f3c1bae105">
+		<Date>2021-01-12T20:14:08+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="439b85b5-3656-47d6-a72d-ec5da070be31" />
+		<ModifiedDate>2021-01-12T20:14:08+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="439b85b5-3656-47d6-a72d-ec5da070be31">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="9a9f07dc-f63b-42ee-ba55-c8040f416306">
+		<Viewpoint>9a9f07dc-f63b-42ee-ba55-c8040f416306_viewpoint.bcfv</Viewpoint>
+		<Snapshot>9a9f07dc-f63b-42ee-ba55-c8040f416306_snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

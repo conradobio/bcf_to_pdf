@@ -1,0 +1,32 @@
+{
+    "codigo": "356bce03-7e3b-4ccb-be88-6c173397afdb",
+    "titulo": "Camadas de pintura laje",
+    "status": "Active",
+    "descricao": "Seguir com as camadas de pintura at\u00e9 o limite da platibanda, por favor",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T18:44:04+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "1bc14a3a-646d-4ed0-b7b3-5fdd2398e2ef",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T18:44:04+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "a26682e7-8ca7-40f0-9301-1fb8108fd512",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/356bce03-7e3b-4ccb-be88-6c173397afdb/356bce03-7e3b-4ccb-be88-6c173397afdb//snapshot.png"
+        }
+    ]
+}

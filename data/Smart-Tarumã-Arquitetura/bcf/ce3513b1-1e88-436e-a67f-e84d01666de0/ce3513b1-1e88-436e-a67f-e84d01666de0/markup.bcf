@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="ce3513b1-1e88-436e-a67f-e84d01666de0" TopicType="Solicitação" TopicStatus="Closed">
+		<Title>Camadas de paredes conflitando com portas no lazer D</Title>
+		<Priority>Alta</Priority>
+		<Index>163</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-09-21T13:02:01+00:00</CreationDate>
+		<CreationAuthor>coordenacao@chaconengenharia.com</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:45+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-09-27T13:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>Ajustar camadas de paredes conflitando com portas dos banheiros no lazer D por gentileza</Description>
+	</Topic>
+	<Comment Guid="159e9315-6bac-4124-a298-74f37791ddbe">
+		<Date>2021-10-28T20:26:10+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment>Camadas ajustadas na R01</Comment>
+		<Viewpoint Guid="4a96fde2-29ed-4c62-a25f-2f6c62c82ebf" />
+		<ModifiedDate>2021-10-28T20:26:10+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="f9259cfa-a435-4212-8f73-596064066757">
+		<Date>2021-10-07T13:47:57+00:00</Date>
+		<Author>bruno@chaconengenharia.com</Author>
+		<Comment>Camadas ajustas conforme abertura das portas</Comment>
+		<Viewpoint Guid="d15a1e59-4ab5-4479-99c0-6ddd199f447b" />
+		<ModifiedDate>2021-10-07T13:47:57+00:00</ModifiedDate>
+		<ModifiedAuthor>bruno@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Comment Guid="8d850f11-c8e0-4e11-8331-66bd0b888c1b">
+		<Date>2021-09-21T13:02:01+00:00</Date>
+		<Author>coordenacao@chaconengenharia.com</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="d15a1e59-4ab5-4479-99c0-6ddd199f447b" />
+		<ModifiedDate>2021-09-21T13:02:01+00:00</ModifiedDate>
+		<ModifiedAuthor>coordenacao@chaconengenharia.com</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="4a96fde2-29ed-4c62-a25f-2f6c62c82ebf">
+		<Viewpoint>4a96fde2-29ed-4c62-a25f-2f6c62c82ebf_viewpoint.bcfv</Viewpoint>
+		<Snapshot>4a96fde2-29ed-4c62-a25f-2f6c62c82ebf_snapshot.png</Snapshot>
+	</Viewpoints>
+	<Viewpoints Guid="d15a1e59-4ab5-4479-99c0-6ddd199f447b">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

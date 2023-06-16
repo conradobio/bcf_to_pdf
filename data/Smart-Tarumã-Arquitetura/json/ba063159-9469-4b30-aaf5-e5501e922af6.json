@@ -1,0 +1,32 @@
+{
+    "codigo": "ba063159-9469-4b30-aaf5-e5501e922af6",
+    "titulo": "N\u00edveis de terraplanagem",
+    "status": "Active",
+    "descricao": "Favor ajustar os n\u00edveis de acordo com a terraplanagem",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-11-10T19:08:36+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "sem data",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "08d70e35-9d2d-40b8-b5f1-ce4641c6aeaa",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-11-10T19:08:36+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "d82de84c-90aa-406e-bc1b-a93aab7eecaa",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/ba063159-9469-4b30-aaf5-e5501e922af6/ba063159-9469-4b30-aaf5-e5501e922af6//snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "codigo": "2223a0c6-4553-4ffa-a7b8-e8a5bb467494",
+    "titulo": "Modelagem do rodap\u00e9",
+    "status": "Active",
+    "descricao": "Rodap\u00e9 conflitando com porta na suite 1",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-16T15:58:26+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-28T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "e76cd45a-e598-4c03-afa1-94e5bd8bc4e9",
+            "descricao": "N\u00e3o ajustado",
+            "data_acao": "2021-10-21T20:51:27+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "1494ed17-7e6a-4527-8994-1cd6b7d7c3dd",
+            "descricao": "n\u00e3o ajustado , verificar todas as ocorr\u00eancias em todas as torres",
+            "data_acao": "2021-09-30T21:18:54+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "c8e97567-2e0a-4c79-93da-386ad440d787",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-16T15:58:26+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "1386f3fa-ed7e-47e1-a522-fd5624a64d70",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2223a0c6-4553-4ffa-a7b8-e8a5bb467494/2223a0c6-4553-4ffa-a7b8-e8a5bb467494//snapshot.png"
+        },
+        {
+            "guid": "35484634-78ae-4b98-bb8e-a48cf2e299ec",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/2223a0c6-4553-4ffa-a7b8-e8a5bb467494/2223a0c6-4553-4ffa-a7b8-e8a5bb467494//35484634-78ae-4b98-bb8e-a48cf2e299ec_snapshot.png"
+        }
+    ]
+}

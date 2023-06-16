@@ -1,0 +1,47 @@
+{
+    "codigo": "d8345a35-4c9d-4093-88a8-d9298d8020dc",
+    "titulo": "Ajuste na medida do v\u00e3o interno da leixeira",
+    "status": "Resolved",
+    "descricao": "Ajustar o v\u00e3o interno da lixeira para uma modula\u00e7\u00e3o m\u00faltipla de 20 para evitar corte dos blocos.",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-13T14:32:53+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-19T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "0025d6d9-f76b-4323-927d-a197b8a3a90a",
+            "descricao": "A largura foi aumentada em 5 cm e o comprimento foi diminu\u00eddo em 5 cm",
+            "data_acao": "2021-10-15T14:20:03+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "de666e27-0c33-46fb-b6a2-b71c4efb618a",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-13T14:32:53+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "6c73fe31-c932-4d37-9835-c7c7ab2ea09e",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d8345a35-4c9d-4093-88a8-d9298d8020dc/d8345a35-4c9d-4093-88a8-d9298d8020dc//snapshot.png"
+        },
+        {
+            "guid": "7dccdcec-dd93-417c-b20a-f5f7653f547b",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d8345a35-4c9d-4093-88a8-d9298d8020dc/d8345a35-4c9d-4093-88a8-d9298d8020dc//7dccdcec-dd93-417c-b20a-f5f7653f547b_snapshot.png"
+        },
+        {
+            "guid": "86aa224d-524c-455d-a705-662725fa8ddc",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/d8345a35-4c9d-4093-88a8-d9298d8020dc/d8345a35-4c9d-4093-88a8-d9298d8020dc//86aa224d-524c-455d-a705-662725fa8ddc_snapshot.png"
+        }
+    ]
+}

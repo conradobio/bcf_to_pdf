@@ -1,0 +1,54 @@
+{
+    "codigo": "1a0cbfd9-7d3e-4878-a0c5-c90dfa3a65e6",
+    "titulo": "Rodap\u00e9 Masterchef",
+    "status": "Closed",
+    "descricao": "Ajustar rodap\u00e9 do Masterchef",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-27T14:02:48+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-30T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "rafaelavilela@construtoracapital.com.br",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "fb23493d-c497-438a-9c85-c0fa81a8b566",
+            "descricao": "resilviso na r01",
+            "data_acao": "2021-10-29T15:09:26+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "bee834d3-f747-4231-84f0-b156911cdadc",
+            "descricao": "Ajustado",
+            "data_acao": "2021-10-07T17:00:24+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "3179fe11-6a6e-4fd0-8ee0-db5c4089c3a7",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-27T14:02:48+00:00",
+            "novo_autor": "rafaelavilela@construtoracapital.com.br",
+            "realizado_por": "rafaelavilela@construtoracapital.com.br"
+        }
+    ],
+    "images": [
+        {
+            "guid": "76a67946-ccf7-462b-9a13-f3afe3fb1244",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/1a0cbfd9-7d3e-4878-a0c5-c90dfa3a65e6/1a0cbfd9-7d3e-4878-a0c5-c90dfa3a65e6//snapshot.png"
+        },
+        {
+            "guid": "cad955c3-a171-42bf-8414-a2e5cf519e0a",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/1a0cbfd9-7d3e-4878-a0c5-c90dfa3a65e6/1a0cbfd9-7d3e-4878-a0c5-c90dfa3a65e6//cad955c3-a171-42bf-8414-a2e5cf519e0a_snapshot.png"
+        },
+        {
+            "guid": "d24416b0-9abb-4552-8883-e255f1a17d71",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/1a0cbfd9-7d3e-4878-a0c5-c90dfa3a65e6/1a0cbfd9-7d3e-4878-a0c5-c90dfa3a65e6//d24416b0-9abb-4552-8883-e255f1a17d71_snapshot.png"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "codigo": "716f75a1-a51f-4b22-a7ec-a8fac09fa157",
+    "titulo": "Administra\u00e7\u00e3o do condominio lazer E",
+    "status": "Closed",
+    "descricao": "Parede de administra\u00e7\u00e3o com camadas modeladas erradas, por gentileza, verificar e ajustar",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-09-21T17:51:28+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-09-27T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "d6dd1d82-9375-4608-869e-e628558e3d01",
+            "descricao": "Visto na R01 que as paredes da administra\u00e7\u00e3o do condom\u00ednio modeladas conforme o BEP",
+            "data_acao": "2021-10-28T18:29:39+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "c9790234-49ce-4b1f-a7bd-383ea4bba3b4",
+            "descricao": "Paredes da administra\u00e7\u00e3o modeladas conforme BEP (\u00e1rea seca interna)",
+            "data_acao": "2021-10-13T19:36:27+00:00",
+            "novo_autor": "bruno@chaconengenharia.com",
+            "realizado_por": "bruno@chaconengenharia.com"
+        },
+        {
+            "guid": "da8cd698-6ce2-4c64-ab1b-6f5b33430099",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-21T17:51:28+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "7b972ded-9bf3-43a1-bdc4-f4d275cb5aee",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/716f75a1-a51f-4b22-a7ec-a8fac09fa157/716f75a1-a51f-4b22-a7ec-a8fac09fa157//snapshot.png"
+        },
+        {
+            "guid": "f20f036c-09c5-48e6-a7cf-9feb0eb97bbb",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/716f75a1-a51f-4b22-a7ec-a8fac09fa157/716f75a1-a51f-4b22-a7ec-a8fac09fa157//f20f036c-09c5-48e6-a7cf-9feb0eb97bbb_snapshot.png"
+        }
+    ]
+}

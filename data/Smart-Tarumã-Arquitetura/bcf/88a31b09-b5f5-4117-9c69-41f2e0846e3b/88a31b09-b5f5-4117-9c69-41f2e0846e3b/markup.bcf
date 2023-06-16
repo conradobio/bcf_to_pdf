@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="88a31b09-b5f5-4117-9c69-41f2e0846e3b" TopicType="Solicitação" TopicStatus="Active">
+		<Title>Alterar posicionamento dos ralos</Title>
+		<Priority>Alta</Priority>
+		<Index>100</Index>
+		<Labels>Arquitetura</Labels>
+		<CreationDate>2021-08-26T14:10:44+00:00</CreationDate>
+		<CreationAuthor>rafaelavilela@construtoracapital.com.br</CreationAuthor>
+		<ModifiedDate>2021-11-12T20:39:32+00:00</ModifiedDate>
+		<ModifiedAuthor>ws_export_email</ModifiedAuthor>
+		<DueDate>2021-08-30T14:00:00+00:00</DueDate>
+		<AssignedTo>bruno@chaconengenharia.com</AssignedTo>
+		<Stage>Marco 1</Stage>
+		<Description>O ralo deverá ser posicionado no encontro das 4 cerâmicas, conforme imagem em anexo</Description>
+	</Topic>
+	<Comment Guid="86bf16a3-2688-4031-925f-e8eb4a03711b">
+		<Date>2021-08-26T14:10:44+00:00</Date>
+		<Author>rafaelavilela@construtoracapital.com.br</Author>
+		<Comment></Comment>
+		<Viewpoint Guid="6c77b567-b72f-4a51-ba33-a9d330cfa663" />
+		<ModifiedDate>2021-08-26T14:10:44+00:00</ModifiedDate>
+		<ModifiedAuthor>rafaelavilela@construtoracapital.com.br</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="6c77b567-b72f-4a51-ba33-a9d330cfa663">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>

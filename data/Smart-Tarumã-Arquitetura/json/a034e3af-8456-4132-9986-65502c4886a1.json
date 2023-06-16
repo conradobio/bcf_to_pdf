@@ -1,0 +1,32 @@
+{
+    "codigo": "a034e3af-8456-4132-9986-65502c4886a1",
+    "titulo": "Brinquedoteca",
+    "status": "Active",
+    "descricao": "Piso da brinquedoteca n\u00e3o seguindo projeto legal, por favor, chegar toda a pagina\u00e7\u00e3o",
+    "tipo": "Solicita\u00e7\u00e3o",
+    "fase": "Marco 1",
+    "prioridade": "Alta",
+    "abertura": "2021-10-29T18:06:30+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-11-04T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "bruno@chaconengenharia.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "823d87de-e071-4419-8a21-38d3365c6911",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-10-29T18:06:30+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "fceb4642-db17-4e4e-baf9-6a79617aa4ab",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/a034e3af-8456-4132-9986-65502c4886a1/a034e3af-8456-4132-9986-65502c4886a1//snapshot.png"
+        }
+    ]
+}

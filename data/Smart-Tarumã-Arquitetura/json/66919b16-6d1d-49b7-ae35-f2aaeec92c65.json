@@ -1,0 +1,46 @@
+{
+    "codigo": "66919b16-6d1d-49b7-ae35-f2aaeec92c65",
+    "titulo": "Cotas da Fase 2",
+    "status": "Closed",
+    "descricao": "Na parte 2 (torre 18 a torre 42) n\u00e3o precisamos fazer muita coisa, o desn\u00edvel ta suave.",
+    "tipo": "Problema",
+    "fase": "Marco 1",
+    "prioridade": "Cr\u00edtica",
+    "abertura": "2021-09-29T20:05:10+00:00",
+    "categoria": null,
+    "disciplinas_resp": "Arquitetura",
+    "vencimento": "2021-10-05T13:00:00+00:00",
+    "sub_categoria": null,
+    "usuarios_resp": "jesus.cadengenharia@gmail.com",
+    "autor": "coordenacao@chaconengenharia.com",
+    "local": null,
+    "comentarios": [
+        {
+            "guid": "091cd25e-4e7f-4d3a-a041-c3521dff5d75",
+            "descricao": "N\u00e3o houveram redu\u00e7\u00f5es no n\u00famero de conten\u00e7\u00f5es solicitadas, somente nas alturas.",
+            "data_acao": "2021-10-14T18:51:13+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "88dfaa74-49bc-4bbb-8cc8-716989b78b2c",
+            "descricao": "Resposta Morar: Ainda sim temos conten\u00e7\u00f5es entre torres que precisam ser marcadas. Ainda acho que podemos melhorar com poucos movimentos conten\u00e7oes criadas nas \u00e1reas de lazer desse trecho",
+            "data_acao": "2021-09-29T20:05:46+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        },
+        {
+            "guid": "af71cefd-70b6-4915-9111-6f28a608d7fa",
+            "descricao": "sem coment\u00e1rios",
+            "data_acao": "2021-09-29T20:05:10+00:00",
+            "novo_autor": "coordenacao@chaconengenharia.com",
+            "realizado_por": "coordenacao@chaconengenharia.com"
+        }
+    ],
+    "images": [
+        {
+            "guid": "87883d11-52cb-4257-9fd3-c76c997bd5ac",
+            "foto": "C:/Users/cbio/Documents/repos/autodoc/autodoc/project 10 - projetos/data/Smart-Tarum\u00e3-Arquitetura/bcf/66919b16-6d1d-49b7-ae35-f2aaeec92c65/66919b16-6d1d-49b7-ae35-f2aaeec92c65//snapshot.png"
+        }
+    ]
+}

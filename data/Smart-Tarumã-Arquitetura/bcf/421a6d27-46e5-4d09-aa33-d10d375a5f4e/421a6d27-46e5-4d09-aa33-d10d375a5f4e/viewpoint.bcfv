@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualizationInfo Guid="0b2c04e5-d840-4d73-9485-a5e3fc39c4b2">
+	<Components>
+		<ViewSetupHints SpacesVisible="false" SpaceBoundariesVisible="false" OpeningsVisible="false" />
+	</Components>
+	<DrawingViewport>
+		<Client>REVIT</Client>
+		<ViewName>01 Pavimento Tipo</ViewName>
+		<ViewType>1</ViewType>
+		<ViewStory>0</ViewStory>
+		<ViewID1>0</ViewID1>
+		<ViewID2>0</ViewID2>
+		<ViewLeftTop>
+			<X>-5.1475498538568774</X>
+			<Y>-34.677668494434336</Y>
+		</ViewLeftTop>
+		<ViewRightBottom>
+			<X>25.78504681559528</X>
+			<Y>-10.348659878011288</Y>
+		</ViewRightBottom>
+	</DrawingViewport>
+</VisualizationInfo>
