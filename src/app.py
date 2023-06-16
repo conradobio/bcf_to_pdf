@@ -41,6 +41,7 @@ if uploaded_file is not None:
 
     st.info('Salvando arquivos com o resumo das informações em json')
     for file_path in stqdm(file_paths):
+        st.write(file_path)
         xml_doc = xml.dom.minidom.parse(file_path)
         topic_dict = get_xml_topic_element(xml_doc)
         image_dict = get_xml_images_element(xml_doc, file_path, new_name, DIRECTORY_PATH)
