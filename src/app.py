@@ -17,6 +17,8 @@ DIRECTORY_PATH = './data/tempDir/'
 uploaded_file  = st.file_uploader('Selecione o arquivo com extensão .bcf')
 if uploaded_file is not None:
     BCF_FILE_NAME = uploaded_file.name
+    st.write(BCF_FILE_NAME)
+    st.write(os.getcwd())
 
     list_files = BCF_FILE_NAME.split('.')
     if len(list_files) > 1:
