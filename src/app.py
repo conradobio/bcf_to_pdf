@@ -64,7 +64,6 @@ if uploaded_file is not None:
     pisa.showLogging()
 
     pdf_path = f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/pdf/'
-    st.write(pdf_path)
     os.makedirs(pdf_path, exist_ok=True)
 
     json_paths = read_json_files(DIRECTORY_PATH, BCF_FILE_NAME)
@@ -94,10 +93,10 @@ if uploaded_file is not None:
     st.write(f'Arquivo Salvo - {DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/result.pdf')
     st.success('Arquivo Montado com Sucesso')
 
-    with open(f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/result.pdf') as f:
-            btn=st.download_button(
-                label="click me to download pdf",
-                data=f,
-                file_name="dowloaded.pdf",
-                mime="application/octet-stream"
-            )
+    with open(f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/result.pdf', 'rb') as pdf_file:
+            PDFbyte = pdf_file.read()
+
+    st.download_button(label="Export_Report",
+                    data=PDFbyte,
+                    file_name=f'{DIRECTORY_PATH}{BCF_FILE_NAME.split(".")[0]}/result.pdf',
+                    mime='application/octet-stream')
